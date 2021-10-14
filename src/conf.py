@@ -149,8 +149,12 @@ htmlhelp_basename = 'DocsErpya'
 
 
 # -- Options for LaTeX output ------------------------------------------------
-
+fh = open('latex_preamble.tex', 'r+')
+PREAMBLE = fh.read()
+fh.close()
 latex_elements = {
+    # Additional stuff for the LaTeX preamble.
+    'preamble': PREAMBLE,
     # The paper size ('letterpaper' or 'a4paper').
     #
     # 'papersize': 'letterpaper',
@@ -178,7 +182,7 @@ locale_dirs = ['locale/']
 #    (master_doc, 'ADempiereDocs.tex', 'E.R.P. Consultores y Asociados, C.A.', 'Documentation E.R.P. Consultores y Asociados, C.A.', 'manual'),
 #]
 
-#pdf_documents = [('index', u'rst2pdf', u'ADempiereDocs', u'Documentation E.R.P. Consultores y Asociados, C.A'),]
+pdf_documents = [('index', u'rst2pdf', u'ADempiereDocs', u'Documentation E.R.P. Consultores y Asociados, C.A'),]
 
 
 
@@ -207,4 +211,4 @@ html_css_files = [
     'css/style.css',
 ]
 def setup(app):
-    app.add_stylesheet("css/style.css")
+    app.add_css_file("css/style.css")

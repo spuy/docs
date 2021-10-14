@@ -1,27 +1,48 @@
+# This is a basic workflow to help you get started with Actions
 name: docs-deploy
+# Controls when the action will run. Triggers the workflow on push or pull request
+# events but only for the master branch
 on:
   push:
-    branches: [ "master", ]
+    branches: [ master ]
   pull_request:
     branches: [ master ]
-
+# A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
   docs:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v1
-    - uses: ammaraskar/sphinx-action@master
+    - uses: actions/checkout@master
+    - uses: raul-mz/sphinx-action@master
       with:
         pre-build-command: "pip install sphinx_rtd_theme"
         docs-folder: "src/"
         build-command: "sphinx-build -b html . _build/html"
-    - uses: actions/upload-artifact@v1
+#    - uses: actions/upload-artifact@v1
+#      with:
+#        name: DocumentacionHTML
+#        path: src/_build/html/
+    - uses: raul-mz/sphinx-action@master
       with:
-        name: DocumentationHTML
-        path: src/_build/html/
+        pre-build-command: "pip install sphinx_rtd_theme"
+        docs-folder: "src/"
+        build-command: "sphinx-build -b epub . _build/epub"
+#    - uses: actions/upload-artifact@v1
+#      with:
+#        name: DocumentacionEPUB
+#        path: src/_build/epub/
+    - uses: raul-mz/sphinx-action@master
+      with:
+        pre-build-command: "apt-get update -y && apt-get install -y latexmk texlive-latex-recommended texlive-latex-extra texlive-fonts-recommended"
+        build-command: "make latexpdf"
+        docs-folder: "src/"
+#    - uses: actions/upload-artifact@v1
+#      with:
+#        name: DocumentacionPDF
+#        path: src/_build/latex/erpya.pdf
     - name: Commit documentation changes
       run: |
-        git clone https://github.com/solop-develop/docs.git --branch gh-pages --single-branch gh-pages
+        git clone https://github.com/erpcya/docs.git --branch gh-pages --single-branch gh-pages
         cp -r src/_build/html/* gh-pages/
         cd gh-pages
         touch .nojekyll
@@ -29,9 +50,21 @@ jobs:
         git config --local user.name "GitHub Action"
         git add .
         git commit -m "Update documentation" -a || true
+        # The above command will fail if no changes were present, so we ignore
+        # that.
     - name: Push changes
       uses: ad-m/github-push-action@master
       with:
         branch: gh-pages
         directory: gh-pages
         github_token: ${{ secrets.GITHUB_TOKEN }}
+    - uses: Raul-mz/do-space-sync-action@master
+      with:
+        args: --acl public-read
+      env:
+        SOURCE_DIR: 'src/_build/'
+        SPACE_NAME: ${{ secrets.SPACE_NAME }}
+        SPACE_REGION: ${{ secrets.SPACE_REGION}}
+        SPACE_ACCESS_KEY_ID: ${{ secrets.SPACE_ACCESS_KEY_ID }}
+        SPACE_SECRET_ACCESS_KEY: ${{ secrets.SPACE_SECRET_ACCESS_KEY }}
+        endpoint: 'https://.digitaloceanspaces.com'
