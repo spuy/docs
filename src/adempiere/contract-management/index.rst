@@ -1,0 +1,1 @@
+***Empty file for save structure directory***
