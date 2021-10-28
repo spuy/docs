@@ -1,0 +1,1 @@
+.. |Pestaña Tarea| image:: resource/proyecto-pestaña-tarea.png
