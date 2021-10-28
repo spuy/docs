@@ -1,0 +1,1 @@
+.. |SDN Pestaña Miembros por Defecto| image:: resource/business-partner-window-members-by-default-tab.png
