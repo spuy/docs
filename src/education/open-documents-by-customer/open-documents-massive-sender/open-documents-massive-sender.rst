@@ -1,0 +1,2 @@
+.. |Sb Envio de Estado de Cuenta por Mail| image:: resource/sb-sending-statement-of-account-by-mail.png
+.. |Parametros Envio de Estado de Cuenta por Mail| image:: resource/sending-statement-of-account-by-mail.png
