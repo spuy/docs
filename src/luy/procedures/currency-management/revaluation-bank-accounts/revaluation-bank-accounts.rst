@@ -1,0 +1,2 @@
+.. |Diferencia de Cambio Cuentas Integrales| image:: resource/diferencia-cambio-integrales.png
+.. |Proceso Revaluacion Cuentas Integrales| image:: resource/proceso-revaluacion-de-cuentas-integrales.png

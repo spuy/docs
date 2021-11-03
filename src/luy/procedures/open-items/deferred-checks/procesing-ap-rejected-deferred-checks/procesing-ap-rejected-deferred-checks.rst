@@ -1,0 +1,1 @@
+.. |Ventana Deposito de Cheque Propio| image:: resource/own-check-deposit-window.png

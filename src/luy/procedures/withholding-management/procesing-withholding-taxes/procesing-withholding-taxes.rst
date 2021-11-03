@@ -1,0 +1,1 @@
+.. |Documentos Relacionados Barra de Herramientas| image:: resource/documentos-relacionados-barra-de-herramientas.png
