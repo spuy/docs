@@ -1,0 +1,1 @@
+.. |Proceso Cheque Diferido por Pagar| image:: resource/payment-deferred-check-process.png

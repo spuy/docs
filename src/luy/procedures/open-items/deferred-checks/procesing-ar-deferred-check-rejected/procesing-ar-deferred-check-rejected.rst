@@ -1,0 +1,1 @@
+.. |Proceso Deposito de Cheques| image:: resource/check-deposit-process.png

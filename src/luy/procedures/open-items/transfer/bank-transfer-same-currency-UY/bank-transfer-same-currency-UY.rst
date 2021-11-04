@@ -1,0 +1,1 @@
+.. |Transferencia Bancaria Multimoneda| image:: resource/multi-currency-transfer.process.png
