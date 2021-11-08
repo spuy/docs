@@ -13,7 +13,7 @@ encontrar aquellas líneas de ordenes que cumplan con dichas condiciones.
 
 Dentro de los filtros a definir podemos encontrar:
 
-.. image:: /api/v3/attachments/486/content
+|Generar Factura desde Línea de Orden Sb|
 
 **Generar Factura**
 -------------------
@@ -23,12 +23,8 @@ Orden de Venta que cumplan con la condición. Procederemos a marcar el
 check que esté como primer columna para todas las líneas que se deseen
 facturar.
 
-.. image:: /api/v3/attachments/435/content
-
-En la parte inferior de esta ventana veremos distintas opciones
-utilizadas al momento de generar la factura:
-
-.. image:: /api/v3/attachments/436/content
+En la parte inferior de esta ventana veremos distintas opciones utilizadas 
+al momento de generar la factura.
 
 Una vez seleccionadas todas las líneas que se desean Facturar, el
 sistema permite definir diferentes criterios para la inclusión de dichas
@@ -67,4 +63,105 @@ por:
    líneas tengan Proyecto relacionado y a la vez otras que se tenga que
    obtener de su respectivo Cabezal), Siguiendo este criterio se
    generará un Documentos por Cobrar por proyecto diferente.
--  **Orden:** La agrupación que agrupa menos registros
+-  **Orden:** La agrupación que agrupa menos registros, se generará 
+   cada factura agrupando líneas de Orden por su respectivo
+   cabezal.
+-  **Impuesto:** Agrupará por Impuesto definido en cada Línea
+   de Orden seleccionada. Se generará una factura por tipo de impuesto
+   encontrado. El criterio de agrupación no es por % 
+   (Ej: 22%, 10% o 0%), sino por diferente Tipo de Impuesto.
+-  **Orden de Compra Cliente:** Si se selecciona este Criterio de 
+   Facturación se generará una Factura por cada Número de la Orden de 
+   Compra Cliente que se encuentre en todas las líneas seleccionadas. 
+   Este criterio de agrupación incluye además la clasificación según 
+   diferentes clientes.
+
+**Criterios Implícitos**
+
+Además de los criterios definidos manualmente, siempre se agrupará una
+factura teniendo en cuenta que deben ser:
+
+-  Para un mismo Socio de Negocio
+-  Una misma localización para ese Socio de Negocio (Su dirección de
+   facturación seleccionada)
+-  Misma Moneda: Tener en cuenta que es la moneda a Facturar de la Orden
+   de Venta, por si la misma hace un cruzamiento de monedas.
+
+Estos son requerimientos obligatorios por la naturaleza del CFE.
+
+Nota: En el caso que se defina la opción para Completar el documento se
+ejecutará automáticamente el proceso Generar líneas de CFE.
+
+**Criterio de Facturación (definición de Líneas de Factura)**
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+El **Criterio de Facturación** permite generar líneas más resumidas de
+la información que se está Facturando, adaptando así según la necesidad
+de cliente, definiendo en ellas la información exacta que el cliente
+desea recibir en cada "Concepto de Facturación".
+
+Debido a que el ERP puede tener una definición muy detallada de las
+"líneas de las órdenes" presentando en ellas un concepto de
+**Servicios**, **Cantidades** y **Precios** que si bien puede ser de
+gran utilidad para la gestión interna y el control de sus Costos, en
+ciertas ocasiones a los clientes no les interesa contar con tal detalle.
+
+De esta manera, el **Criterio de Facturación** que tendrá cada Factura
+será criterio que se va a utilizar para generar las líneas que se
+detallarán en el CFE (e-Factura o e-Ticket).
+
+Facturación de Honorarios en Línea independiente
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+El Criterio de Facturación aplicará siempre para las líneas de
+"Inversión" del cliente, agrupando según el criterio seleccionado. Esto
+quiere decir que el criterio nunca aplicará la agrupación para aquellas
+líneas que correspondan a Honorarios Variables calculados en un Proyecto
+o Fase de Proyecto, estos siempre irán en una línea aparte detallando
+que son Honorarios.
+
+**Proceso automático**
+^^^^^^^^^^^^^^^^^^^^^^
+
+El Criterio que se definirá en cada factura será el que cada cliente
+tenga definido en su ficha, pudiendo ser por Línea (normal), por
+Proyecto, por Fase de Proyecto o por Factura. .
+
+Al utilizar como criterio "Proyecto", el sistema agrupará en una línea a
+todas las líneas del Proyecto y definirá la descripción de la misma
+según el campo "Detalle Factura" ubicado en el Proyecto en cuestión.
+
+|Campo Detalle en Factura|
+
+|Pestaña Linea de Factura CFE|
+
+**\*Siempre se agrupan las líneas que no sean Honorarios ya que éstos
+van en otra línea a parte.**
+
+Si utilizamos como criterio "Fase del proyecto", el sistema agrupará
+todas las líneas de una fase en una línea, por lo que la factura tendrá
+tantas líneas de CFE como fases se estén facturando. En la descripción
+de cada línea se obtendrá  según el campo "Detalle Factura" ubicado en
+cada Fase del Proyecto en cuestión.
+
+Este proceso se puede realizar de forma automática o manual.
+
+**Proceso Manual**
+^^^^^^^^^^^^^^^^^^
+
+Si para alguna factura en especial se desea utilizar un Criterio de
+Facturación diferente al que tiene definido el Cliente por defecto, se
+podrá generar el mismo desde el cabezal de la factura.
+
+Si se desea realizar el proceso de forma manual se deben seguir los
+siguientes pasos luego de generar la factura:
+
+Elegir en el campo "Criterio de Facturación" ubicado en la Factutra el
+Nuevo Criterio que se desee aplicar.
+
+|Campo CFE Billing Criteria|
+
+Luego procederemos a correr el proceso "Generar líneas de factura para
+CFE", seleccionando la opción desde los Procesos asociados a la Factura.
+
+|Proceso Generar Lineas de Factura para CFE|
