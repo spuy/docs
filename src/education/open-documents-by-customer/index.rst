@@ -1,1 +1,16 @@
-***empty***
+.. _src/adempiere/education/open-documents-by-customer:
+
+==========================
+**Estado de Cuenta por Cliente**
+==========================
+
+
+
+.. toctree::
+    :maxdepth: 2
+
+    generate-agging/index
+    mail-notifications/index
+    mail-template/index
+    open-documents-massive-sender/index
+    open-items-report/index
