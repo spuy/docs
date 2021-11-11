@@ -1,7 +1,7 @@
-.. _src/adempiere/luy/electronic-billing/procedures/cash-management:
+.. _src/adempiere/luy/procedures/cash-management:
 
 ==========================
-**Gestión de Caja**
+**Gestión de Cajas**
 ==========================
 
 

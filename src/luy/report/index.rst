@@ -1,1 +1,12 @@
-***Empty file for save structure directory***
+.. _src/adempiere/luy/report:
+
+==========================
+**Reportes**
+==========================
+
+
+
+.. toctree::
+    :maxdepth: 2
+
+    report

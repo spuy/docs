@@ -1,4 +1,4 @@
-.. _src/adempiere/luy/electronic-billing/procedures:
+.. _src/adempiere/luy/procedures:
 
 ==========================
 **Procedimientos**

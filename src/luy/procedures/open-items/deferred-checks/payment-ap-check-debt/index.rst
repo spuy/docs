@@ -1,4 +1,4 @@
-.. _src/adempiere/luy/procedures/open-items/deferred-checks/own-check-book-creation:
+.. _src/adempiere/luy/procedures/open-items/deferred-checks/payment-ap-check-debt:
 
 ==========================
 **Creacion de Libretas de Cheques Propios**
@@ -9,4 +9,4 @@
 .. toctree::
     :maxdepth: 2
 
-    own-check-book-creation
+    payment-ap-check-debt

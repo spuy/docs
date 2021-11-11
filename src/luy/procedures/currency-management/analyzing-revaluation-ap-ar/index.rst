@@ -1,7 +1,7 @@
-.. _src/adempiere/luy/electronic-billing/procedures/currency-management/analyzing-revaluation-ap-ar:
+.. _src/adempiere/luy/procedures/currency-management/analyzing-revaluation-ap-ar:
 
 ==========================
-**Analizando Revaluación**
+**Analizando Diferencia de Cambio No Realizada**
 ==========================
 
 
