@@ -1,7 +1,7 @@
-.. _src/adempiere/luy/electronic-billing/procedures/currency-management/ap-ar-revaluation:
+.. _src/adempiere/luy/procedures/currency-management/ap-ar-revaluation:
 
 ==========================
-**Revaluación**
+**Proceso de Diferencia de Cambio No Realizada**
 ==========================
 
 
