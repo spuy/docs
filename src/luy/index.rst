@@ -1,3 +1,14 @@
-***empty***
+.. _src/adempiere/luy:
 
-Hola Mundo
+==========================
+**Localización Uruguay**
+==========================
+
+
+
+.. toctree::
+    :maxdepth: 2
+
+    electronic-billing/index
+    procedures/index
+    report/index
