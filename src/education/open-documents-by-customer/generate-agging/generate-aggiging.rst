@@ -4,6 +4,7 @@
 .. |Pestaña Entrada| image:: resource/entry-tab-calculation-of-delinquency.png
 
 Cálculo de Morosidad
+~~~~~~~~~~~~~~~~~~~~
 
 Para generar los Estados de Cuenta se deberá correr el proceso de
 “Cálculo de Morosidad” desde la ventana “Cálculo de Morosidad”

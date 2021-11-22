@@ -2,6 +2,9 @@
 .. |Proceso Transferencia Bancaria Multimoneda| image:: resource/multi-currency-transfer-process.png
 .. |Ventana Pago Cobro| image:: resource/payment-collection.png
 
+Transferencia Bancaria Multimoneda
+==================================
+
 Desde el proceso "Transferencia Bancaria Multimoneda", se podrá realizar
 una transferencia cuando las monedas de la Cuenta Bancaria origen y
 Cuenta Bancaria destino son diferentes, es decir, una moneda es la

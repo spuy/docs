@@ -5,6 +5,9 @@
 .. |Sb Deposito de Cheques| image:: resource/sb-depósito-de-cheques.png
 .. |Ventana Cheque Diferido por Cobrar| image:: resource/ventana-cheques-diferidos-por-cobrar.png
 
+Rechazo de Cheques al Día
+-------------------------
+
 Para realizar rechazos de Cheques al Día se deberá seguir el siguiente
 procedimiento:
 
