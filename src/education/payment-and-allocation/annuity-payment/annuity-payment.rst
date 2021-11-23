@@ -3,6 +3,7 @@
 .. |Ventana Pago Cobro| image:: resource/ventana-pago-cobro.png
 
 Cobros de Anualidad
+~~~~~~~~~~~~~~~~~~~
 
 Es un documento que la Institución Educativa emite indicando que cobró a
 un tercero un Documento por Cobrar correspondiente al pago completo de
