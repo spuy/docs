@@ -3,15 +3,16 @@
 .. |Marca y Organizacion Cabezal| image:: resource/marca-y-organización-cabezal.png
 .. |Socio del Negocio Cabezal| image:: resource/socio-del-negocio-cabezal.png
 
-Contrato de Servicios de Agencia
+**Contrato de Servicios de Agencia**
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 El Contrato con un Socio de Negocio resume en un documento la
 representación de determinado acuerdo realizado con un Tercero. Este
 Acuerdo puede ser tanto con un Cliente como con un Proveedor y regulará
 condiciones para las transacciones a realizar entre ambos.
 
-**Cabezal de la ventana Contrato de Servicio**
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Cabezal de la ventana Contrato de Servicio
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Aquí deberán definirse los siguientes datos:
 

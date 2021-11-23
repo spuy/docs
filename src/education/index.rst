@@ -1,7 +1,7 @@
-.. _src/adempiere/education/updating-service-contract:
+.. _src/adempiere/education:
 
 ==========================
-**Actualización del Contrato de Servicios**
+**Gestión de Educación**
 ==========================
 
 
@@ -9,6 +9,8 @@
 .. toctree::
     :maxdepth: 2
 
-    updating-contract-line-discount/index
-    updating-prices/index
-    updating-products/index
+    education-master/index
+    open-documents-by-customer/index
+    payment-and-allocation/index
+    recurring-billing-service-contract/index
+    updating-service-contract/index
