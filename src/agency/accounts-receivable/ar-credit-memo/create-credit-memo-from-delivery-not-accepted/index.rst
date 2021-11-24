@@ -1,8 +1,8 @@
 .. _src/adempiere/agency/accounts-receivable/ar-credit-memo/create-credit-memo-from-delivery-not-accepted:
 
-==========================
+================================
 **Ingreso de Factura de Compra**
-==========================
+================================
 
 
 
