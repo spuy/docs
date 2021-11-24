@@ -9,7 +9,7 @@
 .. toctree::
     :maxdepth: 2
 
-    ap-credit-memo/index
+    ar-credit-memo/index
     generate-cfe-lines/index
     generate-invoice-from-sales-order/index
     generate-invoice-with-currency-diferent-than-cost/index
