@@ -1,8 +1,8 @@
 .. _src/adempiere/education/payment-and-allocation:
 
-==========================
+=====================
 **Pago y Asignación**
-==========================
+=====================
 
 
 

@@ -75,7 +75,7 @@ negocio Entrega Directa** es importante que el mismo:
   Una vez se tengan todos los Productos definidos en Líneas de Tarea, se
   podrá ver el TOTAL en el campo “Total Planeado” de la Tarea.
 
-|Gi Tarea|
+|Gif Tarea|
 
 |Gif Linea de Tarea|
 

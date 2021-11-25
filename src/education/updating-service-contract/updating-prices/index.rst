@@ -1,8 +1,8 @@
 .. _src/adempiere/education/updating-service-contract/updating-contract-line-discount:
 
-==========================
+============================
 **Actualización de Precios**
-==========================
+============================
 
 
 

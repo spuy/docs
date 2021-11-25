@@ -1,8 +1,8 @@
 .. _src/adempiere/agency/accounts-payable/ap-credit-memo-entry:
 
-==========================
+========================================
 **Ingreso de Nota de crédito Proveedor**
-==========================
+========================================
 
 
 
