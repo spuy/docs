@@ -1,6 +1,6 @@
-.. |Completar Nota de Credito| image:: resource/complete-credit-note-.png
-.. |Ventana Documentos por Pagar| image:: resource/documents-payable-window-.png
-.. |Gif Crear Desde| image:: resource/gif-crear-desde-.png
+.. |Completar Nota de Credito| image:: resource/complete-credit-note.png
+.. |Ventana Documentos por Pagar| image:: resource/documents-payable-window.png
+.. |Gif Crear Desde| image:: resource/gif-crear-desde.gif
 .. |Smartbrowser| image:: resource/smartbrowser.png
 .. |Boton Crear Desde| image:: resource/boton-crear-desde.png
 

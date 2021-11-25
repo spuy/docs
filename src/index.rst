@@ -41,13 +41,13 @@ Le invitamos a descubrir cómo hacer su día a día más sencillo con el uso de 
     luy/report/index
 
 .. toctree::
-    :caption: Vertical Agencia
+    :caption: Agencia
     :maxdepth: 2
 
     agency/index
 
 .. toctree::
-    :caption: Vertical Educación
+    :caption: Gestión de Educación
     :maxdepth: 2
 
     education/index
