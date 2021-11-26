@@ -4,7 +4,7 @@
 .. |Gif Cabezal| image:: resource/gif-cabezal.gif
 .. |Gif Completar OC| image:: resource/gif-completar-oc.gif
 .. |Gif Crear Checking| image:: resource/gif-crear-checking.gif
-.. |Gif Fase| image:: resource/consumo-gif-fase.gif
+.. |Gif Fase| image:: resource/gif-fase.gif
 .. |Gif Generar OV Inventario| image:: resource/gif-generar-ov-inventario.gif
 .. |Gif Linea de Tarea| image:: resource/gif-linea-de-tarea.gif
 .. |Gif Tarea| image:: resource/gif-tarea.gif

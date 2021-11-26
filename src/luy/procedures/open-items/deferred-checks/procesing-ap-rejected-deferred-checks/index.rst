@@ -1,8 +1,8 @@
 .. _src/adempiere/luy/procedures/open-items/deferred-checks/procesing-ap-rejected-deferred-checks:
 
-==========================
+=======================================
 **Cheque diferido por pagar rechazado**
-==========================
+=======================================
 
 
 

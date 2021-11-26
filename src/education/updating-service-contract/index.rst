@@ -11,4 +11,3 @@
 
     updating-contract-line-discount/index
     updating-prices/index
-    updating-products/index

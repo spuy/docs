@@ -1,5 +1,5 @@
-.. |Generar Cuota desde Contrato de Servicio| image:: resource/proceso-generar-cuota-desde-contrato-de-servicio-.png
-.. |Proceso desde Barra de Herramientas| image:: resource/proceso-generar-cuotas-desde-contrato-de-servicio-barra de-herramientas-.png
+.. |Generar Cuota desde Contrato de Servicio| image:: resource/proceso-generar-cuota-desde-contrato-de-servicio.png
+.. |Proceso desde Barra de Herramientas| image:: resource/proceso-generar-cuotas-desde-contrato-de-servicio-barra-de-herramientas.png
 
 Generación de Cuotas desde el Contrato de Servicio
 --------------------------------------------------

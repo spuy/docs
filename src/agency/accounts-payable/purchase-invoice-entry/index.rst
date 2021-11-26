@@ -1,8 +1,8 @@
 .. _src/adempiere/agency/accounts-payable/purchase-invoice-entry:
 
-==========================
+================================
 **Ingreso de Factura de Compra**
-==========================
+================================
 
 
 
