@@ -1,12 +1,12 @@
-.. _src/adempiere/luy/procedures/open-items/payment-receipt/swapt-receipt-uy:
+.. _src/adempiere/luy/procedures/open-items/payment-receipt/printed-ar-receipt:
 
-==========================
-**Recibo de canje**
-==========================
+===========================
+**Recibo de Cobro Impreso**
+===========================
 
 
 
 .. toctree::
     :maxdepth: 2
 
-    swapt-receipt-uy
+    printed-ar-receipt

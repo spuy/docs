@@ -14,7 +14,6 @@
     agency-project/index
     agency-service-contract/index
     commission-calculation-update/index
-    commissions-to-the-supplier/index
     creative-agency/index
     media-agency/index
     production-agency/index

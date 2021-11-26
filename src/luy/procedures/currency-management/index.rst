@@ -1,8 +1,8 @@
 .. _src/adempiere/luy/procedures/currency-management:
 
-==========================
+========================
 **Conversión de Moneda**
-==========================
+========================
 
 
 
@@ -15,5 +15,4 @@
     currency-revaluation-deferred-checks/index
     gain-and-losses-realized-currency-revaluation/index
     overview-ap-ar-currency-revaluation/index
-    overview-currency-management/index
     revaluation-bank-accounts/index

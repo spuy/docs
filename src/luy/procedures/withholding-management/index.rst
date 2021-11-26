@@ -11,5 +11,4 @@
 
     configuring-withholding-taxes/index
     procesing-withholding-taxes/index
-    withholding-details/index
 

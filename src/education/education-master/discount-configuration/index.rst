@@ -1,8 +1,8 @@
 .. _src/adempiere/education/education-master/discount-configuration:
 
-==========================
+===============================
 **Configuración de Descuentos**
-==========================
+===============================
 
 
 

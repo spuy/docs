@@ -1,8 +1,8 @@
 .. _src/adempiere/luy/procedures/currency-management/ap-ar-revaluation:
 
-==========================
+================================================
 **Proceso de Diferencia de Cambio No Realizada**
-==========================
+================================================
 
 
 

@@ -11,4 +11,3 @@
 
     electronic-billing/index
     procedures/index
-    report/index
