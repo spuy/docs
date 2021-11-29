@@ -12,7 +12,7 @@ La misma será actualizada periódicamente en función de las nuevas versiones p
 Le invitamos a descubrir cómo hacer su día a día más sencillo con el uso de esta herramienta.
 
 .. toctree::
-    :caption: Solop ERP
+    :caption: SOLOP ERP
     :maxdepth: 2
 
     adempiere/basic-steps/index
@@ -33,7 +33,7 @@ Le invitamos a descubrir cómo hacer su día a día más sencillo con el uso de 
     adempiere/performance-analysis/index
 
 .. toctree::
-    :caption: Localización Uruguay
+    :caption: LOCALIZACIÓN URUGUAY
     :maxdepth: 2
 
     luy/electronic-billing/index
@@ -41,13 +41,13 @@ Le invitamos a descubrir cómo hacer su día a día más sencillo con el uso de 
     luy/report/index
 
 .. toctree::
-    :caption: Agencia
+    :caption: AGENCIA
     :maxdepth: 2
 
     agency/index
 
 .. toctree::
-    :caption: Gestión de Educación
+    :caption: GESTIÓN DE EDUCACIÓN
     :maxdepth: 2
 
     education/index

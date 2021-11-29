@@ -12,6 +12,5 @@
     check-rejection/index
     payment-ap-with-checks-options/index
     payment-manual-ap-checks/index
-    payment-transaction-approval/index
     processing-bank-transactions/index
 

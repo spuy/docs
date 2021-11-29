@@ -10,7 +10,7 @@
 .. |Estado del CFE Rechazado| image:: resource/estado-del-cfe-2.png
 .. |Exhibir todas las Notificaciones| image:: resource/exhibir-todas-las-notificaciones.png
 .. |Generacion del Reporte Diario| image:: resource/generación-del-reporte-diario.png
-.. |Gestion de Empresas| image:: resource/gestion-de-empresas-.png
+.. |Gestion de Empresas| image:: resource/gestion-de-empresas.png
 .. |Icono Actualizar| image:: resource/icono-actualizar.png
 .. |Icono Descargar XML| image:: resource/icono-descargar-xml.png
 .. |Icono Descargar| image:: resource/icono-descargar.png
