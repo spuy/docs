@@ -1,8 +1,8 @@
 .. _src/adempiere/luy/procedures/open-items/payment-receipt:
 
-==========================
+==================
 **Recibo de Pago**
-==========================
+==================
 
 
 
