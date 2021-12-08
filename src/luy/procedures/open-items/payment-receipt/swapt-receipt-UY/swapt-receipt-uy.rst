@@ -4,6 +4,9 @@
 .. |Seleccionar Medio de Pago| image:: resource/medios-de-pago.png
 .. |Sb Asignar DxC| image:: resource/sb-asignar-dxc.png
 .. |Sb Asignar DxP| image:: resource/sb-asignar-dxp.png
+.. |Gif Asignar DxC| image:: resource/gif-asignar-dxc.gif
+.. |Gif Asignar DxP| image:: resource/gif-asignar-dxp.gif
+.. |Gif Generar Cobro| image:: resource/gif-generar-cobro.gif
 
 **Canje de Recibos (misma moneda)**
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -29,6 +32,8 @@ simplemente se deberá hacer los **2 procesos** siguientes:
 
 |Asignar DxC|
 
+|Gif Asignar DxC|
+
 -  **Asignar Facturas de Compra:** si desea seleccionar “Documentos por
    Pagar” para Canjear deberá desmarcar el Check “Transacción de Ventas”
    en “N”. De esta manera al aplicar la búsqueda se desplegarán todos
@@ -39,12 +44,16 @@ simplemente se deberá hacer los **2 procesos** siguientes:
 
 |Asignar DxP|
 
+|Gif Asignar DxP|
+
 -  En caso de que el importe de los Documentos que se desean “Canjear”
    no alcance al importe que se quiere Asignar de Documentos por Cobrar
    se deberá complementar el importe a asignar agregando uno o los
    Medios de Pago que desee de la manera habitual.
 
 |Seleccionar Medio de Pago|
+
+|Gif Generar Cobro|
 
 -  Luego de terminar de generar todos los Medios de Pago y Documentos a
    ser Asignados, si incluyó Documentos a ser Canjeados en la
