@@ -13,13 +13,13 @@
 **Empleado**
 ============
 
-Ubique y seleccione en el menú de ADempiere, la carpeta "**Relación con Socios del Negocio**", luego seleccione la carpeta "**Reglas de Socios del Negocio**", por último seleccione la ventana "**Socio del Negocio**".
+Ubique y seleccione en el menú de Solop ERP, la carpeta "**Relación con Socios del Negocio**", luego seleccione la carpeta "**Reglas de Socios del Negocio**", por último seleccione la ventana "**Socio del Negocio**".
 
     |Menú de ADempiere|
 
-    Imagen 1. Menú de ADempiere
+    Imagen 1. Menú de Solop ERP
 
-Podrá visualizar la ventana "**Socio del Negocio**", con los diferentes registros de socios del negocio que contiene ADempiere.
+Podrá visualizar la ventana "**Socio del Negocio**", con los diferentes registros de socios del negocio que contiene Solop ERP.
 
     |Ventana Socio del Negocio|
 
@@ -63,4 +63,4 @@ Seleccione el identificador ubicado del lado derecho del campo "**Pago Anticipad
 
 .. note::
 
-    Recuerde guardar el registro de los campos de la pestaña "**Contabilidad Empleado**", seleccionando el icono "**Guardar Cambios**", ubicado en la barra de herramientas de ADempiere.
+    Recuerde guardar el registro de los campos de la pestaña "**Contabilidad Empleado**", seleccionando el icono "**Guardar Cambios**", ubicado en la barra de herramientas de Solop ERP.

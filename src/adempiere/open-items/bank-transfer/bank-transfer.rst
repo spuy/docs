@@ -26,13 +26,13 @@
 **Registro de Transferencia Bancaria**
 ======================================
 
-Para realizar una transferencia bancaria en ADempiere deben seguir los siguientes pasos:
+Para realizar una transferencia bancaria en Solop ERP deben seguir los siguientes pasos:
 
-Ubique yseleccione en el menú de ADempiere, la carpeta "**Gestión de Saldos Pendientes**", luego seleccione el proceso "**Transferencia Bancaria**".
+Ubique yseleccione en el menú de Solop ERP, la carpeta "**Gestión de Saldos Pendientes**", luego seleccione el proceso "**Transferencia Bancaria**".
 
     |Menú de ADempiere|
 
-    Imagen 1. Menú de ADempiere
+    Imagen 1. Menú de Solop ERP
 
 Podrá visualizar la ventana del proceso "**Transferencia Bancaria**" y proceder al llenado de los campos correspondientes.
 
@@ -132,7 +132,7 @@ Si desea que los pagos/cobros que se generen de esta transferencia bancarias se 
 
     Imagen 14. Campo Conciliar Automáticamente
 
-Seleccione la opción "**OK**", para generar en ADempiere la transferencia entre cuentas bancarias.
+Seleccione la opción "**OK**", para generar en Solop ERP la transferencia entre cuentas bancarias.
 
     |Opción OK|
 

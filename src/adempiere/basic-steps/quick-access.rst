@@ -11,11 +11,11 @@
 **Accesos Rápidos**
 ===================
 
-En ADempiere contamos con una serie de accesos rápidos que le permitirá al usuario realizar una determinada función de forma rápida y sencilla.
+En Solop ERP contamos con una serie de accesos rápidos que le permitirá al usuario realizar una determinada función de forma rápida y sencilla.
 
     |Accesos Rápidos|
 
-    Imagen 1. Accesos Rápidos de ADempiere
+    Imagen 1. Accesos Rápidos de Solop ERP
 
 A continuación se definen los distintos tipos de accesos rápidos que este posee.
 

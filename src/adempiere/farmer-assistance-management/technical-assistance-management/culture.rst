@@ -30,11 +30,11 @@
 **Cultivo**
 ===========
 
-Ubique y seleccione en el menú de ADempiere, la carpeta "**Gestión de Asistencia al Agricultor**", luego seleccione la ventana "**Cultivo**".
+Ubique y seleccione en el menú de Solop ERP, la carpeta "**Gestión de Asistencia al Agricultor**", luego seleccione la ventana "**Cultivo**".
 
     |menú de cultivo|
 
-    Imagen 1. Menú de ADempiere
+    Imagen 1. Menú de Solop ERP
 
 Podrá visualizar la ventana "**Cultivo**", con los diferentes registros de cultivos.
 
@@ -42,7 +42,7 @@ Podrá visualizar la ventana "**Cultivo**", con los diferentes registros de cult
 
     Imagen 2. Ventana Cultivo
 
-Seleccione el icono "**Registro Nuevo**", ubicado en la barra de herramientas de ADempiere.
+Seleccione el icono "**Registro Nuevo**", ubicado en la barra de herramientas de Solop ERP.
 
     |icono registro nuevo de la ventana cultivo|
 
@@ -150,7 +150,7 @@ Seleccione en el campo "**Estado**", el estado del cultivo correspondiente al re
 
     Imagen 20. Campo Estado
 
-Seleccione el icono "**Guardar Cambios**", ubicado en la barra de herramientas de ADempiere.
+Seleccione el icono "**Guardar Cambios**", ubicado en la barra de herramientas de Solop ERP.
 
     |icono guardar cambios de la ventana cultivo|
 

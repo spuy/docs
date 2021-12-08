@@ -29,11 +29,11 @@ Para visualizar completamente el procedimiento del inventario físico, es genera
 
     Imagen 1. Primer Reporte de Detalle de Almacenamiento
 
-Ubique y seleccione en el menú de ADempiere, la carpeta "**Gestión de Materiales**", luego seleccione la ventana "**Inventario Físico**".
+Ubique y seleccione en el menú de Solop ERP, la carpeta "**Gestión de Materiales**", luego seleccione la ventana "**Inventario Físico**".
 
     |Menú de ADempiere|
 
-    Imagen 2. Menú de ADempiere
+    Imagen 2. Menú de Solop ERP
 
 Podrá visualizar la ventana "**Inventario Físico**", donde debe seleccionar el icono "**Registro Nuevo**" para crear un nuevo registro de inventario físico.
 
@@ -73,7 +73,7 @@ Podrá visualizar la ventana "**Inventario Físico**", donde debe seleccionar el
 
     .. note::
 
-        Recuerde guardar el registro de los campos de la pestaña seleccionando el icono "**Guardar Registros**" ubicado en la barra de herramientas de ADempiere.
+        Recuerde guardar el registro de los campos de la pestaña seleccionando el icono "**Guardar Registros**" ubicado en la barra de herramientas de Solop ERP.
 
 Seleccione la pestaña "**Línea de Conteo de Inventario**" y proceda al llenado de los campos correspondientes.
 
@@ -103,13 +103,13 @@ Seleccione la pestaña "**Línea de Conteo de Inventario**" y proceda al llenado
 
             Debe ser ingresada la cantidad real que existe físicamente en el almacén seleccionado.
 
-    Seleccione el icono "**Guardar Cambios**", ubicado en la barra de herramientas de ADempiere, para guardar el registro de los campos de la pestaña.
+    Seleccione el icono "**Guardar Cambios**", ubicado en la barra de herramientas de Solop ERP, para guardar el registro de los campos de la pestaña.
 
         |Icono Guardar Cambios|
 
         Imagen 13. Icono Guardar Cambios
 
-    Podrá visualizar que es cargada automáticamente la cantidad de productos en existencia que se encuentran registrados en ADempiere.
+    Podrá visualizar que es cargada automáticamente la cantidad de productos en existencia que se encuentran registrados en Solop ERP.
 
         |Campo Cantidad en Libros|
 

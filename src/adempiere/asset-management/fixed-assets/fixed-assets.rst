@@ -1,4 +1,4 @@
-.. |Menú de ADempiere| image:: resources/menu.png
+.. |Menú de Solop ERP| image:: resources/menu.png
 .. |Ventana Principal Grupo de Activo| image:: resources/ventana.png
 .. |Icono Registro Nuevo| image:: resources/nuevo.png
 .. |Campo Organización| image:: resources/org.png
@@ -25,13 +25,13 @@
 **Ventana Grupo de Activos Fijos**
 ----------------------------------
 
-Ubique y seleccione en el menú de ADempiere, la carpeta "**Gestión de Activos**", luego seleccione la ventana "**Grupo de Activo Fijo**". 
+Ubique y seleccione en el menú de Solop ERP, la carpeta "**Gestión de Activos**", luego seleccione la ventana "**Grupo de Activo Fijo**". 
 
-    |Menú de ADempiere|
+    |Menú de Solop ERP|
 
-    Imagen 1. Menú de ADempiere
+    Imagen 1. Menú de Solop ERP
 
-Podrá visualizar la ventana "**Grupo de Activo**", con el registro de los grupos de activos que la empresa posee en ADempiere. 
+Podrá visualizar la ventana "**Grupo de Activo**", con el registro de los grupos de activos que la empresa posee en Solop ERP. 
 
     |Ventana Principal Grupo de Activo|
 
@@ -40,7 +40,7 @@ Podrá visualizar la ventana "**Grupo de Activo**", con el registro de los grupo
 **Registro Nuevo de Grupo de Activo**
 -------------------------------------
 
-Seleccione el icono "**Registro Nuevo**", ubicado en la barra de herramientas de ADempiere.
+Seleccione el icono "**Registro Nuevo**", ubicado en la barra de herramientas de Solop ERP.
 
     |Icono Registro Nuevo|
 
@@ -70,13 +70,13 @@ Tilde el checklist "**Propio**", si el grupo de activo fijo que esta registrando
 
     Imagen 7. Checklist Propio
 
-Tilde el checklist "**Depreciar**" para que ADempiere realice la depreciación del grupo de activos fijos que esta registrando.
+Tilde el checklist "**Depreciar**" para que Solop ERP realice la depreciación del grupo de activos fijos que esta registrando.
 
     |Checklist Depreciar|
 
     Imagen 8. Checklist Depreciar
 
-Para guardar el registro de los campos, seleccione el icono "**Guardar Cambios** "ubicado en la barra de herramientas de ADempiere.
+Para guardar el registro de los campos, seleccione el icono "**Guardar Cambios** "ubicado en la barra de herramientas de Solop ERP.
 
     |Icono Guardar Cambios|
 
@@ -99,7 +99,7 @@ Seleccione en el campo "**Organización**", la organización para la cual esta r
 
     .. note::
 
-        ADempiere permite que una compañía que posee más de una organización, registre la configuración contable del grupo de activo fijo por organización. El registro podría ser:
+        Solop ERP permite que una compañía que posee más de una organización, registre la configuración contable del grupo de activo fijo por organización. El registro podría ser:
 
             - Grupo Activo Fijo "**Mobiliario**" de la Empresa Estándar con Organización (*):
 
@@ -139,7 +139,7 @@ Introduzca en el campo "**Vida Útil - Años**", la cantidad de años de vida ú
 
     .. note::
 
-        Al ingresar un valor en el campo "**Vida Útil - Años**", ADempiere refleja en los campos "**Vida Útil - Años (Fiscal)**", "**Vida Útil - Meses**" y "**Vida Útil - Meses (Fiscal)**", el equivalente al campo correspondiente.
+        Al ingresar un valor en el campo "**Vida Útil - Años**", Solop ERP refleja en los campos "**Vida Útil - Años (Fiscal)**", "**Vida Útil - Meses**" y "**Vida Útil - Meses (Fiscal)**", el equivalente al campo correspondiente.
 
 Seleccione en el campo "**Cuenta Costo Activo**", 
 

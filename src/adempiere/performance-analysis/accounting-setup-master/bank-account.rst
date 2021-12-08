@@ -33,13 +33,13 @@
 **Cuenta Bancaria**
 ===================
 
-Ubique y seleccione en el menú de ADempiere, la carpeta "**Gestión del Sistema**", luego seleccione la carpeta "**Reglas de la Organización**", por último seleccione la ventana "**Banco**".
+Ubique y seleccione en el menú de Solop ERP, la carpeta "**Gestión del Sistema**", luego seleccione la carpeta "**Reglas de la Organización**", por último seleccione la ventana "**Banco**".
 
     |Menú de ADempiere|
 
-    Imagen 1. Menú de ADempiere
+    Imagen 1. Menú de Solop ERP
 
-Podrá visualizar la ventana "**Banco**", con los diferentes registros de bancos que se encuentran en ADempiere.
+Podrá visualizar la ventana "**Banco**", con los diferentes registros de bancos que se encuentran en Solop ERP.
 
     |Ventana Banco|
 
@@ -203,4 +203,4 @@ Podrá visualizar la ventana "**Banco**", con los diferentes registros de bancos
 
             .. note::
 
-                Recuerde guardar el registro de los campos de la pestaña "**Contabilidad**", seleccionando el icono "**Guardar Cambios**", ubicado en la barra de herramientas de ADempiere.
+                Recuerde guardar el registro de los campos de la pestaña "**Contabilidad**", seleccionando el icono "**Guardar Cambios**", ubicado en la barra de herramientas de Solop ERP.

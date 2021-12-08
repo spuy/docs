@@ -57,19 +57,19 @@
 **Registro de Rubro**
 =====================
 
-Seleccione en el menú de ADempiere, la carpeta "**Gestión de Asistencia Técnica Agricola**", luego selecione la carpeta "**Configuración de Materia Prima**",  por último seleccione la ventana "**Rubro**".
+Seleccione en el menú de Solop ERP, la carpeta "**Gestión de Asistencia Técnica Agricola**", luego selecione la carpeta "**Configuración de Materia Prima**",  por último seleccione la ventana "**Rubro**".
 
     |menú de rubro|
 
-    Imagen 1. Menú de ADempiere
+    Imagen 1. Menú de Solop ERP
 
-Podrá visualizar la ventana "**Rubro**", con los diferentes rubros que contiene registrados ADempiere.
+Podrá visualizar la ventana "**Rubro**", con los diferentes rubros que contiene registrados Solop ERP.
 
     |ventana rubro|
 
     Imagen 2. Ventana Rubro
 
-Seleccione el icono "**Registro Nuevo**", ubicado en la barra de herramientas de ADempiere, para crear un nuevo registro de rubro.
+Seleccione el icono "**Registro Nuevo**", ubicado en la barra de herramientas de Solop ERP, para crear un nuevo registro de rubro.
 
     |icono registro nuevo de la ventana rubro|
 
@@ -277,7 +277,7 @@ Seleccione el icono "**Registro Nuevo**", ubicado en la barra de herramientas de
 
         Imagen 36. Checklist Rubro
 
-Seleccione el icono "**Guardar Cambios**" en la barra de herramientas de ADempiere.
+Seleccione el icono "**Guardar Cambios**" en la barra de herramientas de Solop ERP.
 
     |Icono Guardar Cambios Pestaña Rubro|
 
@@ -342,7 +342,7 @@ Seleccione la pestaña "**Cálculo de Peso**" y proceda al llenado de los campos
 
         Imagen 45. Campo Tipo de Uso
 
-Seleccione el icono "**Guardar Cambios**" en la barra de herramientas de ADempiere.
+Seleccione el icono "**Guardar Cambios**" en la barra de herramientas de Solop ERP.
 
     |Icono Guardar Cambios Pestaña Cálculo de Peso|
 
@@ -387,7 +387,7 @@ Seleccione la pestaña "**Etapa del Cultivo**" y proceda al llenado de los campo
 
         Imagen 52. Campo Día Hasta
 
-Seleccione el icono "**Guardar Cambios**" en la barra de herramientas de ADempiere.
+Seleccione el icono "**Guardar Cambios**" en la barra de herramientas de Solop ERP.
 
     |Icono Guardar Cambios Pestaña Etapa del Cultivo|
 

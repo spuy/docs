@@ -35,11 +35,11 @@
 **Crédito del Productor**
 =========================
 
-Ubique y seleccione en el menú de ADempiere, la carpeta "**Gestión de Asistencia al Agricultor**", luego seleccione la carpeta "**Inversión Agrícola y Préstamos**", por último seleccione la ventana "**Crédito del Productor**".
+Ubique y seleccione en el menú de Solop ERP, la carpeta "**Gestión de Asistencia al Agricultor**", luego seleccione la carpeta "**Inversión Agrícola y Préstamos**", por último seleccione la ventana "**Crédito del Productor**".
 
     |menú de crédito del productor|
 
-    Imagen 1. Menú de ADempiere
+    Imagen 1. Menú de Solop ERP
 
 Podrá visualizar la ventana "**Crédito del Productor**", con los diferentes registros de créditos de productores.
 
@@ -47,7 +47,7 @@ Podrá visualizar la ventana "**Crédito del Productor**", con los diferentes re
 
     Imagen 2. Ventana Crédito del Productor
 
-Seleccione el icono "**Registro Nuevo**", ubicado en la barra de herramientas de ADempiere.
+Seleccione el icono "**Registro Nuevo**", ubicado en la barra de herramientas de Solop ERP.
 
     |icono registro nuevo de la ventana crédito del productor|
 
@@ -113,7 +113,7 @@ Seleccione en el campo "**Válido Hasta**", la fecha final del rango o periodo d
 
     Imagen 13. Campo Válido Hasta
 
-Seleccione el icono "**Guardar Cambios**", ubicado en la barra de herramientas de ADempiere.
+Seleccione el icono "**Guardar Cambios**", ubicado en la barra de herramientas de Solop ERP.
 
     |icono guardar cambios de la ventana crédito del productor|
 
@@ -131,7 +131,7 @@ Seleccione en el campo "**Cultivo**", el cultivo correspondiente al registro que
 
     Imagen 16. Campo Cultivo
 
-Seleccione el icono "**Guardar Cambios**", ubicado en la barra de herramientas de ADempiere.
+Seleccione el icono "**Guardar Cambios**", ubicado en la barra de herramientas de Solop ERP.
 
     |icono guardar cambios de la pestaña cultivos asignados de la ventana crédito del productor|
 
@@ -161,7 +161,7 @@ Introduzca en el campo "**Descripción**", una breve descripción correspondient
 
     Imagen 21. Campo Descripción
 
-Seleccione el icono "**Guardar Cambios**", ubicado en la barra de herramientas de ADempiere.
+Seleccione el icono "**Guardar Cambios**", ubicado en la barra de herramientas de Solop ERP.
 
     |icono guardar cambios de la pestaña cuenta financiera de la ventana crédito del productor|
 
@@ -191,7 +191,7 @@ Seleccione en el campo "**Válido Hasta**", la fecha final del rango o periodo d
 
     Imagen 26. Campo Válido Hasta
 
-Seleccione el icono "**Guardar Cambios**", ubicado en la barra de herramientas de ADempiere.
+Seleccione el icono "**Guardar Cambios**", ubicado en la barra de herramientas de Solop ERP.
 
     |icono guardar cambios de la pestaña producto de la cuenta de la ventana crédito del productor|
 

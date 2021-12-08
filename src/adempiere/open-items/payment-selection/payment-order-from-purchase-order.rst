@@ -59,13 +59,13 @@
 **Registro desde Orden**
 ========================
 
-En muchas ocasiones se necesitan realizar anticipos a proveedores, una vez que se concrete la compra dependiendo de las reglas del negocio con la que cuente la compañía y el proveedor se realizan anticipos, los anticipos son aquellos pagos que se generan antes de una factura, por ello como ya existe una compra a un proveedor y se requiere aplicar un anticipo; para aplicar un anticipo a proveedores en ADempiere y realizar una  "**Orden de Pago**" a través de una "**Orden de Compra**" se deben aplicar los siguientes pasos.
+En muchas ocasiones se necesitan realizar anticipos a proveedores, una vez que se concrete la compra dependiendo de las reglas del negocio con la que cuente la compañía y el proveedor se realizan anticipos, los anticipos son aquellos pagos que se generan antes de una factura, por ello como ya existe una compra a un proveedor y se requiere aplicar un anticipo; para aplicar un anticipo a proveedores en Solop ERP y realizar una  "**Orden de Pago**" a través de una "**Orden de Compra**" se deben aplicar los siguientes pasos.
 
-Ubique y seleccione en el menú de ADempiere, la carpeta "**Gestión de Saldos Pendientes**", luego seleccione la ventana "**Selección de Pago**".
+Ubique y seleccione en el menú de Solop ERP, la carpeta "**Gestión de Saldos Pendientes**", luego seleccione la ventana "**Selección de Pago**".
 
     |Menú de ADempiere para el Documento Orden de Pago desde Orden|
 
-    Imagen 1. Menú de ADempiere
+    Imagen 1. Menú de Solop ERP
 
 Podrá visualizar la ventana "**Selección de Pago**", con los diferentes registros realizados en dicha ventana.
 
@@ -73,7 +73,7 @@ Podrá visualizar la ventana "**Selección de Pago**", con los diferentes regist
 
     Imagen 2. Ventana Selección de Pago
 
-Seleccione el icono "**Registro Nuevo**", ubicado en la barra de herramientas de ADempiere, para crear un nuevo registro en la ventana "**Selección de Pago**".
+Seleccione el icono "**Registro Nuevo**", ubicado en la barra de herramientas de Solop ERP, para crear un nuevo registro en la ventana "**Selección de Pago**".
 
     |Icono Registro Nuevo de la Ventana Selección de Pago para el Documento Orden de Pago desde Orden|
 
@@ -81,7 +81,7 @@ Seleccione el icono "**Registro Nuevo**", ubicado en la barra de herramientas de
 
 Seleccione en el campo "**Organización**", la organización para la cual está realizando el documento "**Orden de Pago**".
 
-    Al seleccionar la organización con la que trabajará el registro a crear estará disponible únicamente bajo esa organización  seleccionada, aunque la decisión de la organización a trabajar quedará al momento que inicie sesión en ADempiere. 
+    Al seleccionar la organización con la que trabajará el registro a crear estará disponible únicamente bajo esa organización  seleccionada, aunque la decisión de la organización a trabajar quedará al momento que inicie sesión en Solop ERP. 
 
     |Campo Organización del Documento Orden de Pago desde Orden|
 
@@ -141,7 +141,7 @@ Introduzca en el campo "**Descripción**", una breve descripción referente a la
 
     .. note::
 
-        Seleccione el icono "**Guardar Cambios**", ubicado en la barra de herramientas de ADempiere, para guardar el registro de los campos de la pestaña "**Selección de Pago**".
+        Seleccione el icono "**Guardar Cambios**", ubicado en la barra de herramientas de Solop ERP, para guardar el registro de los campos de la pestaña "**Selección de Pago**".
 
 Seleccione la opción "**Crear Desde Orden**", para crear la orden de pago desde la orden de compra.
 
@@ -159,11 +159,11 @@ Podrá visualizar la ventana de búsqueda inteligente del proceso "**Crear Desde
 
 Los campos a visualizar en el smart browser son los siguientes:
 
-    Campo "**Moneda**", este campo se encuentra sólo lectura y la moneda a mostrar dependerá de la moneda seleccionada en la ventana padre "**Selección de Pago**"; la moneda que aparezca en ese campo dentro del smart browser le indica a ADempiere que los documentos a buscar deben estar bajo esa moneda, ejemplo: 
+    Campo "**Moneda**", este campo se encuentra sólo lectura y la moneda a mostrar dependerá de la moneda seleccionada en la ventana padre "**Selección de Pago**"; la moneda que aparezca en ese campo dentro del smart browser le indica a Solop ERP que los documentos a buscar deben estar bajo esa moneda, ejemplo: 
 
-        - Si el valor en el campo "**Moneda**" es "**VES**" (Bolívar) cuando se realice la búsqueda de los documentos ADempiere mostrara únicamente los que estén creados bajo esa moneda.
+        - Si el valor en el campo "**Moneda**" es "**VES**" (Bolívar) cuando se realice la búsqueda de los documentos Solop ERP mostrara únicamente los que estén creados bajo esa moneda.
 
-        - Si  el valor en el campo "**Moneda**" es **USD**" (Dólar) cuando se realice la búsqueda de los documentos ADempiere mostrara únicamente los que estén creados bajo esa moneda.
+        - Si  el valor en el campo "**Moneda**" es **USD**" (Dólar) cuando se realice la búsqueda de los documentos Solop ERP mostrara únicamente los que estén creados bajo esa moneda.
 
         |Campo Moneda de la Ventana de Búsqueda Inteligente del Proceso Crear Desde Orden|
 
@@ -175,31 +175,31 @@ Los campos a visualizar en el smart browser son los siguientes:
 
         Imagen 16. Campo Socio de Negocio de la Ventana de Búsqueda Inteligente del Proceso Crear Desde Orden
 
-    Checklist "**Transacción de Ventas**", esté checklist comúnmente se encuentra destildado, pero sí se tilda al momento de hacer la  búsqueda en el smart browser ADempiere mostrará las "**Ordenes de Ventas**", sí el check se encuentra destildado mostrará únicamente las "**Ordenes de Compras**".
+    Checklist "**Transacción de Ventas**", esté checklist comúnmente se encuentra destildado, pero sí se tilda al momento de hacer la  búsqueda en el smart browser Solop ERP mostrará las "**Ordenes de Ventas**", sí el check se encuentra destildado mostrará únicamente las "**Ordenes de Compras**".
 
         |Checklist Transacción de Ventas de la Ventana de Búsqueda Inteligente del Proceso Crear Desde Orden|
 
         Imagen 17. Check Transacción de Ventas de la Ventana de Búsqueda Inteligente del Proceso Crear Desde Orden
 
-    Campo "**Regla de Pago**", este es un campo de búsqueda tipo lista, el cual al tildarlo mostrará una serie de opciones de reglas de pagos, la opción a seleccionar en esté campo le indicará a ADempiere qué al momento de realizar la búsqueda ubique y muestre solo las ordenes de compras que estén bajo la regla de pago seleccionada en ese campo, como por ejemplo:
+    Campo "**Regla de Pago**", este es un campo de búsqueda tipo lista, el cual al tildarlo mostrará una serie de opciones de reglas de pagos, la opción a seleccionar en esté campo le indicará a Solop ERP qué al momento de realizar la búsqueda ubique y muestre solo las ordenes de compras que estén bajo la regla de pago seleccionada en ese campo, como por ejemplo:
 
-        Si se selecciona la regla de pago "**A Crédito**" y tengo creadas una o varias órdenes de compras qué tienen establecida esa regla de pago, al realizar la búsqueda desde el smart browser ADempiere mostrará las órdenes que éste unicamente con esa regla de pago, si no existen órdenes de compras con esa regla de pago ADempiere no mostrará nada.
+        Si se selecciona la regla de pago "**A Crédito**" y tengo creadas una o varias órdenes de compras qué tienen establecida esa regla de pago, al realizar la búsqueda desde el smart browser Solop ERP mostrará las órdenes que éste unicamente con esa regla de pago, si no existen órdenes de compras con esa regla de pago Solop ERP no mostrará nada.
 
         |Campo Regla de Pago de la Ventana de Búsqueda Inteligente del Proceso Crear Desde Orden|
 
         Imagen 18. Campo Regla de Pago de la Ventana de Búsqueda Inteligente del Proceso Crear Desde Orden
 
-    Campo "**Tipo de Documento**", este es un campo de búsqueda tipo lista el cual al tildarlo mostrará una serie de opciones de los tipos de documentos que se encuentran asociados a las órdenes de compras, la opción a seleccionar en este campo le indicará a ADempiere qué al momento de realizar la búsqueda ubique y muestre solo las ordenes de compras que estén bajo el tipo de documento seleccionado en ese campo, como por ejemplo:
+    Campo "**Tipo de Documento**", este es un campo de búsqueda tipo lista el cual al tildarlo mostrará una serie de opciones de los tipos de documentos que se encuentran asociados a las órdenes de compras, la opción a seleccionar en este campo le indicará a Solop ERP qué al momento de realizar la búsqueda ubique y muestre solo las ordenes de compras que estén bajo el tipo de documento seleccionado en ese campo, como por ejemplo:
 
-        Si se selecciona el tipo de documento "**Orden de Compra Nacional**" ADempiere mostrará cuando se realice la búsqueda unicamente las ordenes de compra que estén asociadas a ese tipo de documento, de lo contrario si no es seleccionado ningún tipo de documento ADempiere mostrará todas las órdenes de compras con todos los tipos de documentos que estén asociados a una orden de compra.
+        Si se selecciona el tipo de documento "**Orden de Compra Nacional**" Solop ERP mostrará cuando se realice la búsqueda unicamente las ordenes de compra que estén asociadas a ese tipo de documento, de lo contrario si no es seleccionado ningún tipo de documento Solop ERP mostrará todas las órdenes de compras con todos los tipos de documentos que estén asociados a una orden de compra.
 
         |Campo Tipo de Documento de la Ventana de Búsqueda Inteligente del Proceso Crear Desde Orden|
 
         Imagen 19. Campo Tipo de Documento de la Ventana de Búsqueda Inteligente del Proceso Crear Desde Orden
 
-    Campo "**Fecha de la Orden**", este campo es un campo tipo fecha el cual cuenta con dos recuadros con calendarios, el primero es para ser utilizada como fecha de la orden "**Desde**" y el segundo como fecha de la orden "**Hasta**", al colocar una fecha en cualquiera de estas dos opciones (Fecha desde / Fecha hasta) ADempiere mostrará únicamente las ordenes de compras que están asociadas bajo ese rango de fechas, como por ejemplo:  
+    Campo "**Fecha de la Orden**", este campo es un campo tipo fecha el cual cuenta con dos recuadros con calendarios, el primero es para ser utilizada como fecha de la orden "**Desde**" y el segundo como fecha de la orden "**Hasta**", al colocar una fecha en cualquiera de estas dos opciones (Fecha desde / Fecha hasta) Solop ERP mostrará únicamente las ordenes de compras que están asociadas bajo ese rango de fechas, como por ejemplo:  
 
-        Si se coloca en el campo fecha desde la fecha "**18/06/2020**" y el campo fecha hasta "**20/06/2020**", ADempiere mostrar las ordenes de compras que estén bajo ese rango de fechas.
+        Si se coloca en el campo fecha desde la fecha "**18/06/2020**" y el campo fecha hasta "**20/06/2020**", Solop ERP mostrar las ordenes de compras que estén bajo ese rango de fechas.
 
         |Campo Fecha de la Orden de la Ventana de Búsqueda Inteligente del Proceso Crear Desde Orden|
 
@@ -209,9 +209,9 @@ Los campos a visualizar en el smart browser son los siguientes:
 
             Para saber más sobre el campo "**Fecha de la Orden**" y qué acción implica sobre una orden de compra, visitar el documento :ref:`documento/orden-de-compra`.
 
-    Campo "**Fecha Prometida**", este campo es un campo tipo fecha el cual cuenta con dos recuadros con calendarios, el primero es para ser utilizada como fecha prometida "**Desde**" y el segundo como fecha prometida "**Hasta**", al colocar una fecha en cualquiera de estas dos opciones (Fecha desde / Fecha hasta) ADempiere mostrará únicamente las ordenes de compras que están asociadas bajo ese rango de fechas, como por ejemplo:  
+    Campo "**Fecha Prometida**", este campo es un campo tipo fecha el cual cuenta con dos recuadros con calendarios, el primero es para ser utilizada como fecha prometida "**Desde**" y el segundo como fecha prometida "**Hasta**", al colocar una fecha en cualquiera de estas dos opciones (Fecha desde / Fecha hasta) Solop ERP mostrará únicamente las ordenes de compras que están asociadas bajo ese rango de fechas, como por ejemplo:  
 
-        Si se coloca en el campo fecha desde la fecha "**20/06/2020**" y el campo fecha hasta "**25/06/2020**", ADempiere mostrar las ordenes de compras que estén bajo ese rango de fechas.
+        Si se coloca en el campo fecha desde la fecha "**20/06/2020**" y el campo fecha hasta "**25/06/2020**", Solop ERP mostrar las ordenes de compras que estén bajo ese rango de fechas.
 
         |Campo Fecha Prometida de la Ventana de Búsqueda Inteligente del Proceso Crear Desde Orden|
 
@@ -221,7 +221,7 @@ Los campos a visualizar en el smart browser son los siguientes:
 
             Para saber más sobre el campo "**Fecha Prometida**" y qué acción implica sobre una orden de compra, visitar el documento :ref:`documento/orden-de-compra`
 
-    Campo "**Orden de Venta**" este campo es un campo tipo búsqueda, aunque este campo tenga como orden de venta eso no significa que esté asociado para ubicar sólo las órdenes de ventas es un nombre estándar que maneja ADempiere y también es utilizado para esté caso para ubicar las órdenes de compras.
+    Campo "**Orden de Venta**" este campo es un campo tipo búsqueda, aunque este campo tenga como orden de venta eso no significa que esté asociado para ubicar sólo las órdenes de ventas es un nombre estándar que maneja Solop ERP y también es utilizado para esté caso para ubicar las órdenes de compras.
 
         Este campo permite que sea ubicada una orden de compra en específico, para que al momento de realizar la búsqueda  en el smart browser, esté muestre la orden de compra ubicada desde este campo. 
 
@@ -229,7 +229,7 @@ Los campos a visualizar en el smart browser son los siguientes:
 
         Imagen 22. Campo Orden de Venta de la Ventana de Búsqueda Inteligente del Proceso Crear Desde Orden
 
-    Luego de establecer los filtros de búsqueda y cual de ellos desea seleccionar, tilde la opción "**Comenzar Búsqueda**", para buscar los diferentes registros de órdenes de compra que se encuentran en ADempiere.
+    Luego de establecer los filtros de búsqueda y cual de ellos desea seleccionar, tilde la opción "**Comenzar Búsqueda**", para buscar los diferentes registros de órdenes de compra que se encuentran en Solop ERP.
 
         |Opción Comenzar Búsqueda de la Ventana de Búsqueda Inteligente del Proceso Crear Desde Orden|
 
@@ -263,7 +263,7 @@ Los campos a visualizar en el smart browser son los siguientes:
 
         Imagen 27. Opción Ok de la Ventana de Búsqueda Inteligente del Proceso Crear Desde Orden
 
-Seleccione el icono "**Refrescar**", ubicado en la barra de herramientas de ADempiere para refrescar la ventana "**Selección de Pago**" y pueda visualizar la información cargada desde la opción "**Crear Desde Orden**".
+Seleccione el icono "**Refrescar**", ubicado en la barra de herramientas de Solop ERP para refrescar la ventana "**Selección de Pago**" y pueda visualizar la información cargada desde la opción "**Crear Desde Orden**".
 
     |Icono Refrescar del Documento Orden de Pago desde Orden|
 
@@ -339,7 +339,7 @@ Seleccione la pestaña "**Línea de Selección de Pago**", para verificar que la
 
     Campo "**Regla de Pago**", se debe seleccionar la regla de pago con la que se emitirá el pago al proveedor.
 
-        ADempiere cuenta cuenta con cinco (5) reglas de pagos, las cuales son:
+        Solop ERP cuenta cuenta con cinco (5) reglas de pagos, las cuales son:
 
         - **A crédito:** Esta regla de pago indica que dicho documento cuenta con un crédito de pago, sin embargo es crédito no es reflejado en la orden de pago si no en la regla de pago que tenga establecida el "**Socio del Negocio**" o la "**Orden de Compra**".
         
@@ -385,7 +385,7 @@ Seleccione la pestaña "**Línea de Selección de Pago**", para verificar que la
 
         Imagen 44. Campo Importe Fuente del Documento Orden de Pago desde Orden
 
-    Campo "**Tipo de Conversión**", este campo tipo lista mostrará los tipos de conversión que se encuentren registrados en ADempiere, el tipo de conversión no es más que el tipo de índice el cual se le asociará el valor de las tasa o conversiones de monedas.  
+    Campo "**Tipo de Conversión**", este campo tipo lista mostrará los tipos de conversión que se encuentren registrados en Solop ERP, el tipo de conversión no es más que el tipo de índice el cual se le asociará el valor de las tasa o conversiones de monedas.  
 
         |Campo Tipo de Conversión del Documento Orden de Pago desde Orden|
 
@@ -457,6 +457,6 @@ Al aplicar esta acción "**Completar**" el documento pasará a estado completo y
 
 .. note::
 
-    Es muy importante tener en cuenta que todo documento transaccional una vez se culmine con el llenado de los datos debe ser completado, para que ADempiere tome como válido los datos cargados en el documento.
+    Es muy importante tener en cuenta que todo documento transaccional una vez se culmine con el llenado de los datos debe ser completado, para que Solop ERP tome como válido los datos cargados en el documento.
 
 Hasta este punto llegaría el registro de órdenes a través de la ventana "**Selección de Pago**" con el tipo de documento "**Orden de Pago**" ya que solo se está creando la solicitud de los anticipos que se desean cancelar, en este paso a pesar de que se complete el documento esto no quiere decir que se han generado los pagos, para poder generar los pagos correspondientes a las órdenes asociadas a la "**Orden de Pago**" se necesita completar los procedimientos :ref:`documento/selección-de-pago` y el :ref:`documento/Imprimir-Exportar`.

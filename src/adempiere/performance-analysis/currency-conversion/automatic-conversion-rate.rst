@@ -10,11 +10,11 @@
 **Conversión Automática**
 =========================
 
-Ubique y seleccione en el menú de ADempiere, la carpeta "**Operaciones de Intercambio**", luego seleccione el proceso "**Obtener Tasas de Cambio desde Proveedor**".
+Ubique y seleccione en el menú de Solop ERP, la carpeta "**Operaciones de Intercambio**", luego seleccione el proceso "**Obtener Tasas de Cambio desde Proveedor**".
 
     |Menú de ADempiere|
 
-    Imagen 1. Menú de ADempiere
+    Imagen 1. Menú de Solop ERP
 
 Podrá visualizar la ventana del proceso "**Obtener Tasas de Cambio desde Proveedor**", para ejecutar el mismo.
 

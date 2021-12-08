@@ -25,11 +25,11 @@
 **Asientos Diarios de Contabilidad**
 ====================================
 
-Ubique y seleccione en el menú de ADempiere, la carpeta "**Análisis de Desempeño**", luego seleccione el reporte "**Asientos Diarios de Contabilidad**".
+Ubique y seleccione en el menú de Solop ERP, la carpeta "**Análisis de Desempeño**", luego seleccione el reporte "**Asientos Diarios de Contabilidad**".
 
     |Menú de ADempiere|
 
-    Imagen 1. Menú de ADempiere
+    Imagen 1. Menú de Solop ERP
 
 Podrá visualizar la ventana "**Asientos Diarios de Contabilidad**", con diferentes campos que le permiten al usuario filtrar la búsqueda de información para generar el reporte en base a lo seleccionado en cada campo que contiene dicha ventana.
 

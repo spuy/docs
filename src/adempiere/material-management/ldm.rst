@@ -41,7 +41,7 @@
 **Lista de Materiales**
 =======================
 
-Para registrar la lista de materiales de un producto en ADempiere, se tiene como requerimiento principal que el producto se encuentre previamente registrado. 
+Para registrar la lista de materiales de un producto en Solop ERP, se tiene como requerimiento principal que el producto se encuentre previamente registrado. 
 
 De no conocer el procedimiento para registrar un producto, puede consultar el documento :ref:`documento/producto` y seguir al pie de la letra cada uno de los procesos descritos en dicho documento. Ejemplificando el caso de lista de materiales es utilizado el producto "**Estándar**".
 
@@ -123,7 +123,7 @@ Luego de registrar el producto, seleccione la pestaña "**LDM**", para cargar la
 
         Imagen 13. Campo LDM Usada del Producto de la Pestaña LDM
 
-    Seleccione el icono "**Guardar Cambios**", ubicado en la barra de herramientas de ADempiere.
+    Seleccione el icono "**Guardar Cambios**", ubicado en la barra de herramientas de Solop ERP.
 
         |Icono Guardar Cambios de la Pestaña ldm del Producto Estándar para Producción|
 
@@ -135,7 +135,7 @@ Luego de registrar el producto, seleccione la pestaña "**LDM**", para cargar la
 
         Imagen 15. Ubicar el Grupo de Campos Componentes
 
-    Seleccione el icono "**Registro Nuevo**", ubicado en la barra de herramientas de ADempiere, para crear un nuevo registro de materiales o componentes del producto.
+    Seleccione el icono "**Registro Nuevo**", ubicado en la barra de herramientas de Solop ERP, para crear un nuevo registro de materiales o componentes del producto.
 
         |Icono Registro Nuevo de la Pestaña ldm del Producto Estándar para Producción|
 
@@ -245,7 +245,7 @@ Luego de registrar el producto, seleccione la pestaña "**LDM**", para cargar la
 
     .. note::
 
-        Seleccione el icono "**Guardar Cambios**", ubicado en la barra de herramientas de ADempiere para guardar el registro de los campos de la pestaña "**LDM**". 
+        Seleccione el icono "**Guardar Cambios**", ubicado en la barra de herramientas de Solop ERP para guardar el registro de los campos de la pestaña "**LDM**". 
         
         Si es necesario cargar otro material o componente para la producción del producto, repita las veces que sea necesario, el procedimiento anteriormente explicado desde el proceso de selección del icono "**Registro Nuevo**".
 

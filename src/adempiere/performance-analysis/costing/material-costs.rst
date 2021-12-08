@@ -12,13 +12,13 @@
 **Costos de Material**
 ======================
 
-Para explicar el proceso de registro automático de costo de un producto y que el usuario pueda entender el mismo, es ubicado un producto sin relación con alguna transacción en ADempiere. Para este caso, es ubicado el producto "**Estandar**", con código "**DOIS-000001**".
+Para explicar el proceso de registro automático de costo de un producto y que el usuario pueda entender el mismo, es ubicado un producto sin relación con alguna transacción en Solop ERP. Para este caso, es ubicado el producto "**Estandar**", con código "**DOIS-000001**".
 
     |Ventana Producto|
 
     Imagen 1. Ventana Producto
 
-    Seleccione la pestaña "**Costo**" para verificar si el mismo posee algún registro, es decir, si ha sido utilizado en alguna transacción en ADempiere.
+    Seleccione la pestaña "**Costo**" para verificar si el mismo posee algún registro, es decir, si ha sido utilizado en alguna transacción en Solop ERP.
 
         |Pestaña Costo|
 

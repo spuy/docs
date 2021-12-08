@@ -24,20 +24,20 @@
 **Interfaz de Usuario**
 =======================
 
-La interfaz de usuario es el medio por el cual el usuario podrá comunicarse con ADempiere, comprende todos los puntos de contacto entre el usuario y ADempiere. Su objetivo principal es que el usuario se familiarice con ADempiere a través de ciertos elementos, la interfaz cuenta con una serie de elementos los cuales se describen a continuación.
+La interfaz de usuario es el medio por el cual el usuario podrá comunicarse con Solop ERP, comprende todos los puntos de contacto entre el usuario y Solop ERP. Su objetivo principal es que el usuario se familiarice con Solop ERP a través de ciertos elementos, la interfaz cuenta con una serie de elementos los cuales se describen a continuación.
 
     |Interfaz del Usuario|
 
     Imagen 1. Interfaz del Usuario
 
-**Menú de ADempiere**
+**Menú de Solop ERP**
 ---------------------
 
 Se encuentra conformado por una serie de carpetas que contienen sub-carpetas, ventanas, procesos, reportes y smart browser (ventana de búsqueda inteligente), que el usuario puede elegir para realizar determinadas tareas.
 
     |Menú de ADempiere|
 
-    Imagen 2 Menú de ADempiere
+    Imagen 2 Menú de Solop ERP
 
 **Buscador del Menú**
 *********************
@@ -175,7 +175,7 @@ Indica los documentos que se encuentran en estado pendiente, es decir un documen
 **Vistas**
 ----------
 
-Se visualizan las diferentes ventanas de información para consultas rápidas que posee ADempiere.
+Se visualizan las diferentes ventanas de información para consultas rápidas que posee Solop ERP.
 
     |Vistas|
 

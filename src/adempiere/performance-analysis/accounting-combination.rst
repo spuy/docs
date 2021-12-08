@@ -16,7 +16,7 @@
 **Combinación Contable**
 ========================
 
-Para realizar una configuración de combinación contable en ADempiere, se debe ingresar a la ventana a la cual se le va a configurar la combinación contable, siguiendo el procedimiento detallado a continuación.
+Para realizar una configuración de combinación contable en Solop ERP, se debe ingresar a la ventana a la cual se le va a configurar la combinación contable, siguiendo el procedimiento detallado a continuación.
 
 Una vez ubicado en la ventana "**Combinación**", proceda al llenado de los campos correspondientes para definir la combinación contable.
 
@@ -26,7 +26,7 @@ Una vez ubicado en la ventana "**Combinación**", proceda al llenado de los camp
 
     Seleccione en el campo "**Alias**", el alias correspondiente a la combinación contable que está configurando.
 
-        El alias no es un campo obligatorio, sin embargo, le permite definir un nombre a la combinación que define, por defecto ADempiere crea un alias.
+        El alias no es un campo obligatorio, sin embargo, le permite definir un nombre a la combinación que define, por defecto Solop ERP crea un alias.
 
         |Campo Alias|
 
@@ -65,7 +65,7 @@ Una vez ubicado en la ventana "**Combinación**", proceda al llenado de los camp
 
     Introduzca en el campo "**Combinación**", el nombre de la combinación contable que está configurando.
 
-        La combinación no es un campo obligatorio, sin embargo, le permite definir un nombre a la combinación que define, por defecto ADempiere crea un nombre.
+        La combinación no es un campo obligatorio, sin embargo, le permite definir un nombre a la combinación que define, por defecto Solop ERP crea un nombre.
 
 
         |Campo Combinación|

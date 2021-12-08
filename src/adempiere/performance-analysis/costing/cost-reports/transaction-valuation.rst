@@ -16,11 +16,11 @@
 **Valoración de Inventario**
 ============================
 
-Ubique y seleccione en el menú de ADempiere, la carpeta "**Análisis de Desempeño**", luego seleccione la carpeta "**Gestión de Costos**", por último seleccione el reporte "**Valoración de Inventario**"
+Ubique y seleccione en el menú de Solop ERP, la carpeta "**Análisis de Desempeño**", luego seleccione la carpeta "**Gestión de Costos**", por último seleccione el reporte "**Valoración de Inventario**"
 
     |Menú de ADempiere|
 
-    Imagen 1. Menú de ADempiere
+    Imagen 1. Menú de Solop ERP
 
 Podrá visualizar la ventana "**Valoración de la Transacción**", con diferentes campos que permiten filtrar la búsqueda de la información para generar el reporte de acuerdo a lo requerido.
 

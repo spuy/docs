@@ -83,15 +83,15 @@
 **Registro de Producto**
 ========================
 
-En el menú de ADempiere, ubique y seleccione la carpeta "**Gestión de Materiales**", luego seleccione la carpeta "**Reglas de Gestión de Materiales**" y finalmente seleccione la ventana "**Producto**", adjunto imagen para referencia.
+En el menú de Solop ERP, ubique y seleccione la carpeta "**Gestión de Materiales**", luego seleccione la carpeta "**Reglas de Gestión de Materiales**" y finalmente seleccione la ventana "**Producto**", adjunto imagen para referencia.
 
     |Menú de ADempiere|
 
-    Imagen 1. Menú de ADempiere
+    Imagen 1. Menú de Solop ERP
 
     En esta ventana se registran los datos principales que la empresa requiere conocer de los productos, con la finalidad de ser utilizada al momento de realizar alguna compra / venta con dicho producto. Cada uno de los campos con el símbolo (\*) son obligatorios para el registro.
 
-Podrá visualizar la ventana "**Producto**", dónde debe seleccionar el icono "**Registro Nuevo**", que se encuentra ubicado en la barra de herramientas de ADempiere.
+Podrá visualizar la ventana "**Producto**", dónde debe seleccionar el icono "**Registro Nuevo**", que se encuentra ubicado en la barra de herramientas de Solop ERP.
 
     |Icono Registro Nuevo| 
 
@@ -371,7 +371,7 @@ Podrá visualizar la ventana "**Producto**", dónde debe seleccionar el icono "*
 
         Imagen 47. Campo Código CPE
 
-Seleccione el icono "**Guardar Cambios**" en la barra de herramientas de ADempiere.
+Seleccione el icono "**Guardar Cambios**" en la barra de herramientas de Solop ERP.
 
     |Icono Guardar Cambios Pestaña Producto|
 
@@ -442,7 +442,7 @@ Seleccione la pestaña "**Reabastecer**", ubicada del lado izquierdo de la venta
 
         Imagen 56. Campo Tamaño Cantidad Lote
 
-Seleccione el icono "**Guardar Cambios**" en la barra de herramientas de ADempiere.
+Seleccione el icono "**Guardar Cambios**" en la barra de herramientas de Solop ERP.
 
     |Icono Guardar Cambios Pestaña Reabastecer|
 
@@ -531,7 +531,7 @@ Seleccione la pestaña "**Compras**", ubicada del lado izquierdo de la ventana "
 
         Imagen 69. Campo Costo por Orden
 
-Seleccione el icono "**Guardar Cambios**" en la barra de herramientas de ADempiere.
+Seleccione el icono "**Guardar Cambios**" en la barra de herramientas de Solop ERP.
 
     |Icono Guardar Cambios Pestaña Compras|
 
@@ -554,7 +554,7 @@ Seleccione la pestaña "**Precio**", ubicada del lado izquierdo de la ventana "*
 
         Imagen 72. Campo Versión de Lista de Precios
 
-Seleccione el icono "**Guardar Cambios**" en la barra de herramientas de ADempiere.
+Seleccione el icono "**Guardar Cambios**" en la barra de herramientas de Solop ERP.
 
     |Icono Guardar Cambios Pestaña Precio|
 
@@ -583,7 +583,7 @@ Seleccione la pestaña "**Conversión Unidad de Medida**", ubicada del lado izqu
 
         Imagen 76. Campo Factor de Destino a Base
 
-Seleccione el icono "**Guardar Cambios**" en la barra de herramientas de ADempiere.
+Seleccione el icono "**Guardar Cambios**" en la barra de herramientas de Solop ERP.
 
     |Icono Guardar Cambios Pestaña Conversión|
 

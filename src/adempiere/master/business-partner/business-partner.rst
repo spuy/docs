@@ -43,15 +43,15 @@
 **Registro de Socio del Negocio**
 =================================
 
-En el menú de ADempiere, ubique y seleccione la carpeta "**Relación con Socio del Negocio**", luego seleccione la carpeta "**Reglas de Socios del Negocio**" y finalmente seleccione la ventana "**Socio del Negocio**".
+En el menú de Solop ERP, ubique y seleccione la carpeta "**Relación con Socio del Negocio**", luego seleccione la carpeta "**Reglas de Socios del Negocio**" y finalmente seleccione la ventana "**Socio del Negocio**".
 
     |Menú de ADempiere|
 
-    Imagen 1. Menú de ADempiere
+    Imagen 1. Menú de Solop ERP
 
     En esta ventana se registran los datos principales que la empresa requiere del socio del negocio cliente. Cada uno de los campos con el símbolo (*) son obligatorios para el registro.
 
-A continuación visualizará la ventana "**Socio del Negocio**", dónde debe seleccionar el icono de "**Registro Nuevo**" que se encuentra ubicado en la barra de herramientas de ADempiere.
+A continuación visualizará la ventana "**Socio del Negocio**", dónde debe seleccionar el icono de "**Registro Nuevo**" que se encuentra ubicado en la barra de herramientas de Solop ERP.
 
     |Ventana Principal Socio del Negocio|
 
@@ -77,7 +77,7 @@ Proceda al llenado de los campos necesarios que a continuación se detallan.
 
         .. note::
 
-            Si no es ingresado un dato en este campo ADempiere genera un dato de tipo numérico autoincrementable.
+            Si no es ingresado un dato en este campo Solop ERP genera un dato de tipo numérico autoincrementable.
 
         |Campo Código|
 
@@ -137,9 +137,9 @@ Proceda al llenado de los campos necesarios que a continuación se detallan.
 
         **Crédito Correcto:** Activa la gestión de crédito por estar dentro del límite de cŕedito.
 
-        **Crédito Verificación:** Es establecido de forma automática por ADempiere al evaluar el crédito, cuando el saldo actual está por encima del % de crédito en verificación (por defecto es 90%) del límite de crédito pero no alcanza el 100%.
+        **Crédito Verificación:** Es establecido de forma automática por Solop ERP al evaluar el crédito, cuando el saldo actual está por encima del % de crédito en verificación (por defecto es 90%) del límite de crédito pero no alcanza el 100%.
 
-        **Crédito Retenido:** Es establecido de forma automática por ADempiere al evaluar el crédito, cuando el saldo actual está por encima del límite de crédito, bloqueando la posibilidad de completar ordenes de ventas, completar facturas y emitir entregas.
+        **Crédito Retenido:** Es establecido de forma automática por Solop ERP al evaluar el crédito, cuando el saldo actual está por encima del límite de crédito, bloqueando la posibilidad de completar ordenes de ventas, completar facturas y emitir entregas.
 
         **Crédito Detenido:** Establecido de forma manual, bloqueando la posibilidad de completar ordenes de ventas, completar facturas y emitir entregas.
 

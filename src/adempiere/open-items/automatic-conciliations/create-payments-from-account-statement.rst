@@ -43,16 +43,16 @@
 **Crear Pagos desde Estado de Cuenta**
 --------------------------------------
 
-El proceso **”Crear Pagos desde Estado de Cuenta”** es realizado por consecuencia de la existencia de **”Pagos/Cobros”** que se encuentran en el extracto bancario y al momento de la conciliación no se encuentra ninguna coincidencia con los movimientos registrados en ADempiere; el mismo parte del proceso de conciliación automática donde al importar el extracto bancario  verifica  los movimientos registrado en ADempiere, este realiza una verificación de coincidencias de **”Pagos/Cobros”** en ambos lados (Movimientos del extracto / Movimientos en ADempiere), mayormente se encuentran muchos movimientos en el extracto bancario que no han sido registrados en ADempiere y no solo es por que no se lleve un buen control de los registros si no que los extractos bancarios poseen detalladamente otros tipo de transacciones como comisiones bancarias que en algunos casos no son registrados en ADempiere o poseen movimientos bancarios que se desconoce su procedencia, pero para este tipo de casos se encuentra el proceso **”Crear Pagos desde Estado de Cuenta”**, ya que es muy importante que todos los movimientos bancarios coincidan en su totalidad con los registros en ADempiere o que los mismos logren ser identificados, ya que de lo contrario la conciliación no podrá ser completada en ADempiere.
+El proceso **”Crear Pagos desde Estado de Cuenta”** es realizado por consecuencia de la existencia de **”Pagos/Cobros”** que se encuentran en el extracto bancario y al momento de la conciliación no se encuentra ninguna coincidencia con los movimientos registrados en Solop ERP; el mismo parte del proceso de conciliación automática donde al importar el extracto bancario  verifica  los movimientos registrado en Solop ERP, este realiza una verificación de coincidencias de **”Pagos/Cobros”** en ambos lados (Movimientos del extracto / Movimientos en Solop ERP), mayormente se encuentran muchos movimientos en el extracto bancario que no han sido registrados en Solop ERP y no solo es por que no se lleve un buen control de los registros si no que los extractos bancarios poseen detalladamente otros tipo de transacciones como comisiones bancarias que en algunos casos no son registrados en Solop ERP o poseen movimientos bancarios que se desconoce su procedencia, pero para este tipo de casos se encuentra el proceso **”Crear Pagos desde Estado de Cuenta”**, ya que es muy importante que todos los movimientos bancarios coincidan en su totalidad con los registros en Solop ERP o que los mismos logren ser identificados, ya que de lo contrario la conciliación no podrá ser completada en Solop ERP.
 
-El presente material elaborado por `ERPyA`_ pretende ofrecerle una explicación eficiente a nuestros clientes del procedimiento a seguir para la creación de pagos y cobros sin registros en ADempiere, partiendo desde el proceso de Conciliación Automática registro de pagos / cobros existentes en el extracto bancario importado, obteniendo un resultado exitoso al momento de conciliación de cuentas en la versión 3.9.2 de ADempiere en la localización Venezuela.
+El presente material elaborado por `ERPyA`_ pretende ofrecerle una explicación eficiente a nuestros clientes del procedimiento a seguir para la creación de pagos y cobros sin registros en Solop ERP, partiendo desde el proceso de Conciliación Automática registro de pagos / cobros existentes en el extracto bancario importado, obteniendo un resultado exitoso al momento de conciliación de cuentas en la versión 3.9.2 de Solop ERP en la localización Venezuela.
 
 .. _paso/cobros-sin-registros:
 
 **Pagos/Cobros sin Registros**
 ------------------------------
 
-Los pagos o cobros sin registro en ADempiere pueden presentarse en las empresas por diferentes motivos los cuales pueden ser que no fueron registrados a tiempo o correctamente, o la cuenta bancaria a recibido un cobro por adelantado y este no ha sido notificado al personal que lleva los registros de los pagos/cobros en ADempiere, el registro de los mismos puede realizarse de tres formas explicadas a continuación.
+Los pagos o cobros sin registro en Solop ERP pueden presentarse en las empresas por diferentes motivos los cuales pueden ser que no fueron registrados a tiempo o correctamente, o la cuenta bancaria a recibido un cobro por adelantado y este no ha sido notificado al personal que lleva los registros de los pagos/cobros en Solop ERP, el registro de los mismos puede realizarse de tres formas explicadas a continuación.
 
 Luego de realizar el proceso de conciliación, ubique la pestaña "**Línea Estado Cuentas**".
 
@@ -60,7 +60,7 @@ Luego de realizar el proceso de conciliación, ubique la pestaña "**Línea Esta
     
     Imagen 1. Pestaña Estado Cuentas para Pagos Cobros sin Registros
 
-Seleccione el icono "**Proceso**", en la barra de herramientas de ADempiere.
+Seleccione el icono "**Proceso**", en la barra de herramientas de Solop ERP.
 
     |Icono Proceso para Pagos Cobros sin Registros|
     
@@ -105,7 +105,7 @@ En la ventana de búsqueda inteligente de "**Crear Pago desde Estado de Cuenta**
         
         Imagen 7. Campo Cargo
 
-Seleccione la opción "**OK**" para generar automáticamente el documento de pago/cobro en ADempiere.
+Seleccione la opción "**OK**" para generar automáticamente el documento de pago/cobro en Solop ERP.
 
     |Opción OK para Crear Pagos Cobros de Comisiones|
     
@@ -113,7 +113,7 @@ Seleccione la opción "**OK**" para generar automáticamente el documento de pag
 
     .. warning::
 
-        Si ADempiere refleja el error "**No encontrado Factura / Socio del Negocio**", es porque está buscando una factura asignada al pago/cobro o un socio del negocio asociado al banco y no existe registro de ello. En este caso, es necesario abrir registro del banco y seleccionar un socio del negocio.
+        Si Solop ERP refleja el error "**No encontrado Factura / Socio del Negocio**", es porque está buscando una factura asignada al pago/cobro o un socio del negocio asociado al banco y no existe registro de ello. En este caso, es necesario abrir registro del banco y seleccionar un socio del negocio.
 
 Podrá visualizar el "**Pago/Cobro**" de cargos bancarios en la pestaña "**Línea Estado de Cuentas**", como la pestaña cuenta con varios registros, esté puede ser ubicado por el monto del movimiento bancario. Al ubicar el registro esté debe contar con las siguientes características:
 
@@ -155,9 +155,9 @@ Podrá visualizar el "**Pago/Cobro**" de cargos bancarios en la pestaña "**Lín
 
                 El monto que aparece en el campo "**Cantidad TEF**" debe ser el mismo monto que aparece en el campo "**Total de la Transacción**".
 
-Si desea verificar el registro del pago/cobro generado en ADempiere puede realizarlo tildando el campo "**Pago**" y lo llevará a la ventana "**Pago/Cobro**" de ADempiere.
+Si desea verificar el registro del pago/cobro generado en Solop ERP puede realizarlo tildando el campo "**Pago**" y lo llevará a la ventana "**Pago/Cobro**" de Solop ERP.
 
-Puede presionar click derecho y seleccionar la opción **”Acercar”** y lo llevará a la ventana "**Pago/Cobro**" de ADempiere.
+Puede presionar click derecho y seleccionar la opción **”Acercar”** y lo llevará a la ventana "**Pago/Cobro**" de Solop ERP.
 
     |Pago Acercar|
 
@@ -172,11 +172,11 @@ Puede presionar click derecho y seleccionar la opción **”Acercar”** y lo ll
 **Otros Tipos de Pagos o Cobros**
 *********************************
 
-Para aquellos movimientos que se encuentran en el extracto bancario que al momento de realizar la conciliación no se asoció a ningún pago/cobro en ADempiere por qué no se encontraban registrados pero sí se conoce su procedencia se deben asociar al tipo de transacción "**Otro tipo de Pago**" ya estando dentro de la opción "**Crear Pago desde Estado de Cuenta**" se debe realizar los siguientes pasos.
+Para aquellos movimientos que se encuentran en el extracto bancario que al momento de realizar la conciliación no se asoció a ningún pago/cobro en Solop ERP por qué no se encontraban registrados pero sí se conoce su procedencia se deben asociar al tipo de transacción "**Otro tipo de Pago**" ya estando dentro de la opción "**Crear Pago desde Estado de Cuenta**" se debe realizar los siguientes pasos.
 
     .. note::
 
-        Para este caso se tomará como ejemplo un préstamo bancario, el cual el socio de negocio al que se le realizó el préstamo hizo un abono, en su momento esta transferencia no había sido notificada por ello no se realizó el registro del pago/cobro en ADempiere, pero como se sabe de dónde proviene ese movimiento bancario este entraría dentro de la tipo de transacción "**Otro tipo de Pago**".
+        Para este caso se tomará como ejemplo un préstamo bancario, el cual el socio de negocio al que se le realizó el préstamo hizo un abono, en su momento esta transferencia no había sido notificada por ello no se realizó el registro del pago/cobro en Solop ERP, pero como se sabe de dónde proviene ese movimiento bancario este entraría dentro de la tipo de transacción "**Otro tipo de Pago**".
 
 En la ventana de búsqueda inteligente "**Crear Pago desde Estado de Cuenta**" seleccione el o los pagos/cobros correspondientes a otros tipos de pagos.
 
@@ -210,7 +210,7 @@ Seleccione en el campo "**Cargo**" el cargo correspondiente al pago/cobro,siguie
 
         El cargo a utilizar dependerá del tipo de transacción que se esté registrando.
 
-Seleccione la opción "**OK**" para generar automáticamente el documento de pago/cobro en ADempiere.
+Seleccione la opción "**OK**" para generar automáticamente el documento de pago/cobro en Solop ERP.
 
     |OK Otro Tipo de Pago|
 
@@ -252,9 +252,9 @@ Podrá visualizar el "**Pago/Cobro**" creado de "**Otro Tipo de Pago**" en la pe
 
                 El monto que aparece en el campo "**Cantidad TEF**" debe ser el mismo monto que aparece en el campo "**Total de la Transacción**".
 
-Si desea verificar el registro del pago/cobro generado en ADempiere puede realizarlo tildando el campo "**Pago**" y lo llevará a la ventana "**Pago/Cobro**" de ADempiere.
+Si desea verificar el registro del pago/cobro generado en Solop ERP puede realizarlo tildando el campo "**Pago**" y lo llevará a la ventana "**Pago/Cobro**" de Solop ERP.
 
-Puede presionar click derecho y seleccionar la opción "**Acercar**" y lo llevará a la ventana "**Pago/Cobro**" de ADempiere.
+Puede presionar click derecho y seleccionar la opción "**Acercar**" y lo llevará a la ventana "**Pago/Cobro**" de Solop ERP.
 
     |Acercar Otro tipo de Pagos|
 
@@ -269,9 +269,9 @@ Puede presionar click derecho y seleccionar la opción "**Acercar**" y lo llevar
 **Pagos o Cobros sin Identificar**
 **********************************
 
-Al momento de hacer la conciliaciòn bancaria la mayorìa de las veces suelen haber movimientos en el extracto bancario que se desconocen de donde provienen, y para ADempiere todos los movimiento que tiene el extracto bancario deben ser identificados o asociados a un "**Pago/Cobro**" ya que de no ser identificados ADempiere no permitirá completar la conciliación bancaria, el cual implica que dentro de ADempiere no se ha realizado ninguna conciliación.
+Al momento de hacer la conciliaciòn bancaria la mayorìa de las veces suelen haber movimientos en el extracto bancario que se desconocen de donde provienen, y para Solop ERP todos los movimiento que tiene el extracto bancario deben ser identificados o asociados a un "**Pago/Cobro**" ya que de no ser identificados Solop ERP no permitirá completar la conciliación bancaria, el cual implica que dentro de Solop ERP no se ha realizado ninguna conciliación.
 
-Para los movimientos bancarios que se desconocen de dónde proviene, en ADempiere se llevan a pagos/cobros no identificados, para poder completar e identificar todos esos movimientos que posee el extracto bancario.
+Para los movimientos bancarios que se desconocen de dónde proviene, en Solop ERP se llevan a pagos/cobros no identificados, para poder completar e identificar todos esos movimientos que posee el extracto bancario.
 
 .. note::
 
@@ -297,7 +297,7 @@ Seleccione en el campo "**Tipo de Transacción**" la opción "**Pago Sin Identif
 
     Imagen 28. Pago Cobro sin Identificar
 
-Seleccione la opción "**OK**" para generar automáticamente el documento de "**Pago/Cobro**" en ADempiere y esté pueda ser asociado con el movimiento bancario desconocido.
+Seleccione la opción "**OK**" para generar automáticamente el documento de "**Pago/Cobro**" en Solop ERP y esté pueda ser asociado con el movimiento bancario desconocido.
 
     |OK Pago Cobro sin Identificar|
 
@@ -305,7 +305,7 @@ Seleccione la opción "**OK**" para generar automáticamente el documento de "**
 
     .. note::
 
-        Al seleccionar la opción "**OK**"  ADempiere creará un "**Pago/Cobro**" con las mismas características del movimiento bancario desconocido en cuanto monto, fecha, y moneda.
+        Al seleccionar la opción "**OK**"  Solop ERP creará un "**Pago/Cobro**" con las mismas características del movimiento bancario desconocido en cuanto monto, fecha, y moneda.
 
 Podrá visualizar el "**Pago/Cobro** creado de "**Pago sin Identificar**" en la pestaña "**Línea Estado de Cuentas**", como la pestaña cuenta con varios registros, esté puede ser ubicado por el monto del movimiento bancario. Al ubicar el registro esté debe contar con las siguientes características:
 
@@ -335,9 +335,9 @@ Podrá visualizar el "**Pago/Cobro** creado de "**Pago sin Identificar**" en la 
 
             El socio de negocio "**Pagos/Cobros Sin Identificar**" es un socio de negocio que toma temporalmente el "**Pago/Cobro**" sin identificar, el cual más adelante será modificado una vez se desee identificar ese "**Pago/Cobro**".
 
-Si desea verificar el  registro del pago/cobro generado en ADempiere puede realizarlo tildado el campo "**Pago**" y lo llevará a la ventana "**Pago/Cobro**" de ADempiere.
+Si desea verificar el  registro del pago/cobro generado en Solop ERP puede realizarlo tildado el campo "**Pago**" y lo llevará a la ventana "**Pago/Cobro**" de Solop ERP.
 
-Puede presionar click derecho y seleccionar la opción "**Acercar**" y lo llevará a la ventana "**Pago/Cobro**" de ADempiere.
+Puede presionar click derecho y seleccionar la opción "**Acercar**" y lo llevará a la ventana "**Pago/Cobro**" de Solop ERP.
 
     |Acercar Pago Cobro sin Identificar|
 
@@ -380,4 +380,4 @@ Al aplicar esta acción "**Completar**" el documento pasará a esta completo y e
 
 .. note::
 
-    Es muy importante tener en cuenta que todo documento transaccional una vez se culmine con el llenado de los datos debe ser completado, para que ADempiere tome como válido los datos cargados en el documento.
+    Es muy importante tener en cuenta que todo documento transaccional una vez se culmine con el llenado de los datos debe ser completado, para que Solop ERP tome como válido los datos cargados en el documento.

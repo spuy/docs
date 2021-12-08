@@ -27,11 +27,11 @@
 **Registro de Peso**
 ====================
 
-Ubique y seleccione en el menú de ADempiere, la carpeta "**Gestión de Distribución**", luego seleccione la ventana "**Registro de Peso**".
+Ubique y seleccione en el menú de Solop ERP, la carpeta "**Gestión de Distribución**", luego seleccione la ventana "**Registro de Peso**".
 
     |Menú de ADempiere|
 
-    Imagen 1. Menú de ADempiere
+    Imagen 1. Menú de Solop ERP
 
 Podrá visualizar la ventana "**Registro de Peso**", con los registros de la ventana.
 
@@ -39,7 +39,7 @@ Podrá visualizar la ventana "**Registro de Peso**", con los registros de la ven
 
     Imagen 2. Ventana Registro de Peso
 
-Seleccione el icono "**Registro Nuevo**", ubicado en la barra de herramientas de ADempiere, para crear un uevo registro en la ventana "**Registro de Peso**".
+Seleccione el icono "**Registro Nuevo**", ubicado en la barra de herramientas de Solop ERP, para crear un uevo registro en la ventana "**Registro de Peso**".
 
     |Icono Registro Nuevo de la Ventana Registro de Peso|
 
@@ -81,7 +81,7 @@ Introduzca en el campo "**Descripción**", una breve descripción del registro q
 
     Imagen 9. Campo Descripción de la Vantana Registro de Peso
 
-Al tildar el checklist "**Transacción de Ventas**", se indica que el registro que se encuentra realizando esta asociado a una transacción de ventas de ADempiere.
+Al tildar el checklist "**Transacción de Ventas**", se indica que el registro que se encuentra realizando esta asociado a una transacción de ventas de Solop ERP.
 
     |Checklist Transacción de Ventas de la Vantana Registro de Peso|
 
@@ -145,7 +145,7 @@ Seleccione la opción "**Leer Peso (Desde Báscula)**", para cargar la informaci
 
     Imagen 19. Opción Leer Peso Desde Báscula de la Vantana Registro de Peso
 
-Seleccione el icono "**Guardar Cambios**", ubicado en la barra de herramientas de ADempiere, para guardar el registro de los campos de la ventana "**Registro de Peso**".
+Seleccione el icono "**Guardar Cambios**", ubicado en la barra de herramientas de Solop ERP, para guardar el registro de los campos de la ventana "**Registro de Peso**".
 
     |Icono Guardar Cambios de la Ventana Registro de Peso|
 

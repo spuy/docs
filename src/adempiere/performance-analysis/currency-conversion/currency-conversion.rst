@@ -33,7 +33,7 @@
 **Conversión Manual**
 =====================
 
-La conversión manual consiste en crear en ADempiere los tipos de conversión con los cuales va a trabajar la empresa. Esta funcionalidad permite lo siguiente:
+La conversión manual consiste en crear en Solop ERP los tipos de conversión con los cuales va a trabajar la empresa. Esta funcionalidad permite lo siguiente:
 
 - **Tasa de Conversión Diaria:** Al trabajar con diferentes monedas en los procesos de compra/venta de la organización, se vuelve obligatoría la creación de las tasas de cambio diariamente en los diferentes tipos de conversión con los que trabaja dicha organización. Adicional a ello, la fecha final del rango o periodo de la tasa de cambio, siempre debe ser igual a la fecha de inicio de dicho rango o periodo. 
 
@@ -62,11 +62,11 @@ En el siguiente enlace puede descargar un ejemplo del mismo para visualizarlo me
 **Tipo de Conversión**
 ----------------------
 
-Ubique y seleccione en el menú de ADempiere, la carpeta "**Análisis de Desempeño**", luego seleccione la carpeta "**Reglas Contables**", por último seleccione la ventana "**Tipo de Conversión**".
+Ubique y seleccione en el menú de Solop ERP, la carpeta "**Análisis de Desempeño**", luego seleccione la carpeta "**Reglas Contables**", por último seleccione la ventana "**Tipo de Conversión**".
 
     |Menú de ADempiere 2|
 
-    Imagen 2. Menú de ADempiere
+    Imagen 2. Menú de Solop ERP
 
 Podrá visualizar la ventana "**Tipo de Conversión**", con los diferentes registros que contiene dicha ventana.
 
@@ -74,7 +74,7 @@ Podrá visualizar la ventana "**Tipo de Conversión**", con los diferentes regis
 
     Imagen 3. Ventana Tipo de Conversión
 
-Seleccione el icono "**Registro Nuevo**", ubicado en la barra de herramientas de ADempiere.
+Seleccione el icono "**Registro Nuevo**", ubicado en la barra de herramientas de Solop ERP.
 
     |Icono Registro Nuevo|
 
@@ -118,24 +118,24 @@ Seleccione el icono "**Registro Nuevo**", ubicado en la barra de herramientas de
 
 .. note:: 
 
-    Recuerde guardar los cambios realizados seleccionando el icono "**Guardar Cambios**", ubicado en la barra de herramientas de ADempiere.
+    Recuerde guardar los cambios realizados seleccionando el icono "**Guardar Cambios**", ubicado en la barra de herramientas de Solop ERP.
 
 .. _paso/crear-tasa-desde-ventana-moneda:
 
 **Tasa de Conversión desde la Ventana Moneda**
 ----------------------------------------------
 
-Ubique y seleccione en el menú de ADempiere, la carpeta "**Análisis de Desempeño**", luego seleccione la carpeta "**Reglas Contables**", por último seleccione la ventana "**Moneda**".
+Ubique y seleccione en el menú de Solop ERP, la carpeta "**Análisis de Desempeño**", luego seleccione la carpeta "**Reglas Contables**", por último seleccione la ventana "**Moneda**".
 
     |Menú de ADempiere|
 
-    Imagen 11. Menú de ADempiere
+    Imagen 11. Menú de Solop ERP
 
 Seleccione el registro de la moneda para la cual requiere registrar una tasa de conversión. Para ejemplificar el registro es utilizada la moneda "**USD**".
 
     |Ventana Moneda|
 
-    Imagen 12. Registro de Moneda USD en ADempiere
+    Imagen 12. Registro de Moneda USD en Solop ERP
 
     Seleccione la pestaña "**Tasas de Cambio**" para navegar entre los diferentes registros de tasas de cambio correspondientes a la moneda "**USD**".
 
@@ -185,7 +185,7 @@ Seleccione el registro de la moneda para la cual requiere registrar una tasa de 
 
 .. note:: 
 
-    Recuerde guardar los cambios realizados seleccionando el icono "**Guardar Cambios**", ubicado en la barra de herramientas de ADempiere.
+    Recuerde guardar los cambios realizados seleccionando el icono "**Guardar Cambios**", ubicado en la barra de herramientas de Solop ERP.
 
 
 .. _paso/crear-tasa-desde-ventana-tasa-de-cambio:
@@ -193,11 +193,11 @@ Seleccione el registro de la moneda para la cual requiere registrar una tasa de 
 **Tasa de Conversión desde la Ventana Tasa de Cambio**
 ------------------------------------------------------
 
-Ubique y seleccione en el menú de ADempiere, la carpeta "**Análisis de Desempeño**", luego seleccione la carpeta "**Reglas Contables**", por último seleccione la ventana "**Tasa de Cambio**".
+Ubique y seleccione en el menú de Solop ERP, la carpeta "**Análisis de Desempeño**", luego seleccione la carpeta "**Reglas Contables**", por último seleccione la ventana "**Tasa de Cambio**".
 
     |menú de tasa de cambio|
 
-    Imagen 20. Menú de ADempiere
+    Imagen 20. Menú de Solop ERP
 
 Podrá visualizar la ventana "**Tasa de Cambio**", con diferentes campos que permiten registrar las tasas de cambio según el tipo de conversión.
 
@@ -255,4 +255,4 @@ Introduzca en el campo "**Factor de Destino a Base**", la tasa por la que serán
 
 .. note:: 
 
-    Recuerde guardar los cambios realizados seleccionando el icono "**Guardar Cambios**", ubicado en la barra de herramientas de ADempiere.
+    Recuerde guardar los cambios realizados seleccionando el icono "**Guardar Cambios**", ubicado en la barra de herramientas de Solop ERP.

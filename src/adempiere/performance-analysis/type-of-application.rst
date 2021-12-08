@@ -12,7 +12,7 @@
 
 Administrar la contabilidad de una empresa es una labor costosa, que requiere un gran número de recursos en gestión humana y habilidades que permita un eficiente manejo de técnicas en materia financiera, puesto que genera gran demanda en la organización del contador a cargo.
 
-Por esta razón, **ADempiere** ha desarrollado una estructura especialmente pensada para entidades contables y financieras, bajo la modalidad de manejo multi-contable. Para esto se implementa el tipo de aplicación que define el comportamiento contable de cada transacción agrupando por tipo de contabilidad.
+Por esta razón, **Solop ERP** ha desarrollado una estructura especialmente pensada para entidades contables y financieras, bajo la modalidad de manejo multi-contable. Para esto se implementa el tipo de aplicación que define el comportamiento contable de cada transacción agrupando por tipo de contabilidad.
 
 Cuando hablamos de tipo de aplicación en gestión contable, se refiere a la forma en la que los asientos contables son aplicado en balances, dicho de otro modo, esta figura define la categoría de la contabilidad, por ejemplo, contabilidad presupuestaria o contabilidad de reservas, de esta manera se puede determinar si un asiento por ejemplo pertenece al presupuesto contable o a una reserva contable, para explicarlo se plantea el siguiente ejemplo:
 
@@ -22,9 +22,9 @@ Cuando hablamos de tipo de aplicación en gestión contable, se refiere a la for
 
     La contabilidad real es generada de forma predeterminada al ejecutar una factura de cuenta por pagar que es justificada con un gasto o un costo, afectando la contabilidad de gasto y costo respectivamente, o bien, al generar una factura de cuentas por cobrar, afectando la contabilidad de ingresos.
 
-    Con base en el ejemplo anterior, con la utilización del tipo de aplicación el contador podrá establecer porcentualmente cuanto es la proximidad a la estimación con respecto a los resultados, puesto que **ADempiere** le permite generar informes financieros comparativos por tipo de aplicación.
+    Con base en el ejemplo anterior, con la utilización del tipo de aplicación el contador podrá establecer porcentualmente cuanto es la proximidad a la estimación con respecto a los resultados, puesto que **Solop ERP** le permite generar informes financieros comparativos por tipo de aplicación.
 
-Los tipos de aplicación de los cuales **ADempiere** le permite disponer, son los siguientes:
+Los tipos de aplicación de los cuales **Solop ERP** le permite disponer, son los siguientes:
 
 **Actual:** Se refiere a la contabilidad de gestión o real, su principal objetivo es medir resultados en tiempo real, y de esta forma se conoce el estado financiero actual de la empresa, esto garantiza la toma de decisiones acertadas.
 
@@ -68,7 +68,7 @@ Los tipos de aplicación de los cuales **ADempiere** le permite disponer, son lo
 
     .. note::
 
-        El tipo de aplicación **actual**, es predeterminado en toda transacción realizada y reportes generados desde **ADempiere**.
+        El tipo de aplicación **actual**, es predeterminado en toda transacción realizada y reportes generados desde **Solop ERP**.
 
 **Compromiso:** Se refiere a compromisos mutuos que asume o genera la empresa, generalmente asociados a un contrato o un documento que avala el mismo, como una orden de venta (**adquiere un compromiso con el cliente**) u orden de compra (**genera un compromiso con el proveedor**).
 

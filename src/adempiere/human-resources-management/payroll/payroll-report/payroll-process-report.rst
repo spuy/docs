@@ -20,11 +20,11 @@
 **Generar Reporte de Nómina**
 =============================
 
-Ubique y seleccione en el menú de ADempiere, la carpeta "**Gestión de Recursos Humanos y Nómina**", luego seleccione la carpeta "**Nómina**", por último seleccione la carpeta "**Reporte de Nómina**", para posteriormente seleccionar el "**Reporte de Nómina**".
+Ubique y seleccione en el menú de Solop ERP, la carpeta "**Gestión de Recursos Humanos y Nómina**", luego seleccione la carpeta "**Nómina**", por último seleccione la carpeta "**Reporte de Nómina**", para posteriormente seleccionar el "**Reporte de Nómina**".
 
     |Menú de ADempiere|
 
-    Imagen 1. Menú de ADempiere
+    Imagen 1. Menú de Solop ERP
 
 Podrá visualizar en la ventana "**Reporte de Nómina**", los diferentes campos que permiten generar el reporte de nómina de acuerdo a lo requerido por el usuario en su momento. Cabe destacar que estos campos son filtros  los cuales nos permiten obtener la información más precisa del reporte que deseamos visualizar. No es obligatorio llenar todos campos, usted escogerá los que más se adapten a la información que usted desea obtener. A continuación se detallan cada uno de ellos
 
@@ -118,7 +118,7 @@ Seleccionar la opción "**OK**", ubicada en la parte inferior derecha de la vent
 
     Imagen 15. Opción Ok para Generar el Reporte
 
-El reporte que se visualiza a continuación es un "**Recibo de Pago**". Es una de los tipos de reporte que encontrará en Adempiere.
+El reporte que se visualiza a continuación es un "**Recibo de Pago**". Es una de los tipos de reporte que encontrará en Solop ERP.
 
     |Reporte de Nómina|
 

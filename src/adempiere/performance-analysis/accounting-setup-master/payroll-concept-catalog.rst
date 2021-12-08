@@ -17,13 +17,13 @@
 **Catálogo de Conceptos**
 =========================
 
-Ubique y seleccione en el menú de ADempiere, la carpeta "**Gestión de Recursos Humanos y Nómina**", luego seleccione la carpeta "**Nómina**", por último seleccione la ventana "**Catálogo de Conceptos**".
+Ubique y seleccione en el menú de Solop ERP, la carpeta "**Gestión de Recursos Humanos y Nómina**", luego seleccione la carpeta "**Nómina**", por último seleccione la ventana "**Catálogo de Conceptos**".
 
     |Menú de ADempiere|
 
-    Imagen 1. Menú de ADempiere
+    Imagen 1. Menú de Solop ERP
 
-Podrá visualizar la ventana "**Catálogo de Concepto**", con los diferentes registros de conceptos de nómina que contiene ADempiere.
+Podrá visualizar la ventana "**Catálogo de Concepto**", con los diferentes registros de conceptos de nómina que contiene Solop ERP.
 
     |Ventana Catálogo de Concepto|
 
@@ -93,7 +93,7 @@ Seleccione en el campo "**Centro de Costos**", el centro de costos por el cual e
 
     Imagen 12. Campo Centro de Costos de la Pestaña Contabilidad de Concepto
 
-Seleccione el icono "**Guardar Cambios**", ubicado en la barra de herramientas de ADempiere para guardar el registro de los campos de la pestaña "**Contabilidad de Concepto**".
+Seleccione el icono "**Guardar Cambios**", ubicado en la barra de herramientas de Solop ERP para guardar el registro de los campos de la pestaña "**Contabilidad de Concepto**".
 
     |Icono Guardar Cambios de la Pestaña Contabilidad de Concepto|
 

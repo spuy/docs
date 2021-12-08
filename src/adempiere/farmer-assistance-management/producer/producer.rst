@@ -55,13 +55,13 @@
 **Registro de Productor**
 =========================
 
-Ubique y seleccione en el menú de ADempiere, la carpeta "**Gestión de Asistencia Técnica Agricola**", luego seleccione la carpeta "**Configuración de Asistencia Técnica**", por último seleccione la carpeta "**Configuración de Productor**". Finalmente, seleccione la ventana "**Productor**".
+Ubique y seleccione en el menú de Solop ERP, la carpeta "**Gestión de Asistencia Técnica Agricola**", luego seleccione la carpeta "**Configuración de Asistencia Técnica**", por último seleccione la carpeta "**Configuración de Productor**". Finalmente, seleccione la ventana "**Productor**".
 
     |Menú de Productor|
 
-    Imagen 1. Menú de ADempiere
+    Imagen 1. Menú de Solop ERP
 
-Podrá visualizar la ventana "**Productor**", con los diferentes registros de productores que contiene ADempiere.
+Podrá visualizar la ventana "**Productor**", con los diferentes registros de productores que contiene Solop ERP.
 
     En esta ventana se registran los datos principales que la empresa requiere del productor. Cada uno de los campos con el símbolo (*) son obligatorios para el registro.
 
@@ -69,7 +69,7 @@ Podrá visualizar la ventana "**Productor**", con los diferentes registros de pr
 
     Imagen 2. Ventana Productor
 
-Seleccione el icono "**Registro Nuevo**", ubicado en la barra de herramientas de ADempiere, para registrar un nuevo productor.
+Seleccione el icono "**Registro Nuevo**", ubicado en la barra de herramientas de Solop ERP, para registrar un nuevo productor.
 
     |icono registros nuevo de la ventana productor|
 
@@ -137,9 +137,9 @@ Seleccione el icono "**Registro Nuevo**", ubicado en la barra de herramientas de
 
         **Crédito Correcto:** Activa la gestión de crédito por estar dentro del límite de cŕedito.
 
-        **Crédito Verificación:** Es establecido de forma automática por ADempiere al evaluar el crédito, cuando el saldo actual está por encima del % de crédito en verificación (por defecto es 90%) del límite de crédito pero no alcanza el 100%.
+        **Crédito Verificación:** Es establecido de forma automática por Solop ERP al evaluar el crédito, cuando el saldo actual está por encima del % de crédito en verificación (por defecto es 90%) del límite de crédito pero no alcanza el 100%.
 
-        **Crédito Retenido:** Es establecido de forma automática por ADempiere al evaluar el crédito, cuando el saldo actual está por encima del límite de crédito, bloqueando la posibilidad de completar ordenes de ventas, completar facturas y emitir entregas.
+        **Crédito Retenido:** Es establecido de forma automática por Solop ERP al evaluar el crédito, cuando el saldo actual está por encima del límite de crédito, bloqueando la posibilidad de completar ordenes de ventas, completar facturas y emitir entregas.
 
         **Crédito Detenido:** Establecido de forma manual, bloqueando la posibilidad de completar ordenes de ventas, completar facturas y emitir entregas.
 
@@ -187,7 +187,7 @@ Seleccione el icono "**Registro Nuevo**", ubicado en la barra de herramientas de
 
 .. note::
 
-    Recuerde guardar el registro de los campos de la pestaña "**Productor**", antes de seleccionar cualquier otra pestaña de la ventana "**Productor**". El registro se guarda seleccionando el icono "**Guardar Cambios**", ubicado en la barra de herramientas de ADempiere.
+    Recuerde guardar el registro de los campos de la pestaña "**Productor**", antes de seleccionar cualquier otra pestaña de la ventana "**Productor**". El registro se guarda seleccionando el icono "**Guardar Cambios**", ubicado en la barra de herramientas de Solop ERP.
 
 **Pestaña Localización del Productor**
 --------------------------------------

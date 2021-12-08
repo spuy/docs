@@ -25,19 +25,19 @@
 **Registro de Pago**
 ====================
 
-Para ejemplificar el procedimiento de generar un pago en ADempiere, es utilizada la factura por pagar "**1000099**".
+Para ejemplificar el procedimiento de generar un pago en Solop ERP, es utilizada la factura por pagar "**1000099**".
 
     |Factura a Pagar|
 
     Imagen 1. Factura por Pagar
 
-Ubique y seleccione en el menú de ADempiere, la carpeta "**Gestión de Saldos Pendientes**", luego seleccione la ventana "**Pago/Cobro**".
+Ubique y seleccione en el menú de Solop ERP, la carpeta "**Gestión de Saldos Pendientes**", luego seleccione la ventana "**Pago/Cobro**".
 
     |Menú de ADempiere|
 
-    Imagen 2. Menú de ADempiere
+    Imagen 2. Menú de Solop ERP
 
-Luego podrá visualizar la ventana "**Pago/Cobro**", donde debe seleccionar el icono "**Registro Nuevo**" que se encuentra ubicado en la barra de herramientas de ADempiere para crear un nuevo registro en la ventana "**Pago/Cobro**".
+Luego podrá visualizar la ventana "**Pago/Cobro**", donde debe seleccionar el icono "**Registro Nuevo**" que se encuentra ubicado en la barra de herramientas de Solop ERP para crear un nuevo registro en la ventana "**Pago/Cobro**".
 
     |Icono Registro Nuevo|
 

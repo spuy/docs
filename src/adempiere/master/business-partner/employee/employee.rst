@@ -165,11 +165,11 @@
 **Registro de Empleado**
 ========================
 
-En el menú de ADempiere, ubique y seleccione la carpeta "**Gestión de Recursos Humanos y Nómina**", luego seleccione la carpeta "**Recursos Humanos**", por último seleccione la carpeta "**Configuración de Empleado**" y la ventana "**Empleado (Todos)**".
+En el menú de Solop ERP, ubique y seleccione la carpeta "**Gestión de Recursos Humanos y Nómina**", luego seleccione la carpeta "**Recursos Humanos**", por último seleccione la carpeta "**Configuración de Empleado**" y la ventana "**Empleado (Todos)**".
 
     |Menú de ADempiere|
 
-    Imagen 1. Menú de ADempiere
+    Imagen 1. Menú de Solop ERP
 
 En la ventana "**Empleado (Todos)**", se registran todos los datos personales y laborales que la empresa requiere del socio del negocio empleado, los mismos son utilizados y actualizados a lo largo de su período laboral en dicha empresa. La información del empleado desde el momento en el que inicia su período laboral, hasta el momento actual o el momento en el que termina, se encuentra distribuida en la ventana principal "**Empleado**" y sus (11) once pestañas, explicadas a continuación.
 
@@ -177,7 +177,7 @@ En la ventana "**Empleado (Todos)**", se registran todos los datos personales y 
 
     Cada uno de los campos con el símbolo (*) son obligatorios para el registro.
 
-A continuación podrá apreciar la ventana "**Empleado (Todos)**", dónde debe seleccionar el icono de "**Registro Nuevo**" que se encuentra ubicado en la barra de herramientas de ADempiere.
+A continuación podrá apreciar la ventana "**Empleado (Todos)**", dónde debe seleccionar el icono de "**Registro Nuevo**" que se encuentra ubicado en la barra de herramientas de Solop ERP.
 
     |Ventana Principal Empleados (Todos)|
 
@@ -434,7 +434,7 @@ Seleccione la pestaña "**Información de Contrato**" y proceda al llenado de lo
 
         Imagen 36. Código de Validación
 
-    Seleccione en el campo "**Nómina**", la nómina regular establecida para cada Empleado. Adempiere presenta las siguientes nóminas cuando el empleado posee un Salario Fijo (Nómina Semanal, Nómina Quincenal y Nómina Mensual), en cambio si el Empleado Posee un Salario Variable se encuentras disponibles (Nómina Semanal Mixta, Nómina Quincenal Mixta y Nómina Mensual Mixta)
+    Seleccione en el campo "**Nómina**", la nómina regular establecida para cada Empleado. Solop ERP presenta las siguientes nóminas cuando el empleado posee un Salario Fijo (Nómina Semanal, Nómina Quincenal y Nómina Mensual), en cambio si el Empleado Posee un Salario Variable se encuentras disponibles (Nómina Semanal Mixta, Nómina Quincenal Mixta y Nómina Mensual Mixta)
 
         |Campo Nómina|
 
@@ -643,7 +643,7 @@ Seleccione la pestaña "**Información de Contrato**" y proceda al llenado de lo
 **Pestaña Atributo de Empleado**
 ********************************
 
-En una empresa los empleados poseen caracteristicas diferentes, Estas caracteristicas en Adempiere son llamadas Atributos. Un Atributo puede ser el Salario Diario de cada Empleado, El factor ARI, Una Deducción por un Préstamo, etc. Los mismos son definidos en la pestaña "**Atributo de Empleado**" para que sean aplicados a la nómina al momento de la ejecución. Los valores de estos atributos varian según el tipo de Concepto de Nómina. Cabe Destacar que un empleados puede poseer diferentes atributos.
+En una empresa los empleados poseen caracteristicas diferentes, Estas caracteristicas en Solop ERP son llamadas Atributos. Un Atributo puede ser el Salario Diario de cada Empleado, El factor ARI, Una Deducción por un Préstamo, etc. Los mismos son definidos en la pestaña "**Atributo de Empleado**" para que sean aplicados a la nómina al momento de la ejecución. Los valores de estos atributos varian según el tipo de Concepto de Nómina. Cabe Destacar que un empleados puede poseer diferentes atributos.
 
 Seleccione la pestaña "**Atributo de Empleado**" y proceda al llenado de los campos correspondientes.
 
@@ -665,7 +665,7 @@ Seleccione en el campo "**Concepto Nómina**", el Concepto de Nómina con el cua
 
     .. warning::
 
-        Al seleccionar cualquier valor en este campo podrá apreciar una serie de conceptos definidos por Adempiere y que se consideran atributos de cada empleado
+        Al seleccionar cualquier valor en este campo podrá apreciar una serie de conceptos definidos por Solop ERP y que se consideran atributos de cada empleado
 
 Introduzca en el campo "**Descripción**", una breve descripción del registro de concepto de nómina que esta realizando.
 
@@ -843,7 +843,7 @@ Introduzca en el campo "**Cta. Correo Electrónico**", el correo electrónico as
 
     Imagen 95. Campo Cta. Correo Electrónico
 
-Seleccione el icono "**Guardar Cambios**" en la barra de herramientas de ADempiere.
+Seleccione el icono "**Guardar Cambios**" en la barra de herramientas de Solop ERP.
 
     |Icono Guardar Cambios2|
 
@@ -851,7 +851,7 @@ Seleccione el icono "**Guardar Cambios**" en la barra de herramientas de ADempie
 
 .. warning::
 
-    Si el empleado posee otra cuenta bancaria para registrar, seleccione el icono "**Registro Nuevo**" en la barra de herramientas de ADempiere en la pestaña "**Cuenta Bancaria**" y proceda al llenado de los campos explicados anteriormente.
+    Si el empleado posee otra cuenta bancaria para registrar, seleccione el icono "**Registro Nuevo**" en la barra de herramientas de Solop ERP en la pestaña "**Cuenta Bancaria**" y proceda al llenado de los campos explicados anteriormente.
 
 **Pestaña Experiencia Laboral**
 *******************************
@@ -900,7 +900,7 @@ Introduzca en el campo "**Comentarios**", cualquier información relevante con r
 
     Imagen 103. Campo Comentarios
 
-Seleccione el icono "**Guardar Cambios**" en la barra de herramientas de ADempiere, para guardar los cambios realizados en la pestaña "**Experiencia Laboral**".
+Seleccione el icono "**Guardar Cambios**" en la barra de herramientas de Solop ERP, para guardar los cambios realizados en la pestaña "**Experiencia Laboral**".
 
     |Icono Guardar Cambios3|
 
@@ -908,7 +908,7 @@ Seleccione el icono "**Guardar Cambios**" en la barra de herramientas de ADempie
 
 .. warning::
 
-    Si el empleado posee otras referencias laborales para registrar, seleccione el icono "**Registro Nuevo**" en la barra de herramientas de ADempiere en la pestaña "**Experiencia Laboral**" y proceda al llenado de los campos explicados anteriormente.
+    Si el empleado posee otras referencias laborales para registrar, seleccione el icono "**Registro Nuevo**" en la barra de herramientas de Solop ERP en la pestaña "**Experiencia Laboral**" y proceda al llenado de los campos explicados anteriormente.
 
 
 **Pestaña Educación**
@@ -1147,7 +1147,7 @@ Introduzca en el campo "**Email**", el email de la persona de contacto.
 
     Imagen 137. Campo Email Localización
 
-Seleccione el icono "**Guardar Cambios**" en la barra de herramientas de ADempiere, para guardar los cambios realizados en la pestaña "**Localización**".
+Seleccione el icono "**Guardar Cambios**" en la barra de herramientas de Solop ERP, para guardar los cambios realizados en la pestaña "**Localización**".
 
     |Icono Guardar Cambios4|
 
@@ -1155,7 +1155,7 @@ Seleccione el icono "**Guardar Cambios**" en la barra de herramientas de ADempie
 
 .. warning::
 
-    Si el empleado posee otra dirección de localización para registrar, seleccione el icono "**Registro Nuevo**" en la barra de herramientas de ADempiere en la pestaña "**Localización**" y proceda al llenado de los campos explicados anteriormente.
+    Si el empleado posee otra dirección de localización para registrar, seleccione el icono "**Registro Nuevo**" en la barra de herramientas de Solop ERP en la pestaña "**Localización**" y proceda al llenado de los campos explicados anteriormente.
 
 
 **Pestaña Detalle de Seguro**
@@ -1253,7 +1253,7 @@ Podrá apreciar en el campo "**Saldo de Cuenta**", el monto total restante para 
 
     Imagen 153. Campo Saldo de Cuenta
 
-Seleccione el icono "**Guardar Cambios**" en la barra de herramientas de ADempiere para guardar el registro de la pestaña.
+Seleccione el icono "**Guardar Cambios**" en la barra de herramientas de Solop ERP para guardar el registro de la pestaña.
 
     |Icono Guardar Cambios5|
 
@@ -1261,7 +1261,7 @@ Seleccione el icono "**Guardar Cambios**" en la barra de herramientas de ADempie
 
 .. warning::
 
-    Si el empleado posee otro seguro para registrar, seleccione el icono "**Registro Nuevo**" en la barra de herramientas de ADempiere en la pestaña "**Detalle de Seguro**" y proceda al llenado de los campos explicados anteriormente.
+    Si el empleado posee otro seguro para registrar, seleccione el icono "**Registro Nuevo**" en la barra de herramientas de Solop ERP en la pestaña "**Detalle de Seguro**" y proceda al llenado de los campos explicados anteriormente.
 
 
 **Pestaña Detalle de Permiso**

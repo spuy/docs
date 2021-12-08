@@ -23,13 +23,13 @@
 
 Para generar una órdenes de venta desde una hoja técnica, es obligatorio que el documento "**Hoja Técnica**" se encuentre en estado "**Completo**". A continuación, se explica el procedimiento para generar una orden de venta desde una hoja técnica.
 
-Ubica en el menú de ADempiere, la carpeta "**Gestión de Asistencia al Agricultor**", luego seleccione la ventana "**Hoja Técnica**".
+Ubica en el menú de Solop ERP, la carpeta "**Gestión de Asistencia al Agricultor**", luego seleccione la ventana "**Hoja Técnica**".
 
     |menú de hoja técnica|
 
-    Imagen 1. Menú de ADempiere
+    Imagen 1. Menú de Solop ERP
 
-Podrá visualizar la ventana "**Hoja Técnica**", con diferentes registros de hojas técnicas en ADempiere.
+Podrá visualizar la ventana "**Hoja Técnica**", con diferentes registros de hojas técnicas en Solop ERP.
 
     |ventana hoja técnica|
 

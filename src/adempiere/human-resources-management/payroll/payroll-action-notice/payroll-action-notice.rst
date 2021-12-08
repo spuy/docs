@@ -14,11 +14,11 @@
 **Registro de Incidencias**
 ===========================
 
-Seleccione en el menú de ADempiere, la carpeta "**Gestión de Recursos Humanos y Nómina**", luego seleccione la carpeta "**Nómina**", por último seleccione la ventana "**Novedades de Nómina**".
+Seleccione en el menú de Solop ERP, la carpeta "**Gestión de Recursos Humanos y Nómina**", luego seleccione la carpeta "**Nómina**", por último seleccione la ventana "**Novedades de Nómina**".
 
     |Menú de ADempiere|
 
-    Imagen 1. Menú de ADempiere
+    Imagen 1. Menú de Solop ERP
 
 Seleccione en el campo "**Proceso Nómina**", el proceso de nómina actual al cual le cargará las incidencias de los empleados. Dicho proceso se encuentra explicado en el documento :ref:`documento/procedimiento-para-procesar-nómina` elaborado por `ERPyA`_.
 

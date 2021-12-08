@@ -13,4 +13,4 @@ Proceda a realizar una "**Transferencia Bancaria**" donde reintegre el dinero qu
 
 Por último y para culminar el proceso de pago de nómina debe realizar un cierre de caja con la finalidad de conciliar los ingresos y egresos de nuestra "**Caja en Tránsito de Nómina**", para ello debe cumplir los pasos que se detallan en el siguiente documento :ref:`documento/cierre-de-caja-nómina`.
 
-Una vez finalizado y completado cada uno de estos procesos se da por culminado el registro de pagos de nómina en ADempiere.
+Una vez finalizado y completado cada uno de estos procesos se da por culminado el registro de pagos de nómina en Solop ERP.

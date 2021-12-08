@@ -16,11 +16,11 @@
 **Valoración de Inventario a Fecha Efectiva**
 =============================================
 
-Ubique y seleccione en el menú de ADempiere, la carpeta "**Análisis de Desempeño**", luego seleccione la carpeta "**Gestión de Costos**", por último seleccione el reporte "**Valoración de Inventario a Fecha Efectiva**".
+Ubique y seleccione en el menú de Solop ERP, la carpeta "**Análisis de Desempeño**", luego seleccione la carpeta "**Gestión de Costos**", por último seleccione el reporte "**Valoración de Inventario a Fecha Efectiva**".
 
     |Menú de ADempiere|
 
-    Imagen 1. Menú de ADempiere
+    Imagen 1. Menú de Solop ERP
 
 Podrá visualizar la ventana "**Valoración de Inventario a Fecha Efectiva**", con diferentes campos que le permiten al usuario filtrar la información en base a lo seleccionado en los mismos.
 

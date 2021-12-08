@@ -60,22 +60,22 @@ Para ejemplificar el procedimiento de distribución contable, se tiene el docume
 
     Imagen 1. Factura por Pagar
 
-Ubique y seleccione en el menú de ADempiere, la carpeta "**Análisis de Desempeño**", luego seleccione la carpeta "**Reglas Contables**", por último seleccione la ventana "**Distribución Contable**".
+Ubique y seleccione en el menú de Solop ERP, la carpeta "**Análisis de Desempeño**", luego seleccione la carpeta "**Reglas Contables**", por último seleccione la ventana "**Distribución Contable**".
 
     |Menú de ADempiere|
 
-    Imagen 2. Menú de ADempiere
+    Imagen 2. Menú de Solop ERP
 
 **Distribución Contable**
 -------------------------
 
-Podrá visualizar la carpeta "**Distribución Contable**", con los diferentes registros de distribución que se encuentran en ADempiere.
+Podrá visualizar la carpeta "**Distribución Contable**", con los diferentes registros de distribución que se encuentran en Solop ERP.
 
     |Ventana Distribución Contable|
 
     Imagen 3. Ventana Distribución Contable
 
-Seleccione el icono "**Registro Nuevo**", ubicado en la barra de herramientas de ADempiere, para crear un nuevo registro de distribución.
+Seleccione el icono "**Registro Nuevo**", ubicado en la barra de herramientas de Solop ERP, para crear un nuevo registro de distribución.
 
     |Icono Registro Nuevo de la Ventana Distribución Contable|
 
@@ -213,7 +213,7 @@ Seleccione el icono "**Registro Nuevo**", ubicado en la barra de herramientas de
 
 .. note::
 
-    Recuerde guardar el registro de los campos de la pestaña antes de posicionarse en otra pestaña de la misma ventana, seleccionando el icono "**Guardar Cambios**" ubicado en la barra de herramientas de ADempiere.
+    Recuerde guardar el registro de los campos de la pestaña antes de posicionarse en otra pestaña de la misma ventana, seleccionando el icono "**Guardar Cambios**" ubicado en la barra de herramientas de Solop ERP.
 
 **Línea**
 ---------

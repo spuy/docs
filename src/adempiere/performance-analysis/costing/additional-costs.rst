@@ -17,7 +17,7 @@
 **Costos Adicionales**
 ======================
 
-El presente material elaborado por `ERPyA`_ pretende ofrecerle una explicación eficiente a nuestros clientes del procedimiento a seguir para realizar y obtener un resultado exitoso al momento de generar costos adicionales a los productos en la versión 3.9.2 de ADempiere en la localización Venezuela.
+El presente material elaborado por `ERPyA`_ pretende ofrecerle una explicación eficiente a nuestros clientes del procedimiento a seguir para realizar y obtener un resultado exitoso al momento de generar costos adicionales a los productos en la versión 3.9.2 de Solop ERP en la localización Venezuela.
 
 Las empresas realizan un estudio sobre el costo de producción de un producto determinado con la finalidad de establecer el precio de venta en base a los resultados obtenidos. Con esto se quiere decir que según el método empleado por la empresa, se toma en cuenta el costo de la materia prima, el costo de la producción, impresión, empaque, flete y cualquier otro servicio o producto necesario para lograr un producto final, para obtener el precio de venta del producto acorde a los costos que implica la producción del mismo.
 
@@ -28,13 +28,13 @@ Un producto puede tener costos adicionales por flete, servicios de impresión, e
 **Documentos por Pagar**
 ------------------------
 
-Ubique y seleccione en el menú de ADempiere, la carpeta "**Gestión de Compras**", luego seleccione la ventana "**Documentos por Pagar**".
+Ubique y seleccione en el menú de Solop ERP, la carpeta "**Gestión de Compras**", luego seleccione la ventana "**Documentos por Pagar**".
 
     |Menú de ADempiere|
     
-    Imagen 1. Menú de ADempiere
+    Imagen 1. Menú de Solop ERP
 
-Realice el procedimiento regular para generar una factura de cuentas por pagar, definido en el material :ref:`documento/documento-por-pagar` de la versión 3.9.2 de ADempiere en la localización Venezuela.
+Realice el procedimiento regular para generar una factura de cuentas por pagar, definido en el material :ref:`documento/documento-por-pagar` de la versión 3.9.2 de Solop ERP en la localización Venezuela.
 
     |Factura por Pagar|
     
@@ -58,7 +58,7 @@ Seleccione la pestaña "**Costos Adicionales**" y proceda al llenado de los camp
 
         .. note:: 
 
-            Este campo permite establecer con que tipología sera realizada la distribución de costos. ADempiere utiliza cinco (5) tipologías para aplicar la distribución de costo a un producto.
+            Este campo permite establecer con que tipología sera realizada la distribución de costos. Solop ERP utiliza cinco (5) tipologías para aplicar la distribución de costo a un producto.
             
             - Cantidad.
             
@@ -98,7 +98,7 @@ Seleccione la pestaña "**Costos Adicionales**" y proceda al llenado de los camp
 
         .. note::
 
-            Según la tipología seleccionada anteriormente, ADempiere realiza la distribución de costos de la siguiente manera:
+            Según la tipología seleccionada anteriormente, Solop ERP realiza la distribución de costos de la siguiente manera:
 
             - Cantidad, realiza la distribución dividiendo el costo de la factura entre la cantidad del producto recepcionado.
             
@@ -132,11 +132,11 @@ Regrese a la ventana principal "**Factura**" y seleccione la opción "**Completa
 **Consultar Costos Adicionales**
 --------------------------------
 
-Ubique en el menú de ADempiere, la carpeta "**Análisis de Desempeño**", luego seleccione la carpeta "**Gestión de Costos**", por último seleccione el reporte "**Detalle Costo del Producto**".  
+Ubique en el menú de Solop ERP, la carpeta "**Análisis de Desempeño**", luego seleccione la carpeta "**Gestión de Costos**", por último seleccione el reporte "**Detalle Costo del Producto**".  
 
     |Menú de ADempiere 2| 
     
-    Imagen 11. Menú de ADempiere
+    Imagen 11. Menú de Solop ERP
 
 Podrá visualizar el reporte "**Detalle Costo del Producto**" de la siguiente manera.
 

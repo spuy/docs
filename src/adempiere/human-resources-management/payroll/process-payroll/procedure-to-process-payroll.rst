@@ -20,13 +20,13 @@
 **Registro de Nómina**
 ======================
 
-Ubique y seleccione en el menú de ADempiere, la carpeta "**Gestión de Recursos Humanos y Nómina**", luego seleccione la carpeta "**Nómina**", por último seleccione la ventana "**Proceso Nómina**".
+Ubique y seleccione en el menú de Solop ERP, la carpeta "**Gestión de Recursos Humanos y Nómina**", luego seleccione la carpeta "**Nómina**", por último seleccione la ventana "**Proceso Nómina**".
 
     |Menú de ADempiere|
 
-    Imagen 1. Menú de ADempiere
+    Imagen 1. Menú de Solop ERP
 
-Podrá visualizar la ventana "**Proceso Nómina**", donde debe seleccionar el icono "**Registro Nuevo**" ubicado en la barra de herramientas de ADempiere, para crear un nuevo registro de proceso de nómina.
+Podrá visualizar la ventana "**Proceso Nómina**", donde debe seleccionar el icono "**Registro Nuevo**" ubicado en la barra de herramientas de Solop ERP, para crear un nuevo registro de proceso de nómina.
 
     |Ventana Proceso Nómina y Selección de Icono de Registro Nuevo|
 
@@ -52,7 +52,7 @@ Introduzca en el campo "**Nombre**", el nombre de la nómina que se requiere pro
 
     .. note::
 
-        Los tipos de documentos de nómina se encuentran agrupados según su comportamiento, la Nominas Semanal y la Nómina Semanal Mixta se encuentran definidas en el Tipo de Documento "**Nómina Semanal**". De igual forma ocurre con las diferentes nóminas regulares utilizadas en ADempiere.
+        Los tipos de documentos de nómina se encuentran agrupados según su comportamiento, la Nominas Semanal y la Nómina Semanal Mixta se encuentran definidas en el Tipo de Documento "**Nómina Semanal**". De igual forma ocurre con las diferentes nóminas regulares utilizadas en Solop ERP.
 
 Seleccione en el campo "**Fecha Contable**", la fecha correspondiente a la fecha final del periodo de la nómina seleccionada, es decir la fecha hasta ingresada en el campo "**Nombre**".
 
@@ -94,7 +94,7 @@ Seleccione en el campo "**Tipo de Conversión**", el tipo de conversión corresp
 
     Imagen 11. Campo Tipo de Conversión
 
-Seleccione el icono "**Guardar Cambios**", ubicado en la barra de herramientas de ADempiere para guardar el registro de los campos de la ventana "**Proceso Nómina**".
+Seleccione el icono "**Guardar Cambios**", ubicado en la barra de herramientas de Solop ERP para guardar el registro de los campos de la ventana "**Proceso Nómina**".
 
 
     |Selección de Icono Guardar|

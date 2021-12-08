@@ -37,7 +37,7 @@ Para registrar un proveedor, es necesario que sea realizado el procedimiento reg
 
 Luego de culminar el procedimieto de registro de socio del negocio, seleccione la pestaña "**Proveedor**" que se encuentra del lado izquierdo de la ventana socio del negocio, para identificar al socio del negocio como proveedor de la empresa.
 
-    Esta pestaña le indica a ADempiere si el socio del negocio que se esta registrando es un proveedor.
+    Esta pestaña le indica a Solop ERP si el socio del negocio que se esta registrando es un proveedor.
 
     |Pestaña Proveedor|
 
@@ -53,7 +53,7 @@ Luego de culminar el procedimieto de registro de socio del negocio, seleccione l
 
         - Ademas posee un grupo de campos que definen la configuración de retenciones a aplicar al socio del negocio, dichos campos se encuentran explicados en los documentos :ref:`documento/retención-iva`, :ref:`documento/retención-islr` y :ref:`documento/retención-municipal`.
 
-Seleccione el checklist "**Proveedor**" para habilitar en ADempiere el socio del negocio como proveedor de la compañía u organización.
+Seleccione el checklist "**Proveedor**" para habilitar en Solop ERP el socio del negocio como proveedor de la compañía u organización.
 
     |Checklist Proveedor|
 
@@ -61,7 +61,7 @@ Seleccione el checklist "**Proveedor**" para habilitar en ADempiere el socio del
 
     .. warning::
 
-        De no ser tildado el checklist "**Proveedor**", ADempiere no tomará el socio del negocio como proveedor.
+        De no ser tildado el checklist "**Proveedor**", Solop ERP no tomará el socio del negocio como proveedor.
 
 Al tildar el checklist "**Proveedor**" podrá apreciar un grupo de campos necesarios para la compra de productos al mismo, dichos campos no son obligatorios ya que pueden ser definidos en el documento "**Orden de Compra**" al momento de su elaboración.
 
