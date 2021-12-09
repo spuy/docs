@@ -43,21 +43,21 @@
 **Registro de Orden de Compra Directa**
 =======================================
 
-Una Orden de Compra en ADempiere, es un tipo de documento emitido por la empresa para realizar pedidos a sus diferentes proveedores. En ella se detalla: la cantidad a comprar, el tipo de producto, precio y condiciones de pago, así como también la forma de entrega.
+Una Orden de Compra en Solop ERP, es un tipo de documento emitido por la empresa para realizar pedidos a sus diferentes proveedores. En ella se detalla: la cantidad a comprar, el tipo de producto, precio y condiciones de pago, así como también la forma de entrega.
 
-Para el registro de un documento en ADempiere debe tener en cuenta que existen campos que son de carácter obligatorio, estos campos están identificados con el carácter especial:(*) de color rojo.
+Para el registro de un documento en Solop ERP debe tener en cuenta que existen campos que son de carácter obligatorio, estos campos están identificados con el carácter especial:(*) de color rojo.
 
 .. warning::
 
 	Asegúrese  de que cada campo que se encuentre identificado como carácter obligatorio, contenga la información requerida, de lo contrario no podrá completar el registro.
 
-Ubique en el menú de ADempiere la carpeta "**Gestión de Compras**", luego seleccione la ventana "**Órdenes de Compra**", adjunto imagen para referencia.
+Ubique en el menú de Solop ERP la carpeta "**Gestión de Compras**", luego seleccione la ventana "**Órdenes de Compra**", adjunto imagen para referencia.
 
 	|Menú de ADempiere|
 
-	Imagen 1. Menú de ADempiere
+	Imagen 1. Menú de Solop ERP
 
-Seleccione el icono "**Registro Nuevo**" en la barra de herramientas de ADempiere para crear un nuevo documento.
+Seleccione el icono "**Registro Nuevo**" en la barra de herramientas de Solop ERP para crear un nuevo documento.
 
 	|Icono de Registro Nuevo|
 
@@ -80,7 +80,7 @@ Seleccione el icono "**Registro Nuevo**" en la barra de herramientas de ADempier
 			El valor en el campo organización debe ser diferente del símbolo (*) ya que éste símbolo hace referencia a todas las Organizaciones.
 
 
-	En el campo "**No. de Documento**", no es necesario ingresarlo en forma manual, al momento de realizar un registro, ADempiere genera un número de secuencia automáticamente para el documento, al seleccionar la opción guardar del nuevo registro de orden de compra.
+	En el campo "**No. de Documento**", no es necesario ingresarlo en forma manual, al momento de realizar un registro, Solop ERP genera un número de secuencia automáticamente para el documento, al seleccionar la opción guardar del nuevo registro de orden de compra.
 
 		|Campo No. del Documento|
 
@@ -304,7 +304,7 @@ Seleccione la pestaña "**Línea Orden Compra**" y proceda seleccionando el Prod
 
 	.. warning::
 
-		Recuerde guardar el registro de la pestaña "**Línea Orden Compra**" con el icono "**Guardar**" de la barra de herramientas de ADempiere, antes de cambiar a la ventana principal "**Orden de Compra**".
+		Recuerde guardar el registro de la pestaña "**Línea Orden Compra**" con el icono "**Guardar**" de la barra de herramientas de Solop ERP, antes de cambiar a la ventana principal "**Orden de Compra**".
 
 Regrese a la ventana principal "**Orden de Compra**" y seleccione la opción "**Completar**" ubicada en la parte inferior derecha del documento.
 

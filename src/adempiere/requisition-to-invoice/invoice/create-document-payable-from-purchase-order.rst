@@ -37,20 +37,20 @@
 **Crear Factura desde Orden de Compra**
 =======================================
 
-Ubique en el menú de ADempiere la carpeta "**Gestión de Compras**", luego seleccione la ventana "**Documentos por Pagar**", adjunto imagen para referencia.
+Ubique en el menú de Solop ERP la carpeta "**Gestión de Compras**", luego seleccione la ventana "**Documentos por Pagar**", adjunto imagen para referencia.
 
    |Menú de ADempiere|
 
-   Imagen 1. Menú de ADempiere
+   Imagen 1. Menú de Solop ERP
 
 Podrá visualizar la ventana "**Documentos por Pagar**", con todos los registros de documentos por pagar que se encuentran 
-en ADempiere.
+en Solop ERP.
 
     |Ventana Documentos por Pagar desde Orden de Compra|
 
     Imagen 2. Ventana Documentos por Pagar 
 
-Seleccione el icono "**Registro Nuevo**", ubicado en la barra de herramientas de ADempiere para crear un nuevo registro.
+Seleccione el icono "**Registro Nuevo**", ubicado en la barra de herramientas de Solop ERP para crear un nuevo registro.
 
     |Icono Registro Nuevo de la Ventana Documentos por Pagar desde Orden de Compra|
 
@@ -70,7 +70,7 @@ Seleccione el icono "**Registro Nuevo**", ubicado en la barra de herramientas de
 
         .. note::
 
-            Si no es ingresado ningún valor en este campo, ADempiere tomará el número de secuencia establecido para para el tipo de documento seleccionado.
+            Si no es ingresado ningún valor en este campo, Solop ERP tomará el número de secuencia establecido para para el tipo de documento seleccionado.
 
     Introduzca en el campo "**Descripción**", una breve descripción con respecto al documento que se encuentra realizando.
 
@@ -108,7 +108,7 @@ Seleccione el icono "**Registro Nuevo**", ubicado en la barra de herramientas de
 
         Imagen 11. Campo Dirección del Socio del Negocio de la Ventana Documentos por Pagar desde Orden de Compra
 
-    De igual manera, podrá visualizar en el campo "**Usuario**", el usuario dentro de ADempiere del socio del negocio seleccionado.
+    De igual manera, podrá visualizar en el campo "**Usuario**", el usuario dentro de Solop ERP del socio del negocio seleccionado.
 
         |Campo Usuario de la Ventana Documentos por Pagar desde Orden de Compra|
 
@@ -138,7 +138,7 @@ Seleccione el icono "**Registro Nuevo**", ubicado en la barra de herramientas de
 
         Imagen 16. Checklist Imprimir Descuento de la Ventana Documentos por Pagar desde Orden de Compra
 
-    Seleccione el icono "**Guardar Cambios**", ubicado en la barra de herramientas de ADempiere, para guardar el registro de los campos de la ventana "**Documentos por Pagar**".
+    Seleccione el icono "**Guardar Cambios**", ubicado en la barra de herramientas de Solop ERP, para guardar el registro de los campos de la ventana "**Documentos por Pagar**".
 
         |Icono Guardar Cambios de la Ventana Documentos por Pagar desde Orden de Compra|
 
@@ -168,7 +168,7 @@ Seleccione el icono "**Registro Nuevo**", ubicado en la barra de herramientas de
 
             Imagen 21. Campo Orden de Venta de la Ventana Crear Desde una Orden ADM Factura Recepción en una Factura
 
-        Seleccione la opción "**Comenzar Búsqueda**", para realizar la búsqueda de los registros en ADempiere según lo seleccionado anteriormente.
+        Seleccione la opción "**Comenzar Búsqueda**", para realizar la búsqueda de los registros en Solop ERP según lo seleccionado anteriormente.
 
             |Opción Comenzar Búsqueda de la Ventana Crear Desde una Orden ADM Factura Recepción en una Factura|
 
@@ -186,7 +186,7 @@ Seleccione el icono "**Registro Nuevo**", ubicado en la barra de herramientas de
 
             Imagen 24. Opción OK de la Ventana Crear Desde una Orden ADM Factura Recepción en una Factura
 
-    El proceso regresa a la ventana "**Documentos por Pagar**", donde se debe seleccionar el icono "**Refrescar**", ubicado en la barra de herramientas de ADempiere, para actualizar los campos en dicha ventana y sean visualizados los datos cargados desde el proceso anteriormente explicado.
+    El proceso regresa a la ventana "**Documentos por Pagar**", donde se debe seleccionar el icono "**Refrescar**", ubicado en la barra de herramientas de Solop ERP, para actualizar los campos en dicha ventana y sean visualizados los datos cargados desde el proceso anteriormente explicado.
 
         |Icono Refrecar de la Ventana Documentos por Pagar desde Orden de Compra|
 

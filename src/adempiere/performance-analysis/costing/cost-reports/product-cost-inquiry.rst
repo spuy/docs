@@ -55,13 +55,13 @@ Podrá visualizar la ventana "**Costos del Producto**", con el registro buscado 
 
     Imagen 7. Ventana Costos del Producto
 
-Seleccione la pestaña "**Costo del Producto**", para visualizar los registros de costos del producto según el tipo de costo configurado en ADempiere.
+Seleccione la pestaña "**Costo del Producto**", para visualizar los registros de costos del producto según el tipo de costo configurado en Solop ERP.
 
     |Pestaña Costo del Producto de la Ventana Costos del Producto|
 
     Imagen 8. Pestaña Costo del Producto de la Ventana Costos del Producto
 
-Seleccione la pestaña "**Detalle de Costo**", para visualizar de manera detallada los registros del costo del producto según el tipo de costo configurado en ADempiere.
+Seleccione la pestaña "**Detalle de Costo**", para visualizar de manera detallada los registros del costo del producto según el tipo de costo configurado en Solop ERP.
 
     |Pestaña Detalle de Costo de la Ventana Costos del Producto|
 

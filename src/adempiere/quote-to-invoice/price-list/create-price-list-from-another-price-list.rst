@@ -27,11 +27,11 @@
 
 Para ejemplificar el caso de creación de una lista de precios desde otra, se tiene la versión de lista de precios base "**2021-03-03 09:03:41**", creada en la lista de precios "**Ventas (USD)**". De igual manera, se tiene la tasa de cambio de "**VES**" a "**USD**" y viceversa, con monto de "**1.877.000,00**", a la fecha "**03/03/2021**".
 
-Ubique y seleccione en el menú de ADempiere, la carpeta "**Gestión de Materiales**", luego seleccione la carpeta "**Reglas de Gestión de Materiales**", por último seleccione la ventana "**Lista de Precios**". 
+Ubique y seleccione en el menú de Solop ERP, la carpeta "**Gestión de Materiales**", luego seleccione la carpeta "**Reglas de Gestión de Materiales**", por último seleccione la ventana "**Lista de Precios**". 
 
     |menú de lista de precios|
 
-    Imagen 1. Menú de ADempiere
+    Imagen 1. Menú de Solop ERP
 
 Podrá visualizar la ventana "**Lista de Precios**", con todos los registros de listas de precios de compras y ventas.
 
@@ -55,7 +55,7 @@ Seleccione la pestaña "**Versión**", para crear la versión de lista de precio
 
     Imagen 4. Pestaña Versión
 
-Seleccione el icono "**Registro Nuevo**", ubicado en la barra de herramientas de ADempiere.
+Seleccione el icono "**Registro Nuevo**", ubicado en la barra de herramientas de Solop ERP.
 
     |icono registro nuevo para lista de precios desde otra|
 
@@ -103,7 +103,7 @@ Seleccione en el campo "**Válido Desde**", la fecha de inicio del periodo de va
 
     Imagen 11. Campo Válido Desde
 
-Seleccione el icono "**Guardar Cambios**", ubicado en la barra de herramientas de ADempiere.
+Seleccione el icono "**Guardar Cambios**", ubicado en la barra de herramientas de Solop ERP.
 
     |icono guardar cambios para lista de precios desde otra|
 
@@ -117,7 +117,7 @@ Seleccione la opción "**Crear Lista de Precios**".
 
     .. note::
 
-        También puede acceder al proceso, seleccionando la opción "**Crear Lista de Precios**" desplegada del icono "**Proceso** ubicado en la barra de herramientas de ADempiere.
+        También puede acceder al proceso, seleccionando la opción "**Crear Lista de Precios**" desplegada del icono "**Proceso** ubicado en la barra de herramientas de Solop ERP.
 
 Podrá visualizar la ventana "**Crear Lista de Precios**", con diferentes campos que permiten generar la lista de precios en base a lo requerido por el usuario.
 

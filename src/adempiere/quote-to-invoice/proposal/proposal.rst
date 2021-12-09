@@ -42,11 +42,11 @@
 **Registro de Propuesta**
 =========================
 
-Ubique y seleccione en el menú de ADempiere, la carpeta "**Gestión de Ventas**", luego seleccione la carpeta "**Órdenes de Venta**" y por último seleccione la ventana "**Órdenes de Venta**".
+Ubique y seleccione en el menú de Solop ERP, la carpeta "**Gestión de Ventas**", luego seleccione la carpeta "**Órdenes de Venta**" y por último seleccione la ventana "**Órdenes de Venta**".
 
     |menú de propuesta|
 
-    Imagen 1. Menú de ADempiere
+    Imagen 1. Menú de Solop ERP
 
 Podrá visualizar la ventana "**Órdenes de Venta**", con los diferentes registros realizados en dicha ventana.
 
@@ -54,7 +54,7 @@ Podrá visualizar la ventana "**Órdenes de Venta**", con los diferentes registr
 
     Imagen 2. Órdenes de Venta
 
-Seleccione el icono "**Registro Nuevo**", ubicado en la barra de herramientas de ADempiere.
+Seleccione el icono "**Registro Nuevo**", ubicado en la barra de herramientas de Solop ERP.
 
     |icono registro nuevo de la ventana órdenes de venta|
 
@@ -68,7 +68,7 @@ Seleccione en el campo "**Organización**", la organización para la cual se enc
 
 Introduzca en el campo "**No. del Documento**", el número de documento correspondiente al registro que se encuentra realizando.
 
-    Si no es ingresado ningún valor en este campo, al guardar el registro ADempiere toma el número de secuencia establecido para el documento.
+    Si no es ingresado ningún valor en este campo, al guardar el registro Solop ERP toma el número de secuencia establecido para el documento.
 
     |campo número del documento de la ventana órdenes de venta|
 
@@ -158,7 +158,7 @@ Seleccione en el campo "**Agente Comercial**", el agente comercial correspondien
 
     Imagen 19. Campo Agente Comercial
 
-Seleccione el icono "**Guardar Cambios**", ubicado en la barra de herramientas de ADempiere.
+Seleccione el icono "**Guardar Cambios**", ubicado en la barra de herramientas de Solop ERP.
 
     |icono guardar cambios de la ventana órdenes de venta|
 
@@ -212,7 +212,7 @@ Podrá visualizar en el campo "**Neto de Línea**", el monto total a pagar por e
 
     Imagen 28. Campo Neto de Línea
 
-Seleccione el icono "**Guardar Cambios**", ubicado en la barra de herramientas de ADempiere.
+Seleccione el icono "**Guardar Cambios**", ubicado en la barra de herramientas de Solop ERP.
 
     |icono guardar cambios de la pestaña línea de la orden de la ventana órdenes de venta|
 
@@ -252,7 +252,7 @@ Seleccione la acción "**Preparar**" y la opción "**OK**".
 
         El documento "**Propuesta**", debe quedar en estado "**En Proceso**", para ello se debe seleccionar la opción "**Preparar**". 
 
-Seleccione el icono "**Imprimir**", ubicado en la barra de herramientas de ADempiere.
+Seleccione el icono "**Imprimir**", ubicado en la barra de herramientas de Solop ERP.
 
     |icono imprimir de la ventana órdenes de venta|
 

@@ -30,9 +30,9 @@
 **Retiro de Fondos de Punto de Venta**
 ======================================
 
-Un retiro de fondos es realizado cuando por algún motivo se saca dinero de alguna de las cajas donde es realizado el proceso de venta de productos, la mayoria de las veces suele suceder por un alivio de caja, cancelación de un gasto, entre otros. A continuación es explicado el procedimiento regular para reflejar en ADempiere, un retiro de fondos.
+Un retiro de fondos es realizado cuando por algún motivo se saca dinero de alguna de las cajas donde es realizado el proceso de venta de productos, la mayoria de las veces suele suceder por un alivio de caja, cancelación de un gasto, entre otros. A continuación es explicado el procedimiento regular para reflejar en Solop ERP, un retiro de fondos.
 
-Para mejor referencia de lo explicado anteriormente, se presenta a continuación el diagrama del proceso "**Retiro de Fondos**", con la finalidad dar a conocer el comportamiento de ADempiere ante dicho proceso.
+Para mejor referencia de lo explicado anteriormente, se presenta a continuación el diagrama del proceso "**Retiro de Fondos**", con la finalidad dar a conocer el comportamiento de Solop ERP ante dicho proceso.
 
     |diagrama de retiro de fondos pos|
 
@@ -43,11 +43,11 @@ A continuación, se específica el procedimiento que se debe realizar para retir
 **Ejecución del Proceso**
 -------------------------
 
-Ubique y seleccione en el menú de ADempiere, la carpeta "**Gestión de Ventas**", luego seleccione la carpeta "**Órdenes de Venta**", por último seleccione la carpeta "**Punto de Venta**". Para finalizar, seleccione la ventana "**Punto de Venta**".
+Ubique y seleccione en el menú de Solop ERP, la carpeta "**Gestión de Ventas**", luego seleccione la carpeta "**Órdenes de Venta**", por último seleccione la carpeta "**Punto de Venta**". Para finalizar, seleccione la ventana "**Punto de Venta**".
 
     |Menú de ADempiere|
 
-    Imagen 2. Menú de ADempiere
+    Imagen 2. Menú de Solop ERP
 
 Si en el transcurso del día, se presenta un retiro de fondos en alguna de las cajas en la cual se encuentran realizando transacciones desde el punto de venta, seleccione la opción "**Crear Retiro de POS**", ubicada en el menú desplegado por el icono "**Proceso**" de la barra de herramientas de la ventana "**Punto de Venta**", explicada en el documento :ref:`documento/paso-barra-de-herramientas` elaborado por `ERPyA`_.
 
@@ -61,7 +61,7 @@ Podrá visualizar la ventana "**Retiros de Puntos de Venta**", en la cual el soc
 
     Imagen 4. Ventana Retiros de Puntos de Venta
 
-En dicha ventana podrá visualizar un listado de referencia con las diferentes formas de pago que contempla ADempiere.
+En dicha ventana podrá visualizar un listado de referencia con las diferentes formas de pago que contempla Solop ERP.
 
     |Listado de Referencia de la Ventana Retiros de Puntos de Venta|
 
@@ -119,7 +119,7 @@ En el grupo de campos "**Parámetro**", podrá visualizar los siguientes campos:
 
         .. note::
 
-            Si no es ingresado ningún valor en este campo, ADempiere tomará el número de idenficación correspondiente a la secuencia del tipo de documento a generar.
+            Si no es ingresado ningún valor en este campo, Solop ERP tomará el número de idenficación correspondiente a la secuencia del tipo de documento a generar.
 
     En el campo "**Descripción**", se debe ingresar una breve descripción del retiro de punto de venta que esta realizando.
 
@@ -175,7 +175,7 @@ En el grupo de campos "**Parámetro**", podrá visualizar los siguientes campos:
 
         Imagen 18. Campo Moneda de la Ventana Retiros de Puntos de Venta
 
-Seleccione la opción "**OK**", para reflejar en ADempiere el retiro de fondos del punto de venta y generar en la ventana "**Caja**" los documentos que avalan dicha transacción.
+Seleccione la opción "**OK**", para reflejar en Solop ERP el retiro de fondos del punto de venta y generar en la ventana "**Caja**" los documentos que avalan dicha transacción.
 
     |Opción OK de la Ventana Retiros de Puntos de Venta|
 
@@ -183,7 +183,7 @@ Seleccione la opción "**OK**", para reflejar en ADempiere el retiro de fondos d
 
 .. note::
 
-    Por cada retiro de fondo realizado desde el punto de venta, ADempiere crea en la ventana "**Caja**" los siguientes documentos:
+    Por cada retiro de fondo realizado desde el punto de venta, Solop ERP crea en la ventana "**Caja**" los siguientes documentos:
     
         - Un documento de pago asociando en el campo "**Cuenta**", la caja seleccionada en el campo "**Cuenta Bancaria**" de la ventana "**Retiros de Puntos de Venta**".
 

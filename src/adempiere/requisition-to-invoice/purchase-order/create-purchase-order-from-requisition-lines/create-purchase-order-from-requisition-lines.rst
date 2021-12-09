@@ -66,11 +66,11 @@ Para ejecutar el procedimiento de manera correcta, debe existir obligatoriamente
 
     Imagen 2. Pestaña Línea Requisición
 
-Ubique y seleccione en el menú de ADempiere, la carpeta "**Gestión de Compras**", luego seleccione el proceso "**Crear Orden de Compra desde líneas de la Requisición**".
+Ubique y seleccione en el menú de Solop ERP, la carpeta "**Gestión de Compras**", luego seleccione el proceso "**Crear Orden de Compra desde líneas de la Requisición**".
 
     |menú del proceso crear oc desde líneas de requisición|
 
-    Imagen 3. Menú de ADempiere
+    Imagen 3. Menú de Solop ERP
 
 Podrá visualizar la ventana del proceso "**Crear Orden de Compra desde líneas de la Requisición**", con diferentes campos que le permite al usuario filtrar la información en base a lo requerido para generar la orden de compra con las líneas seleccionadas de dicha requisición.
 

@@ -34,11 +34,11 @@ Por medio de este documento se lleva un control de los materiales, gastos, y el 
 **Registro de Orden de Producción Planeada**
 --------------------------------------------
 
-Ubique y seleccione en el menú de ADempiere, la carpeta "**Gestión de Materiales**", luego seleccione la carpeta "**Producción Ligera**", por último seleccione la ventana "**Órdenes de Producción Planeadas**".
+Ubique y seleccione en el menú de Solop ERP, la carpeta "**Gestión de Materiales**", luego seleccione la carpeta "**Producción Ligera**", por último seleccione la ventana "**Órdenes de Producción Planeadas**".
 
     |Menú de ADempiere|
 
-    Imagen 1. Menú de ADempiere
+    Imagen 1. Menú de Solop ERP
 
 Podrá visualizar la ventana "**Órdenes de Producción Planeadas**", con todos los registros de órdenes de producción planeadas.
 
@@ -46,7 +46,7 @@ Podrá visualizar la ventana "**Órdenes de Producción Planeadas**", con todos 
 
     Imagen 2. Ventana Órdenes de Producción Planeadas
 
-    Seleccione en el icono "**Registro Nuevo**", ubicado en la barra de herramientas de ADempiere, para crear un nuevo registro en la ventana "**Órdenes de Producción Planeadas**".
+    Seleccione en el icono "**Registro Nuevo**", ubicado en la barra de herramientas de Solop ERP, para crear un nuevo registro en la ventana "**Órdenes de Producción Planeadas**".
 
         |Icono Registro Nuevo|
 
@@ -72,7 +72,7 @@ Podrá visualizar la ventana "**Órdenes de Producción Planeadas**", con todos 
 
             .. note::
 
-                Si no es ingresado ningún valor en este campo, ADempiere tomará el número de documento correspondiente a la secuencia que tiene el tipo de documento establecido.
+                Si no es ingresado ningún valor en este campo, Solop ERP tomará el número de documento correspondiente a la secuencia que tiene el tipo de documento establecido.
 
         Seleccione en el campo "**Fecha de Movimiento**", la fecha en la cual fue realizado el movimiento.
 
@@ -134,7 +134,7 @@ Podrá visualizar la ventana "**Órdenes de Producción Planeadas**", con todos 
 
             Imagen 16. Campo Cantidad Órdenes de la Ventana Órdenes de Producción Planeadas
 
-    Seleccione el icono "**Guardar Cambios**", ubicado en la barra de herramientas de ADempiere, para guardar el registro de los campos de la pestaña **Lote de Producción**".
+    Seleccione el icono "**Guardar Cambios**", ubicado en la barra de herramientas de Solop ERP, para guardar el registro de los campos de la pestaña **Lote de Producción**".
 
         |Icono Guardar Cambios en la Pestaña Lote de Producción de la Ventana Órdenes de Producción Planeadas|
 

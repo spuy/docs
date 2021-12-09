@@ -50,13 +50,13 @@
 **Orden de Compra Multimoneda**
 ===============================
 
-Ubique y seleccione en el menú de ADempiere, la carpeta "**Gestión de Compras**", luego seleccione la ventana "**Órdenes de Compra**".
+Ubique y seleccione en el menú de Solop ERP, la carpeta "**Gestión de Compras**", luego seleccione la ventana "**Órdenes de Compra**".
 
     |menú de orden de compra multimoneda|
 
-    Imagen 1. Menú de ADempiere
+    Imagen 1. Menú de Solop ERP
 
-Seleccione el icono "**Registro Nuevo**" en la barra de herramientas de ADempiere para crear un nuevo documento.
+Seleccione el icono "**Registro Nuevo**" en la barra de herramientas de Solop ERP para crear un nuevo documento.
 
     |icono de registro nuevo orden multimoneda|
 
@@ -72,7 +72,7 @@ Seleccione el icono "**Registro Nuevo**" en la barra de herramientas de ADempier
 
             El valor en el campo organización debe ser diferente del símbolo (*) ya que éste símbolo hace referencia a todas las Organizaciones.
 
-    En el campo "**No. de Documento**", no es necesario ingresarlo en forma manual, al momento de realizar un registro, ADempiere genera un número de secuencia automáticamente para el documento, al seleccionar la opción guardar del nuevo registro de orden de compra multimoneda.
+    En el campo "**No. de Documento**", no es necesario ingresarlo en forma manual, al momento de realizar un registro, Solop ERP genera un número de secuencia automáticamente para el documento, al seleccionar la opción guardar del nuevo registro de orden de compra multimoneda.
 
         |campo número del documento orden multimoneda|
 
@@ -306,7 +306,7 @@ Seleccione la pestaña "**Línea Orden Compra**" y proceda al llenado de los cam
 
     Introduzca en el campo "**Precio**", el precio del producto seleccionado.
 
-        Este precio está basado en la unidad de medida del producto, lo que quiere decir, que si el producto seleccionado tiene unidad de medida "**Caja**" y dicha caja contiene seis (6) unidades,ADempiere tomará el precio ingresado como precio de la caja y no como precio de cada unidad que compone la caja.
+        Este precio está basado en la unidad de medida del producto, lo que quiere decir, que si el producto seleccionado tiene unidad de medida "**Caja**" y dicha caja contiene seis (6) unidades,Solop ERP tomará el precio ingresado como precio de la caja y no como precio de cada unidad que compone la caja.
 
         |campo precio orden multimoneda|
 
@@ -352,7 +352,7 @@ Seleccione la pestaña "**Línea Orden Compra**" y proceda al llenado de los cam
 
     .. warning::
 
-        Recuerde guardar el registro de la pestaña "**Línea Orden Compra**" con el icono "**Guardar**" de la barra de herramientas de ADempiere, antes de cambiar a la ventana principal "**Orden de Compra**".
+        Recuerde guardar el registro de la pestaña "**Línea Orden Compra**" con el icono "**Guardar**" de la barra de herramientas de Solop ERP, antes de cambiar a la ventana principal "**Orden de Compra**".
 
 Regrese a la pestaña principal "**Orden de Compra**" y seleccione la opción "**Completar**" ubicada en la parte inferior derecha del documento.
 

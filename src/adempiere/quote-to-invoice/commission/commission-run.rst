@@ -17,20 +17,20 @@
 
 El cálculo de las comisiones tiene como requerimiento principal tener configurada una definición de comisiones. Dicho cálculo de comisión toma en cuenta el tipo de frecuencia que tiene seleccionada la definición de comisión, así el grupo de comisión de la misma contenga otro tipo de frecuencia diferente.
 
-El presente material elaborado por `ERPyA`_ pretende ofrecerle una explicación eficiente con respecto al procedimiento a seguir para realizar el cálculo de comisiones en la versión 3.9.2 de ADempiere, en la localización Venezuela. 
+El presente material elaborado por `ERPyA`_ pretende ofrecerle una explicación eficiente con respecto al procedimiento a seguir para realizar el cálculo de comisiones en la versión 3.9.2 de Solop ERP, en la localización Venezuela. 
 
 Continuando con el ejemplo planteado en el documento :ref:`documento/definicion-comisiones`, se realiza de la siguiente manera el cálculo de las comisiones de los vendedores internos. Es necesario repetir el procedimiento para calcular las comisiones de los vendedores externos.
 
 **Pestaña Ejecución de Comisión**
 *********************************
 
-Ubique y seleccione en el menú de ADempiere, la carpeta "**Gestión de Ventas**", luego seleccione la carpeta "**Reglas de Ventas y Mercadotecnia**", por último seleccione la ventana "**Cálculo de Comisiones**".
+Ubique y seleccione en el menú de Solop ERP, la carpeta "**Gestión de Ventas**", luego seleccione la carpeta "**Reglas de Ventas y Mercadotecnia**", por último seleccione la ventana "**Cálculo de Comisiones**".
 
     |Menú de ADempiere|
     
-    Imagen 1. Menú de ADempiere
+    Imagen 1. Menú de Solop ERP
     
-    Podrá visualizar la ventana "**Cálculo de Comisiones**", donde debe seleccionar el icono "**Registro Nuevo**" ubicado en la barra de herramientas de ADempiere.
+    Podrá visualizar la ventana "**Cálculo de Comisiones**", donde debe seleccionar el icono "**Registro Nuevo**" ubicado en la barra de herramientas de Solop ERP.
 
         |Icono Registro Nuevo| 
         
@@ -80,7 +80,7 @@ Ubique y seleccione en el menú de ADempiere, la carpeta "**Gestión de Ventas**
 
 .. note::
 
-    Recuerde guardar los cambios realizados seleccionando el icono "**Guardar Cambios**" ubicado en la barra de herramientas de ADempiere.
+    Recuerde guardar los cambios realizados seleccionando el icono "**Guardar Cambios**" ubicado en la barra de herramientas de Solop ERP.
 
 **Pestaña Total Comisión**
 **************************

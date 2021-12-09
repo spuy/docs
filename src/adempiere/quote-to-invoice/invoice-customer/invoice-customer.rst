@@ -25,19 +25,19 @@
 **Registro de Documento por Cobrar**
 ====================================
 
-Ubique y seleccione en el menú de ADempiere, la carpeta "**Gestión de Ventas**", luego seleccione la carpeta "**Facturas de Ventas**", por último seleccione la ventana "**Documentos por Cobrar**".
+Ubique y seleccione en el menú de Solop ERP, la carpeta "**Gestión de Ventas**", luego seleccione la carpeta "**Facturas de Ventas**", por último seleccione la ventana "**Documentos por Cobrar**".
 
     |Menú de ADempiere|
 
-    Imagen 1. Menú de ADempiere
+    Imagen 1. Menú de Solop ERP
 
-Podrá visualizar la ventana "**Documentos por Cobrar**" con los diferentes registros de documentos de cuentas por cobrar en ADempiere.
+Podrá visualizar la ventana "**Documentos por Cobrar**" con los diferentes registros de documentos de cuentas por cobrar en Solop ERP.
 
     |Ventana Documento por Cobrar|
 
     Imagen 2. Ventana Documento por Cobrar
 
-    Seleccione el icono "**Registro Nuevo**", ubicado en la barra de herramientas de ADempiere para crear un nuevo registro de factura de cuentas por cobrar.
+    Seleccione el icono "**Registro Nuevo**", ubicado en la barra de herramientas de Solop ERP para crear un nuevo registro de factura de cuentas por cobrar.
 
         |Icono Registro Nuevo|
 
@@ -99,7 +99,7 @@ Podrá visualizar la ventana "**Documentos por Cobrar**" con los diferentes regi
 
     .. note::
 
-        Recuerde guardar el registro de los campos con ayuda del icono "**Guardar Cambios**", ubicado en la barra de herramientas de ADempiere.
+        Recuerde guardar el registro de los campos con ayuda del icono "**Guardar Cambios**", ubicado en la barra de herramientas de Solop ERP.
 
 Seleccione la pestaña "**Línea de la Factura**" y proceda al llenado de los campos correspondientes.
 
@@ -145,7 +145,7 @@ Seleccione la pestaña "**Línea de la Factura**" y proceda al llenado de los ca
 
     .. note::
 
-        Recuerde guardar el registro de los campos con ayuda del icono "**Guardar Cambios**", ubicado en la barra de herramientas de ADempiere.
+        Recuerde guardar el registro de los campos con ayuda del icono "**Guardar Cambios**", ubicado en la barra de herramientas de Solop ERP.
 
 Seleccione la pestaña principal "**Factura**" y luego seleccione la opción "**Completar**" ubicada en la parte inferior del documento por cobrar.
 

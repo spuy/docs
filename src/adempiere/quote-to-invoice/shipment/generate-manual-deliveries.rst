@@ -19,11 +19,11 @@
 **Generar Entregas (Manual)**
 =============================
 
-Ubique y seleccione en el menú de ADempiere, la carpeta "**Gestión de Ventas**", luego seleccione la carpeta "**Entregas**", por último seleccione la ventana "**Generar Entregas (Manual)**".
+Ubique y seleccione en el menú de Solop ERP, la carpeta "**Gestión de Ventas**", luego seleccione la carpeta "**Entregas**", por último seleccione la ventana "**Generar Entregas (Manual)**".
 
     |Menú de ADempiere|
 
-    Imagen 1. Menú de ADempiere
+    Imagen 1. Menú de Solop ERP
 
 Podrá visualizar la ventana "**Generar Entregas (Manual)**", con diferentes campos que permiten filtrar la búsqueda de información automáticamente.
 
@@ -102,7 +102,7 @@ Luego de imprimir las entregas, el proceso se regresa a la ventana "**Generar En
 **Consultar Entregas Generadas**
 --------------------------------
 
-Para consultar la entrega generada en la ventana "**Entregas (Cliente)**" se debe seleccionar el icono "**Encontrar Registro**" ubicado en la barra de herramientas de ADempiere, para luego ingresar en el campo "**No del Documento**", el número de documento de la entrega detallado en el resultado del proceso realizado antes y finalmente seleccionar la opción "**OK**" para realizar la búsqueda.
+Para consultar la entrega generada en la ventana "**Entregas (Cliente)**" se debe seleccionar el icono "**Encontrar Registro**" ubicado en la barra de herramientas de Solop ERP, para luego ingresar en el campo "**No del Documento**", el número de documento de la entrega detallado en el resultado del proceso realizado antes y finalmente seleccionar la opción "**OK**" para realizar la búsqueda.
 
     |Ventana Encontrar Registro de Entregas Generadas|
 

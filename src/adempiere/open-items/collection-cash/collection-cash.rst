@@ -54,7 +54,7 @@ Luego podrá visualizar la ventana "**Caja**", donde debe seleccionar el icono "
 
         Imagen 3. Campo Organización
 
-    Seleccione el tipo de documento a generar en el campo "**Tipo de Documento**", la selección de este define el comportamiento del documento que se esta elaborando, dicho comportamiento se encuentra explicado en el documento **Tipo de Documento** elaborado por `ERPyA`_. Para ejemplificar el registro es utilizada la opción "**Cobro Nacional**".
+    Seleccione el tipo de documento a generar en el campo "**Tipo de Documento**", la selección de este define el comportamiento del documento que se esta elaborando, dicho comportamiento se encuentra explicado en el documento **Tipo de Documento** elaborado por `Solop`_. Para ejemplificar el registro es utilizada la opción "**Cobro Nacional**".
 
         |Campo Tipo de Documento 1|
 
@@ -94,7 +94,7 @@ Luego podrá visualizar la ventana "**Caja**", donde debe seleccionar el icono "
 
     .. note::
 
-        Recuerde guardar los cambios realizados seleccionando el icono "**Guardar Cambios**", ubicado en la barra de herramientas de ADempiere.
+        Recuerde guardar los cambios realizados seleccionando el icono "**Guardar Cambios**", ubicado en la barra de herramientas de Solop ERP.
 
 Seleccione la opción "**Completar**", ubicada en la parte inferior del documento.
 
@@ -108,7 +108,7 @@ Seleccione la acción "**Completar**" y la opción "**Ok**" para completar el do
 
     Imagen 10. Acción Completar
 
-Realice el procedimiento regular para generar un cierre de caja, explicado en el documento :ref:`documento/procedimiento-para-realizar-un-cierre-de-caja`, elaborado por `ERPyA`_, seleccionando en el campo "**Tipo de Documento**" la opción "**Cierre de Caja Cobranza**".
+Realice el procedimiento regular para generar un cierre de caja, explicado en el documento :ref:`documento/procedimiento-para-realizar-un-cierre-de-caja`, elaborado por `Solop`_, seleccionando en el campo "**Tipo de Documento**" la opción "**Cierre de Caja Cobranza**".
 
    |Cierre de Caja Cobranza|
 
@@ -226,7 +226,7 @@ Al consultar del documento de cobro generado en la ventana "**Pago/Cobro**", con
 
     Imagen 29. Documento de Cobro Generado en Pago/Cobro 
 
-Realice el procedimiento regular para generar un cierre de caja, explicado en el documento :ref:`documento/procedimiento-para-realizar-un-cierre-de-caja`, elaborado por `ERPyA`_, seleccionando en el campo "**Tipo de Documento**" la opción "**Cierre de Caja Administrativo**".
+Realice el procedimiento regular para generar un cierre de caja, explicado en el documento :ref:`documento/procedimiento-para-realizar-un-cierre-de-caja`, elaborado por `Solop`_, seleccionando en el campo "**Tipo de Documento**" la opción "**Cierre de Caja Administrativo**".
 
    |Cierre de Caja Administrativo|
 

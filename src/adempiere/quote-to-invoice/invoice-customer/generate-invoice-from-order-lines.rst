@@ -23,11 +23,11 @@
 **Generar Factura desde Líneas de la Orden**
 ============================================
 
-Ubique y seleccione en el menú de ADempiere, la carpeta "**Gestión de Ventas**", luego seleccione la carpeta "**Facturas de Ventas**", por último seleccione la ventana "**Genera Factura desde Líneas de la Orden**".
+Ubique y seleccione en el menú de Solop ERP, la carpeta "**Gestión de Ventas**", luego seleccione la carpeta "**Facturas de Ventas**", por último seleccione la ventana "**Genera Factura desde Líneas de la Orden**".
 
     |Menú de ADempiere|
 
-    Imagen 1. Menú de ADempiere
+    Imagen 1. Menú de Solop ERP
 
 Podrá visualizar la ventana "**Genera Factura desde Líneas de la Orden**" y proceder al llenado de los campos correspondientes para filtrar la búsqueda.
 
@@ -141,7 +141,7 @@ Al consultar el registro en la ventana "**Documentos por Cobrar**", puede visual
 **Imprimir Facturas Generadas**
 -------------------------------
 
-Al imprimir el registro en la ventana "**Documentos por Cobrar**", seleccionando el icono "**Imprimir**" ubicado en la barra de herramientas de ADempiere, podrá visualizar de la siguiente manera la factura de ventas generada desde la línea de la orden. 
+Al imprimir el registro en la ventana "**Documentos por Cobrar**", seleccionando el icono "**Imprimir**" ubicado en la barra de herramientas de Solop ERP, podrá visualizar de la siguiente manera la factura de ventas generada desde la línea de la orden. 
 
     |Imprimir Facturas Generadas|
 

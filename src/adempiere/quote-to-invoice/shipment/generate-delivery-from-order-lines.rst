@@ -28,11 +28,11 @@
 **Generar Entrega desde Líneas de la Orden**
 ============================================
 
-Ubique y seleccione en el menú de ADempiere, la carpeta "**Gestión de Ventas**", luego seleccione la carpeta "**Entregas**", por último seleccione la ventana "**Generar Entrega desde Líneas de la Orden**".
+Ubique y seleccione en el menú de Solop ERP, la carpeta "**Gestión de Ventas**", luego seleccione la carpeta "**Entregas**", por último seleccione la ventana "**Generar Entrega desde Líneas de la Orden**".
 
     |Menú de ADempiere|
 
-    Imagen 1. Menú de ADempiere
+    Imagen 1. Menú de Solop ERP
 
 Podrá visualizar la ventana "**Generar Entrega desde Líneas de la Orden**" y proceder al llenado de los campos correspondientes para filtrar la búsqueda.
 
@@ -135,7 +135,7 @@ Podrá visualizar en la parte inferior izquierda de la ventana "**Generar Entreg
 **Consultar Entregas Generadas**
 --------------------------------
 
-Para consultar la entrega generada en la ventana "**Entregas (Cliente)**", debe seleccionar el icono "**Encontrar Registro**" ubicado en la barra de herramientas de ADempiere, para luego visualizar la ventana "**Encontrar Registro: Entrega**".
+Para consultar la entrega generada en la ventana "**Entregas (Cliente)**", debe seleccionar el icono "**Encontrar Registro**" ubicado en la barra de herramientas de Solop ERP, para luego visualizar la ventana "**Encontrar Registro: Entrega**".
 
     |Ventana Encontrar Registro Entrega|
 
@@ -174,7 +174,7 @@ Podrá visualizar el documento de entrega generado desde las líneas de la orden
 **Imprimir Entregas Generadas**
 -------------------------------
 
-Para imprimir el registro de la entrega generada en la ventana "**Entregas (Cliente)**", seleccione el icono "**Imprimir**" ubicado en la barra de herramientas de ADempiere. Luego podrá visualizar de la siguiente manera la entrega generada desde las líneas de la orden. 
+Para imprimir el registro de la entrega generada en la ventana "**Entregas (Cliente)**", seleccione el icono "**Imprimir**" ubicado en la barra de herramientas de Solop ERP. Luego podrá visualizar de la siguiente manera la entrega generada desde las líneas de la orden. 
 
     |Imprimir Entregas Generadas|
 

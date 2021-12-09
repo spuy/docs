@@ -42,7 +42,7 @@ Podrá visualizar la ventana "**Valoración de la Transacción**", con diferente
 
         .. note::
 
-            Para simular el proceso y generar el reporte de valoración de inventario, se deja el campo "**Almacén**" en blanco, indicando de esta manera que la búsqueda de la información se debe realizar en todos los almacenes registrados en ADempiere.
+            Para simular el proceso y generar el reporte de valoración de inventario, se deja el campo "**Almacén**" en blanco, indicando de esta manera que la búsqueda de la información se debe realizar en todos los almacenes registrados en Solop ERP.
 
     Seleccione en el campo "**Fecha de Movimiento**", el rango de fechas en el que se realizó el movimiento del producto y por el cual el usuario requiere filtrar la información.
 

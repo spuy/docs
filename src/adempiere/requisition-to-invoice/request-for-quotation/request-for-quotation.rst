@@ -65,13 +65,13 @@
 **Crear Tema de Solicitud para Cotizar**
 ========================================
 
-Ubique y seleccione en el menú de ADempiere, la carpeta "**Gestión de Compras**", luego seleccione la ventana "**Tema de Solicitud para Cotizar**".
+Ubique y seleccione en el menú de Solop ERP, la carpeta "**Gestión de Compras**", luego seleccione la ventana "**Tema de Solicitud para Cotizar**".
 
     |Menú de ADempiere| 
 
-    Imagen 1. Menú de ADempiere
+    Imagen 1. Menú de Solop ERP
 
-Podrá visualizar la siguiente ventana con los registros que la empresa tiene de los diferentes temas de solicitud para cotizar. Seleccione el icono "**Registro Nuevo**" que se encuentra ubicado en la barra de herramientas de ADempiere y proceda al llenado de los campos correspondientes.
+Podrá visualizar la siguiente ventana con los registros que la empresa tiene de los diferentes temas de solicitud para cotizar. Seleccione el icono "**Registro Nuevo**" que se encuentra ubicado en la barra de herramientas de Solop ERP y proceda al llenado de los campos correspondientes.
 
     |Ventana Tema de Solicitud para Cotizar|
 
@@ -83,7 +83,7 @@ Podrá visualizar la siguiente ventana con los registros que la empresa tiene de
 
         Imagen 3. Campo Nombre de Tema para Cotizar
 
-    Seleccione el icono "**Guardar Cambios**" ubicado en la barra de herramientas de ADempiere para guardar el registro de los campos.
+    Seleccione el icono "**Guardar Cambios**" ubicado en la barra de herramientas de Solop ERP para guardar el registro de los campos.
 
         |Icono Guardar Cambios 1|
 
@@ -114,7 +114,7 @@ Seleccione la pestaña "**Suscriptor**" y proceda al llenado de los campos corre
 
         Imagen 7. Campo Dirección del Socio del Negocio Proveedor
 
-    Seleccione el icono "**Guardar Cambios**" ubicado en la barra de herramientas de ADempiere para guardar el registro de los campos.
+    Seleccione el icono "**Guardar Cambios**" ubicado en la barra de herramientas de Solop ERP para guardar el registro de los campos.
 
         |Icono Guardar Cambios 2|
 
@@ -122,7 +122,7 @@ Seleccione la pestaña "**Suscriptor**" y proceda al llenado de los campos corre
 
         .. note::
 
-            Para registrar otro socio del negocio proveedor, debe seleccionar el icono "**Registro Nuevo**" ubicado en la barra de herramientas de ADempiere y repetir el procedimiento realizado antes. Para ejemplificar el caso se registran tres (3) socios del negocio que son "**Estándar 1**", "**Estándar 2**" y "**Estándar 3**". 
+            Para registrar otro socio del negocio proveedor, debe seleccionar el icono "**Registro Nuevo**" ubicado en la barra de herramientas de Solop ERP y repetir el procedimiento realizado antes. Para ejemplificar el caso se registran tres (3) socios del negocio que son "**Estándar 1**", "**Estándar 2**" y "**Estándar 3**". 
 
     Podrá visualizar en la parte inferior derecha de la ventana, el número de registros que posee la ventana.
 
@@ -159,7 +159,7 @@ Seleccione la pestaña "**Restricción**" y proceda al llenado de los campos cor
 
         Imagen 11. Campo Producto
 
-    Seleccione el icono "**Guardar Cambios**" ubicado en la barra de herramientas de ADempiere para guardar el registro de los campos.
+    Seleccione el icono "**Guardar Cambios**" ubicado en la barra de herramientas de Solop ERP para guardar el registro de los campos.
 
         |Icono Guardar Cambios 3|
 
@@ -167,20 +167,20 @@ Seleccione la pestaña "**Restricción**" y proceda al llenado de los campos cor
 
         .. note::
 
-            Para registrar otro producto, servicio o categoría debe seleccionar el icono "**Registro Nuevo**" ubicado en la barra de herramientas de ADempiere y repetir el procedimiento realizado antes. 
+            Para registrar otro producto, servicio o categoría debe seleccionar el icono "**Registro Nuevo**" ubicado en la barra de herramientas de Solop ERP y repetir el procedimiento realizado antes. 
 
 **Solicitud para Cotización**
 =============================
 
-Ubique y seleccione en el menú de ADempiere, la carpeta "**Gestión de Compras**", luego seleccione la ventana "**Solicitud para Cotización**".
+Ubique y seleccione en el menú de Solop ERP, la carpeta "**Gestión de Compras**", luego seleccione la ventana "**Solicitud para Cotización**".
 
     |Menú de ADempiere 2| 
 
-    Imagen 13. Menú de ADempiere
+    Imagen 13. Menú de Solop ERP
 
 .. note:: 
 
-    ADempiere permite que la solicitud para cotización sea realizada de tres (3) formas, definidas por el campo "**Tipo SCP (RfQ)**". 
+    Solop ERP permite que la solicitud para cotización sea realizada de tres (3) formas, definidas por el campo "**Tipo SCP (RfQ)**". 
     
     Para ejemplificar el registro del presente documento, es presentado un caso por cada forma de cotización.
 
@@ -190,7 +190,7 @@ Ubique y seleccione en el menú de ADempiere, la carpeta "**Gestión de Compras*
 **Pestaña SCP (RfQ)**
 *********************
 
-Podrá visualizar la siguiente ventana con los registros de solicitud de cotización que la empresa tiene. Seleccione el icono "**Registro Nuevo**" que se encuentra ubicado en la barra de herramientas de ADempiere y proceda al llenado de los campos correspondientes.
+Podrá visualizar la siguiente ventana con los registros de solicitud de cotización que la empresa tiene. Seleccione el icono "**Registro Nuevo**" que se encuentra ubicado en la barra de herramientas de Solop ERP y proceda al llenado de los campos correspondientes.
 
     |Ventana Solicitud para Cotización|
 
@@ -236,7 +236,7 @@ Podrá visualizar la siguiente ventana con los registros de solicitud de cotizac
 
         Imagen 20. Campo Fecha de Respuesta
 
-    Seleccione el icono "**Guardar Cambios**" ubicado en la barra de herramientas de ADempiere para guardar el registro de los campos.
+    Seleccione el icono "**Guardar Cambios**" ubicado en la barra de herramientas de Solop ERP para guardar el registro de los campos.
 
         |Icono Guardar Cambios 4|
 
@@ -257,7 +257,7 @@ Seleccione la pestaña "**Línea**" y proceda al llenado de los campos correspon
 
         Imagen 23. Campo Producto
 
-    Seleccione el icono "**Guardar Cambios**" ubicado en la barra de herramientas de ADempiere para guardar el registro de los campos.
+    Seleccione el icono "**Guardar Cambios**" ubicado en la barra de herramientas de Solop ERP para guardar el registro de los campos.
 
         |Icono Guardar Cambios 5|
 
@@ -267,7 +267,7 @@ Seleccione la pestaña "**Línea**" y proceda al llenado de los campos correspon
 
             Esta pestaña permite registrar los diferentes productos o servicios que la empresa solicita que los socios del negocio proveedores coticen. 
 
-            Para registrar otro producto, debe seleccionar el icono "**Registro Nuevo**" ubicado en la barra de herramientas de ADempiere y repetir el procedimiento realizado antes. Para ejemplificar el caso se registran tres (3) productos que son "**Desinfectante**", "**Cera**" y "**Desengrasante**". 
+            Para registrar otro producto, debe seleccionar el icono "**Registro Nuevo**" ubicado en la barra de herramientas de Solop ERP y repetir el procedimiento realizado antes. Para ejemplificar el caso se registran tres (3) productos que son "**Desinfectante**", "**Cera**" y "**Desengrasante**". 
 
 **Pestaña Cantidad**
 ********************
@@ -290,7 +290,7 @@ Seleccione la pestaña "**Cantidad**" y proceda al llenado de los campos corresp
 
         Imagen 27. Campo Cantidad del Producto o Servicio
 
-    Seleccione el icono "**Guardar Cambios**" ubicado en la barra de herramientas de ADempiere para guardar el registro de los campos.
+    Seleccione el icono "**Guardar Cambios**" ubicado en la barra de herramientas de Solop ERP para guardar el registro de los campos.
 
         |Icono Guardar Cambios 6|
 
@@ -347,11 +347,11 @@ Realice el procedimiento regular para generar una "**Solicitud para Cotización*
 **Solicitud para Cotización con Respuesta**
 ===========================================
 
-Ubique y seleccione en el menú de ADempiere, la carpeta "**Gestión de Compras**", luego seleccione la ventana "**Solicitud para Cotización**".
+Ubique y seleccione en el menú de Solop ERP, la carpeta "**Gestión de Compras**", luego seleccione la ventana "**Solicitud para Cotización**".
 
     |Menú de ADempiere 3| 
 
-    Imagen 33. Menú de ADempiere
+    Imagen 33. Menú de Solop ERP
 
     Podrá visualizar la ventana "**Solicitud para Cotización con Respuesta**", con los registros de solicitud de cotización creados luego de seleccionar la opción "**Crea e Invita**", de la ventana "**Solicitud para Cotización**".
 
@@ -361,11 +361,11 @@ Ubique y seleccione en el menú de ADempiere, la carpeta "**Gestión de Compras*
 
         .. note:: 
 
-            ADempiere crea tantos registros de solicitud de cotización con respuesta como proveedores tenga la solicitud de cotización realizada por la empresa. Cada registro creado de una solicitud de cotización contiene su mismo número de documento en el campo "**SCP (RfQ)**". 
+            Solop ERP crea tantos registros de solicitud de cotización con respuesta como proveedores tenga la solicitud de cotización realizada por la empresa. Cada registro creado de una solicitud de cotización contiene su mismo número de documento en el campo "**SCP (RfQ)**". 
             
-            Puede cambiar la vista de la ventana con ayuda del icono "**Cambiar mono/multi registro**", ubicado en la barra de herramientas de ADempiere. De esta manera, puede visualizar en la pestaña "**Línea Respuesta**" los registros de productos por proveedor que posee la solicitud de cotización con respuesta.
+            Puede cambiar la vista de la ventana con ayuda del icono "**Cambiar mono/multi registro**", ubicado en la barra de herramientas de Solop ERP. De esta manera, puede visualizar en la pestaña "**Línea Respuesta**" los registros de productos por proveedor que posee la solicitud de cotización con respuesta.
 
-    Ubique en el registro de la solicitud de cotización con respuesta, el socio del negocio proveedor para cargar a ADempiere la respuesta de cotización por producto.
+    Ubique en el registro de la solicitud de cotización con respuesta, el socio del negocio proveedor para cargar a Solop ERP la respuesta de cotización por producto.
 
         |Registro 1 por Socio del Negocio Proveedor|
 
@@ -408,7 +408,7 @@ Seleccione la pestaña "**Cantidad Respuesta**" para cargar el precio cotizado p
 
         Imagen 39. Campo Precio
 
-    Seleccione el icono "**Guardar Cambios**" ubicado en la barra de herramientas de ADempiere para guardar el registro de los campos.
+    Seleccione el icono "**Guardar Cambios**" ubicado en la barra de herramientas de Solop ERP para guardar el registro de los campos.
 
         |Icono Guardar Cambios 7|
 
@@ -573,7 +573,7 @@ Ubique en la ventana "**Solicitud para Cotización (Con Respuesta)**" el registr
 **Caso 1: Solicitud para Cotización por Tipo Cotiza Líneas Seleccionadas**
 --------------------------------------------------------------------------
 
-Ubique en la ventana "**Solicitud para Cotización**" el registro del "**Caso 1: Solicitud para Cotización por Tipo Cotiza Líneas Seleccionadas**" y seleccione la opción "**Crear Orden de Compra**", ubicada en el icono "**Proceso**" de la barra de herramientas de ADempiere.
+Ubique en la ventana "**Solicitud para Cotización**" el registro del "**Caso 1: Solicitud para Cotización por Tipo Cotiza Líneas Seleccionadas**" y seleccione la opción "**Crear Orden de Compra**", ubicada en el icono "**Proceso**" de la barra de herramientas de Solop ERP.
 
     |Icono Proceso|
 
@@ -585,7 +585,7 @@ Ubique en la ventana "**Solicitud para Cotización**" el registro del "**Caso 1:
 
         Imagen 59. Ventana Crea Orden de Compra
 
-ADempiere genera en la ventana "**Orden de Compra**", tantas órdenes de compra como ganadores seleccionados existan. En el ejemplo de este caso existen 2 ganadores seleccionados que son los socios "**Estándar 1**" y "**Estándar 2**".
+Solop ERP genera en la ventana "**Orden de Compra**", tantas órdenes de compra como ganadores seleccionados existan. En el ejemplo de este caso existen 2 ganadores seleccionados que son los socios "**Estándar 1**" y "**Estándar 2**".
 
     |Orden de Compra 1|
 

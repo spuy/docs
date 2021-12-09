@@ -37,7 +37,7 @@ La validación se realiza en las órdenes de ventas por medio del check "**Valid
 **Funcionalidad de la Validación**
 ----------------------------------
 
-Cuando el check se encuentra habilitado, ADempiere sólo permitirá completar el registro de la orden de venta desde la ventana "**Órdenes de Venta**", si todos los productos tienen disponibilidad en el almacén con el que se este trabajando. De no tener disponibilidad, será mostrado el siguiente mensaje:
+Cuando el check se encuentra habilitado, Solop ERP sólo permitirá completar el registro de la orden de venta desde la ventana "**Órdenes de Venta**", si todos los productos tienen disponibilidad en el almacén con el que se este trabajando. De no tener disponibilidad, será mostrado el siguiente mensaje:
 
     |registro desde ventana órdenes de venta|
 

@@ -75,19 +75,19 @@
 **Registro de Documento por Pagar**
 ===================================
 
-Ubique en el menú de ADempiere, la carpeta "**Gestión de Compras**", luego seleccione la ventana "**Documentos por Pagar**", adjunto imagen para referencia.
+Ubique en el menú de Solop ERP, la carpeta "**Gestión de Compras**", luego seleccione la ventana "**Documentos por Pagar**", adjunto imagen para referencia.
 
    |Menú de ADempiere|
 
-   Imagen 1. Menú de ADempiere
+   Imagen 1. Menú de Solop ERP
 
-Podrá visualizar la ventana "**Documentos por Pagar**", con todos los registros que contiene ADempiere referente a documentos por pagar.
+Podrá visualizar la ventana "**Documentos por Pagar**", con todos los registros que contiene Solop ERP referente a documentos por pagar.
 
    |Ventana Documentos por Pagar|
 
    Imagen 2. Ventana Documentos por Pagar 
 
-Seleccione la opción "**Registro Nuevo**" en la barra de herramientas de ADempiere, para crear un documento nuevo en la ventana "**Documentos por Pagar**".
+Seleccione la opción "**Registro Nuevo**" en la barra de herramientas de Solop ERP, para crear un documento nuevo en la ventana "**Documentos por Pagar**".
 
    |Icono de Registro Nuevo|
 
@@ -123,7 +123,7 @@ Seleccione la opción "**Registro Nuevo**" en la barra de herramientas de ADempi
 
       Imagen 7. Campo Tipo de Documento
 
-   Introduzca el número del documento en el campo "**No. de Documento**", el mismo no es obligatorio ya que ADempiere genera un número de secuencia automáticamente al ser guardado el registro del documento.
+   Introduzca el número del documento en el campo "**No. de Documento**", el mismo no es obligatorio ya que Solop ERP genera un número de secuencia automáticamente al ser guardado el registro del documento.
 
       |Campo Numero de Documento|
 
@@ -135,7 +135,7 @@ Seleccione la opción "**Registro Nuevo**" en la barra de herramientas de ADempi
 
       Imagen 9. Campo Fecha Facturación
 
-   Seleccione en el campo "**Fecha Contable**", la fecha en la cual se esta realizando el documento por pagar en ADempiere.
+   Seleccione en el campo "**Fecha Contable**", la fecha en la cual se esta realizando el documento por pagar en Solop ERP.
 
       |Campo Fecha Contable|
 
@@ -153,7 +153,7 @@ Seleccione la opción "**Registro Nuevo**" en la barra de herramientas de ADempi
 
       Imagen 12. Campo Dirección del Socio del Negocio
 
-   De igual manera, puede visualizar en el campo "**Usuario**", el usuario en ADempiere del socio del negocio seleccionado anteriormente.
+   De igual manera, puede visualizar en el campo "**Usuario**", el usuario en Solop ERP del socio del negocio seleccionado anteriormente.
    
       |Campo Usuario|
 
@@ -267,7 +267,7 @@ Seleccione la opción "**Registro Nuevo**" en la barra de herramientas de ADempi
 
       Imagen 31. Campo Retención de Terceros
 
-Seleccione el icono "**Guardar**" de la barra de herramientas de ADempiere, para guardar los cambios realizados. 
+Seleccione el icono "**Guardar**" de la barra de herramientas de Solop ERP, para guardar los cambios realizados. 
 
    |Icono Guardar Cambios|
 
@@ -450,7 +450,7 @@ Seleccione la pestaña "**Línea de Factura**" y proceda al llenado de los campo
       
          El total de la línea se obtiene de la operación (Neto de Línea + Total del Impuesto).
 
-Guarde el registro de los campos seleccionando el icono "**Guardar Cambios**" ubicado en la barra de herramientas de ADempiere.
+Guarde el registro de los campos seleccionando el icono "**Guardar Cambios**" ubicado en la barra de herramientas de Solop ERP.
 
    |Icono Guardar Cambios de Linea de Factura|
 

@@ -68,24 +68,24 @@
 
 Es un documento que se aplica a una factura con la finalidad de disminuir el monto de la misma, ya sea por concepto de algún tipo de descuento promocional o por devolución de productos comprados.
 
-A continuación es explicado el procedimiento para generar en ADempiere, una nota de crédito de cuentas por pagar.
+A continuación es explicado el procedimiento para generar en Solop ERP, una nota de crédito de cuentas por pagar.
 
 **Registro de Nota de Crédito**
 -------------------------------
 
-Ubique y seleccione en el menú de ADempiere, la carpeta "**Gestión de Compras**", luego seleccione la ventana "**Documentos por Pagar**".
+Ubique y seleccione en el menú de Solop ERP, la carpeta "**Gestión de Compras**", luego seleccione la ventana "**Documentos por Pagar**".
 
     |Menú de ADempiere|
 
-    Imagen 1. Menú de ADempiere
+    Imagen 1. Menú de Solop ERP
 
-Podrá visualizar la ventana "**Documentos por Pagar**", con los diferentes registros de documentos por pagar cargados a ADempiere.
+Podrá visualizar la ventana "**Documentos por Pagar**", con los diferentes registros de documentos por pagar cargados a Solop ERP.
 
     |Ventana Documentos por Pagar|
 
     Imagen 2. Ventana Documentos por Pagar
 
-Seleccione el icono "**Registro Nuevo**", ubicado en la barra de herramientas de ADempiere, para crear un nuevo registro en la ventana "**Documentos por Pagar**".
+Seleccione el icono "**Registro Nuevo**", ubicado en la barra de herramientas de Solop ERP, para crear un nuevo registro en la ventana "**Documentos por Pagar**".
 
     |Icono Registro Nuevo de la Ventana Documentos por Pagar|
 
@@ -117,7 +117,7 @@ Seleccione el icono "**Registro Nuevo**", ubicado en la barra de herramientas de
 
         .. note::
 
-            Si no es ingresado ningún valor en este campo, ADempiere tomará el número de secuencia establecido para el tipo de documento seleccionado al guardar el mismo.
+            Si no es ingresado ningún valor en este campo, Solop ERP tomará el número de secuencia establecido para el tipo de documento seleccionado al guardar el mismo.
 
     Introduzca en el campo "**Referencia de Orden de Socio del Negocio**", la referencia de orden de socio del negocio.
 
@@ -275,7 +275,7 @@ Seleccione el icono "**Registro Nuevo**", ubicado en la barra de herramientas de
 
         Imagen 33. Campo Retención de Terceros de la Ventana Documentos por Pagar
 
-    Seleccione el icono "**Guardar Cambios**", ubicado en la barra de herramientas de ADempiere, para guardar el registro de los campos de la pestaña "**Factura**".
+    Seleccione el icono "**Guardar Cambios**", ubicado en la barra de herramientas de Solop ERP, para guardar el registro de los campos de la pestaña "**Factura**".
 
         |Icono Guardar Cambios de la Nota de Crédito de CxP|
 
@@ -386,7 +386,7 @@ Seleccione la pestaña "**Línea de la Factura**", para cargar los detalles de l
 
         Imagen 51. Campo Total de la Línea de la Pestaña Línea de la Factura de la Ventana Documentos por Pagar
 
-    Seleccione el icono "**Guardar Cambios**", ubicado en la barra de herramientas de ADempiere, para guardar el registro de los campos de la pestaña "**Línea de la Factura**".
+    Seleccione el icono "**Guardar Cambios**", ubicado en la barra de herramientas de Solop ERP, para guardar el registro de los campos de la pestaña "**Línea de la Factura**".
 
         |Icono Guardar Cambios de la Pestaña Línea de la Factura de la Nota de Crédito de CxP|
 

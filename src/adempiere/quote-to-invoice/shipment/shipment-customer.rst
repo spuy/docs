@@ -60,11 +60,11 @@
 **Registro de Entregas (Cliente)**
 ==================================
 
-Ubique y seleccione en el menú de ADempiere, la carpeta "**Gestión de Ventas**", luego seleccione la carpeta "**Entregas**", por último seleccione la ventana "**Entregas (Cliente)**".
+Ubique y seleccione en el menú de Solop ERP, la carpeta "**Gestión de Ventas**", luego seleccione la carpeta "**Entregas**", por último seleccione la ventana "**Entregas (Cliente)**".
 
     |Menú de ADempiere|
 
-    Imagen 1. Menú de ADempiere
+    Imagen 1. Menú de Solop ERP
 
 Podrá visualizar la ventana "**Entregas (Cliente)**", con los registros de las entregas de productos realizadas a los clientes de las diferentes organizaciones.
 
@@ -72,7 +72,7 @@ Podrá visualizar la ventana "**Entregas (Cliente)**", con los registros de las 
 
     Imagen 2. Ventana Entregas Cliente
 
-Seleccione el icono "**Registro Nuevo**", para crear un nuevo registro de entrega a cliente en ADempiere.
+Seleccione el icono "**Registro Nuevo**", para crear un nuevo registro de entrega a cliente en Solop ERP.
 
     |Icono Registro Nuevo de la Ventana Entregas Cliente|
 
@@ -292,7 +292,7 @@ Seleccione el icono "**Registro Nuevo**", para crear un nuevo registro de entreg
 
     .. note::
 
-        Seleccione el icono "**Guardar Cambios**", ubicado en la barra de herramientas de ADempiere. La selección de este icono permite guardar el registro de los campos de la pestaña para proceder a posicionarse en otra pestaña de la misma ventana. 
+        Seleccione el icono "**Guardar Cambios**", ubicado en la barra de herramientas de Solop ERP. La selección de este icono permite guardar el registro de los campos de la pestaña para proceder a posicionarse en otra pestaña de la misma ventana. 
 
 Seleccione la pestaña "**Línea de la Entrega**", para cargar los productos involucrados en la entrega.
 
