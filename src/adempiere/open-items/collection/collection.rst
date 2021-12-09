@@ -24,19 +24,19 @@
 **Registro de Cobro**
 =====================
 
-Para ejemplificar el procedimiento de generar un cobro en ADempiere, es utilizada la factura por cobrar "**88**".
+Para ejemplificar el procedimiento de generar un cobro en Solop ERP, es utilizada la factura por cobrar "**88**".
 
     |Factura a Cobrar|
 
     Imagen 1. Factura por Cobrar
 
-Ubique y seleccione en el menú de ADempiere, la carpeta "**Gestión de Saldos Pendientes**", luego seleccione la ventana "**Pago/Cobro**".
+Ubique y seleccione en el menú de Solop ERP, la carpeta "**Gestión de Saldos Pendientes**", luego seleccione la ventana "**Pago/Cobro**".
 
     |Menú de ADempiere|
 
-    Imagen 2. Menú de ADempiere
+    Imagen 2. Menú de Solop ERP
 
-Luego podrá visualizar la ventana "**Pago/Cobro**", donde debe seleccionar el icono "**Registro Nuevo**" que se encuentra ubicado en la barra de herramientas de ADempiere para crear un nuevo registro en la ventana "**Pago/Cobro**".
+Luego podrá visualizar la ventana "**Pago/Cobro**", donde debe seleccionar el icono "**Registro Nuevo**" que se encuentra ubicado en la barra de herramientas de Solop ERP para crear un nuevo registro en la ventana "**Pago/Cobro**".
 
     |Icono Registro Nuevo|
 
@@ -104,7 +104,7 @@ Seleccione en el campo "**Tipo de Pago**", la forma utilizada para el cobro.
 
     .. note::
 
-        Recuerde guardar el registro de los campos seleccionando el icono "**Guardar Cambios**", ubicado en el barra de herramientas de ADempiere.
+        Recuerde guardar el registro de los campos seleccionando el icono "**Guardar Cambios**", ubicado en el barra de herramientas de Solop ERP.
 
 Seleccione la opción "**Completar**", ubicada en la parte inferior derecha de la ventana.
 

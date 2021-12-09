@@ -15,13 +15,13 @@
 **Conversión Automática por Tipo de Conversión**
 ================================================
 
-Ubique y seleccione en el mené de ADempiere, la carpeta "**Análisis de Desempeño**", luego seleccione la carpeta "**Reglas Contables**", por último seleccione la ventana "**Tipo de Conversión**".
+Ubique y seleccione en el mené de Solop ERP, la carpeta "**Análisis de Desempeño**", luego seleccione la carpeta "**Reglas Contables**", por último seleccione la ventana "**Tipo de Conversión**".
 
     |menú de adempiere|
 
-    Imagen 1. Menú de ADempiere
+    Imagen 1. Menú de Solop ERP
 
-Podrá visualizar la ventana "**Tipo de Conversión**", con los registros de tipos de conversión que contiene ADempiere.
+Podrá visualizar la ventana "**Tipo de Conversión**", con los registros de tipos de conversión que contiene Solop ERP.
 
     |ventana tipo de conversión desde proveedor|
 
@@ -39,7 +39,7 @@ Verifique que el registro de tipo de conversión seleccionado, tenga asociado el
 
     Imagen 4. Campo Proveedor de Tasas de Cambio
 
-Seleccione la opción "**Obtener Tasas de Cambio desde Proveedor**", desplegada al seleccionar el icono "**Proceso**", ubicado en la barra de herramientas de ADempiere.
+Seleccione la opción "**Obtener Tasas de Cambio desde Proveedor**", desplegada al seleccionar el icono "**Proceso**", ubicado en la barra de herramientas de Solop ERP.
 
     |opción obtener tasas de cambio desde proveedor|
 

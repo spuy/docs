@@ -32,11 +32,11 @@
 **Directorio de Socios del Negocio**
 ====================================
 
-Ubique y seleccione en el menú de ADempiere, la carpeta "**Relación con Socios del Negocio**", luego seleccione la carpeta "**Reglas de Socios del Negocio**", por último seleccione el reporte "**Directorio de Socios del Negocio**".
+Ubique y seleccione en el menú de Solop ERP, la carpeta "**Relación con Socios del Negocio**", luego seleccione la carpeta "**Reglas de Socios del Negocio**", por último seleccione el reporte "**Directorio de Socios del Negocio**".
 
     |menú del directorio de socios del negocio|
 
-    Imagen 1. Menú de ADempiere
+    Imagen 1. Menú de Solop ERP
 
 Podrá visualizar la ventana del reporte "**Directorio de Socios del Negocio**", con diferentes campos que permiten filtrar la información en base a lo requerido por el usuario.
 

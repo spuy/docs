@@ -24,11 +24,11 @@
 **Asientos Contables por Período**
 ==================================
 
-Ubique y seleccione en el menú de ADempiere, la carpeta "**Análisis de Desempeño**", luego seleccione el reporte "**Asientos Contables por Período**".
+Ubique y seleccione en el menú de Solop ERP, la carpeta "**Análisis de Desempeño**", luego seleccione el reporte "**Asientos Contables por Período**".
 
     |Menú de ADempiere|
 
-    Imagen 1. Menú de ADempiere
+    Imagen 1. Menú de Solop ERP
 
 Podrá visualizar la ventana "**Asientos Contables por Período**", con diferentes campos que permiten filtrar la búsqueda de la información para generar el reporte requerido por el usuario.
 

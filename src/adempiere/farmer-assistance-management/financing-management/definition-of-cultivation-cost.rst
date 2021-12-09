@@ -26,11 +26,11 @@
 **Definición de Costo de Cultivo**
 ==================================
 
-Ubique y seleccione en el menú de ADempiere, la carpeta "**Gestión de Asistencia al Agricultor**", luego seleccione la carpeta "**Inversión Agrícola y Préstamos**", por último seleccione la ventana "**Definición de Costo de Cultivo**".
+Ubique y seleccione en el menú de Solop ERP, la carpeta "**Gestión de Asistencia al Agricultor**", luego seleccione la carpeta "**Inversión Agrícola y Préstamos**", por último seleccione la ventana "**Definición de Costo de Cultivo**".
 
     |menú de definición de costo de cultivo|
 
-    Imagen 1. Menú de ADempiere
+    Imagen 1. Menú de Solop ERP
 
 Podrá visualizar la ventana "**Definición de Costo de Cultivo**", con los diferentes registros de definiciones de costos de cultivo.
 
@@ -38,7 +38,7 @@ Podrá visualizar la ventana "**Definición de Costo de Cultivo**", con los dife
 
     Imagen 2. Ventana Definición de Costo de Cultivo
 
-Seleccione el icono "**Registro Nuevo**", ubicado en la barra de herramientas de ADempiere.
+Seleccione el icono "**Registro Nuevo**", ubicado en la barra de herramientas de Solop ERP.
 
     |icono registro nuevo de la ventana definición de costo de cultivo|
 
@@ -108,7 +108,7 @@ Introduzca en el campo "**Descripción**", una breve descripción referente al r
 
     Imagen 13. Campo Descripción
 
-Seleccione el icono "**Guardar Cambios**", ubicado en la barra de herramientas de ADempiere.
+Seleccione el icono "**Guardar Cambios**", ubicado en la barra de herramientas de Solop ERP.
 
     |icono guardar cambios de la ventana definición de costo de cultivo|
 
@@ -132,7 +132,7 @@ Introduzca en el campo "**Descripción**", una breve descripción referente al r
 
     Imagen 17. Campo Descripción
 
-Seleccione el icono "**Guardar Cambios**", ubicado en la barra de herramientas de ADempiere.
+Seleccione el icono "**Guardar Cambios**", ubicado en la barra de herramientas de Solop ERP.
 
     |icono guardar cambios de la pestaña rubro asignado de la ventana definición de costo de cultivo|
 

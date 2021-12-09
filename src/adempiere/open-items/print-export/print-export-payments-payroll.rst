@@ -28,7 +28,7 @@ La regla de pago debe decir "**Débito Directo**" en el campo “**Regla de Pago
 
     Imagen 1. Imprimir Exportar
 
-Para terminar este procedimiento el ADempiere le mostrará un mensaje de alerta que le dirá la cantidad de líneas que serán generadas dentro del formato txt, debe darle ok.
+Para terminar este procedimiento el Solop ERP le mostrará un mensaje de alerta que le dirá la cantidad de líneas que serán generadas dentro del formato txt, debe darle ok.
     
     |Lineas Exportadas|
 
@@ -46,7 +46,7 @@ Posteriormente se descargara el archivo txt, previamente configurado con los dat
 
     Imagen 4. Archivo Descargado
 
-Al culminar este proceso automáticamente serán generados los pagos a cada empleado en ADempiere
+Al culminar este proceso automáticamente serán generados los pagos a cada empleado en Solop ERP
 
 ..note::
 

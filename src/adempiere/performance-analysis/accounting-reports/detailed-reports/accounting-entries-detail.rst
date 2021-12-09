@@ -34,11 +34,11 @@
 **Detalles de Asientos Contables**
 ==================================
 
-Ubique y seleccione en el menú de ADempiere, la carpeta "**Análisis de Desempeño**", luego seleccione el reporte "**Detalles de Asientos Contables**".
+Ubique y seleccione en el menú de Solop ERP, la carpeta "**Análisis de Desempeño**", luego seleccione el reporte "**Detalles de Asientos Contables**".
 
     |Menú de ADempiere|
 
-    Imagen 1. Menú de ADempiere
+    Imagen 1. Menú de Solop ERP
 
 Podrá visualizar la ventana "**Detalles de Asientos Contables**", con diferentes campos que le permiten a los usuarios filtrar la información para generar el reporte según lo requerido por el mismo.
 

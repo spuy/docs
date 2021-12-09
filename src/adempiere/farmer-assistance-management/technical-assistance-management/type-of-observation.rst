@@ -30,9 +30,9 @@
 
 Un tipo de observación puede ser creado para indicar o realizar una sugerencia de un producto a un rubro determinado, en cual se indica la cantidad o dosis a aplicar a dicho rubro. Un ejemplo de ello puede ser, una observación que se realiza para que sea aplicado un insecticida a un rubro como maíz blanco u otro.
 
-A continuación, se explica el procedimiento que se debe realizar para generar de manera correcta, un tipo de observación en ADempiere.
+A continuación, se explica el procedimiento que se debe realizar para generar de manera correcta, un tipo de observación en Solop ERP.
 
-Ubique y seleccione en el menú de ADempiere, la carpeta "**Gestión de Asistencia al Agricultor**", luego seleccione la carpeta "**Configuración de Asistencia Técnica**", por último seleccione la carpeta "**Configuración de Cultivo**". Finalmente, seleccione la ventana "**Tipo de Observación**".
+Ubique y seleccione en el menú de Solop ERP, la carpeta "**Gestión de Asistencia al Agricultor**", luego seleccione la carpeta "**Configuración de Asistencia Técnica**", por último seleccione la carpeta "**Configuración de Cultivo**". Finalmente, seleccione la ventana "**Tipo de Observación**".
 
     |menú de tipo de observación|
 
@@ -44,7 +44,7 @@ Podrá visualizar la ventana "**Tipo de Observación**", con los diferentes regi
 
     Imagen 2. Ventana Tipo de Observación
 
-Seleccione el icono "**Registro Nuevo**", ubicado en la barra de herramientas de ADempiere y proceda al llenado de los campos correspondientes.
+Seleccione el icono "**Registro Nuevo**", ubicado en la barra de herramientas de Solop ERP y proceda al llenado de los campos correspondientes.
 
     |icono registro nuevo de la ventana tipo de observación|
 
@@ -58,7 +58,7 @@ Seleccione en el campo "**Organización**", la organización para la cual requie
 
 Introduzca en el campo "**Código**", el código correspondiente al registro de tipo de observación que se encuentra realizando.
 
-    Si no es ingresado ningún valor en el presente campo, al guargar el registro ADempiere establece de manera automática un correlativo correspondiente a la secuencia de documento que se encuentra realizando.
+    Si no es ingresado ningún valor en el presente campo, al guargar el registro Solop ERP establece de manera automática un correlativo correspondiente a la secuencia de documento que se encuentra realizando.
 
     |campo código de la ventana tipo de observación|
 
@@ -76,7 +76,7 @@ Introduzca en el campo "**Descripción**", una breve descripción referente al r
 
     Imagen 7. Campo Descripción
 
-Seleccione el icono "**Guardar Cambios**", ubicado en la barra de herramientas de ADempiere.
+Seleccione el icono "**Guardar Cambios**", ubicado en la barra de herramientas de Solop ERP.
 
     |icono guardar cambios de la ventana tipo de observación|
 
@@ -203,7 +203,7 @@ Introduzca en el campo "**Dosis por Área**", la cantidad de dosis por área de 
 
     Imagen 23. Campo Dosis por Área
 
-Seleccione el icono "**Guardar Cambios**", ubicado en la barra de herramientas de ADempiere para guardar el registro de los campos de la ventana "**Productos Sugeridos**".
+Seleccione el icono "**Guardar Cambios**", ubicado en la barra de herramientas de Solop ERP para guardar el registro de los campos de la ventana "**Productos Sugeridos**".
 
     |icono guardar cambios de la pestaña productos sugeridos de la ventana tipo de observación|
 

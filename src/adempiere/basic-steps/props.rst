@@ -20,7 +20,7 @@
 **Utilería**
 ============
 
-En ADempiere la utilería no es más que un conjunto de instrumentos o herramientas que tienen algún tipo de utilidad, es decir, que sirven para un fin en específico, a continuación se definen cada uno de ellos.
+En Solop ERP la utilería no es más que un conjunto de instrumentos o herramientas que tienen algún tipo de utilidad, es decir, que sirven para un fin en específico, a continuación se definen cada uno de ellos.
 
 **Buscar:** Le permitirá realizar una búsqueda de un documento en específico.
 
@@ -28,7 +28,7 @@ En ADempiere la utilería no es más que un conjunto de instrumentos o herramien
 
     Imagen 1. Buscar
 
-**Calculadora:** En ADempiere contamos con una herramienta básica que le permitirá realizar una operación matemática dentro de un campo.
+**Calculadora:** En Solop ERP contamos con una herramienta básica que le permitirá realizar una operación matemática dentro de un campo.
 
     |Calculadora|
 
@@ -46,7 +46,7 @@ En ADempiere la utilería no es más que un conjunto de instrumentos o herramien
 
     Imagen 4. Reiniciar Contraseña
 
-**Flujo de Trabajo Activo:** Cuando se genera el siguiente mensaje como consecuencia de un flujo de trabajo activo en ADempiere.
+**Flujo de Trabajo Activo:** Cuando se genera el siguiente mensaje como consecuencia de un flujo de trabajo activo en Solop ERP.
 
     |Flujo de Trabajo Activo|
 
@@ -62,7 +62,7 @@ En ADempiere la utilería no es más que un conjunto de instrumentos o herramien
 
         .. note::
 
-            En ADempiere, el flujo de trabajo activo es aquel que en el campo "**Estado de Flujo de Trabajo**", de la ventana "**Proceso de Flujo de Trabajo**", se encuentra la opción "**Corriendo**".
+            En Solop ERP, el flujo de trabajo activo es aquel que en el campo "**Estado de Flujo de Trabajo**", de la ventana "**Proceso de Flujo de Trabajo**", se encuentra la opción "**Corriendo**".
 
     Podrá visualizar la ventana "**Proceso de Flujo de Trabajo**", con el registro del flujo de trabajo activo.
 

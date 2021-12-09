@@ -10,7 +10,7 @@
 **Cierre de Caja Nómina**
 ==========================
 
-El último paso que debemos seguir para terminar de registrar el proceso de pago de nómina en ADempiere es el cierre de caja, donde llamaremos los pagos registrados en nuestra selección de pago y se cruzaran con la transferencia bancaria que realizamos previamente. Recuerde que para poder realizar este paso debemos de tener completo los pasos realizados anteriormente los cuales son: "**Seleccion de Pago**", "**Imprimir Exportar Pagos de Nómina**" y la "**Transferencia Bancaria**".
+El último paso que debemos seguir para terminar de registrar el proceso de pago de nómina en Solop ERP es el cierre de caja, donde llamaremos los pagos registrados en nuestra selección de pago y se cruzaran con la transferencia bancaria que realizamos previamente. Recuerde que para poder realizar este paso debemos de tener completo los pasos realizados anteriormente los cuales son: "**Seleccion de Pago**", "**Imprimir Exportar Pagos de Nómina**" y la "**Transferencia Bancaria**".
 
 Nos dirigimos a la ventana "**Cierre de Caja**", ubicado en el menú “**Gestión de Saldos Pendientes**”  en el sub directorio “**Diario de Caja**”, registramos los datos de la siguiente manera:
 

@@ -31,11 +31,11 @@ Para ejemplificar el procedimiento es generado el reporte "**Detalle de Almacena
 
     Imagen 1. Reporte Detalle Almacenamiento Antes del Movimiento
 
-Ubique y seleccione en el menú de ADempiere, la carpeta "**Gestión de Materiales**", luego seleccione la ventana "**Movimiento de Inventario**". 
+Ubique y seleccione en el menú de Solop ERP, la carpeta "**Gestión de Materiales**", luego seleccione la ventana "**Movimiento de Inventario**". 
 
     |Menú de ADempiere|
 
-    Imagen 2. Menú de ADempiere
+    Imagen 2. Menú de Solop ERP
 
 Podrá visualizar la ventana "**Movimiento de Inventario**" donde se encuentran los registros de los diferentes movimientos de inventarios realizados en la organización.
 
@@ -43,7 +43,7 @@ Podrá visualizar la ventana "**Movimiento de Inventario**" donde se encuentran 
 
     Imagen 3. Ventana Movimiento de Inventario
 
-Seleccione el icono "**Registro Nuevo**", ubicado en la barra de herramientas de ADempiere para crear un nuevo registro de movimiento inventario.
+Seleccione el icono "**Registro Nuevo**", ubicado en la barra de herramientas de Solop ERP para crear un nuevo registro de movimiento inventario.
 
     |Icono Registro Nuevo|
 
@@ -91,7 +91,7 @@ Seleccione el icono "**Registro Nuevo**", ubicado en la barra de herramientas de
 
         .. note::
 
-            Recuerde guardar los cambios realizados en los campos de la pestaña "**Movimiento**", seleccionando el icono "**Guardar Cambios**" ubicado en la barra de herramientas de ADempiere.
+            Recuerde guardar los cambios realizados en los campos de la pestaña "**Movimiento**", seleccionando el icono "**Guardar Cambios**" ubicado en la barra de herramientas de Solop ERP.
 
 Seleccione la pestaña "**Línea del Movimiento**" y proceda al llenado de los campos correspondientes.
 
@@ -135,7 +135,7 @@ Seleccione la pestaña "**Línea del Movimiento**" y proceda al llenado de los c
 
         .. note::
 
-            Recuerde guardar los cambios realizados en los campos de la pestaña "**Línea del Movimiento**", seleccionando el icono "**Guardar Cambios**" ubicado en la barra de herramientas de ADempiere.
+            Recuerde guardar los cambios realizados en los campos de la pestaña "**Línea del Movimiento**", seleccionando el icono "**Guardar Cambios**" ubicado en la barra de herramientas de Solop ERP.
 
     Seleccione la pestaña principal "**Movimiento**", luego seleccione la opción "**Completar**" ubicada en la parte inferior derecha de la ventana "**Movimiento de Inventario**".
 

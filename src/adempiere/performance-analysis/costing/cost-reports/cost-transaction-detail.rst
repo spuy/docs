@@ -20,11 +20,11 @@
 **Detalle de la Transacción del Costo**
 =======================================
 
-Ubique y seleccione en el menú de ADempiere, la carpeta "**Análisis de Desempeño**", luego seleccione la carpeta "**Gestión de Costos**", por último seleccione el reporte "**Detalle de la Transacción de Costos**".
+Ubique y seleccione en el menú de Solop ERP, la carpeta "**Análisis de Desempeño**", luego seleccione la carpeta "**Gestión de Costos**", por último seleccione el reporte "**Detalle de la Transacción de Costos**".
 
     |Menú de ADempiere|
 
-    Imagen 1. Menú de ADempiere
+    Imagen 1. Menú de Solop ERP
 
 Podrá visualizar la ventana "**Detalle de la Transacción de Costos**", con diferentes campos que le permiten al usuario filtrar la búsqueda para generar el reporte "**Detalle de la Transacción de Costos**" según lo requerido.
 

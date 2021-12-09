@@ -20,11 +20,11 @@
 **Generar Orden de Compra desde Financiamiento Agrícola**
 =========================================================
 
-Ubique y seleccione en el menú de ADempiere, la carpeta "**Gestión de Asistencia al Agricultor**", luego seleccione la carpeta "**Inversión Agrícola y Préstamos**". Por último seleccione la ventana de búsqueda inteligente "**Generar Orden de Compra (Desde Financiamiento Agrícola)**".
+Ubique y seleccione en el menú de Solop ERP, la carpeta "**Gestión de Asistencia al Agricultor**", luego seleccione la carpeta "**Inversión Agrícola y Préstamos**". Por último seleccione la ventana de búsqueda inteligente "**Generar Orden de Compra (Desde Financiamiento Agrícola)**".
 
     |menú de generar orden de compra desde financiamiento agrícola|
 
-    Imagen 1. Menú de ADempiere
+    Imagen 1. Menú de Solop ERP
 
 Podrá visualizar la ventana de búsqueda inteligente (smart browser) "**Generar Orden de Compra (Desde Financiamiento Agrícola)**", con diferentes campos que permite filtrar la información para generar el documento enm base a lo requerido por el usuario.
 

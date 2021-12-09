@@ -13,11 +13,11 @@
 **Consulta de Costo del Producto**
 ==================================
 
-Ubique y seleccione en el menú de ADempiere, la carpeta "**Análisis de Desempeño**", luego seleccione la carpeta "**Gestión de Costos**", por último seleccione la ventana "**Costos del Producto**".
+Ubique y seleccione en el menú de Solop ERP, la carpeta "**Análisis de Desempeño**", luego seleccione la carpeta "**Gestión de Costos**", por último seleccione la ventana "**Costos del Producto**".
 
     |Menú de ADempiere|
 
-    Imagen 1. Menú de ADempiere
+    Imagen 1. Menú de Solop ERP
 
 Podrá visualizar la ventana "**Encontrar Registro: Selección de Producto**", con campos que permiten filtrar la búsqueda del producto.
 

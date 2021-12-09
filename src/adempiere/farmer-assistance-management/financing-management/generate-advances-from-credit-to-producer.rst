@@ -25,11 +25,11 @@
 ================================================
 
 
-Ubique y seleccione en el menú de ADempiere, la carpeta "**Gestión de Asistencia al Agricultor**", luego seleccione la carpeta "**Inversión Agrícola y Préstamos**". Por último seleccione la ventana de búsqueda inteligente "**Generar Anticipos desde Crédito al Productor**".
+Ubique y seleccione en el menú de Solop ERP, la carpeta "**Gestión de Asistencia al Agricultor**", luego seleccione la carpeta "**Inversión Agrícola y Préstamos**". Por último seleccione la ventana de búsqueda inteligente "**Generar Anticipos desde Crédito al Productor**".
 
     |menú de generar anticipos desde crédito al productor|
 
-    Imagen 1. Menú de ADempiere
+    Imagen 1. Menú de Solop ERP
 
 Podrá visualizar la ventana de búsqueda inteligente (smart browser) "**Generar Anticipos desde Crédito al Productor**", con diferentes campos que permite filtrar la información para generar el documento enm base a lo requerido por el usuario.
 

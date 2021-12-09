@@ -22,11 +22,11 @@
 **Balance de Prueba**
 =====================
 
-Ubique y seleccione en el menú de ADempiere, la carpeta "**Análisis de Desempeño**", luego seleccione la carpeta "**Informes Financieros**", por último seleccione el reporte "**Balance de Prueba**".
+Ubique y seleccione en el menú de Solop ERP, la carpeta "**Análisis de Desempeño**", luego seleccione la carpeta "**Informes Financieros**", por último seleccione el reporte "**Balance de Prueba**".
 
     |Menú de ADempiere|
 
-    Imagen 1. Menú de ADempiere
+    Imagen 1. Menú de Solop ERP
 
 Podrá visualizar la ventana del reporte "**Balance de Prueba**", con diferentes campos que le permiten al usuario filtrar la búsqueda de la información para generar el reporte requerido.
 

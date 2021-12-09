@@ -33,13 +33,13 @@
 **Caja**
 ========
 
-Ubique y seleccione en el menú de ADempiere, la carpeta "**Gestión del Sistema**", luego seleccione la carpeta "**Reglas de la Organización**", por último seleccione la ventana "**Definición de Diario de Caja**".
+Ubique y seleccione en el menú de Solop ERP, la carpeta "**Gestión del Sistema**", luego seleccione la carpeta "**Reglas de la Organización**", por último seleccione la ventana "**Definición de Diario de Caja**".
 
     |Menú de ADempiere|
 
-    Imagen 1. Menú de ADempiere
+    Imagen 1. Menú de Solop ERP
 
-Podrá visualizar la ventana "**Definición de Diario de Caja**", con los diferentes registros de cajas que se encuentran en ADempiere.
+Podrá visualizar la ventana "**Definición de Diario de Caja**", con los diferentes registros de cajas que se encuentran en Solop ERP.
 
     |Ventana Definición de Diario de Caja|
 
@@ -203,4 +203,4 @@ Podrá visualizar la ventana "**Definición de Diario de Caja**", con los difere
 
             .. note::
 
-                Recuerde guardar el registro de los campos de la pestaña "**Contabilidad**", seleccionando el icono "**Guardar Cambios**", ubicado en la barra de herramientas de ADempiere.
+                Recuerde guardar el registro de los campos de la pestaña "**Contabilidad**", seleccionando el icono "**Guardar Cambios**", ubicado en la barra de herramientas de Solop ERP.

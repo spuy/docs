@@ -25,11 +25,11 @@
 **Tipo de Cálculo de Peso**
 ===========================
 
-Ubique y seleccione en el menú de ADempiere, la carpeta "**Gestión de Asistencia al Agricultor**", luego seleccione la carpeta "**Configuración de Materia Prima**", por último seleccione la ventana "**Tipo de Cálculo de Peso**".
+Ubique y seleccione en el menú de Solop ERP, la carpeta "**Gestión de Asistencia al Agricultor**", luego seleccione la carpeta "**Configuración de Materia Prima**", por último seleccione la ventana "**Tipo de Cálculo de Peso**".
 
     |menú de tipo de cálculo de peso|
 
-    Imagen 1. Menú de ADempiere
+    Imagen 1. Menú de Solop ERP
 
 Podrá visualizar la ventana "**Tipo de Cálculo de Peso**", con los diferentes registros de cálculo de peso.
 
@@ -37,7 +37,7 @@ Podrá visualizar la ventana "**Tipo de Cálculo de Peso**", con los diferentes 
 
     Imagen 2. Ventana Tipo de Cálculo de Peso
 
-Seleccione el icono "**Registro Nuevo**", ubicado en la barra de herramientas de ADempiere.
+Seleccione el icono "**Registro Nuevo**", ubicado en la barra de herramientas de Solop ERP.
 
     |icono registro nuevo de la ventana tipo de cálculo de peso|
 
@@ -67,7 +67,7 @@ Introduzca en el campo "**Descripción**", una breve descripción referente al r
 
     Imagen 7. Campo Descripción
 
-Seleccione el icono "**Guardar Cambios**", ubicado en la barra de herramientas de ADempiere.
+Seleccione el icono "**Guardar Cambios**", ubicado en la barra de herramientas de Solop ERP.
 
     |icono guardar cambios de la ventana tipo de cálculo de peso|
 
@@ -153,7 +153,7 @@ Seleccione en el campo "**Tipo de Uso**", el tipo de uso para el cálculo de pes
 
     Imagen 20. Campo Tipo de Uso
 
-Seleccione el icono "**Guardar Cambios**" en la barra de herramientas de ADempiere.
+Seleccione el icono "**Guardar Cambios**" en la barra de herramientas de Solop ERP.
 
     |icono guardar cambios de la pestaña cálculo de peso de la ventana tipo de cálculo de peso|
 

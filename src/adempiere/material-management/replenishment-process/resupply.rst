@@ -31,7 +31,7 @@
 **Proceso de Reabastecimiento**
 ===============================
 
-El proceso de reabastecimiento permite generar los respectivos documentos de movimiento de material, requisición, orden de compra, o de distribución, en estado "**Borrador**". El comportamiento del proceso consta en el tipo de reabastecimiento seleccionado en la configuración del producto. ADempiere permite utilizar los siguientes tipos de reabastecimiento:
+El proceso de reabastecimiento permite generar los respectivos documentos de movimiento de material, requisición, orden de compra, o de distribución, en estado "**Borrador**". El comportamiento del proceso consta en el tipo de reabastecimiento seleccionado en la configuración del producto. Solop ERP permite utilizar los siguientes tipos de reabastecimiento:
 
     - **Mantener El Nivel Máximo**
     - **Manual**
@@ -66,13 +66,13 @@ Para ejecutar correctamente el proceso de reabastecimiento de almacén, es neces
 **Configuración Esencial**
 --------------------------
 
-Ubique y seleccione en el menú de ADempiere, la carpeta "**Gestión de Materiales**", luego seleccione la carpeta "**Reglas de Gestión de Materiales**", por último seleccione la ventana "**Producto**". 
+Ubique y seleccione en el menú de Solop ERP, la carpeta "**Gestión de Materiales**", luego seleccione la carpeta "**Reglas de Gestión de Materiales**", por último seleccione la ventana "**Producto**". 
 
     |menú de producto|
 
-    Menú de ADempiere
+    Menú de Solop ERP
 
-Podrá visualizar la ventana "**Producto**", con todos los registros de los productos en ADempiere, en la cual debe ubicar el registro del producto involucrado en el proceso de reabastecimiento, para realizar la configuración esencial del mismo.
+Podrá visualizar la ventana "**Producto**", con todos los registros de los productos en Solop ERP, en la cual debe ubicar el registro del producto involucrado en el proceso de reabastecimiento, para realizar la configuración esencial del mismo.
 
     |producto a configurar|
 
@@ -92,7 +92,7 @@ Seleccione la pestaña "**Reabastecer**", ubicada del lado izquierdo de la venta
 **Ejecución del Proceso**
 -------------------------
 
-Ubique y seleccione en el menú de ADempiere, la carpeta "**Gestión de Materiales**", luego seleccione la ventana de búsqueda inteligente "**Reabastecimiento de Almacén**".
+Ubique y seleccione en el menú de Solop ERP, la carpeta "**Gestión de Materiales**", luego seleccione la ventana de búsqueda inteligente "**Reabastecimiento de Almacén**".
 
     |menú reabastecimiento de almacén|
 

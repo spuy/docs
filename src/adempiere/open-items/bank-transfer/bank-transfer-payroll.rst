@@ -7,7 +7,7 @@
 **Transferencia Bancaria de Nómina**
 =====================================
 
-Luego de completar la selección de pago y de generar los pagos de nómina en la ventana imprimir exportar pagos procedemos a realizar la transferencia bancaria, ubicamos en el menú de ADempiere, la carpeta "**Gestión de Saldos Pendientes**", luego seleccione "**Transferencia Bancaria**". Este proceso es realizado con la finalidad que la empresa cancele a la cuenta de caja el monto total cancelado a los empleados por la nómina procesada.
+Luego de completar la selección de pago y de generar los pagos de nómina en la ventana imprimir exportar pagos procedemos a realizar la transferencia bancaria, ubicamos en el menú de Solop ERP, la carpeta "**Gestión de Saldos Pendientes**", luego seleccione "**Transferencia Bancaria**". Este proceso es realizado con la finalidad que la empresa cancele a la cuenta de caja el monto total cancelado a los empleados por la nómina procesada.
 
 Cabe acotar que debe realizar la transferencia según el monto transferido a cada empleado
 

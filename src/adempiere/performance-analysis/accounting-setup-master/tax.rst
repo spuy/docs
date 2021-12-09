@@ -18,13 +18,13 @@
 **Impuestos**
 =============
 
-Ubique y seleccione en el menú de ADempiere, la carpeta "**Análisis de Desempeño**", luego seleccione la carpeta "**Reglas Contables**", por último seleccione la ventana "**Tasa de Impuesto**".
+Ubique y seleccione en el menú de Solop ERP, la carpeta "**Análisis de Desempeño**", luego seleccione la carpeta "**Reglas Contables**", por último seleccione la ventana "**Tasa de Impuesto**".
 
     |Menú de ADempiere|
 
-    Imagen 1. Menú de ADempiere
+    Imagen 1. Menú de Solop ERP
 
-Podrá visualizar la ventana "**Tasa de Impuesto**", con todos los impuestos que se encuentran registrados en ADempiere.
+Podrá visualizar la ventana "**Tasa de Impuesto**", con todos los impuestos que se encuentran registrados en Solop ERP.
 
     |Ventana Tasa de Impuesto|
 
@@ -98,4 +98,4 @@ Podrá visualizar la ventana "**Tasa de Impuesto**", con todos los impuestos que
 
         .. note::
 
-            Recuerde guardar el registro de los campos de la pestaña "**Contabilidad**", seleccionando el icono "**Guardar Cambios**", ubicado en la barra de herramientas de ADempiere.
+            Recuerde guardar el registro de los campos de la pestaña "**Contabilidad**", seleccionando el icono "**Guardar Cambios**", ubicado en la barra de herramientas de Solop ERP.

@@ -19,11 +19,11 @@
 **Registro de Cierre de Caja**
 ==============================
 
-Ubique y seleccione en el menú de ADempiere, la carpeta "**Gestión de Saldos Pendientes**", luego seleccione la ventana "**Diario de Caja**", por último seleccione la ventana "**Cierre de Caja**".
+Ubique y seleccione en el menú de Solop ERP, la carpeta "**Gestión de Saldos Pendientes**", luego seleccione la ventana "**Diario de Caja**", por último seleccione la ventana "**Cierre de Caja**".
 
     |Menú de ADempiere|
 
-    Imagen 1. Menú de ADempiere
+    Imagen 1. Menú de Solop ERP
 
 Podrá visualizar la ventana "**Cierre de Caja**", donde debe seleccionar el icono "**Registro Nuevo**" y proceder al llenado de los campos correspondientes.
 
@@ -79,7 +79,7 @@ Seleccione el registro de la transferencia creada anteriormente y la opción "**
 
     Imagen 10. Selección de Transferencia y Opción OK
 
-Seleccione el icono "**Refrescar**" en la barra de herramientas de ADempiere, para refrescar el registro en la ventana "**Cierre de Caja**".
+Seleccione el icono "**Refrescar**" en la barra de herramientas de Solop ERP, para refrescar el registro en la ventana "**Cierre de Caja**".
 
     |Icono Refrescar|
 

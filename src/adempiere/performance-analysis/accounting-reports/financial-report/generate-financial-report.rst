@@ -23,11 +23,11 @@
 **Generar Informe Financiero**
 ==============================
 
-Para generar un informe financiero el usuario debe ubicarse en el menú de ADempiere. Debe seleccionar la carpeta "**Análisis de Desempeño**", luego debe seleccionar la carpeta "**Informes Financieros**" y por último la ventana "**Informe Financiero**".
+Para generar un informe financiero el usuario debe ubicarse en el menú de Solop ERP. Debe seleccionar la carpeta "**Análisis de Desempeño**", luego debe seleccionar la carpeta "**Informes Financieros**" y por último la ventana "**Informe Financiero**".
 
     |Menú de ADempiere|
 
-    Imagen 1. Menú de ADempiere
+    Imagen 1. Menú de Solop ERP
 
 
 El reporte de informe financiero es generado a través de la selección del proceso "**Crear Informe**", el cual se encuentra ubicado en la parte inferior de la ventana "**Informe Financiero**".
@@ -49,7 +49,7 @@ Al seleccionar el proceso, el usuario podrá visualizar la ventana "**Crear Info
 
     Seleccione la organización en el campo "**Organización**".
 
-        La organización no es un campo obligatorio, sin embargo, representa una dimensión contable y le permite filtrar la información por organización cuando existe más de una, es decir, el informe financiero podrá emitir saldos contables de una organización al seleccionarla, si por el contrario, el campo está vacío **ADempiere** mostrará la información contable de todas las organizaciones.
+        La organización no es un campo obligatorio, sin embargo, representa una dimensión contable y le permite filtrar la información por organización cuando existe más de una, es decir, el informe financiero podrá emitir saldos contables de una organización al seleccionarla, si por el contrario, el campo está vacío **Solop ERP** mostrará la información contable de todas las organizaciones.
 
         |Campo Organización|
 
@@ -57,7 +57,7 @@ Al seleccionar el proceso, el usuario podrá visualizar la ventana "**Crear Info
 
     Seleccione el socio de negocio en el campo "**Socio de Negocio**".
 
-        El socio de negocio no es un campo obligatorio, sin embargo, representa una dimensión contable y le permite filtrar la información por socio de negocio según su naturaleza, cliente, proveedor o empleado, es decir, el informe financiero podrá emitir saldos contables de un socio de negocio al seleccionarlo, si por el contrario, el campo está vacío **ADempiere** mostrará la información contable de todos los socios de negocios.
+        El socio de negocio no es un campo obligatorio, sin embargo, representa una dimensión contable y le permite filtrar la información por socio de negocio según su naturaleza, cliente, proveedor o empleado, es decir, el informe financiero podrá emitir saldos contables de un socio de negocio al seleccionarlo, si por el contrario, el campo está vacío **Solop ERP** mostrará la información contable de todos los socios de negocios.
 
         |Campo Socio del Negocio|
 
@@ -65,7 +65,7 @@ Al seleccionar el proceso, el usuario podrá visualizar la ventana "**Crear Info
 
     Seleccione el producto en el campo "**Producto**".
 
-        El producto no es un campo obligatorio, sin embargo, representa una dimensión contable y le permite filtrar la información por producto, es decir, el informe financiero podrá emitir saldos contables de un producto al seleccionarlo, si por el contrario, el campo está vacío **ADempiere** mostrará la información contable de todos los productos.
+        El producto no es un campo obligatorio, sin embargo, representa una dimensión contable y le permite filtrar la información por producto, es decir, el informe financiero podrá emitir saldos contables de un producto al seleccionarlo, si por el contrario, el campo está vacío **Solop ERP** mostrará la información contable de todos los productos.
 
         |Campo Producto|
 
@@ -73,7 +73,7 @@ Al seleccionar el proceso, el usuario podrá visualizar la ventana "**Crear Info
 
     Seleccione la actividad en el campo "**Actividad**".
 
-        La actividad no es un campo obligatorio, sin embargo, representa una dimensión contable y le permite filtrar la información por actividad, que generalmente es utilizada en contabilidad para distribución de los costos y gastos según las actividades que se desarrollan en la empresa, es decir, el informe financiero podrá emitir saldos contables de una actividad al seleccionarla, si por el contrario, el campo está vacío **ADempiere** mostrará la información contable de todas las actividades.
+        La actividad no es un campo obligatorio, sin embargo, representa una dimensión contable y le permite filtrar la información por actividad, que generalmente es utilizada en contabilidad para distribución de los costos y gastos según las actividades que se desarrollan en la empresa, es decir, el informe financiero podrá emitir saldos contables de una actividad al seleccionarla, si por el contrario, el campo está vacío **Solop ERP** mostrará la información contable de todas las actividades.
 
         |Campo Actividad|
 
@@ -81,7 +81,7 @@ Al seleccionar el proceso, el usuario podrá visualizar la ventana "**Crear Info
 
     Seleccione la región de venta en el campo "**Región de Venta**".
 
-        La región de venta no es un campo obligatorio, sin embargo, representa una dimensión contable y le permite filtrar la información por región de venta, que generalmente es utilizada para clasificar las zonas en las cuales la empresa establece negocios, es decir, el informe financiero podrá emitir saldos contables de una región de venta al seleccionarla, si por el contrario, el campo está vacío **ADempiere** mostrará la información contable de todas las regiones.
+        La región de venta no es un campo obligatorio, sin embargo, representa una dimensión contable y le permite filtrar la información por región de venta, que generalmente es utilizada para clasificar las zonas en las cuales la empresa establece negocios, es decir, el informe financiero podrá emitir saldos contables de una región de venta al seleccionarla, si por el contrario, el campo está vacío **Solop ERP** mostrará la información contable de todas las regiones.
 
         |Campo Región de Ventas|
 
@@ -89,7 +89,7 @@ Al seleccionar el proceso, el usuario podrá visualizar la ventana "**Crear Info
 
     Seleccione el centro de costo en el campo "**Centro de Costo**".
 
-        El centro de costo no es un campo obligatorio, sin embargo, representa una dimensión contable y le permite filtrar la información por centro de costo, que generalmente es utilizado para segmentar los costos que genera una organización, permitiendo definir la ganancia o pérdida que le pueden añadir de forma directa o indirecta a una empresa, es decir, el informe financiero podrá emitir saldos contables de una región de venta al seleccionarla, si por el contrario, el campo está vacío **ADempiere** mostrará la información contable de todos los centros de costos.
+        El centro de costo no es un campo obligatorio, sin embargo, representa una dimensión contable y le permite filtrar la información por centro de costo, que generalmente es utilizado para segmentar los costos que genera una organización, permitiendo definir la ganancia o pérdida que le pueden añadir de forma directa o indirecta a una empresa, es decir, el informe financiero podrá emitir saldos contables de una región de venta al seleccionarla, si por el contrario, el campo está vacío **Solop ERP** mostrará la información contable de todos los centros de costos.
 
         |Campo Centro de Costos|
 
@@ -97,7 +97,7 @@ Al seleccionar el proceso, el usuario podrá visualizar la ventana "**Crear Info
 
     Seleccione el tipo de aplicación en el campo "**Tipo de Aplicación**".
 
-        El tipo de aplicación no es un campo obligatorio, sin embargo, le permite filtrar la información por tipo de aplicación, que generalmente es utilizado para clasificar el tipo de contabilidad aplicado, el tipo de aplicación establecido por defecto es actual, basado en la configuración previa en las "**Columnas de Informe**" asociada al informe financiero, no obstante, podrá seleccionar entre, actual, presupuesto, reserva, compromiso y estadística, es decir, el informe financiero podrá emitir saldos contables de un tipo de aplicación específico al seleccionarlo, si por el contrario, el campo está vacío **ADempiere** mostrará la información contable del tipo de aplicación "**Actual**". Para profundizar más este tema vaya a el documento: :ref:`documento/tipo-de-aplicación`
+        El tipo de aplicación no es un campo obligatorio, sin embargo, le permite filtrar la información por tipo de aplicación, que generalmente es utilizado para clasificar el tipo de contabilidad aplicado, el tipo de aplicación establecido por defecto es actual, basado en la configuración previa en las "**Columnas de Informe**" asociada al informe financiero, no obstante, podrá seleccionar entre, actual, presupuesto, reserva, compromiso y estadística, es decir, el informe financiero podrá emitir saldos contables de un tipo de aplicación específico al seleccionarlo, si por el contrario, el campo está vacío **Solop ERP** mostrará la información contable del tipo de aplicación "**Actual**". Para profundizar más este tema vaya a el documento: :ref:`documento/tipo-de-aplicación`
 
         |Campo Tipo de Aplicación|
 
@@ -105,7 +105,7 @@ Al seleccionar el proceso, el usuario podrá visualizar la ventana "**Crear Info
 
     Seleccione la opción **Si** o **No** en el campo "**Desplegar fuentes Fuentes**".
 
-        Desplegar fuentes Fuentes no es un campo obligatorio, sin embargo, le permite visualizar el saldo de las cuentas detalle que dan origen al saldo de las cuentas acumulativas, también llamadas cuentas de mayor, es decir, si selecciona la opción "**Si**", el informe financiero mostrará el saldo de las cuentas de mayor y el saldo de las cuentas detalle que componen esta cuenta, si por el contrario, la opción seleccionada es "**No**" o el campo está vacío **ADempiere** mostrará el saldo contable únicamente de las cuentas definidas previamente en el "**Grupo de Líneas del Informe**" asociado al informe financiero.
+        Desplegar fuentes Fuentes no es un campo obligatorio, sin embargo, le permite visualizar el saldo de las cuentas detalle que dan origen al saldo de las cuentas acumulativas, también llamadas cuentas de mayor, es decir, si selecciona la opción "**Si**", el informe financiero mostrará el saldo de las cuentas de mayor y el saldo de las cuentas detalle que componen esta cuenta, si por el contrario, la opción seleccionada es "**No**" o el campo está vacío **Solop ERP** mostrará el saldo contable únicamente de las cuentas definidas previamente en el "**Grupo de Líneas del Informe**" asociado al informe financiero.
 
         |Campo Desplegar fuentes Fuentes|
 
@@ -113,7 +113,7 @@ Al seleccionar el proceso, el usuario podrá visualizar la ventana "**Crear Info
 
     Seleccione la opción **Si** o **No** en el campo "**Lista Transacciones**".
 
-        Lista Transacciones es un campo dependiente del campo "**Desplegar fuentes Fuentes**", es decir solo estará habilitado cuando el campo "**Desplegar fuentes Fuentes**" esté establecido con la opción "**Si**","**Lista Transacciones**" no es un campo obligatorio, sin embargo, le permite visualizar el débito o crédito de las transacciones que dan origen al saldo de las cuentas detalles y a su vez a las cuentas acumulativas, también llamadas cuentas de mayor, es decir, si selecciona la opción "**Si**", el informe financiero mostrará el monto de las transacciones que componen cada cuenta, si por el contrario, la opción seleccionada es "**No**" o el campo está vacío **ADempiere** mostrará el saldo contable únicamente de las cuentas detalles.
+        Lista Transacciones es un campo dependiente del campo "**Desplegar fuentes Fuentes**", es decir solo estará habilitado cuando el campo "**Desplegar fuentes Fuentes**" esté establecido con la opción "**Si**","**Lista Transacciones**" no es un campo obligatorio, sin embargo, le permite visualizar el débito o crédito de las transacciones que dan origen al saldo de las cuentas detalles y a su vez a las cuentas acumulativas, también llamadas cuentas de mayor, es decir, si selecciona la opción "**Si**", el informe financiero mostrará el monto de las transacciones que componen cada cuenta, si por el contrario, la opción seleccionada es "**No**" o el campo está vacío **Solop ERP** mostrará el saldo contable únicamente de las cuentas detalles.
 
         |Campo Lista Transacciones|
 
@@ -121,7 +121,7 @@ Al seleccionar el proceso, el usuario podrá visualizar la ventana "**Crear Info
 
      Seleccione la opción **Si** o **No** en el campo **Listas Fuentes Primero**.
 
-        Listas Fuentes Primero se encuentra por defecto con la opción "**No**", no es un campo obligatorio, sin embargo, le permite organizar su informe financiero, organizando las cuentas fuentes(cuentas detalle) listadas desde la opción "**Desplegar fuentes Fuentes**" y "**Lista Transacciones**" de forma que si la opción seleccionada en el campo "**Listas Fuentes Primero**" es "**Si** las cuentas detalle junto a las transacciones irán precediendo a las cuentas definidas previamente en el "**Grupo de Líneas del Informe**" asociado al informe financiero, si por el contrario, el campo está vacío **ADempiere** mostrará las cuentas detalle junto a las transacciones sucediendo a las cuentas definidas previamente en el "**Grupo de Líneas del Informe**" asociado al informe financiero.
+        Listas Fuentes Primero se encuentra por defecto con la opción "**No**", no es un campo obligatorio, sin embargo, le permite organizar su informe financiero, organizando las cuentas fuentes(cuentas detalle) listadas desde la opción "**Desplegar fuentes Fuentes**" y "**Lista Transacciones**" de forma que si la opción seleccionada en el campo "**Listas Fuentes Primero**" es "**Si** las cuentas detalle junto a las transacciones irán precediendo a las cuentas definidas previamente en el "**Grupo de Líneas del Informe**" asociado al informe financiero, si por el contrario, el campo está vacío **Solop ERP** mostrará las cuentas detalle junto a las transacciones sucediendo a las cuentas definidas previamente en el "**Grupo de Líneas del Informe**" asociado al informe financiero.
 
         |Campo Lista Fuentes Primero|
 
@@ -137,7 +137,7 @@ Al seleccionar el proceso, el usuario podrá visualizar la ventana "**Crear Info
 
             Imagen 14. Organigrama Ventas
 
-            Si se desea ver un informe para realizar un análisis de desempeño de la entidad en la organización seguramente se evaluarán resultados en cuentas como  ingresos, cuentas por cobrar, compromisos, costos y gastos asociado al departamento, región de ventas o incluso al empleado(gerente de ventas o vendedor), para esto **ADempiere** permite la creación de jerarquías para cualquier elemento seleccionado en el esquema contable y de esta forma reportar por estructuras y roles definidos previamente en "**Informe de Jerarquías**".
+            Si se desea ver un informe para realizar un análisis de desempeño de la entidad en la organización seguramente se evaluarán resultados en cuentas como  ingresos, cuentas por cobrar, compromisos, costos y gastos asociado al departamento, región de ventas o incluso al empleado(gerente de ventas o vendedor), para esto **Solop ERP** permite la creación de jerarquías para cualquier elemento seleccionado en el esquema contable y de esta forma reportar por estructuras y roles definidos previamente en "**Informe de Jerarquías**".
 
             Basados en lo anteriormente expuesto, en este ejemplo se crearía una jerarquía asociando los siguientes árboles:
 

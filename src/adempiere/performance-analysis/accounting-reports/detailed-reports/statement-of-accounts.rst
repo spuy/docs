@@ -21,11 +21,11 @@
 **Estado de Cuenta**
 ====================
 
-Para generar un estado de cuenta el usuario debe ubicarse en el menú de ADempiere. Debe seleccionar la carpeta "**Análisis de Desempeño**", luego debe seleccionar la carpeta "**Informes Financieros**" y por último el reporte "**Estado de Cuenta**".
+Para generar un estado de cuenta el usuario debe ubicarse en el menú de Solop ERP. Debe seleccionar la carpeta "**Análisis de Desempeño**", luego debe seleccionar la carpeta "**Informes Financieros**" y por último el reporte "**Estado de Cuenta**".
 
     |Menú de ADempiere|
 
-    Imagen 1. Menú de ADempiere
+    Imagen 1. Menú de Solop ERP
 
 Podrá visualizar la ventana del reporte "**Estado de Cuenta**", con diferentes campos que le permiten al usuario en base a lo seleccionado, generar el reporte según lo requerido por el mismo.
 

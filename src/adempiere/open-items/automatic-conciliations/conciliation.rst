@@ -37,15 +37,15 @@
 **Registro de Conciliación Automática**
 =======================================
 
-Para poder crear una conciliación automática en ADempiere debe seguir los siguientes pasos:
+Para poder crear una conciliación automática en Solop ERP debe seguir los siguientes pasos:
 
-Ubique en el menú de ADempiere la carpeta "**Gestión de Saldos Pendientes**" y luego seleccione la ventana "**Estado de Cuenta Bancario**".
+Ubique en el menú de Solop ERP la carpeta "**Gestión de Saldos Pendientes**" y luego seleccione la ventana "**Estado de Cuenta Bancario**".
 
     |Menú de ADempiere|
 
-    Imagen 1. Menú de ADempiere
+    Imagen 1. Menú de Solop ERP
 
-Seleccione el icono "**Registro Nuevo**" en la barra de herramientas de ADempiere y proceda al llenado de los campos correspondientes.
+Seleccione el icono "**Registro Nuevo**" en la barra de herramientas de Solop ERP y proceda al llenado de los campos correspondientes.
 
     |Icono de Registro Nuevo|
 
@@ -69,7 +69,7 @@ Seleccione el icono "**Registro Nuevo**" en la barra de herramientas de ADempier
 
         Imagen 5. Campo Cuenta Bancaria
 
-    Seleccione el icono "**Guardar**" en la barra de herramientas de ADempiere para guardar los cambios realizados en el documento.
+    Seleccione el icono "**Guardar**" en la barra de herramientas de Solop ERP para guardar los cambios realizados en el documento.
 
         |Icono Guardar Cambios|
 
@@ -82,9 +82,9 @@ Seleccione el icono "**Registro Nuevo**" en la barra de herramientas de ADempier
 **Importación de Extracto Bancario**
 ------------------------------------
 
-Para que ADempiere pueda conciliar y verificar los pagos/cobros en una cuenta bancaria y los registrados pagos/cobros en ADempiere, se debe importar el extracto bancario generado del banco para ello se deben seguir los siguientes pasos.
+Para que Solop ERP pueda conciliar y verificar los pagos/cobros en una cuenta bancaria y los registrados pagos/cobros en Solop ERP, se debe importar el extracto bancario generado del banco para ello se deben seguir los siguientes pasos.
 
-Ya estando posicionados en la ventana "**Estado de Cuenta Bancario**" seleccione el icono "**Proceso**" en la barra de herramientas de ADempiere.
+Ya estando posicionados en la ventana "**Estado de Cuenta Bancario**" seleccione el icono "**Proceso**" en la barra de herramientas de Solop ERP.
 
     |Icono Proceso|
 
@@ -126,13 +126,13 @@ Podrá apreciar la siguiente ventana y proceder al llenado de los campos corresp
         
         Imagen 13. Opción Cargar Archivo
 
-    Seleccione la opción "**OK**", para importar el archivo a ADempiere.
+    Seleccione la opción "**OK**", para importar el archivo a Solop ERP.
 
         |Opción OK|
         
         Imagen 14. Opción OK
 
-Podrá visualizar en la ventana un mensaje el cual indica la importación exitosa en ADempiere del extracto bancario y la cantidad de movimientos que posee el extracto bancario, para este caso como ejemplo está indicando que tiene 598 movimientos el extracto bancario.
+Podrá visualizar en la ventana un mensaje el cual indica la importación exitosa en Solop ERP del extracto bancario y la cantidad de movimientos que posee el extracto bancario, para este caso como ejemplo está indicando que tiene 598 movimientos el extracto bancario.
 
     |Estado de Cuenta|
     
@@ -140,14 +140,14 @@ Podrá visualizar en la ventana un mensaje el cual indica la importación exitos
 
 .. note::
 
-    Una vez cargado el extracto de cuenta bancario se puede proceder a realizar la conciliación automática, si el extracto de cuenta bancario no es importado ADempiere no podrá realizar el proceso.
+    Una vez cargado el extracto de cuenta bancario se puede proceder a realizar la conciliación automática, si el extracto de cuenta bancario no es importado Solop ERP no podrá realizar el proceso.
 
 **Conciliación Automática**
 ---------------------------
 
 Una vez seleccionado el banco con el que se realizará la conciliación bancaria e importado el extracto bancario se procede a realizar la conciliación automática:
 
-Estando posicionados en la ventana **"Estado de Cuenta bancario"** Seleccione el icono "**Proceso**" en la barra de herramientas de ADempiere.
+Estando posicionados en la ventana **"Estado de Cuenta bancario"** Seleccione el icono "**Proceso**" en la barra de herramientas de Solop ERP.
 
     |Icono Proceso de la Ventana Estado de Cuenta Bancario|
     
@@ -169,7 +169,7 @@ Seleccione la opción "**Conciliación de Estado de Cuenta**" en el menú que es
 
             Puede observar que la ventana de búsqueda inteligente trae precargado el campo "**Cuenta Bancaria**" con la información del banco seleccionado en la ventana principal "**Estado de Cuentas Bancario**". Los otros campos reflejados en esta ventana serán utilizados acorde al criterio de búsqueda que se requiera.
 
-    Una vez definido el criterio de búsqueda, seleccione la opción "**Refrescar**" para que se muestre la información del estado de cuenta bancario importado y los pagos/cobros realizados en ADempiere.
+    Una vez definido el criterio de búsqueda, seleccione la opción "**Refrescar**" para que se muestre la información del estado de cuenta bancario importado y los pagos/cobros realizados en Solop ERP.
 
         |Opción Refrescar de la Ventana de Búsqueda Inteligente para Conciliación|
         
@@ -181,11 +181,11 @@ Seleccione la opción "**Conciliación de Estado de Cuenta**" en el menú que es
         
         Imagen 20. Movimientos Importados
 
-    Podrá apreciar del lado derecho de la ventana de búsqueda inteligente los movimientos registrados en ADempiere.
+    Podrá apreciar del lado derecho de la ventana de búsqueda inteligente los movimientos registrados en Solop ERP.
 
         |Movimientos de ADempiere del Lado Derecho|
         
-        Imagen 21. Movimientos de ADempiere
+        Imagen 21. Movimientos de Solop ERP
 
     Seleccione la opción "**Simular Conciliación**" para buscar coincidencia entre la información reflejada en ambos lados de la ventana de búsqueda inteligente.
 
@@ -195,7 +195,7 @@ Seleccione la opción "**Conciliación de Estado de Cuenta**" en el menú que es
 
         .. note::
 
-            La simulación de conciliación consiste en verificar las coincidencias  que tenga los pagos/cobros del extracto bancario con los registrados en ADempiere, está verificación parte en identificar qué los números de referencia de la transacciones bancarias coinciden con el número de documento del registro en ADempiere, qué ambos montos sean iguales y qué estén trabajando con la misma moneda , sí ambos movimientos (los del extracto bancario y los de ADempiere) coinciden en su totalidad con estas tres características "N° referencias / N° Documento , monto /monto, moneda/moneda" ADempiere identificara y lo marcará como una  coincidencia.
+            La simulación de conciliación consiste en verificar las coincidencias  que tenga los pagos/cobros del extracto bancario con los registrados en Solop ERP, está verificación parte en identificar qué los números de referencia de la transacciones bancarias coinciden con el número de documento del registro en Solop ERP, qué ambos montos sean iguales y qué estén trabajando con la misma moneda , sí ambos movimientos (los del extracto bancario y los de Solop ERP) coinciden en su totalidad con estas tres características "N° referencias / N° Documento , monto /monto, moneda/moneda" Solop ERP identificara y lo marcará como una  coincidencia.
 
     Podrá apreciar los movimientos con coincidencia en la parte inferior de la ventana de búsqueda inteligente.
 
@@ -207,7 +207,7 @@ Seleccione la opción "**Conciliación de Estado de Cuenta**" en el menú que es
 
             Si existe coincidencia entre los pagos/cobros y el extracto bancario se le mostrarán los movimientos con coincidencias, de lo contrario no se le mostrará ningún movimiento con coincidencia.
 
-    Seleccione la opción "**OK**" para guardar el registro de coincidencia entre los movimientos reflejados en la ventana de búsqueda inteligente. Automáticamente se importan en la pestaña "**Línea Estado Cuentas**", todos movimientos del extracto bancario que han sido identificados y los que no tengan registro en ADempiere.
+    Seleccione la opción "**OK**" para guardar el registro de coincidencia entre los movimientos reflejados en la ventana de búsqueda inteligente. Automáticamente se importan en la pestaña "**Línea Estado Cuentas**", todos movimientos del extracto bancario que han sido identificados y los que no tengan registro en Solop ERP.
 
         .. note::
 
@@ -219,65 +219,65 @@ Seleccione la opción "**Conciliación de Estado de Cuenta**" en el menú que es
 
     .. note::
 
-        El extracto bancario puede poseer algunos registros que no han sido cargados en ADempiere, estos pueden ser cobros no identificados, comisiones bancarias entre otros, los cuales no van a ser identificados al momento de hacer la simulación, sin embargo para estos pagos/cobros no conciliados se aplicará un proceso que se detalla en el documento :ref:`documento/crear-pagos-desde-estado-de-cuenta`.
+        El extracto bancario puede poseer algunos registros que no han sido cargados en Solop ERP, estos pueden ser cobros no identificados, comisiones bancarias entre otros, los cuales no van a ser identificados al momento de hacer la simulación, sin embargo para estos pagos/cobros no conciliados se aplicará un proceso que se detalla en el documento :ref:`documento/crear-pagos-desde-estado-de-cuenta`.
 
-Al seleccionar "**Ok**" ADempiere lo llevará nuevamente a la ventana principal "**Estado de Cuenta Bancario**".
+Al seleccionar "**Ok**" Solop ERP lo llevará nuevamente a la ventana principal "**Estado de Cuenta Bancario**".
 
 **Coincidencia Bancarias**
 --------------------------
 
-Al momento de realizar la conciliación bancaria ADempiere maneja una serie verificaciones para poder encontrar las coincidencias bancarias, los datos que toma ADempiere tanto en los movimientos del extracto bancario como los movimientos registrados en ADempiere son los siguientes por banco:
+Al momento de realizar la conciliación bancaria Solop ERP maneja una serie verificaciones para poder encontrar las coincidencias bancarias, los datos que toma Solop ERP tanto en los movimientos del extracto bancario como los movimientos registrados en Solop ERP son los siguientes por banco:
 
 - **Banco Banesco**
 
     +------------------------+---------------------------+
-    | Movimientos Bancarios  | Movimientos ADempiere     |
+    | Movimientos Bancarios  | Movimientos Solop ERP     |
     +========================+===========================+
-    |N° Referencia Bancaria  | N° Documento en ADempiere |
+    |N° Referencia Bancaria  | N° Documento en Solop ERP |
     +------------------------+---------------------------+
     |Monto                   | Monto                     |
     +------------------------+---------------------------+
     |Moneda                  | Moneda                    |
     +------------------------+---------------------------+
 
-    - **N° de referencia bancaria / N° de documento en ADempiere:** ADempiere se encarga de buscar y verificar que tanto en el número de referencia bancaria como el número de documentos en ADempiere ambos coincidan ya sea los primeros números hacia la derecha, los números que se encuentran centrados, los últimos números hacia la izquierda o el total de los números.
+    - **N° de referencia bancaria / N° de documento en Solop ERP:** Solop ERP se encarga de buscar y verificar que tanto en el número de referencia bancaria como el número de documentos en Solop ERP ambos coincidan ya sea los primeros números hacia la derecha, los números que se encuentran centrados, los últimos números hacia la izquierda o el total de los números.
 
-    - **Monto:** ADempiere se encarga de buscar y verificar que los montos del movimiento bancario como el monto del registro en ADempiere coincidan.
+    - **Monto:** Solop ERP se encarga de buscar y verificar que los montos del movimiento bancario como el monto del registro en Solop ERP coincidan.
 
-    - **Moneda:** ADempiere se encarga de buscar y verificar que la moneda del movimiento bancario con la moneda del registro en ADempiere coincidan, ejemplo : **VES / VES**, **USD / USD**
+    - **Moneda:** Solop ERP se encarga de buscar y verificar que la moneda del movimiento bancario con la moneda del registro en Solop ERP coincidan, ejemplo : **VES / VES**, **USD / USD**
 
     .. note::
 
-        Para que ADempiere tome una coincidencia tanto del extracto bancario como el de los registros en ADempiere, ambos deben coincidir con los tres pasos anteriormente mencionados de no ser sí ADempiere no encontrará ninguna coincidencia.
+        Para que Solop ERP tome una coincidencia tanto del extracto bancario como el de los registros en Solop ERP, ambos deben coincidir con los tres pasos anteriormente mencionados de no ser sí Solop ERP no encontrará ninguna coincidencia.
 
 - **Banco Mercantil**
 
     +------------------------+---------------------------+
-    | Movimientos Bancarios  | Movimientos ADempiere     |
+    | Movimientos Bancarios  | Movimientos Solop ERP     |
     +========================+===========================+
-    |N° Referencia Bancaria  | N° Documento en ADempiere |
+    |N° Referencia Bancaria  | N° Documento en Solop ERP |
     +------------------------+---------------------------+
     |Monto                   | Monto                     |
     +------------------------+---------------------------+
     |Moneda                  | Moneda                    |
     +------------------------+---------------------------+
 
-    - **N° de referencia bancaria / N° de documento en ADempiere:** ADempiere se encarga de buscar y verificar que tanto en el número de referencia bancaria como el número de documentos en ADempiere ambos coincidan ya sea los primeros números hacia la derecha, los números que se encuentran centrados, los últimos números hacia la izquierda o el total de los números.
+    - **N° de referencia bancaria / N° de documento en Solop ERP:** Solop ERP se encarga de buscar y verificar que tanto en el número de referencia bancaria como el número de documentos en Solop ERP ambos coincidan ya sea los primeros números hacia la derecha, los números que se encuentran centrados, los últimos números hacia la izquierda o el total de los números.
 
-    - **Monto:** ADempiere se encarga de buscar y verificar que los montos del movimiento bancario como el monto del registro en ADempiere coincidan.
+    - **Monto:** Solop ERP se encarga de buscar y verificar que los montos del movimiento bancario como el monto del registro en Solop ERP coincidan.
 
-    - **Moneda:** ADempiere se encarga de buscar y verificar que la moneda del movimiento bancario con la moneda del registro en ADempiere coincidan, ejemplo : **VES / VES**, **USD / USD**
+    - **Moneda:** Solop ERP se encarga de buscar y verificar que la moneda del movimiento bancario con la moneda del registro en Solop ERP coincidan, ejemplo : **VES / VES**, **USD / USD**
 
     .. note::
 
-        Para que ADempiere tome una coincidencia tanto del extracto bancario como el de los registros en ADempiere, ambos deben coincidir con los tres pasos anteriormente mencionados de no ser sí ADempiere no encontrará ninguna coincidencia.
+        Para que Solop ERP tome una coincidencia tanto del extracto bancario como el de los registros en Solop ERP, ambos deben coincidir con los tres pasos anteriormente mencionados de no ser sí Solop ERP no encontrará ninguna coincidencia.
 
 - **Banco Bancaribe**
 
     +-------------------------+-----------------------------+
-    | Movimientos Bancarios   | Movimientos ADempiere       |
+    | Movimientos Bancarios   | Movimientos Solop ERP       |
     +=========================+=============================+
-    |* N° Referencia Bancaria | * N° Documento en ADempiere |
+    |* N° Referencia Bancaria | * N° Documento en Solop ERP |
     |* Memo                   | * Descripción               |
     |* N° Cheque              | * N° Cheque                 |
     +-------------------------+-----------------------------+
@@ -286,131 +286,131 @@ Al momento de realizar la conciliación bancaria ADempiere maneja una serie veri
     |Moneda                   | Moneda                      |
     +-------------------------+-----------------------------+
 
-    Para las conciliaciones del banco **Bancaribe** este puede tomar tanto el N° de referencia bancaria con el número de documento en ADempiere, el memo con la descripción del registro en ADempiere, ó el número de cheque con el número de cheque en ADempiere.
+    Para las conciliaciones del banco **Bancaribe** este puede tomar tanto el N° de referencia bancaria con el número de documento en Solop ERP, el memo con la descripción del registro en Solop ERP, ó el número de cheque con el número de cheque en Solop ERP.
 
-    - **N° de referencia bancaria / N° de documento en ADempiere:** ADempiere se encarga de buscar y verificar que tanto en el número de referencia bancaria como el número de documentos en ADempiere ambos coincidan ya sea los primeros números hacia la derecha, los números que se encuentran centrados, los últimos números hacia la izquierda o el total de los números.
+    - **N° de referencia bancaria / N° de documento en Solop ERP:** Solop ERP se encarga de buscar y verificar que tanto en el número de referencia bancaria como el número de documentos en Solop ERP ambos coincidan ya sea los primeros números hacia la derecha, los números que se encuentran centrados, los últimos números hacia la izquierda o el total de los números.
 
-    - **Memo / Descripción:** ADempiere se encarga de buscar y verificar que tanto en el memo que se encuentra en el movimiento del extracto bancario coincida con la descripción del registro en ADempiere.
+    - **Memo / Descripción:** Solop ERP se encarga de buscar y verificar que tanto en el memo que se encuentra en el movimiento del extracto bancario coincida con la descripción del registro en Solop ERP.
 
-    - **N° Cheque / N° Cheque:** ADempiere se encarga de buscar y verificar que tanto en el n° de cheque del movimiento del extracto bancario coincida con el n° de cheque de ADempiere.
+    - **N° Cheque / N° Cheque:** Solop ERP se encarga de buscar y verificar que tanto en el n° de cheque del movimiento del extracto bancario coincida con el n° de cheque de Solop ERP.
 
-    - **Monto:** ADempiere se encarga de buscar y verificar que los montos del movimiento bancario como el monto del registro en ADempiere coincidan.
+    - **Monto:** Solop ERP se encarga de buscar y verificar que los montos del movimiento bancario como el monto del registro en Solop ERP coincidan.
 
-    - **Moneda:** ADempiere se encarga de buscar y verificar que la moneda del movimiento bancario con la moneda del registro en ADempiere coincidan, ejemplo : **VES / VES**, **USD / USD**
+    - **Moneda:** Solop ERP se encarga de buscar y verificar que la moneda del movimiento bancario con la moneda del registro en Solop ERP coincidan, ejemplo : **VES / VES**, **USD / USD**
 
     .. note::
 
-        Para que ADempiere tome una coincidencia tanto del extracto bancario como el de los registros en ADempiere, ambos deben coincidir con los tres pasos anteriormente mencionados de no ser sí ADempiere no encontrará ninguna coincidencia.
+        Para que Solop ERP tome una coincidencia tanto del extracto bancario como el de los registros en Solop ERP, ambos deben coincidir con los tres pasos anteriormente mencionados de no ser sí Solop ERP no encontrará ninguna coincidencia.
 
 - **Banco Provincial**
 
     +------------------------+---------------------------+
-    | Movimientos Bancarios  | Movimientos ADempiere     |
+    | Movimientos Bancarios  | Movimientos Solop ERP     |
     +========================+===========================+
-    |N° Referencia Bancaria  | N° Documento en ADempiere |
+    |N° Referencia Bancaria  | N° Documento en Solop ERP |
     +------------------------+---------------------------+
     |Monto                   | Monto                     |
     +------------------------+---------------------------+
     |Moneda                  | Moneda                    |
     +------------------------+---------------------------+
 
-    - **N° de referencia bancaria / N° de documento en ADempiere:** ADempiere se encarga de buscar y verificar que tanto en el número de referencia bancaria como el número de documentos en ADempiere ambos coincidan ya sea los primeros números hacia la derecha, los números que se encuentran centrados, los últimos números hacia la izquierda o el total de los números.
+    - **N° de referencia bancaria / N° de documento en Solop ERP:** Solop ERP se encarga de buscar y verificar que tanto en el número de referencia bancaria como el número de documentos en Solop ERP ambos coincidan ya sea los primeros números hacia la derecha, los números que se encuentran centrados, los últimos números hacia la izquierda o el total de los números.
 
-    - **Monto:** ADempiere se encarga de buscar y verificar que los montos del movimiento bancario como el monto del registro en ADempiere coincidan.
+    - **Monto:** Solop ERP se encarga de buscar y verificar que los montos del movimiento bancario como el monto del registro en Solop ERP coincidan.
 
-    - **Moneda:** ADempiere se encarga de buscar y verificar que la moneda del movimiento bancario con la moneda del registro en ADempiere coincidan, ejemplo : **VES / VES**, **USD / USD**
+    - **Moneda:** Solop ERP se encarga de buscar y verificar que la moneda del movimiento bancario con la moneda del registro en Solop ERP coincidan, ejemplo : **VES / VES**, **USD / USD**
 
     .. note::
 
-        Para que ADempiere tome una coincidencia tanto del extracto bancario como el de los registros en ADempiere, ambos deben coincidir con los tres pasos anteriormente mencionados de no ser sí ADempiere no encontrará ninguna coincidencia.
+        Para que Solop ERP tome una coincidencia tanto del extracto bancario como el de los registros en Solop ERP, ambos deben coincidir con los tres pasos anteriormente mencionados de no ser sí Solop ERP no encontrará ninguna coincidencia.
 
 - **Banco de Venezuela**
 
     +------------------------+---------------------------+
-    | Movimientos Bancarios  | Movimientos ADempiere     |
+    | Movimientos Bancarios  | Movimientos Solop ERP     |
     +========================+===========================+
-    |N° Referencia Bancaria  | N° Documento en ADempiere |
+    |N° Referencia Bancaria  | N° Documento en Solop ERP |
     +------------------------+---------------------------+
     |Monto                   | Monto                     |
     +------------------------+---------------------------+
     |Moneda                  | Moneda                    |
     +------------------------+---------------------------+
 
-    - **N° de referencia bancaria / N° de documento en ADempiere:** ADempiere se encarga de buscar y verificar que tanto en el número de referencia bancaria como el número de documentos en ADempiere ambos coincidan ya sea los primeros números hacia la derecha, los números que se encuentran centrados, los últimos números hacia la izquierda o el total de los números.
+    - **N° de referencia bancaria / N° de documento en Solop ERP:** Solop ERP se encarga de buscar y verificar que tanto en el número de referencia bancaria como el número de documentos en Solop ERP ambos coincidan ya sea los primeros números hacia la derecha, los números que se encuentran centrados, los últimos números hacia la izquierda o el total de los números.
 
-    - **Monto:** ADempiere se encarga de buscar y verificar que los montos del movimiento bancario como el monto del registro en ADempiere coincidan.
+    - **Monto:** Solop ERP se encarga de buscar y verificar que los montos del movimiento bancario como el monto del registro en Solop ERP coincidan.
 
-    - **Moneda:** ADempiere se encarga de buscar y verificar que la moneda del movimiento bancario con la moneda del registro en ADempiere coincidan, ejemplo : **VES / VES**, **USD / USD**
+    - **Moneda:** Solop ERP se encarga de buscar y verificar que la moneda del movimiento bancario con la moneda del registro en Solop ERP coincidan, ejemplo : **VES / VES**, **USD / USD**
 
     .. note::
 
-        Para que ADempiere tome una coincidencia tanto del extracto bancario como el de los registros en ADempiere, ambos deben coincidir con los tres pasos anteriormente mencionados de no ser sí ADempiere no encontrará ninguna coincidencia.
+        Para que Solop ERP tome una coincidencia tanto del extracto bancario como el de los registros en Solop ERP, ambos deben coincidir con los tres pasos anteriormente mencionados de no ser sí Solop ERP no encontrará ninguna coincidencia.
 
 - **Banco Banplus**
 
     +------------------------+---------------------------+
-    | Movimientos Bancarios  | Movimientos ADempiere     |
+    | Movimientos Bancarios  | Movimientos Solop ERP     |
     +========================+===========================+
-    |N° Referencia Bancaria  | N° Documento en ADempiere |
+    |N° Referencia Bancaria  | N° Documento en Solop ERP |
     +------------------------+---------------------------+
     |Monto                   | Monto                     |
     +------------------------+---------------------------+
     |Moneda                  | Moneda                    |
     +------------------------+---------------------------+
 
-    - **N° de referencia bancaria / N° de documento en ADempiere:** ADempiere se encarga de buscar y verificar que tanto en el número de referencia bancaria como el número de documentos en ADempiere ambos coincidan ya sea los primeros números hacia la derecha, los números que se encuentran centrados, los últimos números hacia la izquierda o el total de los números.
+    - **N° de referencia bancaria / N° de documento en Solop ERP:** Solop ERP se encarga de buscar y verificar que tanto en el número de referencia bancaria como el número de documentos en Solop ERP ambos coincidan ya sea los primeros números hacia la derecha, los números que se encuentran centrados, los últimos números hacia la izquierda o el total de los números.
 
-    - **Monto:** ADempiere se encarga de buscar y verificar que los montos del movimiento bancario como el monto del registro en ADempiere coincidan.
+    - **Monto:** Solop ERP se encarga de buscar y verificar que los montos del movimiento bancario como el monto del registro en Solop ERP coincidan.
 
-    - **Moneda:** ADempiere se encarga de buscar y verificar que la moneda del movimiento bancario con la moneda del registro en ADempiere coincidan, ejemplo : **VES / VES**, **USD / USD**
+    - **Moneda:** Solop ERP se encarga de buscar y verificar que la moneda del movimiento bancario con la moneda del registro en Solop ERP coincidan, ejemplo : **VES / VES**, **USD / USD**
 
     .. note::
 
-        Para que ADempiere tome una coincidencia tanto del extracto bancario como el de los registros en ADempiere, ambos deben coincidir con los tres pasos anteriormente mencionados de no ser sí ADempiere no encontrará ninguna coincidencia.
+        Para que Solop ERP tome una coincidencia tanto del extracto bancario como el de los registros en Solop ERP, ambos deben coincidir con los tres pasos anteriormente mencionados de no ser sí Solop ERP no encontrará ninguna coincidencia.
 
 - **Banco del Tesoro**
 
     +------------------------+---------------------------+
-    | Movimientos Bancarios  | Movimientos ADempiere     |
+    | Movimientos Bancarios  | Movimientos Solop ERP     |
     +========================+===========================+
-    |N° Referencia Bancaria  | N° Documento en ADempiere |
+    |N° Referencia Bancaria  | N° Documento en Solop ERP |
     +------------------------+---------------------------+
     |Monto                   | Monto                     |
     +------------------------+---------------------------+
     |Moneda                  | Moneda                    |
     +------------------------+---------------------------+
 
-    - **N° de referencia bancaria / N° de documento en ADempiere:** ADempiere se encarga de buscar y verificar que tanto en el número de referencia bancaria como el número de documentos en ADempiere ambos coincidan ya sea los primeros números hacia la derecha, los números que se encuentran centrados, los últimos números hacia la izquierda o el total de los números.
+    - **N° de referencia bancaria / N° de documento en Solop ERP:** Solop ERP se encarga de buscar y verificar que tanto en el número de referencia bancaria como el número de documentos en Solop ERP ambos coincidan ya sea los primeros números hacia la derecha, los números que se encuentran centrados, los últimos números hacia la izquierda o el total de los números.
 
-    - **Monto:** ADempiere se encarga de buscar y verificar que los montos del movimiento bancario como el monto del registro en ADempiere coincidan.
+    - **Monto:** Solop ERP se encarga de buscar y verificar que los montos del movimiento bancario como el monto del registro en Solop ERP coincidan.
 
-    - **Moneda:** ADempiere se encarga de buscar y verificar que la moneda del movimiento bancario con la moneda del registro en ADempiere coincidan, ejemplo : **VES / VES**, **USD / USD**
+    - **Moneda:** Solop ERP se encarga de buscar y verificar que la moneda del movimiento bancario con la moneda del registro en Solop ERP coincidan, ejemplo : **VES / VES**, **USD / USD**
 
     .. note::
 
-        Para que ADempiere tome una coincidencia tanto del extracto bancario como el de los registros en ADempiere, ambos deben coincidir con los tres pasos anteriormente mencionados de no ser sí ADempiere no encontrará ninguna coincidencia.
+        Para que Solop ERP tome una coincidencia tanto del extracto bancario como el de los registros en Solop ERP, ambos deben coincidir con los tres pasos anteriormente mencionados de no ser sí Solop ERP no encontrará ninguna coincidencia.
 
 - **Banco Nacional del Crédito**
 
     +------------------------+---------------------------+
-    | Movimientos Bancarios  | Movimientos ADempiere     |
+    | Movimientos Bancarios  | Movimientos Solop ERP     |
     +========================+===========================+
-    |N° Referencia Bancaria  | N° Documento en ADempiere |
+    |N° Referencia Bancaria  | N° Documento en Solop ERP |
     +------------------------+---------------------------+
     |Monto                   | Monto                     |
     +------------------------+---------------------------+
     |Moneda                  | Moneda                    |
     +------------------------+---------------------------+
 
-    - **N° de referencia bancaria / N° de documento en ADempiere:** ADempiere se encarga de buscar y verificar que tanto en el número de referencia bancaria como el número de documentos en ADempiere ambos coincidan ya sea los primeros números hacia la derecha, los números que se encuentran centrados, los últimos números hacia la izquierda o el total de los números.
+    - **N° de referencia bancaria / N° de documento en Solop ERP:** Solop ERP se encarga de buscar y verificar que tanto en el número de referencia bancaria como el número de documentos en Solop ERP ambos coincidan ya sea los primeros números hacia la derecha, los números que se encuentran centrados, los últimos números hacia la izquierda o el total de los números.
 
-    - **Monto:** ADempiere se encarga de buscar y verificar que los montos del movimiento bancario como el monto del registro en ADempiere coincidan.
+    - **Monto:** Solop ERP se encarga de buscar y verificar que los montos del movimiento bancario como el monto del registro en Solop ERP coincidan.
 
-    - **Moneda:** ADempiere se encarga de buscar y verificar que la moneda del movimiento bancario con la moneda del registro en ADempiere coincidan, ejemplo : **VES / VES**, **USD / USD**
+    - **Moneda:** Solop ERP se encarga de buscar y verificar que la moneda del movimiento bancario con la moneda del registro en Solop ERP coincidan, ejemplo : **VES / VES**, **USD / USD**
 
     .. note::
 
-        Para que ADempiere tome una coincidencia tanto del extracto bancario como el de los registros en ADempiere, ambos deben coincidir con los tres pasos anteriormente mencionados de no ser sí ADempiere no encontrará ninguna coincidencia.
+        Para que Solop ERP tome una coincidencia tanto del extracto bancario como el de los registros en Solop ERP, ambos deben coincidir con los tres pasos anteriormente mencionados de no ser sí Solop ERP no encontrará ninguna coincidencia.
 
 **Revisión de Conciliaciones**
 ------------------------------
@@ -436,9 +436,9 @@ Podrá apreciar en la parte inferior derecha del documento, la cantidad de movim
 **Crear Pagos Desde Línea de Estado de Cuenta**
 -----------------------------------------------
 
-Si al realizar la conciliación existen movimientos sin registros en ADempiere, se debe realizar el proceso "**Crear pagos desde Estado de Cuenta**" para generar los pagos/cobros correspondientes a cada uno de los movimientos,ya que es muy importante que todos los movimientos bancarios coincidan en su totalidad con los registros en ADempiere o que los mismos logren ser identificados, ya que de lo contrario la conciliación no podrá ser completada en ADempiere, del mismo modo este proceso también  es explicado en el documento :ref:`documento/crear-pagos-desde-estado-de-cuenta`.
+Si al realizar la conciliación existen movimientos sin registros en Solop ERP, se debe realizar el proceso "**Crear pagos desde Estado de Cuenta**" para generar los pagos/cobros correspondientes a cada uno de los movimientos,ya que es muy importante que todos los movimientos bancarios coincidan en su totalidad con los registros en Solop ERP o que los mismos logren ser identificados, ya que de lo contrario la conciliación no podrá ser completada en Solop ERP, del mismo modo este proceso también  es explicado en el documento :ref:`documento/crear-pagos-desde-estado-de-cuenta`.
 
-En el caso de que existan movimientos con registros en ADempiere pero sin documentos de pagos/cobros asociados en la línea, se debe seleccionar de la siguiente manera el documento "**Pago/Cobro**".
+En el caso de que existan movimientos con registros en Solop ERP pero sin documentos de pagos/cobros asociados en la línea, se debe seleccionar de la siguiente manera el documento "**Pago/Cobro**".
 
 Ubique el registro de la línea sin documento "**Pagos/Cobros**" asociado y seleccione el documento con ayuda del identificador del campo "**Pago**".
 
@@ -450,7 +450,7 @@ Ubique el registro de la línea sin documento "**Pagos/Cobros**" asociado y sele
 
         Este proceso es realizado cuando no coinciden los números de referencia del movimiento y del documento "**Pago/Cobro**". Sin embargo, existe el conocimiento de que dicho movimiento pertenece un documento determinado ya que existe una coincidencia en el monto, el socio del negocio y el banco.
 
-Seleccione el icono "**Guardar Cambios**" en la barra de herramientas de ADempiere, para guardar los cambios realizados.
+Seleccione el icono "**Guardar Cambios**" en la barra de herramientas de Solop ERP, para guardar los cambios realizados.
 
     |Icono Guardar Cambios del Movimiento en la Pestaña Línea Estado Cuentas|
     

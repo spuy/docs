@@ -10,11 +10,11 @@
 **Registros Contables No Conciliados**
 ======================================
 
-Ubique y seleccione en el menú de ADempiere, la carpeta "**Análisis de Desempeño**", luego seleccione el reporte "**Registros Contables No Conciliados**".
+Ubique y seleccione en el menú de Solop ERP, la carpeta "**Análisis de Desempeño**", luego seleccione el reporte "**Registros Contables No Conciliados**".
 
     |Menú de ADempiere|
 
-    Imagen 1. Menú de ADempiere
+    Imagen 1. Menú de Solop ERP
 
 Podrá visualizar la ventana "**Registros Contables No Conciliados**", con diferentes campos que permiten filtrar la información para generar el reporte requerido.
 

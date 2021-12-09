@@ -45,19 +45,19 @@
 **Hoja Técnica**
 ================
 
-Ubique y seleccione en el menú de ADempiere, la carpeta "**Gestión de Asistencia al Agricultor**", luego seleccione la ventana "**Hoja Técnica**".
+Ubique y seleccione en el menú de Solop ERP, la carpeta "**Gestión de Asistencia al Agricultor**", luego seleccione la ventana "**Hoja Técnica**".
 
     |menú de hoja técnica|
 
-    Imagen 1. Menú de ADempiere
+    Imagen 1. Menú de Solop ERP
 
-Podrá visualizar la ventana "**Hoja Técnica**", con diferentes registros de hojas técnicas en ADempiere.
+Podrá visualizar la ventana "**Hoja Técnica**", con diferentes registros de hojas técnicas en Solop ERP.
 
     |ventana hoja técnica|
 
     Imagen 2. Ventana Hoja Técnica
 
-Seleccione el icono "**Registro Nuevo**", ubicado en la barra de herramientas de ADempiere.
+Seleccione el icono "**Registro Nuevo**", ubicado en la barra de herramientas de Solop ERP.
 
     |icono registro nuevo de la ventana hoja técnica|
 
@@ -105,7 +105,7 @@ Introduzca en el campo "**Comentarios**", los comentarios o información adicion
 
     Imagen 10. Campo Comentarios
 
-Seleccione el icono "**Guardar Cambios**", ubicado en la barra de herramientas de ADempiere.
+Seleccione el icono "**Guardar Cambios**", ubicado en la barra de herramientas de Solop ERP.
 
     |icono guardar cambios de la ventana hoja técnica|
 
@@ -203,7 +203,7 @@ Seleccione en el campo "**Acuerdo Financiero**", el acuerdo financiero correspon
 
     Imagen 25. Campo Acuerdo Financiero
 
-Seleccione icono "**Guardar Cambios**", ubicado en la barra de herramientas de ADempiere.
+Seleccione icono "**Guardar Cambios**", ubicado en la barra de herramientas de Solop ERP.
 
     |icono guardar cambios de la pestaña detalle de hoja técnica de la ventana hoja técnica|
 
@@ -275,7 +275,7 @@ Introduzca en el campo "**Comentarios**", los comentarios correspondientes al re
 
     Imagen 37. Campo Comentarios
 
-Seleccione el icono "**Guardar Cambios**", ubicado en la barra de herramientas de ADempiere.
+Seleccione el icono "**Guardar Cambios**", ubicado en la barra de herramientas de Solop ERP.
 
     |icono guardar cambios de la pestaña productos a aplicar de la ventana hoja técnica|
 

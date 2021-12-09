@@ -24,11 +24,11 @@
 **Registro de Elemento Contable**
 =================================
 
-Ubique y seleccione en el menú de ADempiere, la carpeta "**Análisis de Desempeño**", luego seleccione la carpeta "**Reglas Contables**", por último seleccione la ventana "**Elemento Contable**". 
+Ubique y seleccione en el menú de Solop ERP, la carpeta "**Análisis de Desempeño**", luego seleccione la carpeta "**Reglas Contables**", por último seleccione la ventana "**Elemento Contable**". 
 
     |Menú de ADempiere|
 
-    Imagen 1. Menú de ADempiere
+    Imagen 1. Menú de Solop ERP
 
 Podrá visualizar la ventana "**Elemento Contable**", con los diferentes registros de elementos contables que posee la misma.
 
@@ -148,7 +148,7 @@ Podrá visualizar la ventana "**Elemento Contable**", con los diferentes registr
 
                 Imagen 20. Checklist Aplicar Estadística de la Pestaña Valor de Elemento de la Ventana Elemento Contable
 
-        Seleccione el icono "**Guardar Cambios**", ubicado en la barra de herramientas de ADempiere, para guardar el registro de los campos de la pestaña "**Valor de Elemento**".
+        Seleccione el icono "**Guardar Cambios**", ubicado en la barra de herramientas de Solop ERP, para guardar el registro de los campos de la pestaña "**Valor de Elemento**".
 
             |Icono Guardar Cambios de la Pestaña Valor de Elemento de la Ventana Elemento Contable|
 

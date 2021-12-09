@@ -31,7 +31,7 @@
 
 En el registro de caja viáticos de una empresa u organización, se pueden presentar diversos acontecimientos que permiten ejecutar el proceso de diferentes maneras. Siendo uno de ellos, el registro de caja viáticos cuando el monto de los viáticos resulta igual que el monto de los gastos. Otro caso puede ser, cuando el monto de los viáticos resulta mayor al monto de los gastos. Finalmente, se puede presentar el caso en el que el monto de los viáticos resulta menor al monto de los gastos. 
 
-ADempiere permite controlar la caja viáticos en cualquiera de los acontecimientos expuestos anteriormente, para ello se debe seguir los procedimientos que se presentan a continuación.
+Solop ERP permite controlar la caja viáticos en cualquiera de los acontecimientos expuestos anteriormente, para ello se debe seguir los procedimientos que se presentan a continuación.
 
 **Viáticos Igual al Gasto**
 ---------------------------

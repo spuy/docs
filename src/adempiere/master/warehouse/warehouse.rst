@@ -24,19 +24,19 @@
 **Registro de Almacén**
 =======================
 
-Ubique y seleccione en el menú de ADempiere, la carpeta "**Gestión de Materiales**", luego seleccione la carpeta "**Reglas de Gestión de Materiales**", por último seleccione la ventana "**Almacén y Ubicaciones**".
+Ubique y seleccione en el menú de Solop ERP, la carpeta "**Gestión de Materiales**", luego seleccione la carpeta "**Reglas de Gestión de Materiales**", por último seleccione la ventana "**Almacén y Ubicaciones**".
 
     |menú de almacén y ubicaciones|
 
-    Imagen 1. Menú de ADempiere
+    Imagen 1. Menú de Solop ERP
 
-Podrá visualizar la ventana "**Almacén y Ubicaciones**", con los diferentes registros de almacenes creados en ADempiere con sus respectivas ubicaciones.
+Podrá visualizar la ventana "**Almacén y Ubicaciones**", con los diferentes registros de almacenes creados en Solop ERP con sus respectivas ubicaciones.
 
     |ventana almacén y ubicaciones|
 
     Imagen 2. Ventana Almacén y Ubicaciones
 
-Seleccione el icono "**Registro Nuevo**", ubicado en la barra de herramientas de ADempiere.
+Seleccione el icono "**Registro Nuevo**", ubicado en la barra de herramientas de Solop ERP.
 
     Este icono permite crear un nuevo registro en la ventana, para proceder al llenado de los campos correspondientes.
 

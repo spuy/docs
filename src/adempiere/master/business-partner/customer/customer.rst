@@ -504,7 +504,7 @@ Introduzca en el campo "**Código SICA**", el código SICA del socio del negocio
 **Pestaña Contacto**
 ********************
 
-En esta pestaña se registran todos los datos de contacto que se posea el socio del negocio cliente. De igual manera, es creado su usuario de acceso en ADempiere.
+En esta pestaña se registran todos los datos de contacto que se posea el socio del negocio cliente. De igual manera, es creado su usuario de acceso en Solop ERP.
 
 Seleccione la pestaña "**Contacto**" que se encuentra ubicada del lado izquierdo de la ventana socio del negocio, para proceder a llenar los campos necesarios.
 
@@ -564,7 +564,7 @@ Seleccione el checklist "**Usuario de Autenticación**" para que sean reflejados
 
         Imagen 70. Campo Usuario Interno
 
-    Introduzca en el campo **Código**, el usuario de la persona de contacto con el socio del negocio cliente para ingresar a ADempiere.
+    Introduzca en el campo **Código**, el usuario de la persona de contacto con el socio del negocio cliente para ingresar a Solop ERP.
 
         |Campo Código Usuario|
 
@@ -572,9 +572,9 @@ Seleccione el checklist "**Usuario de Autenticación**" para que sean reflejados
 
         .. warning::
 
-            `ERPyA`_ tiene establecido como estándar de creación de usuario y contraseña en ADempiere, la inicial del primer nombre en minúscula, seguido del primer apellido completo, con la primera letra del mismo en mayúscula.
+            `ERPyA`_ tiene establecido como estándar de creación de usuario y contraseña en Solop ERP, la inicial del primer nombre en minúscula, seguido del primer apellido completo, con la primera letra del mismo en mayúscula.
 
-    Introduzca en el campo "**Contraseña**", la contraseña de la persona de contacto con el socio del negocio cliente para ingresar a ADempiere.
+    Introduzca en el campo "**Contraseña**", la contraseña de la persona de contacto con el socio del negocio cliente para ingresar a Solop ERP.
 
         |Campo Contraseña|
 
@@ -582,7 +582,7 @@ Seleccione el checklist "**Usuario de Autenticación**" para que sean reflejados
 
         .. warning::
 
-            `ERPyA`_ tiene establecido como estándar de creación de usuario y contraseña en ADempiere, la inicial del primer nombre en minúscula, seguido del primer apellido completo, con la primera letra del mismo en mayúscula.
+            `ERPyA`_ tiene establecido como estándar de creación de usuario y contraseña en Solop ERP, la inicial del primer nombre en minúscula, seguido del primer apellido completo, con la primera letra del mismo en mayúscula.
 
     Seleccione el checklist "**Usuario de Tienda Web**", para indicar que la persona de contacto con el socio del negocio es usuario de tienda web.
 
@@ -656,7 +656,7 @@ Podrá apreciar el checklist "**Acceso Total Socio del Negocio**", que al estar 
 
     Imagen 84. Campo Acceso Total Socio del Negocio
 
-Seleccione el icono "**Guardar Cambios**" en la barra de herramientras de ADempiere, para guardar el registro de los campos.
+Seleccione el icono "**Guardar Cambios**" en la barra de herramientras de Solop ERP, para guardar el registro de los campos.
 
     |Icono Guardar Cambios2|
 

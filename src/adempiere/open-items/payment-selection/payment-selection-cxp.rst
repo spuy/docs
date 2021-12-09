@@ -43,15 +43,15 @@ Para realizar una "**Selección de Pago**" la cual se encarga de definir de qué
 
 .. note:: 
 
-    Es muy importante tener en cuenta que para poder seguir el paso a paso que se detalla a continuación se debe tener previamente cargada en ADempiere la "**Orden de Pago**" si no se encuentra cargado en ADempiere pueden consultar el instructivo :ref:`documento/orden-de-pago` o :ref:`documento/orden-de-pago-desde-orden`
+    Es muy importante tener en cuenta que para poder seguir el paso a paso que se detalla a continuación se debe tener previamente cargada en Solop ERP la "**Orden de Pago**" si no se encuentra cargado en Solop ERP pueden consultar el instructivo :ref:`documento/orden-de-pago` o :ref:`documento/orden-de-pago-desde-orden`
 
-Ubique y seleccione en el menú de ADempiere, la carpeta "**Gestión de Saldos Pendientes**", luego seleccione la ventana "**Selección de Pagos**".
+Ubique y seleccione en el menú de Solop ERP, la carpeta "**Gestión de Saldos Pendientes**", luego seleccione la ventana "**Selección de Pagos**".
 
     |Menú de ADempiere|
 
-    Imagen 1. Menú de ADempiere
+    Imagen 1. Menú de Solop ERP
 
-Podrá visualizar la ventana "**Selección de Pago**", en la cual debe seleccionar el icono "**Registro Nuevo**" ubicado en la barra de herramientas de ADempiere.
+Podrá visualizar la ventana "**Selección de Pago**", en la cual debe seleccionar el icono "**Registro Nuevo**" ubicado en la barra de herramientas de Solop ERP.
 
     |Icono Registro Nuevo del Documento Registro desde Selección de Pago|
 
@@ -59,7 +59,7 @@ Podrá visualizar la ventana "**Selección de Pago**", en la cual debe seleccion
 
 Seleccione en el campo "**Organización**", la organización para la cual está realizando el documento "**Selección de Pago**".
 
-    Al seleccionar la organización con la que trabajará el registro a crear  estará disponible únicamente bajo esa organización  seleccionada, aunque la decisión de la organización a trabajar quedará al momento que inicie sesión en ADempiere. 
+    Al seleccionar la organización con la que trabajará el registro a crear  estará disponible únicamente bajo esa organización  seleccionada, aunque la decisión de la organización a trabajar quedará al momento que inicie sesión en Solop ERP. 
 
     |Campo Organización del Documento Registro desde Selección de Pago|
 
@@ -111,7 +111,7 @@ Seleccione la opción "**Crear Desde Selección de Pago**", para crear la selecc
 
     Imagen 10. Opción Crear Desde Selección de Pago del Documento Registro desde Selección de Pago
 
-Al seleccionar el botón "**Crear Desde Selección de Pago**", se desplegará otra ventana llamada Smart Browser (Ventana de Búsqueda Inteligente) donde podrá ubicar a las "**Órdenes de Pago**" cargadas en ADempiere. Podrá observar en la siguiente ventana de búsqueda inteligente una serie de campos para ser utilizados como criterio de búsqueda.
+Al seleccionar el botón "**Crear Desde Selección de Pago**", se desplegará otra ventana llamada Smart Browser (Ventana de Búsqueda Inteligente) donde podrá ubicar a las "**Órdenes de Pago**" cargadas en Solop ERP. Podrá observar en la siguiente ventana de búsqueda inteligente una serie de campos para ser utilizados como criterio de búsqueda.
 
     |Ventana de Búsqueda Inteligente del Proceso Crear desde la Selección de Pago|
 
@@ -135,7 +135,7 @@ Los campos a visualizar en el smart browser son los siguientes:
 
     Campo "**Factura**", permite filtrar la búsqueda por la factura previamente realizada.
 
-        Es decir al colocar una factura en específico en el campo "**Factura**", ADempiere traerá la **"Orden de Pago"** que ese asociada a esa factura.
+        Es decir al colocar una factura en específico en el campo "**Factura**", Solop ERP traerá la **"Orden de Pago"** que ese asociada a esa factura.
 
         |Campo Factura de la Ventana de Búsqueda Inteligente del Proceso Crear desde la Selección de Pago|
 
@@ -149,7 +149,7 @@ Los campos a visualizar en el smart browser son los siguientes:
 
     Campo "**Orden de Venta**", permite filtrar la búsqueda por la orden de venta previamente realizada.
 
-        Es decir al colocar una orden en específico en el campo "**Orden de Venta**", ADempiere traerá las ordenes que se encuentren asociada a una **"Orden de Pago"**.
+        Es decir al colocar una orden en específico en el campo "**Orden de Venta**", Solop ERP traerá las ordenes que se encuentren asociada a una **"Orden de Pago"**.
 
         |Campo Orden de Venta de la Ventana de Búsqueda Inteligente del Proceso Crear desde la Selección de Pago|
 
@@ -187,7 +187,7 @@ Seleccione la opción "**OK**", para cargar a la pestaña "**Línea de Selecció
 
     Imagen 21. Opción OK de la Ventana de Búsqueda Inteligente del Proceso Crear desde la Selección de Pago
 
-Seleccione el icono "**Refrescar**", ubicado en la barra de herramientas de ADempiere para refrescar la ventana y pueda visualizar la información cargada desde la opción "**Crear Desde Selección de Pago**".
+Seleccione el icono "**Refrescar**", ubicado en la barra de herramientas de Solop ERP para refrescar la ventana y pueda visualizar la información cargada desde la opción "**Crear Desde Selección de Pago**".
 
     |Icono Refrescar del Documento Registro desde Selección de Pago|
 
@@ -233,7 +233,7 @@ Podrá observar que en cada registro de la pestaña "**Línea de Selección de P
 
     En el campo "**Regla de Pago**" se debe seleccionar la regla de pago con la que se emitirá el pago al proveedor.
 
-        ADempiere cuenta cuenta con cinco (5) reglas de pagos, las cuales debe ser utilizadas de las siguientes manera:
+        Solop ERP cuenta cuenta con cinco (5) reglas de pagos, las cuales debe ser utilizadas de las siguientes manera:
 
         Para lo pagos que serán generados a través de transferencia bancarias se deben tildar las siguientes reglas de pago:
 
@@ -303,7 +303,7 @@ Al aplicar esta acción "**Completar**" el documento pasará a esta completo y e
 
 .. note::
 
-    Es muy importante tener en cuenta que todo documento transaccional una vez se culmine con el llenado de los datos debe ser completado, para que ADempiere tome como válido los datos cargados en el documento.
+    Es muy importante tener en cuenta que todo documento transaccional una vez se culmine con el llenado de los datos debe ser completado, para que Solop ERP tome como válido los datos cargados en el documento.
 
 Hasta este punto llegaría el registro y la definición de los documentos que serán cancelados a través de una  "**Selección de Pago**", este paso a pesar de que se complete no garantiza que los pagos se han generados, para poder generar los pagos correspondientes a cada uno de los documentos asociados se necesita completar el procedimiento :ref:`documento/Imprimir-Exportar`
 

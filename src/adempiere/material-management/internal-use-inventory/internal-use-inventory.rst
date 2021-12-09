@@ -30,11 +30,11 @@ Para ejemplificar el inventario de uso interno, es generado el reporte "**Detall
 
     Imagen 1. Detalle de Almacenamiento antes del Movimiento
 
-Ubique y seleccione en el menú de ADempiere, la carpeta "**Gestión de Materiales**", luego seleccione la ventana "**Inventario Uso Interno**".
+Ubique y seleccione en el menú de Solop ERP, la carpeta "**Gestión de Materiales**", luego seleccione la ventana "**Inventario Uso Interno**".
 
     |Menú de ADempiere|
 
-    Imagen 2. Menú de ADempiere
+    Imagen 2. Menú de Solop ERP
 
 Podrá visualizar la ventana "**Inventario Uso Interno**" donde se encuentran los registros de los diferentes inventarios realizados para el uso interno de la organización.
 
@@ -42,7 +42,7 @@ Podrá visualizar la ventana "**Inventario Uso Interno**" donde se encuentran lo
 
     Imagen 3. Ventana Inventario de Uso Interno
 
-Seleccione el icono "**Registro Nuevo**", ubicado en la barra de herramientas de ADempiere para crear un nuevo registro de inventario de uso interno.
+Seleccione el icono "**Registro Nuevo**", ubicado en la barra de herramientas de Solop ERP para crear un nuevo registro de inventario de uso interno.
 
     |Icono Registro Nuevo|
 
@@ -86,7 +86,7 @@ Seleccione el icono "**Registro Nuevo**", ubicado en la barra de herramientas de
 
     .. note:
 
-        Recuerde guardar el registro de los campos seleccionando el icono "**Guardar Cambios**", ubicado en la barra de herramientas de ADempiere.
+        Recuerde guardar el registro de los campos seleccionando el icono "**Guardar Cambios**", ubicado en la barra de herramientas de Solop ERP.
 
 Seleccione la pestaña "**Línea Inventario, Uso Interno**" y proceda al llenado de los campos correspondientes.
 
@@ -120,7 +120,7 @@ Seleccione la pestaña "**Línea Inventario, Uso Interno**" y proceda al llenado
 
     .. note:
 
-        Recuerde guardar el registro de los campos seleccionando el icono "**Guardar Cambios**", ubicado en la barra de herramientas de ADempiere.
+        Recuerde guardar el registro de los campos seleccionando el icono "**Guardar Cambios**", ubicado en la barra de herramientas de Solop ERP.
 
 Seleccione la pestaña principal "**Inventario Uso Interno**", para luego seleccionar la opción "**Completar**", ubicada en la parte inferior derecha del documento.
 

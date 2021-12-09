@@ -20,11 +20,11 @@
 **Asignación de Pagos/Cobros a Documentos por Pagar o Cobrar**
 ==============================================================
 
-Ubique y seleccione en el menú de ADempiere, la carpeta "**Gestión de Saldos Pendientes**", luego seleccione la ventana "**Asignación de Pagos**".
+Ubique y seleccione en el menú de Solop ERP, la carpeta "**Gestión de Saldos Pendientes**", luego seleccione la ventana "**Asignación de Pagos**".
 
     |menú de asignación de pagos|
 
-    Imagen 1. Menú de ADempiere
+    Imagen 1. Menú de Solop ERP
 
 Podrá visualizar la ventana del proceso "**Asignación de Pagos**", con diferentes campos que permiten filtrar la información en base a lo requerido.
 

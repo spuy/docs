@@ -14,19 +14,19 @@
 **Ciclo de Siembra**
 ====================
 
-Ubique y seleccione en el menú de ADempiere, la carpeta "**Gestión de Asistencia al Agricultor**", luego seleccione la carpeta "**Configuración de Asistencia Técnica**", por último seleccione la carpeta "**Configuración de Cultivo**". Finalmente seleccione la ventana "**Ciclo de Siembra**".
+Ubique y seleccione en el menú de Solop ERP, la carpeta "**Gestión de Asistencia al Agricultor**", luego seleccione la carpeta "**Configuración de Asistencia Técnica**", por último seleccione la carpeta "**Configuración de Cultivo**". Finalmente seleccione la ventana "**Ciclo de Siembra**".
 
     |menú de ciclo de siembra|
 
-    Imagen 1. Menú de ADempiere
+    Imagen 1. Menú de Solop ERP
 
-Podrá visualizar la ventana "**Ciclo de Siembra**", con los diferentes registros que posee la misma de los ciclos de siembra registrados en ADempiere.
+Podrá visualizar la ventana "**Ciclo de Siembra**", con los diferentes registros que posee la misma de los ciclos de siembra registrados en Solop ERP.
 
     |ventana ciclo de siembra|
 
     Imagen 2. Ciclo de Siembra
 
-Seleccione el icono "**Registro Nuevo**", ubicado en la barra de herramientas de ADempiere.
+Seleccione el icono "**Registro Nuevo**", ubicado en la barra de herramientas de Solop ERP.
 
     |icono registro nuevo de la ventana ciclo de siembra|
 
@@ -38,7 +38,7 @@ Seleccione en el campo "**Organización**", la organización para la cual se enc
 
     Imagen 4. Campo Organización
 
-Introduzca en el campo "**Código**", el código correspondiente al registro que se encuentra realizando. De no ingresar ningún valor en el campo, ADempiere establece de manera automática el código del registro.
+Introduzca en el campo "**Código**", el código correspondiente al registro que se encuentra realizando. De no ingresar ningún valor en el campo, Solop ERP establece de manera automática el código del registro.
 
     |campo código de la ventana ciclo de siembra|
 
@@ -76,4 +76,4 @@ Introduzca en el campo "**Descripción**", una breve descripción referente al r
 
 .. note::
 
-    Recuerde guardar el registro de los campos, al seleccionar el icono "**Guardar Cambios**" ubicado en la barra de herramientas de ADempiere.
+    Recuerde guardar el registro de los campos, al seleccionar el icono "**Guardar Cambios**" ubicado en la barra de herramientas de Solop ERP.
