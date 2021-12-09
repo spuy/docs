@@ -22,11 +22,11 @@
 **Análisis de Calidad**
 =======================
 
-Ubique y seleccione en el menú de ADempiere, la carpeta "**Gestión de Materiales**", luego seleccione la carpeta "**Manejo de Materia Prima**", por último seleccione la carpeta "**Análisis de Calidad**", finalmente seleccione la ventana "**Análisis de Calidad**".
+Ubique y seleccione en el menú de Solop ERP, la carpeta "**Gestión de Materiales**", luego seleccione la carpeta "**Manejo de Materia Prima**", por último seleccione la carpeta "**Análisis de Calidad**", finalmente seleccione la ventana "**Análisis de Calidad**".
 
     |Menú de ADempiere|
 
-    Imagen 1. Menú de ADempiere
+    Imagen 1. Menú de Solop ERP
 
 Podrá visualizar la ventana "**Análisis de Calidad**", con los diferentes registros que contiene dicha ventana.
 
@@ -34,7 +34,7 @@ Podrá visualizar la ventana "**Análisis de Calidad**", con los diferentes regi
 
     Imagen 2. Ventana Análisis de Calidad
 
-Seleccione el icono "**Registro Nuevo**", ubicado en la barra de herramientas de ADempiere.
+Seleccione el icono "**Registro Nuevo**", ubicado en la barra de herramientas de Solop ERP.
 
     |Icono Registro Nuevo de la Ventana Análisis de Calidad|
 
@@ -54,7 +54,7 @@ Seleccione el icono "**Registro Nuevo**", ubicado en la barra de herramientas de
 
         .. note::
 
-            Si no es ingresado ningún valor en este campo, ADempiere asigna el número de secuencia establecido en la secuencia del tipo de documento utilizado.
+            Si no es ingresado ningún valor en este campo, Solop ERP asigna el número de secuencia establecido en la secuencia del tipo de documento utilizado.
 
     Seleccione el tipo de documento a generar en el campo "**Tipo de Documento**", la selección de este define el comportamiento del documento que se esta elaborando, dicho comportamiento se encuentra explicado en el documento **Tipo de Documento** elaborado por `ERPyA`_.
 
@@ -80,7 +80,7 @@ Seleccione el icono "**Registro Nuevo**", ubicado en la barra de herramientas de
 
         Imagen 9. Campo Descripción de la Ventana Análisis de Calidad
 
-    El checklist "**Transacción de Ventas**", indica que el registro se encuentra relacionado con transacciones de ventas en ADempiere.
+    El checklist "**Transacción de Ventas**", indica que el registro se encuentra relacionado con transacciones de ventas en Solop ERP.
 
         |Checklist Transacción de Ventas de la Ventana Análisis de Calidad|
 
@@ -110,7 +110,7 @@ Seleccione el icono "**Registro Nuevo**", ubicado en la barra de herramientas de
 
         Imagen 14. Campo Estado del Producto de la Ventana Análisis de Calidad
 
-    Seleccione el icono "**Guardar Cambios**", ubicado en la barra de herramientas de ADempiere, para guardar el registro de los campos de la ventana "**Análisis de Calidad**".
+    Seleccione el icono "**Guardar Cambios**", ubicado en la barra de herramientas de Solop ERP, para guardar el registro de los campos de la ventana "**Análisis de Calidad**".
 
         |Icono Guardar Cambios de la Ventana Análisis de Calidad|
 

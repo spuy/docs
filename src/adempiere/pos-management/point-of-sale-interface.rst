@@ -89,11 +89,11 @@
 **Interfaz de Punto de Venta**
 ==============================
 
-Ubique y seleccione en el menú de ADempiere, la carpeta "**Gestión de Ventas**", luego seleccione la carpeta "**Órdenes de Venta**", por último seleccione la carpeta "**Punto de Venta**", finalmente seleccione la ventana "**Punto de Venta**".
+Ubique y seleccione en el menú de Solop ERP, la carpeta "**Gestión de Ventas**", luego seleccione la carpeta "**Órdenes de Venta**", por último seleccione la carpeta "**Punto de Venta**", finalmente seleccione la ventana "**Punto de Venta**".
 
     |Menú de ADempiere|
 
-    Imagen 1. Menú de ADempiere
+    Imagen 1. Menú de Solop ERP
 
 Podrá visualizar la ventana "**Selecciona Terminal PDV**", con la opción para seleccionar el terminal previamente configurado con el cual va a trabajar el vendedor.
 
@@ -124,7 +124,7 @@ Podrá visualizar la ventana "**Punto de Venta**" con diferentes iconos, campos 
 **Barra de Herramientas del Punto de Venta**
 --------------------------------------------
 
-Contiene los iconos principales de las ventanas de ADempiere para realizar una gestión exitosa del punto de venta al momento de la venta de los productos. Dicha ventana cuenta con los siguientes iconos explicados a continuación.
+Contiene los iconos principales de las ventanas de Solop ERP para realizar una gestión exitosa del punto de venta al momento de la venta de los productos. Dicha ventana cuenta con los siguientes iconos explicados a continuación.
 
     |Barra de Herramientas del Punto de Venta|
 
@@ -339,7 +339,7 @@ Contiene los iconos principales de las ventanas de ADempiere para realizar una g
 **Panel de Búsqueda de Productos**
 ----------------------------------
 
-Permite realizar una búsqueda por código de producto, de todos los productos para la venta registrados en ADempiere que tengan coincidencia con lo que se introduzca en el campo "**Código**".
+Permite realizar una búsqueda por código de producto, de todos los productos para la venta registrados en Solop ERP que tengan coincidencia con lo que se introduzca en el campo "**Código**".
 
     |Carga de Productos en el Panel de Búsqueda de Productos|
 

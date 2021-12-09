@@ -127,13 +127,13 @@ Seleccione el icono "**Registro Nuevo**", ubicado en la barra de herramientas de
 
         Imagen 11. Campo UM Almacenamiento
 
-    Seleccione en el campo "**Categoría del Producto**", la categoría a la cual pertenece el rubro que esta registrando, la selección de este define el comportamiento del rubro que se esta registrando, dicho comportamiento se encuentra explicado en el documento :ref:`documento/categoria-productos` elaborado por `ERPyA`_.
+    Seleccione en el campo "**Categoría del Producto**", la categoría a la cual pertenece el rubro que esta registrando, la selección de este define el comportamiento del rubro que se esta registrando, dicho comportamiento se encuentra explicado en el documento :ref:`documento/categoria-productos` elaborado por `Solop`_.
 
         |Campo Categoría del Producto|
 
         Imagen 12. Campo Categoría del Producto
 
-    Seleccione en el campo "**Grupo de Producto**", el grupo al cual pertenece el rubro que esta registrando, la selección de este define el comportamiento del rubro que se esta registrando, dicho comportamiento se encuentra explicado en el documento :ref:`documento/grupo-producto` elaborado por `ERPyA`_.
+    Seleccione en el campo "**Grupo de Producto**", el grupo al cual pertenece el rubro que esta registrando, la selección de este define el comportamiento del rubro que se esta registrando, dicho comportamiento se encuentra explicado en el documento :ref:`documento/grupo-producto` elaborado por `Solop`_.
 
         |Campo Grupo de Producto|
 

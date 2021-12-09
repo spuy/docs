@@ -24,7 +24,7 @@ El proceso crear nueva orden de devolución del punto de venta, se utiliza para 
 
 Adicional a ello, los documentos "**Orden de Devolución**", "**Devolución**" y "**Nota de Crédito**" son generados automáticamente en estado "**Completo**", al seleccionar el icono "**Pagar**", ubicado en la barra de herramientas de la ventana "**Punto de Venta**".
 
-Para mejor referencia de lo explicado anteriormente, se presenta a continuación el diagrama del proceso "**Crear Nueva Orden de Devolución**", con la finalidad dar a conocer el comportamiento de ADempiere ante dicho proceso.
+Para mejor referencia de lo explicado anteriormente, se presenta a continuación el diagrama del proceso "**Crear Nueva Orden de Devolución**", con la finalidad dar a conocer el comportamiento de Solop ERP ante dicho proceso.
 
     |diagrama de crear nueva orden de devolución pos|
 
@@ -35,7 +35,7 @@ Para ejecutar correctamente el proceso crear nueva orden de devolución, se debe
 **Ejecución del Proceso**
 -------------------------
 
-Ubique y seleccione en el menú de ADempiere, la carpeta "**Gestión de Ventas**", luego seleccione la carpeta "**Órdenes de Venta**", por último seleccione la carpeta "**Punto de Venta**". Para finalizar, seleccione la ventana "**Punto de Venta**".
+Ubique y seleccione en el menú de Solop ERP, la carpeta "**Gestión de Ventas**", luego seleccione la carpeta "**Órdenes de Venta**", por último seleccione la carpeta "**Punto de Venta**". Para finalizar, seleccione la ventana "**Punto de Venta**".
 
     |Menú de ADempiere|
 
@@ -62,13 +62,13 @@ Luego de ubicar la orden de venta que requiere crearle una nueva orden de devolu
 
     Imagen 5. Opción Crear Nueva Orden de Devolución
 
-Al seleccionar el proceso "**Crear Nueva Orden de Devolución**", ADempiere muestra el mensaje para la confirmación de la ejecución del proceso, en el cual se debe seleccionar la opción "**OK**", para ejecutar el mismo.
+Al seleccionar el proceso "**Crear Nueva Orden de Devolución**", Solop ERP muestra el mensaje para la confirmación de la ejecución del proceso, en el cual se debe seleccionar la opción "**OK**", para ejecutar el mismo.
 
     |Mensaje de Confirmación de la opción Crear Nueva Orden de Devolución|
     
     Imagen 6. Mensaje para Confirmación de Proceso
 
-Luego de ejecutar la acción anteriormente explicada, ADempiere muestra un mensaje con el resultado del proceso.
+Luego de ejecutar la acción anteriormente explicada, Solop ERP muestra un mensaje con el resultado del proceso.
 
     |Resultado del Proceso Crear Nueva Orden de Devolución|
 
@@ -94,7 +94,7 @@ Luego de ingresar y verificar las modificaciones de los productos a vender y su 
 
         La presente acción completa el documento "**Orden de Devolución Cliente**", y genera automáticamente en estado "**Completo**", los documentos "**Devolución**" y "**Nota de Crédito**".
 
-Luego de seleccionar el icono "**Pagar**", ADempiere muestra un mensaje de confirmación que indica que el proceso a finalizado.
+Luego de seleccionar el icono "**Pagar**", Solop ERP muestra un mensaje de confirmación que indica que el proceso a finalizado.
 
     |Mensaje de Proceso Finalizado|
 

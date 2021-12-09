@@ -17,16 +17,16 @@
 **Anular Factura Fiscal**
 =========================
 
-Suponiendo que el día "**10/02/2021**", se tiene la orden de venta "**OPOS-5186**" y la factura asociada a dicha orden es la "**TMP- 0004912**". Adicional a ello, el cobro correspondiente a las mismas es el "**AC465**". En ADempiere cuando por algún motivo se requiere anular una factura fiscal cuando la misma no fue impresa en su momento. Se debe realizar el siguiente procedimiento.
+Suponiendo que el día "**10/02/2021**", se tiene la orden de venta "**OPOS-5186**" y la factura asociada a dicha orden es la "**TMP- 0004912**". Adicional a ello, el cobro correspondiente a las mismas es el "**AC465**". En Solop ERP cuando por algún motivo se requiere anular una factura fiscal cuando la misma no fue impresa en su momento. Se debe realizar el siguiente procedimiento.
 
 **Reversar Cobros**
 -------------------
 
-Ubique en el menú de ADempiere, la carpeta "**Gestión de Saldos Pendientes**", luego seleccione la carpeta "**Diario de Caja**", por último seleccione la ventana "**Caja**".
+Ubique en el menú de Solop ERP, la carpeta "**Gestión de Saldos Pendientes**", luego seleccione la carpeta "**Diario de Caja**", por último seleccione la ventana "**Caja**".
 
     |menú de ventana caja para anular cobros|
 
-    Imagen 1. Menú de ADempiere
+    Imagen 1. Menú de Solop ERP
 
 Con ayuda del número de documento, ubique el cobro asociado a la factura que requiere anular.
 
@@ -53,11 +53,11 @@ Seleccione la acción "**Reversar-Corregir**" y la opción "**OK**", para ejecut
 **Anular Factura**
 ------------------
 
-Unique en el menú de ADempiere, la carpeta "**Gestión de Sistema**", luego seleccione la carpeta "**Reglas Generales**", por último seleccione la carpeta "**Impresora Fiscal**". Finalmente, seleccione el proceso "**Autorizar Documento Fiscal**".
+Ubique en el menú de Solop ERP, la carpeta "**Gestión de Sistema**", luego seleccione la carpeta "**Reglas Generales**", por último seleccione la carpeta "**Impresora Fiscal**". Finalmente, seleccione el proceso "**Autorizar Documento Fiscal**".
 
     |menú del proceso autorizar documento fiscal|
 
-    Imagen 5. Menú de ADempiere
+    Imagen 5. Menú de Solop ERP
 
 Podrá visualizar la ventana del proceso "**Autorizar Documento Fiscal**", con los campos necesarios para ejecutar el proceso requerido por el usuario.
 
@@ -86,11 +86,11 @@ Seleccione la opción "**OK**", para ejecutar el proceso "**Autorizar Documento 
 **Anular Orden de Venta**
 -------------------------
 
-Ubique en el menú de ADempiere, la carpeta "**Gestión de Ventas**", luego seleccione la carpeta "**Órdenes de Venta**", por último seleccione la ventana "**Órdenes de Venta**".
+Ubique en el menú de Solop ERP, la carpeta "**Gestión de Ventas**", luego seleccione la carpeta "**Órdenes de Venta**", por último seleccione la ventana "**Órdenes de Venta**".
 
     |menú de ventana órdenes de venta para anular|
 
-    Imagen 10. Menú de ADempiere
+    Imagen 10. Menú de Solop ERP
 
 Con ayuda del número de documento, ubique la orden de venta asociada a la factura anulada.
 

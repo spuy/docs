@@ -24,13 +24,13 @@
 **Registro de Requisición a Compra**
 ====================================
 
-Ubique en el menú de ADempiere la carpeta "**Gestión de Compras**", luego seleccione la ventana "**Requisición**", adjunto imagen para referencia.
+Ubique en el menú de Solop ERP la carpeta "**Gestión de Compras**", luego seleccione la ventana "**Requisición**", adjunto imagen para referencia.
 
     |Menú de ADempiere|
     
-    Imagen 1. Menú de ADempiere
+    Imagen 1. Menú de Solop ERP
 
-Seleccione el icono "**Registro Nuevo**" en la barra de herramientas de ADempiere, para crear un nuevo documento de requisición.
+Seleccione el icono "**Registro Nuevo**" en la barra de herramientas de Solop ERP, para crear un nuevo documento de requisición.
 
     |Icono Registro Nuevo|
     
@@ -48,7 +48,7 @@ Seleccione el tipo de documento a generar en el campo "**Tipo de Documento**", l
     
     Imagen 4. Campo Tipo de Documento
 
-Introduzca el número del documento en el campo "**No. de Documento**", el mismo no es obligatorio ya que ADempiere genera un número de secuencia automáticamente al ser guardado el registro del documento.
+Introduzca el número del documento en el campo "**No. de Documento**", el mismo no es obligatorio ya que Solop ERP genera un número de secuencia automáticamente al ser guardado el registro del documento.
 
     |Campo Número de Documento|
     
@@ -90,7 +90,7 @@ Seleccione la lista de precios en el campo "**Lista de Precios**", para una requ
     
     Imagen 11. Campo Lista de Precios
 
-Seleccione el icono "**Guardar**" de la barra de herramientas de ADempiere para guardar los cambios realizados.
+Seleccione el icono "**Guardar**" de la barra de herramientas de Solop ERP para guardar los cambios realizados.
 
     |Guardar Cambios|
     
@@ -120,7 +120,7 @@ Seleccione la unidad de medida del producto a solicitar en el campo "**UM**", es
     
     Imagen 16. Campo UM
     
-Seleccione el icono "**Guardar**" de la barra de herramientas de ADempiere para guardar los cambios realizados.
+Seleccione el icono "**Guardar**" de la barra de herramientas de Solop ERP para guardar los cambios realizados.
 
     |Guardar Cambios 2|
     
@@ -128,7 +128,7 @@ Seleccione el icono "**Guardar**" de la barra de herramientas de ADempiere para 
     
     .. note::
     
-        Si el departamento requiere diferentes productos o servicios, puede seleccionar en la pestaña "**Línea Requisición**", el icono "**Registro Nuevo**" en la barra de herramientas de ADempiere y proceder al llenado de los campos correspondientes explicados anteriormente.
+        Si el departamento requiere diferentes productos o servicios, puede seleccionar en la pestaña "**Línea Requisición**", el icono "**Registro Nuevo**" en la barra de herramientas de Solop ERP y proceder al llenado de los campos correspondientes explicados anteriormente.
 
 Regrese a la ventana principal "**Requisición**" y seleccione la opción "**Completar**".
 

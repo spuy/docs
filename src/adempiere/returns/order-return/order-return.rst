@@ -50,13 +50,13 @@
 **Autorización de Devolución (Cliente)**
 ========================================
 
-Ubique y seleccione en el menú de ADempiere, la carpeta "**Gestión de Ventas**", luego seleccione la carpeta "**Órdenes de Venta**", por último seleccione la ventana "**Orden de Devolución (Cliente)**".
+Ubique y seleccione en el menú de Solop ERP, la carpeta "**Gestión de Ventas**", luego seleccione la carpeta "**Órdenes de Venta**", por último seleccione la ventana "**Orden de Devolución (Cliente)**".
 
     |Menú de ADempiere|  
     
     Imagen 1. Autorización de Devolución (Cliente)
 
-Seleccione el icono "**Registro Nuevo**", en la barra de herramientas de ADempiere y proceda al llenado de los campos correspondientes.
+Seleccione el icono "**Registro Nuevo**", en la barra de herramientas de Solop ERP y proceda al llenado de los campos correspondientes.
 
     |Icono Registro Nuevo|
     
@@ -185,11 +185,11 @@ Seleccione la acción "**Completar**" y la opción "**OK**", para completar el d
 **Devolución (Cliente)**
 ========================
 
-Ubique y seleccione en el menú de ADempiere, la carpeta "**Gestión de Ventas**", luego seleccione la carpeta "**Entregas**", por último seleccione la ventana de búsqueda inteligente "**Generar Entregas Desde Líneas de Orden**".
+Ubique y seleccione en el menú de Solop ERP, la carpeta "**Gestión de Ventas**", luego seleccione la carpeta "**Entregas**", por último seleccione la ventana de búsqueda inteligente "**Generar Entregas Desde Líneas de Orden**".
 
     |Menú de ADempiere 2|
     
-    Imagen 23. Menú de ADempiere
+    Imagen 23. Menú de Solop ERP
 
 Seleccione en el campo "**Socio del Negocio**", el socio del negocio seleccionado en el documento de "**Orden de Devolución Cliente**".
 
@@ -227,11 +227,11 @@ Seleccione la opción "**OK**", para generar el documento "**Devolución (Client
     
     Imagen 29. Opción OK
 
-Seleccione en el menú de ADempiere, la carpeta "**Gestión de Devoluciones**", luego seleccione la ventana "**Devolución Cliente**".
+Seleccione en el menú de Solop ERP, la carpeta "**Gestión de Devoluciones**", luego seleccione la ventana "**Devolución Cliente**".
 
     |Menú de ADempiere 3| 
     
-    Imagen 30. Menú de ADempiere
+    Imagen 30. Menú de Solop ERP
 
 Podrá apreciar el documento "**Devolución Cliente**", creado desde la ventana de búsqueda inteligente.
 
@@ -252,11 +252,11 @@ Para generar el documento "**Nota de Crédito por Devolución (Cliente)**", debe
     
     Imagen 32. Factura 84884
 
-Ubique y seleccione en el menú de ADempiere, la carpeta "**Gestión de Ventas**", luego seleccione la carpeta "**Facturas de Ventas**", por último seleccione la ventana de búsqueda inteligente "**Generar Facturas desde Líneas de la Orden**".
+Ubique y seleccione en el menú de Solop ERP, la carpeta "**Gestión de Ventas**", luego seleccione la carpeta "**Facturas de Ventas**", por último seleccione la ventana de búsqueda inteligente "**Generar Facturas desde Líneas de la Orden**".
 
     |Menú de ADempiere 4| 
     
-    Imagen 33. Menú de ADempiere
+    Imagen 33. Menú de Solop ERP
 
 Seleccione en el campo "**Socio del Negocio**", el socio del negocio del documento "**Autorización de Devolución (Cliente)**".
 
@@ -300,11 +300,11 @@ Podrá visualizar el mensaje donde indica que se creó la nota de crédito desde
 
     Imagen 40. Mensaje de Creación de Nota de Crédito
 
-Seleccione en el menú de ADempiere, la carpeta "**Gestión de Ventas**", luego seleccione la carpeta "**Facturas de Ventas**", por último seleccione la ventana "**Documentos por Cobrar**".
+Seleccione en el menú de Solop ERP, la carpeta "**Gestión de Ventas**", luego seleccione la carpeta "**Facturas de Ventas**", por último seleccione la ventana "**Documentos por Cobrar**".
 
     |Menú de ADempiere 5| 
     
-    Imagen 41. Menú de ADempiere
+    Imagen 41. Menú de Solop ERP
 
 Podrá apreciar el documento "**Nota de Crédito por Devolución (Cliente)**", creado desde la ventana de búsqueda inteligente.
 

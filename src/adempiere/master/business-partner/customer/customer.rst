@@ -91,7 +91,7 @@
 **Registro de Cliente**
 =======================
 
-Para registrar un cliente, es necesario que sea realizado el procedimiento regular explicado en el documento :ref:`documento/socio-negocio`, elaborado por `ERPyA`_.
+Para registrar un cliente, es necesario que sea realizado el procedimiento regular explicado en el documento :ref:`documento/socio-negocio`, elaborado por `Solop`_.
 
 Luego de culminar el procedimieto de registro de socio del negocio, seleccione la pestaña "**Cliente**" que se encuentra del lado izquierdo de la ventana socio del negocio, para identificar al socio del negocio como cliente de la empresa.
 
@@ -489,7 +489,7 @@ Seleccione en el campo "**Región de Ventas**", la región o área de ventas en 
 
     .. note::
 
-        Para conocer más sobre las regiones de ventas que puede tener una compañía u organización, visite el documento :ref:`documento/region-ventas`, elaborado por `ERPyA`_.
+        Para conocer más sobre las regiones de ventas que puede tener una compañía u organización, visite el documento :ref:`documento/region-ventas`, elaborado por `Solop`_.
 
 Introduzca en el campo "**Código SICA**", el código SICA del socio del negocio cliente.
 
@@ -572,7 +572,7 @@ Seleccione el checklist "**Usuario de Autenticación**" para que sean reflejados
 
         .. warning::
 
-            `ERPyA`_ tiene establecido como estándar de creación de usuario y contraseña en Solop ERP, la inicial del primer nombre en minúscula, seguido del primer apellido completo, con la primera letra del mismo en mayúscula.
+            `Solop`_ tiene establecido como estándar de creación de usuario y contraseña en Solop ERP, la inicial del primer nombre en minúscula, seguido del primer apellido completo, con la primera letra del mismo en mayúscula.
 
     Introduzca en el campo "**Contraseña**", la contraseña de la persona de contacto con el socio del negocio cliente para ingresar a Solop ERP.
 
@@ -582,7 +582,7 @@ Seleccione el checklist "**Usuario de Autenticación**" para que sean reflejados
 
         .. warning::
 
-            `ERPyA`_ tiene establecido como estándar de creación de usuario y contraseña en Solop ERP, la inicial del primer nombre en minúscula, seguido del primer apellido completo, con la primera letra del mismo en mayúscula.
+            `Solop`_ tiene establecido como estándar de creación de usuario y contraseña en Solop ERP, la inicial del primer nombre en minúscula, seguido del primer apellido completo, con la primera letra del mismo en mayúscula.
 
     Seleccione el checklist "**Usuario de Tienda Web**", para indicar que la persona de contacto con el socio del negocio es usuario de tienda web.
 

@@ -22,7 +22,7 @@ Seleccione la carpeta "**Gestión de Ventas**", luego seleccione la carpeta "**�
 
     |menú de pdv llave de disposición|
 
-    Imagen 1. Menú de ADempiere
+    Imagen 1. Menú de Solop ERP
 
 Podrá visualizar la ventana "**PDV de Llave de Disposición**", con diferentes campos que permiten configurar el catálogo de productos del punto de venta.
 
@@ -74,7 +74,7 @@ Para crear las categorías o grupos de productos, debe realizar lo siguiente:
 
         Imagem 9. Campo Fuente de Impresión
 
-Seleccione el icono "**Guardar**", ubicado en la barra de herramientas de ADempiere, para guardar el registro de la categoría o grupo de productos.
+Seleccione el icono "**Guardar**", ubicado en la barra de herramientas de Solop ERP, para guardar el registro de la categoría o grupo de productos.
 
     |icono guardar de la ventana pdv de llave de disposición|
 
@@ -121,7 +121,7 @@ Seleccione la pestaña "**Llave PDV**" y proceda a registrar los productos de la
 
         .. note::
 
-            Si no es seleccionado ningún valor en el campo "**Impresión a Color**", ADempiere toma por defecto el valor ingresado en el campo "**Impresión a Color**", de la pestaña principal "**Llave de PDV Layout**".
+            Si no es seleccionado ningún valor en el campo "**Impresión a Color**", Solop ERP toma por defecto el valor ingresado en el campo "**Impresión a Color**", de la pestaña principal "**Llave de PDV Layout**".
 
     Seleccione en el campo "**Fuente de Impresión**", el tipo de fuente para el nombre del producto seleccionado anteriormente.
 
@@ -131,7 +131,7 @@ Seleccione la pestaña "**Llave PDV**" y proceda a registrar los productos de la
 
         .. note::
 
-            Si no es seleccionado ningún valor en el campo "**Fuente de Impresión**", ADempiere toma por defecto el valor ingresado en el campo "**Fuente de Impresión**", de la pestaña principal "**Llave de PDV Layout**".
+            Si no es seleccionado ningún valor en el campo "**Fuente de Impresión**", Solop ERP toma por defecto el valor ingresado en el campo "**Fuente de Impresión**", de la pestaña principal "**Llave de PDV Layout**".
 
     Introduzca en el campo "**Tramo de Columna**", la cantidad de columnas que ocupará el recuadro del producto en el configuración de la categoría o grupo de productos.
 

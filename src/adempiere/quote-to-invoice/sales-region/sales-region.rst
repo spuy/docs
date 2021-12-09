@@ -19,11 +19,11 @@
 **Registro de Región de Ventas**
 ================================
 
-Ubique y seleccione en el menú de ADempiere, la carpeta "**Gestión de Ventas**", luego seleccione la carpeta "**Reglas de Ventas y Mercadotecnia**", por último seleccione la ventana "**Región de Ventas**".
+Ubique y seleccione en el menú de Solop ERP, la carpeta "**Gestión de Ventas**", luego seleccione la carpeta "**Reglas de Ventas y Mercadotecnia**", por último seleccione la ventana "**Región de Ventas**".
 
     |Menú de ADempiere|
     
-    Imagen 1. Menú de ADempiere
+    Imagen 1. Menú de Solop ERP
 
 Podrá visualizar la ventana "**Región de Ventas**", con todos los registros de las diferentes regiones de venta que abarca la compañía u organización.
 
@@ -31,7 +31,7 @@ Podrá visualizar la ventana "**Región de Ventas**", con todos los registros de
 
     Imagen 2. Ventana Región de Ventas
 
-Seleccione el icono "**Registro Nuevo**", ubicado en la barra de herramientas de ADempiere.
+Seleccione el icono "**Registro Nuevo**", ubicado en la barra de herramientas de Solop ERP.
 
     |Icono Registro Nuevo de la Ventana Región de Ventas|
 
@@ -51,7 +51,7 @@ Introduzca en el campo "**Código**", el código de identificación correspondie
 
     .. note::
 
-        Si no es ingresado ningún valor en este campo, ADempiere tomará el número de secuencia definida para el registro.
+        Si no es ingresado ningún valor en este campo, Solop ERP tomará el número de secuencia definida para el registro.
 
 Seleccione en el campo "**Región de Ventas Padre**", la región de ventas padre correspondiente a la región de ventas que se encuentra definiendo.
 
@@ -89,13 +89,13 @@ Seleccione el checklist "**Entidad Acumulada**", para indicar que el registro de
 
     Imagen 11. Checklist Entidad Acumulada de la Ventana Región de Ventas
 
-Seleccione el icono "**Guardar Cambios**", ubicado en la barra de herramientas de ADempiere, para guardar el registro de los campos de la ventana "**Región de Ventas**".
+Seleccione el icono "**Guardar Cambios**", ubicado en la barra de herramientas de Solop ERP, para guardar el registro de los campos de la ventana "**Región de Ventas**".
 
     |Icono Guardar Cambios de la Ventana Región de Ventas|
 
     Imagen 12. Icono Guardar Cambios de la Ventana Región de Ventas
 
-Al culminar el procedimiento de registro de regiones de ventas en ADempiere, podrá visualizar del lado izquierdo de la ventana, el resultado del árbol formado por los diferentes registros realizados.
+Al culminar el procedimiento de registro de regiones de ventas en Solop ERP, podrá visualizar del lado izquierdo de la ventana, el resultado del árbol formado por los diferentes registros realizados.
 
     |Árbol de Regiones de Ventas de la Ventana Región de Ventas|
 

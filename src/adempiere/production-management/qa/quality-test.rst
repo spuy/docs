@@ -18,11 +18,11 @@
 **Prueba de Calidad**
 =====================
 
-Ubique y seleccione en el menú de ADempiere, la carpeta "**Gestión de Materiales**", luego seleccione la carpeta "**Producción Ligera**", por último seleccione la ventana "**Prueba de Calidad**".
+Ubique y seleccione en el menú de Solop ERP, la carpeta "**Gestión de Materiales**", luego seleccione la carpeta "**Producción Ligera**", por último seleccione la ventana "**Prueba de Calidad**".
 
     |Menú de ADempiere|
     
-    Imagen 1. Menú de ADempiere
+    Imagen 1. Menú de Solop ERP
 
 Podrá visualizar la ventana "**Prueba de Calidad**", con todos los registros de prueba de calidad de los productos.
 
@@ -30,7 +30,7 @@ Podrá visualizar la ventana "**Prueba de Calidad**", con todos los registros de
 
     Imagen 2. Ventana Prueba de Calidad
 
-    Seleccione el icono "**Registro Nuevo**", ubicado en la barra de herramientas de ADempiere.
+    Seleccione el icono "**Registro Nuevo**", ubicado en la barra de herramientas de Solop ERP.
 
         |Icono Registro Nuevo de la Ventana Prueba de Calidad|
 
@@ -54,7 +54,7 @@ Podrá visualizar la ventana "**Prueba de Calidad**", con todos los registros de
 
         Imagen 6. Campo Descripción de la Ventana Prueba de Calidad
 
-    Seleccione el icono "**Guardar Cambios**", ubicado en la barra de herramientas de ADempiere.
+    Seleccione el icono "**Guardar Cambios**", ubicado en la barra de herramientas de Solop ERP.
 
         |Icono Guardar Cambios de la Ventana Prueba de Calidad|
 
@@ -96,7 +96,7 @@ Seleccione la pestaña "**Producto**", para realizar el registro de los campos d
 
         Imagen 13. Campo Producto de la Pestaña Producto de la Ventana Prueba de Calidad
 
-    Seleccione el icono "**Guardar Cambios**", ubicado en la barra de herramientas de ADempiere, para guardar el registro de los campos de la pestaña "**Producto**".
+    Seleccione el icono "**Guardar Cambios**", ubicado en la barra de herramientas de Solop ERP, para guardar el registro de los campos de la pestaña "**Producto**".
 
         |Icono Guardar Cambios de la Pestaña Producto de la Ventana Prueba de Calidad|
 

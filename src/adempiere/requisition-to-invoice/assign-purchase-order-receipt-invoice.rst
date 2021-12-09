@@ -48,11 +48,11 @@ Para realizar el procedimiento de asignación correctamente, es necesario cumpli
 
         Imagen 3. Factura por Pagar
 
-Ubique y seleccione en el menú de ADempiere, la carpeta "**Gestión de Compras**", luego seleccione el formulario "**Asignar OC-Recibo-Factura**".
+Ubique y seleccione en el menú de Solop ERP, la carpeta "**Gestión de Compras**", luego seleccione el formulario "**Asignar OC-Recibo-Factura**".
 
     |Menú de ADempiere|
 
-    Imagen 4. Menú de ADempiere
+    Imagen 4. Menú de Solop ERP
 
 Podrá visualizar la ventana "**Asignar OC Recepción Factura**", con diferentes campos que le permiten al usuario realizar la asignación de las órdenes de compra, recepciones y facturas por pagar.
 

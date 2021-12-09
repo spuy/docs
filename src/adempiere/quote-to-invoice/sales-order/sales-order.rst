@@ -44,13 +44,13 @@
 **Registro de Orden de Venta**
 ==============================
 
-Ubique y seleccione en el menú de ADempiere la carpeta "**Gestión de Ventas**", luego seleccione la carpeta "**Órdenes de Venta**", por último seleccione la ventana "**Órdenes de Venta**".
+Ubique y seleccione en el menú de Solop ERP la carpeta "**Gestión de Ventas**", luego seleccione la carpeta "**Órdenes de Venta**", por último seleccione la ventana "**Órdenes de Venta**".
 
    |Menú de ADempiere|
 
-   Imagen 1. Menú de ADempiere
+   Imagen 1. Menú de Solop ERP
 
-Seleccione el icono "**Registro Nuevo**" en la barra de herramientas de ADempiere, para realizar un nuevo documento.
+Seleccione el icono "**Registro Nuevo**" en la barra de herramientas de Solop ERP, para realizar un nuevo documento.
 
    |Icono Registro Nuevo|
 
@@ -212,7 +212,7 @@ Seleccione el icono "**Registro Nuevo**" en la barra de herramientas de ADempier
 
       Imagen 28. Campo Actividad
 
-Seleccione el icono "**Guardar Cambios**" en la barra de herramientas de ADempiere, para guardar el registro de la pestaña "**Orden**".
+Seleccione el icono "**Guardar Cambios**" en la barra de herramientas de Solop ERP, para guardar el registro de la pestaña "**Orden**".
 
       |Icono Guardar Cambios|
 

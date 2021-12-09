@@ -43,7 +43,7 @@ El documento del cobro se genera en la ventana "**Caja**", con la cuenta caja po
 
 Adicional a ello, el documento "**Factura por Cobrar**", es generado en la ventana "**Documentos por Cobrar**". Mientras que el documento "**Entrega**", es generado en la ventana "**Entrega (Cliente)**".
 
-Para mejor referencia de lo explicado anteriormente, se presenta a continuación el diagrama del proceso "**Toma de Pedido POS**", con la finalidad dar a conocer el comportamiento de ADempiere ante dicho proceso.
+Para mejor referencia de lo explicado anteriormente, se presenta a continuación el diagrama del proceso "**Toma de Pedido POS**", con la finalidad dar a conocer el comportamiento de Solop ERP ante dicho proceso.
 
     |diagrama de toma de pedido pos|
 
@@ -52,11 +52,11 @@ Para mejor referencia de lo explicado anteriormente, se presenta a continuación
 **Ejecución del Proceso**
 -------------------------
 
-Ubique y seleccione en el menú de ADempiere, la carpeta "**Gestión de Ventas**", luego seleccione la carpeta "**Órdenes de Venta**", por último seleccione la carpeta "**Punto de Venta**", finalmente seleccione la ventana "**Punto de Venta**".
+Ubique y seleccione en el menú de Solop ERP, la carpeta "**Gestión de Ventas**", luego seleccione la carpeta "**Órdenes de Venta**", por último seleccione la carpeta "**Punto de Venta**", finalmente seleccione la ventana "**Punto de Venta**".
 
     |Menú de ADempiere|
 
-    Imagen 2. Menú de ADempiere
+    Imagen 2. Menú de Solop ERP
 
 Podrá visualizar la ventana "**Selecciona Terminal PDV**", para seleccionar el terminal del punto de venta con el cual va a gestionar la toma de pedido y posteriormente la opción "**OK**" para cargar la ventana "**Punto de Venta**" para el terminal seleccionado.
 
@@ -135,7 +135,7 @@ Luego de haber cargado todos los productos de la venta en la orden, debe selecci
   
         - El campo "**Cambio**", indica el monto total que debe ser devuelto al cliente por el concepto "**Cambio del Pago**".
 
-        - El check "**Cobro Completo**", debe ser utilizado cuando se presente un caso de cobro en efectivo de monto con decimales y se requiera realizar un cobro mayor (completo), para posteriormente generar el egreso por el cambio del mismo. ADempiere, refleja en el campo "**Cambio**", el monto correspondiente al cambio que debe ser entregado al cliente.
+        - El check "**Cobro Completo**", debe ser utilizado cuando se presente un caso de cobro en efectivo de monto con decimales y se requiera realizar un cobro mayor (completo), para posteriormente generar el egreso por el cambio del mismo. Solop ERP, refleja en el campo "**Cambio**", el monto correspondiente al cambio que debe ser entregado al cliente.
 
         .. note::
 
@@ -292,7 +292,7 @@ Ubique el documento de cobro generado en la ventana "**Documentos por Cobrar**" 
 
     Imagen 28. Pestaña Facturas Pagadas de la Ventana Documentos por Cobrar
 
-Seleccione el icono "**Cambiar Mono/Multi Registro**" ubicado en la barra de herramientas de ADempiere para cambiar la vista y visualizar la línea del registro de asignación del cobro que requiere acercar, posteriormente copie el valor del campo "**Pago**".
+Seleccione el icono "**Cambiar Mono/Multi Registro**" ubicado en la barra de herramientas de Solop ERP para cambiar la vista y visualizar la línea del registro de asignación del cobro que requiere acercar, posteriormente copie el valor del campo "**Pago**".
 
     |copiar número de documento|
 

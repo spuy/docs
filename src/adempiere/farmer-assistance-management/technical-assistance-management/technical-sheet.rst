@@ -69,7 +69,7 @@ Seleccione en el campo "**Organización**", la organización para la cual se enc
 
     Imagen 4. Campo Organización
 
-Seleccione el tipo de documento a generar en el campo "**Tipo de Documento Destino**", la selección de este define el comportamiento del documento que se esta elaborando, dicho comportamiento se encuentra explicado en el documento **Tipo de Documento** elaborado por `ERPyA`_.
+Seleccione el tipo de documento a generar en el campo "**Tipo de Documento Destino**", la selección de este define el comportamiento del documento que se esta elaborando, dicho comportamiento se encuentra explicado en el documento **Tipo de Documento** elaborado por `Solop`_.
 
     |campo tipo de documento de la ventana hoja técnica|
 

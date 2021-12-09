@@ -21,13 +21,13 @@
 **Registro de Recepción de Productos**
 ======================================
 
-Ubique en el menú de ADempiere la carpeta "**Gestión de Compras**", luego seleccione la ventana "**Recepción de Productos**", adjunto imagen para referencia.
+Ubique en el menú de Solop ERP la carpeta "**Gestión de Compras**", luego seleccione la ventana "**Recepción de Productos**", adjunto imagen para referencia.
 
    |Menú de ADempiere|
 
-   Imagen 1. Menú de ADempiere
+   Imagen 1. Menú de Solop ERP
 
-Seleccione la opción "**Registro Nuevo**" en la barra de herramientas de ADempiere, para crear un documento nuevo.
+Seleccione la opción "**Registro Nuevo**" en la barra de herramientas de Solop ERP, para crear un documento nuevo.
 
    |Icono de Registro Nuevo|
 

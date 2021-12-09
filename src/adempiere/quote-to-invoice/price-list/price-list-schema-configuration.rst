@@ -48,7 +48,7 @@ El esquema de lista de precios se puede configurar por tipo de conversión en di
 
 A continuación, se explica el procedimiento a seguir para configurar un esquema de lista de precios.
 
-Ubique y seleccione en el menú de ADempiere, la carpeta "**Gestión de Materiales**", luego seleccione la carpeta "**Reglas de Gestión de Materiales**", por último seleccione la ventana "**Esquema de Lista de Precios**".
+Ubique y seleccione en el menú de Solop ERP, la carpeta "**Gestión de Materiales**", luego seleccione la carpeta "**Reglas de Gestión de Materiales**", por último seleccione la ventana "**Esquema de Lista de Precios**".
 
     |menú de esquema de lista de precios|
 
@@ -60,7 +60,7 @@ Podrá viualizar la ventana "**Esquema de Lista de Precios**", con los registros
 
     Imagen 2. Ventana Esquema de Lista de Precios
 
-Seleccione el icono "**Registro Nuevo**", ubicado en la barra de herramientas de ADempiere y proceda al llenado de los campos correspondientes.
+Seleccione el icono "**Registro Nuevo**", ubicado en la barra de herramientas de Solop ERP y proceda al llenado de los campos correspondientes.
 
     |icono registro nuevo de la ventana esquema de lista de precios|
 
@@ -96,7 +96,7 @@ Seleccione en el campo "**Tipo de Descuento**", el tipo de cálculo del descuent
 
     Imagen 8. Campo Tipo de Descuento
 
-Seleccione el icono "**Guardar Cambios**", ubicado en la barra de herramientas de ADempiere.
+Seleccione el icono "**Guardar Cambios**", ubicado en la barra de herramientas de Solop ERP.
 
     |icono guardar cambios de la ventana esquema de lista de precios|
 
@@ -152,7 +152,7 @@ Seleccione en el campo "**Categoría del Producto**", la categoría de producto 
 
     .. note::
 
-        Al configurar el esquema de lista de precios por categoría de producto y procesar la lista de precios llamando dicho esquema, ADempiere no tomará en cuenta aquellos productos que se encuentren en una categoría diferente a la que fue incluida en el esquema.
+        Al configurar el esquema de lista de precios por categoría de producto y procesar la lista de precios llamando dicho esquema, Solop ERP no tomará en cuenta aquellos productos que se encuentren en una categoría diferente a la que fue incluida en el esquema.
 
 Seleccione en el campo "**Grupo de Producto**", el grupo de producto correspondiente al registro que se encuentra realizando.
 
@@ -164,7 +164,7 @@ Seleccione en el campo "**Grupo de Producto**", el grupo de producto correspondi
 
     .. note::
 
-        Al configurar el esquema de lista de precios por grupo de producto y procesar la lista de precios llamando dicho esquema, ADempiere no tomará en cuenta aquellos productos que se encuentren en un grupo diferente al que fue incluido en el esquema.
+        Al configurar el esquema de lista de precios por grupo de producto y procesar la lista de precios llamando dicho esquema, Solop ERP no tomará en cuenta aquellos productos que se encuentren en un grupo diferente al que fue incluido en el esquema.
 
 Seleccione en el campo "**Clase de Producto**", la clase de producto correspondiente al registro que se encuentra realizando.
 
@@ -176,7 +176,7 @@ Seleccione en el campo "**Clase de Producto**", la clase de producto correspondi
 
     .. note::
 
-        Al configurar el esquema de lista de precios por clase de producto y procesar la lista de precios llamando dicho esquema, ADempiere no tomará en cuenta aquellos productos que se encuentren en una clase diferente a la que fue incluida en el esquema.
+        Al configurar el esquema de lista de precios por clase de producto y procesar la lista de precios llamando dicho esquema, Solop ERP no tomará en cuenta aquellos productos que se encuentren en una clase diferente a la que fue incluida en el esquema.
 
 Seleccione en el campo "**Clasificación de Producto**", la clasificación de producto correspondiente al registro que se encuentra realizando.
 
@@ -188,7 +188,7 @@ Seleccione en el campo "**Clasificación de Producto**", la clasificación de pr
 
     .. note::
 
-        Al configurar el esquema de lista de precios por clasificación de producto y procesar la lista de precios llamando dicho esquema, ADempiere no tomará en cuenta aquellos productos que se encuentren en una clasificación diferente a la que fue incluida en el esquema.
+        Al configurar el esquema de lista de precios por clasificación de producto y procesar la lista de precios llamando dicho esquema, Solop ERP no tomará en cuenta aquellos productos que se encuentren en una clasificación diferente a la que fue incluida en el esquema.
 
 Introduzca en el campo "**Línea de Producto**", la línea del producto correspondiente al registro que se encuentra realizando.
 
@@ -352,7 +352,7 @@ El campo "**Redondeo del Precio Límite**", indica el redondeo (si existe alguno
 
     Imagen 39. Campo Redondeo del Precio Límite
 
-Seleccione el icono "**Guardar Cambios**", ubicado en la barra de herramientas de ADempiere.
+Seleccione el icono "**Guardar Cambios**", ubicado en la barra de herramientas de Solop ERP.
 
     |icono guardar cambios de la pestaña línea de esquema|
 

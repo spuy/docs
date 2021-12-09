@@ -25,11 +25,11 @@ Para ejemplificar el registro de crear orden de compra desde requisición, es ut
 
     Imagen 1. Documento de Requisición
 
-Ubique y seleccione en el menú de ADempiere, la carpeta "**Gestión de Compras**", luego seleccione el proceso "**Crear OC desde Requisición**".
+Ubique y seleccione en el menú de Solop ERP, la carpeta "**Gestión de Compras**", luego seleccione el proceso "**Crear OC desde Requisición**".
 
     |Menú de ADempiere 1|
     
-    Imagen 2. Menú de ADempiere
+    Imagen 2. Menú de Solop ERP
 
 Podrá visualizar la ventana del proceso "**Crear OC desde Requisición**" con diferentes campos que pueden ser utilizados para generar la orden de compra según lo requerido por el usuario.
 
@@ -74,11 +74,11 @@ Podrá visualizar en la ventana del proceso "**Crear OC desde Requisición**", e
 **Consultar y Completar Orden de Compra Generada**
 ==================================================
 
-Ubique y seleccione en el menú de ADempiere, la carpeta "**Gestión de Compras**", luego seleccione la ventana "**Órdenes de Compra**".
+Ubique y seleccione en el menú de Solop ERP, la carpeta "**Gestión de Compras**", luego seleccione la ventana "**Órdenes de Compra**".
 
     |Menú de ADempiere 2|
 
-    Imagen 9. Menú de ADempiere 
+    Imagen 9. Menú de Solop ERP 
 
 Al buscar el documento "**Orden de Compra**" con ayuda del número de documento generado en la ventana del proceso "**Crear OC desde Requisición**", se puede visualizar el mismo de la siguiente manera.
 
