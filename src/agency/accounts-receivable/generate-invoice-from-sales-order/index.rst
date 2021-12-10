@@ -1,4 +1,4 @@
-.. _src/adempiere/agency/accounts-receivable/generate-invoice-from-sales-order:
+.. _src/agency/accounts-receivable/generate-invoice-from-sales-order:
 
 ========================================
 **Generar Factura desde Orden de Venta**

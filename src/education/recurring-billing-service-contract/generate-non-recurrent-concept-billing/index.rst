@@ -1,4 +1,4 @@
-.. _src/adempiere/education/recurring-billing-service-contract/generate-non-recurrent-concept-billing:
+.. _src/education/recurring-billing-service-contract/generate-non-recurrent-concept-billing:
 
 =============================================
 **Generar Concepto No Recurrente a Facturar**

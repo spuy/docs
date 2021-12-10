@@ -1,4 +1,4 @@
-.. _src/adempiere/education/payment-and-allocation:
+.. _src/education/payment-and-allocation:
 
 =====================
 **Pago y Asignación**

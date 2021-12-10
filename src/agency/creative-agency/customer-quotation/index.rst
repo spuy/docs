@@ -1,4 +1,4 @@
-.. _src/adempiere/agency/creative-agency/customer-quotation:
+.. _src/agency/creative-agency/customer-quotation:
 
 ============================
 **Cotización para Clientes**

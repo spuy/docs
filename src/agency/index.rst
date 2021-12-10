@@ -1,4 +1,4 @@
-.. _src/adempiere/agency:
+.. _src/agency:
 
 ===========
 **Agencia**

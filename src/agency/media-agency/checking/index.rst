@@ -1,4 +1,4 @@
-.. _src/adempiere/agency/media-agency/checking:
+.. _src/agency/media-agency/checking:
 
 ============
 **Checking**

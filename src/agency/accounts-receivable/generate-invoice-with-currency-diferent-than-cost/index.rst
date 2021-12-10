@@ -1,4 +1,4 @@
-.. _src/adempiere/agency/accounts-receivable/generate-invoice-with-currency-diferent-than-cost:
+.. _src/agency/accounts-receivable/generate-invoice-with-currency-diferent-than-cost:
 
 ====================================================
 **Facturar al Cliente en moneda diferente al Costo**

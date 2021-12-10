@@ -1,4 +1,4 @@
-.. _src/adempiere/agency/accounts-receivable/generate-cfe-lines:
+.. _src/agency/accounts-receivable/generate-cfe-lines:
 
 =========================
 **Generar Líneas de CFE**

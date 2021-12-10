@@ -1,4 +1,4 @@
-.. _src/adempiere/education/open-documents-by-customer/open-documents-massive-sender:
+.. _src/education/open-documents-by-customer/open-documents-massive-sender:
 
 ====================================
 **Envío de Estado de Cuenta Masivo**

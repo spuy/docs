@@ -1,4 +1,4 @@
-.. _src/adempiere/agency/creative-agency/project-type:
+.. _src/agency/creative-agency/project-type:
 
 ====================
 **Tipo de Proyecto**

@@ -1,4 +1,4 @@
-.. _src/adempiere/agency/agency-service-contract/customer-brand:
+.. _src/agency/agency-service-contract/customer-brand:
 
 =====================
 **Marca del Cliente**

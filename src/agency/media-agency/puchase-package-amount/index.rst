@@ -1,4 +1,4 @@
-.. _src/adempiere/agency/media-agency/puchase-package-amount:
+.. _src/agency/media-agency/puchase-package-amount:
 
 ===============================
 **Compra Paquete por Importes**

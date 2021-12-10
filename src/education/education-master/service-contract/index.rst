@@ -1,4 +1,4 @@
-.. _src/adempiere/education/education-master/service-contract:
+.. _src/education/education-master/service-contract:
 
 ========================
 **Contrato de Servicio**

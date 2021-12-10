@@ -1,4 +1,4 @@
-.. _src/adempiere/agency/creative-agency/project-line-level:
+.. _src/agency/creative-agency/project-line-level:
 
 ===============================
 **Nivel de Línea del Proyecto**

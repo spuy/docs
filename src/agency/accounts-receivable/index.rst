@@ -1,4 +1,4 @@
-.. _src/adempiere/agency/accounts-receivable:
+.. _src/agency/accounts-receivable:
 
 ======================
 **Cuentas por Cobrar**

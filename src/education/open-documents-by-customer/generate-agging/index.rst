@@ -1,4 +1,4 @@
-.. _src/adempiere/education/open-documents-by-customer/generate-aggiging:
+.. _src/education/open-documents-by-customer/generate-aggiging:
 
 ================================
 **Generar Cálculo de Morosidad**

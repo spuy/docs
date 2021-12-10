@@ -1,4 +1,4 @@
-.. _src/adempiere/agency/creative-agency/project-members:
+.. _src/agency/creative-agency/project-members:
 
 =========================
 **Miembros del Proyecto**

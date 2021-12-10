@@ -1,4 +1,4 @@
-.. _src/adempiere/agency/creative-agency/direct-purchase-on-behalf-client:
+.. _src/agency/creative-agency/direct-purchase-on-behalf-client:
 
 ======================================================
 **Compra Directa a un Proveedor en nombre de Cliente**

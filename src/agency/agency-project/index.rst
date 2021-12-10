@@ -1,4 +1,4 @@
-.. _src/adempiere/agency/agency-project:
+.. _src/agency/agency-project:
 
 =======================
 **Proyecto de Agencia**

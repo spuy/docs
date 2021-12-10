@@ -1,4 +1,4 @@
-.. _src/adempiere/agency/accounts-payable:
+.. _src/agency/accounts-payable:
 
 =====================
 **Cuentas por Pagar**

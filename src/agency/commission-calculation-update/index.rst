@@ -1,4 +1,4 @@
-.. _src/adempiere/agency/commission-calculation-update:
+.. _src/agency/commission-calculation-update:
 
 ==========================
 **Actualización de Cálculo de Comisión**

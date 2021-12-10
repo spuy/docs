@@ -1,4 +1,4 @@
-.. _src/adempiere/education/updating-service-contract/updating-prices:
+.. _src/education/updating-service-contract/updating-prices:
 
 ============================
 **Actualización de Precios**

@@ -1,4 +1,4 @@
-.. _src/adempiere/education/education-master/product:
+.. _src/education/education-master/product:
 
 ==========================
 **Producto**

@@ -1,4 +1,4 @@
-.. _src/adempiere/education:
+.. _src/education:
 
 ========================
 **Gestión de Educación**

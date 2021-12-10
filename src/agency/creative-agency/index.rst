@@ -1,4 +1,4 @@
-.. _src/adempiere/agency/creative-agency:
+.. _src/agency/creative-agency:
 
 ====================
 **Agencia Creativa**

@@ -1,4 +1,4 @@
-.. _src/adempiere/agency/creative-agency/sales-order-from-project:
+.. _src/agency/creative-agency/sales-order-from-project:
 
 =================================
 **Orden de Venta desde Proyecto**
