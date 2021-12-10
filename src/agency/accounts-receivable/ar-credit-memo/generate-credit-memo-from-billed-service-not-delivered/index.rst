@@ -1,4 +1,4 @@
-.. _src/adempiere/agency/accounts-receivable/ar-credit-memo/generate-credit-memo-from-billed-service-not-delivered:
+.. _src/agency/accounts-receivable/ar-credit-memo/generate-credit-memo-from-billed-service-not-delivered:
 
 =======================================================
 **Nota de Crédito por Servicio Facturado No Entregado**

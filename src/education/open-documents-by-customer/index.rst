@@ -1,4 +1,4 @@
-.. _src/adempiere/education/open-documents-by-customer:
+.. _src/education/open-documents-by-customer:
 
 ==========================
 **Estado de Cuenta por Cliente**

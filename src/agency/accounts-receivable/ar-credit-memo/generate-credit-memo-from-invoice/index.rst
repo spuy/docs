@@ -1,4 +1,4 @@
-.. _src/adempiere/agency/accounts-receivable/ar-credit-memo/generate-credit-memo-from-invoice:
+.. _src/agency/accounts-receivable/ar-credit-memo/generate-credit-memo-from-invoice:
 
 =========================================
 **Generar Nota de Crédito desde Factura**

@@ -1,4 +1,4 @@
-.. _src/adempiere/updating-service-contract:
+.. _src/updating-service-contract:
 
 ==========================================
 **Actualización del Contrato de Servicio**

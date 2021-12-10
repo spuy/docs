@@ -1,4 +1,4 @@
-.. _src/adempiere/agency/accounts-receivable/generate-recurring-sales-order-from-service-contract:
+.. _src/agency/accounts-receivable/generate-recurring-sales-order-from-service-contract:
 
 ====================================================
 **Generar Orden de Venta Recurrente desde Contrato**

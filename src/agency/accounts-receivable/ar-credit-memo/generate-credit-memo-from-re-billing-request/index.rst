@@ -1,4 +1,4 @@
-.. _src/adempiere/agency/accounts-receivable/ar-credit-memo/generate-credit-memo-from-re-billing-request:
+.. _src/agency/accounts-receivable/ar-credit-memo/generate-credit-memo-from-re-billing-request:
 
 ===========================================================
 **Generar Nota de Crédito por Solicitud de Re-Facturación**

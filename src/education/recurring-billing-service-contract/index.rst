@@ -1,4 +1,4 @@
-.. _src/adempiere/education/recurring-billing-service-contract:
+.. _src/education/recurring-billing-service-contract:
 
 ==========================
 **Facturación Recurrente**

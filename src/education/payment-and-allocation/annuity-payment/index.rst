@@ -1,4 +1,4 @@
-.. _src/adempiere/education/payment-and-allocation/annuity-payment:
+.. _src/education/payment-and-allocation/annuity-payment:
 
 =====================
 **Pago de Anualidad**

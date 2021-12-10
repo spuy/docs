@@ -1,4 +1,4 @@
-.. _src/adempiere/agency/media-agency/media-project-purchase-and-consumption:
+.. _src/agency/media-agency/media-project-purchase-and-consumption:
 
 =======================================
 **Proyecto Medios de Compra y Consumo**

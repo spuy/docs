@@ -1,4 +1,4 @@
-.. _src/adempiere/education/education-master/students:
+.. _src/education/education-master/students:
 
 ==========================
 **Estudiantes**

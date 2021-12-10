@@ -1,4 +1,4 @@
-.. _src/adempiere/agency/media-agency/purchase-inventory:
+.. _src/agency/media-agency/purchase-inventory:
 
 =================================
 **Compra Paquete para Almacenar**

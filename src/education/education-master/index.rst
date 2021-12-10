@@ -1,4 +1,4 @@
-.. _src/adempiere/education/education-master:
+.. _src/education/education-master:
 
 ==========================
 **Maestros**

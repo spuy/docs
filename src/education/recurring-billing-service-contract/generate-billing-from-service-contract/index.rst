@@ -1,4 +1,4 @@
-.. _src/adempiere/education/recurring-billing-service-contract/generate-billing-from-service-contract:
+.. _src/education/recurring-billing-service-contract/generate-billing-from-service-contract:
 
 =============================================
 **Generar Cuotas desde Contrato de Servicio**

@@ -1,4 +1,4 @@
-.. _src/adempiere/education/updating-service-contract/updating-contract-line-discount:
+.. _src/education/updating-service-contract/updating-contract-line-discount:
 
 =====================================================
 **Actualización de Descuentos de Líneas de Contrato**

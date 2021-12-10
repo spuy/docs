@@ -1,4 +1,4 @@
-.. _src/adempiere/agency/production-agency:
+.. _src/agency/production-agency:
 
 =========================
 **Agencia de Producción**

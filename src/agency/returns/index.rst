@@ -1,4 +1,4 @@
-.. _src/adempiere/agency/returns:
+.. _src/agency/returns:
 
 ================
 **Devoluciones**

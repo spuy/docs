@@ -1,4 +1,4 @@
-.. _src/adempiere/education/recurring-billing-service-contract/ar-credit-memo:
+.. _src/education/recurring-billing-service-contract/ar-credit-memo:
 
 ===========================
 **Nota de Crédito Cliente**

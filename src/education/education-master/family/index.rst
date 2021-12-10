@@ -1,4 +1,4 @@
-.. _src/adempiere/education/education-master/family:
+.. _src/education/education-master/family:
 
 ==========================
 **Familia**

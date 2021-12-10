@@ -1,4 +1,4 @@
-.. _src/adempiere/education/payment-and-allocation/masive-allocation-with-exclusion:
+.. _src/education/payment-and-allocation/masive-allocation-with-exclusion:
 
 ===================================
 **Asignación Masiva con Exclusión**

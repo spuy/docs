@@ -1,4 +1,4 @@
-.. _src/adempiere/education/open-documents-by-customer/open-items-report:
+.. _src/education/open-documents-by-customer/open-items-report:
 
 ===============================
 **Reporte de Estado de Cuenta**

@@ -1,4 +1,4 @@
-.. _src/adempiere/luy:
+.. _src/luy:
 
 ========================
 **Localización Uruguay**

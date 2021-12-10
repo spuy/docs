@@ -1,4 +1,4 @@
-.. _src/adempiere/agency/media-agency/customer-inventory-report:
+.. _src/agency/media-agency/customer-inventory-report:
 
 ======================================
 **Reporte de almacenamiento Clientes**

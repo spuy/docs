@@ -1,4 +1,4 @@
-.. _src/adempiere/agency/media-agency:
+.. _src/agency/media-agency:
 
 =====================
 **Agencia de Medios**

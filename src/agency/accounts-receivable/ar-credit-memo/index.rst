@@ -1,4 +1,4 @@
-.. _src/adempiere/agency/accounts-receivable/ar-credit-memo:
+.. _src/agency/accounts-receivable/ar-credit-memo:
 
 ==========================
 **Nota de Crédito Cliente**
