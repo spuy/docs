@@ -1,25 +1,6 @@
-.. |Ventana Login o Iniciar Sesión en ADempiere con Credenciales de Acceso| image:: resources/login-window-or-login-in-adempiere-with-access-credentials.png
-.. |Campo Usuario| image:: resources/user-field.png
-.. |Campo Contraseña del Usuario| image:: resources/user-password-field.png
-.. |Campo Lenguaje para Acceso| image:: resources/language-field-for-access.png
-.. |Checklist Recuérdame| image:: resources/checklist-remember-me.png
-.. |Opción OK para Iniciar Sesión| image:: resources/ok-option-to-login.png
-.. |Ventana Login o Iniciar Sesión en ADempiere con Rol del Usuario| image:: resources/login-window-or-login-in-adempiere-with-user-role.png
-.. |Campo Rol del Usuario| image:: resources/role-field.png
-.. |Campo Compañía| image:: resources/company-field.png
-.. |Campo Organización| image:: resources/organization-field.png
-.. |Campo Almacén| image:: resources/warehouse-field.png
-.. |Opción OK| image:: resources/option-ok.png
-.. |Interrogante se te olvidó tu contraseña| image:: resources/question-mark-you-forgot-your-password.png
-.. |Ventana Login o Iniciar Sesión en ADempiere para Recuperar Contraseña| image:: resources/login-window-or-login-adempiere-to-recover-password.png
-.. |Opción OK para Recuperar Contraseña| image:: resources/ok-option-to-recover-password.png
-.. |Correo Recibido de ADempiere| image:: resources/mail-received-from-adempiere.png
-.. |Pestaña Cargada Automáticamente| image:: resources/automatically-loaded-tab.png
-.. |Campo Nueva Contraseña| image:: resources/new-password-field.png
-.. |Campo Repita la Nueva Contraseña| image:: resources/field-repeat-new-password.png
-.. |Opción Ok para Guardar la Contraseña| image:: resources/ok-option-to-save-password.png
-
-.. _documento/inicio-de-sesión-en-adempiere:
+.. |Login1| image:: resources/login1.png
+.. |Login2| image:: resources/login2.png
+.. |Barra| image:: resources/barra.png
 
 **Inicio de Sesión**
 ====================
@@ -40,9 +21,7 @@ Para acceder o iniciar sesión en Solop ERP, el usuario requiere lo siguiente:
 
 Al ingresar a la url del servicio de Solop ERP facilitada por un consultor de Solop, podrá visualizar la ventana "**Login**" o "**Iniciar Sesión**", la cual cuenta con los campos necesarios para iniciar sesión en el idioma que el usuario lo requiera.
 
-    |Ventana Login o Iniciar Sesión en ADempiere con Credenciales de Acceso|
-
-    Imagen 1. Ventana Login o Iniciar Sesión en Solop ERP
+|Login1|
 
 Introduzca en el campo "**Usuario**", el usuario previamente facilitado por el consultor de Solop.
 
