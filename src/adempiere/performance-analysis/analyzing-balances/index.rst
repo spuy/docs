@@ -37,3 +37,7 @@ utilizadas por ADempiere.
     :maxdepth: 2
 
     analyzing-balances
+    checks-in-transit/index
+    default-product-costs/index
+    selected-ap-invoices-for-payment/index
+    unallocated-payments/index
