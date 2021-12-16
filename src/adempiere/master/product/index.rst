@@ -13,4 +13,5 @@ El presente material elaborado por `ERPyA`_, pretende ofrecerle una explicación
     :maxdepth: 2
 
     product
+    non-stockable-product/index
 

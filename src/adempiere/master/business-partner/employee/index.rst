@@ -1,4 +1,4 @@
-.. _master/business-partner/employee:
+.. _src/adempiere/master/business-partner/employee:
 
 ============
 **Empleado**

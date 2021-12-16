@@ -1,4 +1,4 @@
-.. _master/business-partner/vendor:
+.. _src/adempiere/master/business-partner/vendor:
 
 =============
 **Proveedor**

@@ -1,4 +1,4 @@
-.. _src/lve/procedures/farmer-assistance-management:
+.. _src/adempiere/farmer-assistance-management:
  
 =======================================
 **Gestión de Asistencia al Agricultor**

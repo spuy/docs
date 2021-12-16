@@ -24,10 +24,13 @@ reportes auxiliares (documentos) vinculados a cada una de estas cuentas.
 
 Las Cuentas Contables de Tránsito son:
 
-Cheques en Tránsito Cheques Depósito no Asignados Pagos Seleccionados
-Ajustes a Costos de Productos Depósitos sin Facturar Entregas sin
-Facturar (Ingresos no Facturados) Recepciones sin Facturar (Depósitos no
-Facturados)
+1.  Cheques en Tránsito 
+2.  Cheques Depósito no Asignados 
+3.  Pagos Seleccionados
+4.  Ajustes a Costos de Productos 
+5.  Depósitos sin Facturar 
+6.  Entregas sin Facturar (Ingresos no Facturados) 
+7.  Recepciones sin Facturar (Depósitos no Facturados)
 
 Aquí podrá encontrar algunos consejos que le ayudarán a controlar y
 encontrar discrepancias en algunas Cuentas Contables transitorias
@@ -36,7 +39,6 @@ utilizadas por ADempiere.
 .. toctree::
     :maxdepth: 2
 
-    analyzing-balances
     checks-in-transit/index
     default-product-costs/index
     selected-ap-invoices-for-payment/index

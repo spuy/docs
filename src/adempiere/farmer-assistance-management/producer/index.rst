@@ -1,5 +1,4 @@
-.. _ERPyA: http://erpya.com
-.. _src/lve/procedures/producer-financing-management/producer:
+.. _src/adempiere/farmer-assistance-management/producer:
 
 =============
 **Productor**

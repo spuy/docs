@@ -1,4 +1,4 @@
-.. _src/adempiere/vertical/loan-management:
+.. _src/adempiere/loan-management:
 
 ======================================
 **Gestión de Préstamos e Inversiones**

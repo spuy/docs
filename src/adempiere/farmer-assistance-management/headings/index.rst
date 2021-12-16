@@ -1,5 +1,4 @@
-.. _ERPyA: http://erpya.com
-.. _src/lve/procedures/producer-financing-management/headings:
+.. _src/adempiere/farmer-assistance-management/headings:
 
 =========
 **Rubro**
