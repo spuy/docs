@@ -1,6 +1,15 @@
-.. |Login1| image:: resources/login1.png
-.. |Login2| image:: resources/login2.png
-.. |Barra| image:: resources/barra.png
+.. |Iniciar Sesión| image:: resources/1.png
+.. |Usuario| image:: resources/2usuario.png
+.. |Campo Contraseña del Usuario| image:: resources/3campo-contraseña-usuario.png
+.. |Lenguaje| image:: resources/4lenguaje.png
+.. |Recordar mis Datos| image:: resources/5recordar-mis-datos.png
+.. |Botón OK| image:: resources/6boton-ok.png
+.. |Login| image:: resources/7login.png
+.. |Rol del Usuario| image:: resources/8rol-del-usuario.png
+.. |Compañia| image:: resources/9compañia.png
+.. |Organización| image:: resources/10organizacion.png
+.. |Almacén| image:: resources/11almacen.png
+.. |Botón Acceder| image:: resources/12boton-acceder.png
 
 **Inicio de Sesión**
 ====================
@@ -21,70 +30,48 @@ Para acceder o iniciar sesión en Solop ERP, el usuario requiere lo siguiente:
 
 Al ingresar a la url del servicio de Solop ERP facilitada por un consultor de Solop, podrá visualizar la ventana "**Login**" o "**Iniciar Sesión**", la cual cuenta con los campos necesarios para iniciar sesión en el idioma que el usuario lo requiera.
 
-|Login1|
+|Iniciar Sesión|
 
 Introduzca en el campo "**Usuario**", el usuario previamente facilitado por el consultor de Solop.
 
-    |Campo Usuario|
-
-    Imagen 2. Usuario
+|Usuario|
 
 Introduzca en el campo "**Contraseña**", la contraseña del usuario previamente facilitada por el consultor de Solop.
 
-    |Campo Contraseña del Usuario|
-
-    Imagen 3. Campo Contraseña del Usuario
+|Campo Contraseña del Usuario|
 
 Seleccione en el campo "**Lenguaje**", el idioma con el cual requiere ingresar al servicio de Solop ERP.
 
-    |Campo Lenguaje para Acceso|
-
-    Imagen 4. Campo Lenguaje para Acceso
+|Lenguaje|
 
 De igual manera, la ventana cuenta con el checklist "**Recordar mis datos**", que al tildar el mismo serán recordadas las credenciales de acceso del usuario.
 
-    |Checklist Recuérdame|
-
-    Imagen 5. Checklist Recordar mis datos
+|Recordar mis Datos|
 
 Seleccione la opción "**OK**", para cargar las credenciales de acceso y proceder a detallar el rol, la organización, compañía y almacén para ingresar a Solop ERP.
 
-    |Opción OK para Iniciar Sesión|
-
-    Imagen 6. Opción OK para Cargar las Credenciales
+|Botón OK|
 
 Podrá visualizar la ventana "**Login**" o "**Iniciar Sesión**", con los campos competentes al rol del usuario.
 
-    |Ventana Login o Iniciar Sesión en ADempiere con Rol del Usuario|
-
-    Imagen 7. Ventana Login o Iniciar Sesión en Solop ERP con Rol del Usuario
+|Login|
 
 Seleccione en el campo "**Rol**", el rol que cumple el usuario dentro de la organización.
 
-    |Campo Rol del Usuario|
-
-    Imagen 8. Campo Rol del Usuario
+|Rol del Usuario|
 
 Seleccione en el campo "**Compañía**", la compañía para la cual trabaja el usuario.
 
-    |Campo Compañía|
-
-    Imagen 9. Campo Compañía
+|Compañía|
 
 Seleccione en el campo "**Organización**", la organización para la cual trabaja el usuario.
 
-    |Campo Organización|
-
-    Imagen 10. Campo Organización
+|Organización|
 
 Seleccione en el campo "**Almacén**", el almacén para el requiere acceder el usuario. 
 
-    |Campo Almacén|
-
-    Imagen 11. Campo Almacén
+|Almacén|
 
 Por último, para iniciar sesión en el servicio de Solop ERP, debe seleccionar la opción "**OK**".
 
-    |Opción OK|
-
-    Imagen 12. Opción OK para acceder a Solop ERP
+|Botón Acceder|

@@ -1,4 +1,4 @@
-.. _src/lve/procedures/farmer-assistance-management/financing-management:
+.. _src/adempiere/farmer-assistance-management/financing-management:
  
 =============================
 **Gestión de Financiamiento**

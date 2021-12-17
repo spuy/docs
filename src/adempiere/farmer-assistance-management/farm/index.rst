@@ -1,5 +1,4 @@
-.. _ERPyA: http://erpya.com
-.. _src/lve/procedures/producer-financing-management/farm:
+.. _src/adempiere/farmer-assistance-management/farm:
 
 =========
 **Finca**

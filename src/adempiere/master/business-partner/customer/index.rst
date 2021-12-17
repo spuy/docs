@@ -1,5 +1,5 @@
 .. _ERPyA: http://erpya.com
-.. _master/business-partner/customer:
+.. _src/adempiere/master/business-partner/customer:
 
 ===========
 **Cliente**

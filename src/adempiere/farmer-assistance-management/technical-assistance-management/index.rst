@@ -1,4 +1,4 @@
-.. _src/lve/procedures/farmer-assistance-management/technical-assistance-management:
+.. _src/adempiere/farmer-assistance-management/technical-assistance-management:
  
 =================================
 **Gestión de Asistencia Técnica**

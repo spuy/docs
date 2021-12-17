@@ -15,3 +15,7 @@ El presente material se encuentra dirigido a cada uno de los usuarios de ADempie
     toolbar
     quick-access
     props
+    advanced-search/index
+    document-status/index
+    system-login/index
+    window-characteristics/index

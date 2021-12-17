@@ -13,3 +13,4 @@
     agency-service-contract-parts/index
     customer-brand/index
     purchase-order-required-to-invoice/index
+    agency-service-contract
