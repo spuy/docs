@@ -164,3 +164,22 @@ bajándolo de stock.
 |Proceso Crear Checking|
 
 |Gif Crear Checking|
+
+Conversión de Productos en Inventario
+
+Los productos que existan en inventario podrán ser canjeados por otros
+productos desde la ventana de “Inventario Uso Interno” (podrá definirse
+el nombre que deseen). En esta ventana se podrá realizar una Conversión
+entre un Producto que está actualmente en inventario por otro nuevo,
+disminuyendo el inventario de uno y aumentando el otro. Esta Conversión
+se realizará sin ningún tipo de control, siendo responsabilidad del
+usuario controlar que dicha conversión sea según lo acordado con el
+Proveedor.
+
+Contablemente el sistema actualmente Descuenta el importe en cuestión
+por el producto que se va, pero no está haciendo la entrada del producto
+que se recibe. Confirmar si se desea:
+
+Se quiere que contabilice correctamente dando la entrada contablemente
+del nuevo producto. No se desea realizar ningún asiento contable por
+esta transacción.
