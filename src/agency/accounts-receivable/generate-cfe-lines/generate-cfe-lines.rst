@@ -1,3 +1,6 @@
+.. |Criterio de Facturación DxC| image:: resource/dxc.png
+.. |Criterio de Facturación SDN| image:: resource/sdn.png
+
 **Generar Líneas de CFE**
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -17,9 +20,11 @@ tendría sentido realizar modificaciones sobre sus respectivas líneas.
 **Observación:** No aplica para Resguardos
 
 En el cabezal del Documento por Cobrar en la sección Facturación hay un
-campo llamado **“Agrupación de Línea CFE”**, este campo indica dentro de
+campo llamado **“Criterio de Facturación”**, este campo indica dentro de
 este documento cómo deben agruparse sus respectivas líneas (en orden
 jerárquico).
+
+|Criterio de Facturación DxC|
 
 -  Factura: Realizará solo una línea agrupando todas las líneas de este
    documento: Descripción de línea queda vacío, deberá completarse
@@ -49,4 +54,6 @@ fase de proyecto, en caso contrario quedará vacío**
 
 En cada Socio del Negocio se podrá pre configurar el criterio de
 facturación que se desee. Esto se debe definir en la pestaña Cliente de
-la ventana Socio del Negocio en el campo Regla de facturación.
+la ventana Socio del Negocio en el campo Criterio de Facturación.
+
+|Criterio de Facturación SDN|
