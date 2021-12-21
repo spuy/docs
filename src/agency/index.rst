@@ -13,8 +13,5 @@
     accounts-receivable/index
     agency-project/index
     agency-service-contract/index
-    commission-calculation-update/index
-    creative-agency/index
-    media-agency/index
-    production-agency/index
+    fees-commission-calculation-update/index
     returns/index

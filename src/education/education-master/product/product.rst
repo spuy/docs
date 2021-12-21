@@ -40,14 +40,19 @@ producto tenga definida en la ventana Lista de Precios.
 **Ventana Lista de Precios**
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Existen Listas de Precios de Venta y de Compra.
+Existen Listas de Precios de Venta y de Compra y a cada Socio del Negocio se le debe definir una.
+
+A los Estudiantes, como son considerados Clientes se le debe definir en el cabezal del Socio de Negocio la Lista de Precios “Venta Pesos”.
 
 |Ventana Lista de Precios|
 
 **Versiones de Listas de Precios**
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-A su vez existen Versiones de una Lista de Precios, por ejemplo: Lista
-Venta 2020.
+**A su vez existen versiones de una Lista de Precios, por ejemplo:**
+
+-  **Lista de Precios Venta Pesos**
+
+   -  **Versión de Lista de Precios Venta Pesos: Lista Venta 2020**
 
 |Pestaña Versión Ventana Lista de Precios|

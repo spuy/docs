@@ -1,4 +1,4 @@
-.. _src/agency/commission-calculation-update:
+.. _src/agency/fees-commission-calculation-update:
 
 ========================================
 **Actualización de Cálculo de Comisión**
@@ -9,4 +9,4 @@
 .. toctree::
     :maxdepth: 2
 
-    commission-calculation-update
+    fees-commission-calculation-update
