@@ -3,13 +3,28 @@
 .. |Campo Detalle en Factura| image:: resource/detail-in-invoice.png
 .. |Generar Factura desde Línea de Orden Sb| image:: resource/generate-invoice-from-sales-order-process.png
 .. |Proceso Generar Lineas de Factura para CFE| image:: resource/process-generate-invoice-lines-for-cfe.png
+.. |Opciones de Facturación| image:: resource/opciones-de-facturacion.png
+.. |Error Varios Terminos de Pago| image:: resource/error-varios-terminos-de-pago.png
+.. |Ordenes de Venta Grilla| image:: resource/ov-grilla.png
 
 Generar Factura desde Orden de Venta
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Las órdenes de venta generadas en el sistema pueden ser facturadas de
-manera ágil y masiva utilizando el proceso "Generar Factura desde Línea
-de Orden". En este proceso se podrá aplicar el filtro que desee para
-encontrar aquellas líneas de ordenes que cumplan con dichas condiciones.
+manera ágil y masiva utilizando el proceso **"Generar Factura desde
+Línea de Orden".**
+
+**Precondiciones**
+^^^^^^^^^^^^^^^^^^
+
+Para poder facturar una Orden de Venta, esta tiene que estar
+
+-  Estado: Completo
+-  Con el check “Permite Facturar” = SI
+-  Regla de Facturación: Inmediata
+
+En este proceso se podrá aplicar el filtro que desee para encontrar
+aquellas líneas de ordenes que cumplan con dichas condiciones.
 
 Dentro de los filtros a definir podemos encontrar:
 
@@ -19,38 +34,40 @@ Dentro de los filtros a definir podemos encontrar:
 -------------------
 
 Y comenzaremos la búsqueda, a continuación obtendremos las líneas de
-Orden de Venta que cumplan con la condición. Procederemos a marcar el
-check que esté como primer columna para todas las líneas que se deseen
-facturar.
+Orden de Venta que cumplan con la condición.
 
-En la parte inferior de esta ventana veremos distintas opciones utilizadas 
-al momento de generar la factura.
+Procederemos a marcar el check que esté como primer columna para todas
+las líneas que se deseen facturar.
 
-Una vez seleccionadas todas las líneas que se desean Facturar, el
-sistema permite definir diferentes criterios para la inclusión de dichas
-líneas en la o las facturas. Para generar la Factura se deberá definir
-una **FECHA** así como también el **Criterio de Agrupación** que se
-desea aplicar.
+En la parte inferior de esta ventana veremos distintas opciones
+utilizadas al momento de generar la factura:
 
-**Acción en el Documento:** Si desea ver la Factura antes de completarla
-puede seleccionar la opción "Preparar" de manera de que se genere el
-documento primero en estado "En Proceso" y así poder verificar que todo
-esté correctamente definido. En este caso al generar el proceso se
-creará la factura con un Nro de Borrador "DR-2222" y podrá acceder a la
-misma tanto desde el proyecto u Orden desde donde se generó, cómo
-también buscando en la ventana "Documentos por Cobrar" según el Nro de
-borrador presentado abajo a la izquieda del Proceso. Si uno está seguro
-de la información que estará facturando también puede seleccionar la
-acción "Completar" de manera de que se completen automáticamente las
-facturas al correr el proceso.
+**Fecha de Facturación:** (Obligatorio) Fecha de facturación del
+Documento por Cobrar generado.
 
-**Tipo de Documento:** El sistema controlará si el Socio del Negocio a
-quien se está facturando tiene definido un RUT o una Cédula y le
-generará una e-Factura o un e-ticket según corresponda.
+**Acción en el Documento:**
 
-Según el **Criterio de Agrupación** definido es la forma en que el
-sistema agrupará las líneas de órdenes en una Factura, estas puede ser
-por:
+-  **Preparar:** Si desea ver la Factura antes de completarla puede
+   seleccionar la opción "Preparar" de manera de que se genere el
+   documento primero en estado "En Proceso" y así poder verificar que
+   todo esté correctamente definido. En este caso al generar el proceso
+   se creará la factura con un Nro de Borrador "DR-2222" y podrá acceder
+   a la misma tanto desde el proyecto u Orden desde donde se generó,
+   cómo también buscando en la ventana "Documentos por Cobrar" según el
+   Nro de borrador presentado abajo a la izquieda del Proceso.
+-  **Completar:** Si uno está seguro de la información que estará
+   facturando también puede seleccionar la acción "Completar" de manera
+   de que se completen automáticamente las facturas al correr el
+   proceso.
+
+**Organización de la Transacción:** Es la organización con la que se
+está logeado, necesario cuando el documento pasa a estado completo,
+debido a que no se pueden realizar envíos a DGI de un documento con una
+organización que no es con la que se está logueado.
+
+**Criterio de Agrupación:** Según el Criterio de Agrupación definido es
+la forma en que el sistema agrupará las líneas de órdenes en una
+Factura, estas puede ser por:
 
 -  **Socio del Negocio:** Generará una Factura con todas las líneas de
    Orden de por cada Socio del Negocio diferente.
@@ -63,18 +80,36 @@ por:
    líneas tengan Proyecto relacionado y a la vez otras que se tenga que
    obtener de su respectivo Cabezal), Siguiendo este criterio se
    generará un Documentos por Cobrar por proyecto diferente.
--  **Orden:** La agrupación que agrupa menos registros, se generará 
-   cada factura agrupando líneas de Orden por su respectivo
-   cabezal.
--  **Impuesto:** Agrupará por Impuesto definido en cada Línea
-   de Orden seleccionada. Se generará una factura por tipo de impuesto
-   encontrado. El criterio de agrupación no es por % 
-   (Ej: 22%, 10% o 0%), sino por diferente Tipo de Impuesto.
--  **Orden de Compra Cliente:** Si se selecciona este Criterio de 
-   Facturación se generará una Factura por cada Número de la Orden de 
-   Compra Cliente que se encuentre en todas las líneas seleccionadas. 
-   Este criterio de agrupación incluye además la clasificación según 
+-  **Orden:** La agrupación que agrupa menos registros, se generará cada
+   factura agrupando líneas de Orden por su respectivo cabezal.
+-  **Impuesto:** Agrupará por Impuesto definido en cada Línea de Orden
+   seleccionada. Se generará una factura por tipo de impuesto
+   encontrado. El criterio de agrupación no es por % (Ej: 22%, 10% o
+   0%), sino por diferente Tipo de Impuesto.
+-  **Orden de Compra Cliente:** Si se selecciona este Criterio de
+   Facturación se generará una Factura por cada Número de la Orden de
+   Compra Cliente que se encuentre en todas las líneas seleccionadas.
+   Este criterio de agrupación incluye además la clasificación según
    diferentes clientes.
+
+**¿Por qué motivo puede no referenciarse un Proyecto en una factura?**
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+El Proyecto se referenciará en la factura siempre que el criterio de
+agrupación que se haya elegido para agrupar las lineas de Orden al
+correr el proceso Generar factura desde línea de Orden haya sido
+“Proyecto”.
+
+Por ejemplo se puede tener N proyectos por Contrato pero solo Un
+Contrato por cada proyecto. Por lo que si se agrupa por Contrato, como
+las lineas de orden pueden ser de varios proyectos, al generar la
+factura no establece el campo de Proyecto en el cabezal.
+
+|Opciones de Facturación|
+
+Respecto al Tipo de documento, el sistema controlará si el Socio del
+Negocio a quien se está facturando tiene definido un RUT o una Cédula y
+le generará una e-Factura o un e-ticket según corresponda.
 
 **Criterios Implícitos**
 
@@ -123,6 +158,9 @@ que son Honorarios.
 **Proceso automático**
 ^^^^^^^^^^^^^^^^^^^^^^
 
+**Proceso automático**
+^^^^^^^^^^^^^^^^^^^^^^
+
 El Criterio que se definirá en cada factura será el que cada cliente
 tenga definido en su ficha, pudiendo ser por Línea (normal), por
 Proyecto, por Fase de Proyecto o por Factura. .
@@ -165,3 +203,48 @@ Luego procederemos a correr el proceso "Generar líneas de factura para
 CFE", seleccionando la opción desde los Procesos asociados a la Factura.
 
 |Proceso Generar Lineas de Factura para CFE|
+
+**Posibles Errores Controlados**
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+**Varios Términos de Pago en las Órdenes de Venta seleccionadas**
+
+Cuando se están facturando en una misma factura varias Órdenes de Venta
+que tienen diferentes Términos de Pago no permitirá generar una única
+factura y figurará el siguiente mensaje de Error:
+
+|Error Varios Terminos de Pago|
+
+Esto se debe a que no puede determinar que término de pago se desea
+definir en la Factura a Generar.
+
+**Solución: Para solucionarlo lo ideal sería abrir en la ventana de
+“Órdenes de Venta” todas las Ordenes de venta que se están intentando
+facturar Varios Términos de Pago en las Órdenes de Venta
+seleccionadas.**
+
+| **Ver las mismas en formato “Grilla” para identificar qué Orden de
+  Venta tiene un Término de Pago diferente.**
+| **Para modificarlo deberá Rectivar la Orden, modificar el Término de
+  Pago y luego completarla nuevamente.**
+
+|Ordenes de Venta Grilla|
+
+**Varios Agentes Comerciales definidos en las Órdenes de Venta**
+
+En principio el proceso definirá el Agente Comercial en la Factura según
+el Agente que esté definido en la Orden de Venta en cuestión.
+
+En caso de que existan diferentes Agentes Comerciales definidos en las
+Órdenes de Venta el proceso tomará el Agente Comercial definido en el
+Socio del Negocio.
+
+Si no tiene ninguno definido en el Socio del Negocio tomará el Agente
+Comercial definido en las Ordenes de Venta. Si estos son diferentes dará
+un error.
+
+
+
+
+
+

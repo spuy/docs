@@ -45,3 +45,8 @@ del proceso podrá ver que está editable la Fecha del Documento que desea
 generar.
 
 |Generar OV desde Cuota de Contrato|
+
+IMPORTANTE: Para poder generar las Órdenes de Venta FEE desde el proceso
+“Generar OV desde Cuota de Contrato” es obligatorio que el Cliente tenga
+creado un Proyecto en el cuál tenga definido el check de “Es por defecto
+para FEE”.
