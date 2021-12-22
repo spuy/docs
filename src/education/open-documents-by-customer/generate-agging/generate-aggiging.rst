@@ -1,7 +1,11 @@
 .. |Boton Crear Calculo de Morosidad| image:: resource/button-create-delinquency-calculation.png
 .. |Proceso Crear Calculo de Morosidad| image:: resource/create-delinquency-calculation.png
-.. |Ventana Calculo de Morosidad| image:: resource/delinquency-calculation-window.png
-.. |Pestaña Entrada| image:: resource/entry-tab-calculation-of-delinquency.png
+.. |Ventana Calculo de Morosidad| image:: resource/calculo-morosidad1.png
+.. |Pestaña Entrada| image:: resource/calculomorosidad2.png
+
+Una vez se cuenta con toda la facturación ya generada se puede proceder
+con la creación de los Estados de Cuenta de cada uno de los Responsables
+de Pago.
 
 Cálculo de Morosidad
 ~~~~~~~~~~~~~~~~~~~~
@@ -37,3 +41,7 @@ Luego de correr el proceso podrá ir a las Entradas para ver todos los
 registros encontrados.
 
 |Pestaña Entrada|
+
+Dentro de cada Registro en la pestaña “Entrada” se podrá obtener el
+Reporte de “Estado de Cuenta” oprimiendo desde los procesos de la Barra
+de Herramientas.

@@ -12,3 +12,4 @@
     generate-agging/index
     open-documents-massive-sender/index
     open-items-report/index
+    emails-binnacle/index

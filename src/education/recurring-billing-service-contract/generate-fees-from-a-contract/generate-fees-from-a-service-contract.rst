@@ -3,25 +3,30 @@
 .. |Gif Proceso| image:: resource/gif-proceso.gif
 .. |Proceso Masivo| image:: resource/proceso-masivo.png
 
+**Generación de Cuotas desde el Contrato de Servicio**
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
 A partir de los Contratos de Servicios y de la definición de sus Líneas
 se puede generar las Cuotas correspondientes según los Servicios
-Recurrentes definidos. De esta manera se podrán generar las Cuotas a
-Facturar según la recurrencia definidas en los Contratos.
+Recurrentes definidos.
+
+De esta manera se podrán generar las Cuotas a Facturar según la
+recurrencia definidas en los Contratos.
 
 Las “Cuotas de Contratos” generadas quedarán vinculadas al Contrato de
-Servicio en Estado “Completo” y se podrá visualizar las mismas desde la
+Servicio en Estado “Completo”. Se podrá visualizar las mismas desde la
 pestaña “Cuotas del Contrato”
 
-Este proceso se puede realizar para un contrato o para todos los
-contratos. Podrá encontrar el Proceso tanto desde el Contrato de
-Servicio como también desde el Menú.
+Este proceso se puede realizar para un contrato o de forma masiva para
+todos los contratos. Podrá encontrar el Proceso tanto desde el Contrato
+de Servicio como también desde el Menú.
 
-Proceso para un Contrato en específico
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+**Proceso para un Contrato en específico**
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
--  **Para correr este proceso para un contrato en específico lo haremos
-   desde el cabezal del contrato, seleccionando el ícono de la tuerca y
-   luego "Generar cuotas desde Contrato de Servicio".**
+-  Podrá correr el Proceso desde el cabezal de un Contrato de Servicio
+   seleccionando el ícono de la tuerca y luego la opción "Generar Cuotas
+   desde Contrato de Servicio".
 
 |Proceso Barra Herramientas|
 
@@ -29,13 +34,13 @@ Luego en el campo Contrato deberemos seleccionar el Contrato en
 cuestión, (por defecto el sistema indica en este campo el Contrato en el
 que me encuentro).
 
+|Generar Cuotas desde Contrato de Servicio|
+
 **Check "Línea Descuento Aparte":**
 
 Si se marca el check "Línea Descuento Aparte", el sistema creará en la
 pestaña Cuotas una línea por cada Cuota y debajo de cada una generará
 otra por su correspondiente descuento (en caso de tenerlo).
-
-|Generar Cuotas desde Contrato de Servicio|
 
 **NOTA:** Las “Cuotas de Contratos” generadas quedarán vinculadas al
 Contrato de Servicio en Estado “Completo”. Se podrá visualizar las
@@ -45,15 +50,17 @@ Ejemplo del proceso:
 
 |Gif Proceso|
 
-Proceso para varios Contratos a la vez
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+**Proceso para varios Contratos a la vez**
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
--  **Si deseamos generar cuotas para varios contratos a la vez
-   correremos el proceso de forma masiva desde el menú dejando el campo
-   "Contrato" vacío y seleccionando o no (a elección) el check "Línea
-   Descuento Aparte".**
+-  También se podrá correr este proceso de forma masiva desde el Menú,
+   desde el proceso “Generar Cuotas a Facturar desde Contrato”. En este
+   caso podrá no seleccionar ningún Contrato de Servicios en especial
+   generando así Cuotas para Todos los Contratos.
 
 |Proceso Masivo|
+
+En el caso que se haya utilizado la opción de "Linea Descuento Aparte" al crear el contrato, deberá marcarse este check para correr el proceso.
 
 **¿Cómo corregir o anular una Cuota de Contrato?**
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
