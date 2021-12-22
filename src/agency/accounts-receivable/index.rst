@@ -21,6 +21,7 @@ Ordenes de Venta Honorarios que se generen.
     :maxdepth: 2
 
     ar-credit-memo/index
+    billing-by-project-and-by-phase/index
     generate-cfe-lines/index
     generate-invoice-from-sales-order/index
     generate-invoice-with-currency-diferent-than-cost/index

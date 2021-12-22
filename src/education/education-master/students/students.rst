@@ -16,8 +16,11 @@ negocios. Hay tres tipos diferentes de Socios del Negocio:
 -  Empleados
 
 En la vertical de Educación tanto el Estudiante como su Responsable de
-Pago son considerados Socios del Negocio. El Estudiante se recomienda
-definirlo en el campo Grupo de Socio del Negocio: “Estudiantes” así como
+Pago son considerados Socios del Negocio.
+
+Grupo de Socio del Negocio (Campo)
+
+Al Estudiante se recomienda definirlo en el campo Grupo de Socio del Negocio: “Estudiantes” así como
 en los Familiares definir el Grupo de Socio del Negocio “Familiares”.
 
 **NOTA: En el caso de los familiares Responsables de pago que realicen
