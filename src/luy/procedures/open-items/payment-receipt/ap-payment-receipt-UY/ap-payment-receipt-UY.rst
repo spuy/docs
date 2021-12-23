@@ -1,6 +1,7 @@
 .. |Cabezal| image:: resource/cabezal.png
 .. |Cargo| image:: resource/cargo.png
 .. |Sb Asignar Factura| image:: resource/smartbrowser-asignar-factura.png
+.. |Ajuste| image:: resource/ajuste.png
 
 Recibo de Pago
 ==============
@@ -112,3 +113,17 @@ aplicar la diferencia.
 
 Importe del Cargo: Diferencia existente entre los Medios de Pago
 seleccionados y los Documentos Asignados.
+
+|Ajuste|
+
+**Recibo de Canje**
+~~~~~~~~~~~~~~~~~~~
+
+Acción igual a la explicada para Recibos de Cobro.
+
+**Nro de Documento de Pago:** En este campo se podrá definir el Nro de
+Recibo de Pago recibido por el Socio del Negocio. En caso de dejar el
+campo en blanco se definirá un nro por defecto. Luego se podrá definir
+el Nro de Recibo real en el Campo Descripción del Recibo de Pago.
+
+Una vez terminado todos los pasos se deberá completar el documento.
