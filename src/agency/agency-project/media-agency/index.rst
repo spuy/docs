@@ -14,3 +14,4 @@
     media-project-purchase-and-consumption/index
     puchase-package-amount/index
     purchase-inventory/index
+    common-errors/index

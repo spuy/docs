@@ -1,4 +1,4 @@
-.. |Filtro Avanzado| image:: resources/filtro-avanzado.png
+.. |Filtro Avanzado| image:: resources/avanzado.png
 .. |Gif Borrar Filtro| image:: resources/gif-borrar-filtro.gif
 .. |Gif Filtro Avanzado| image:: resources/gif-filtro-avanzado.gif
 .. |Gif Guardar Búsqueda Avanzada| image:: resources/gif-guardar-busqueda-avanzada.gif
