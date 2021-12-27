@@ -26,3 +26,4 @@ Ordenes de Venta Honorarios que se generen.
     generate-invoice-from-sales-order/index
     generate-invoice-with-currency-diferent-than-cost/index
     generate-recurring-sales-order-from-service-contract/index
+    sale-order-in-installments/index

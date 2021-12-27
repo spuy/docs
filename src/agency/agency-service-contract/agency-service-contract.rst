@@ -42,3 +42,14 @@ Aquí deberán definirse los siguientes datos:
 -  **Agente comercial:** Encargado del contrato
 
 |Fechas Cabezal|
+
+**Check "OC Necesaria para Facturar"**
+
+Según el Contrato con el cliente se puede definir si es obligatorio o no
+que el Nro. de la Orden de Compra del Cliente esté definido en las
+Factura al cliente o no.
+
+Para que este check pueda ser marcado, para aquellos Socios de Negocio
+que su contrato tiene definido “OC Necesaria para Facturar” se deberá
+completar el campo “OC Cliente” con el número de la Orden de Compra del
+Cliente y luego Marcar el “Permite Facturar” = SI
