@@ -1,7 +1,7 @@
 .. |Anulado| image:: resources/anulado.png
 .. |Borrador| image:: resources/borrador.png
 .. |Completo| image:: resources/completo.png
-.. |Estados de Documentos| image:: resources/estados-de-documentos.png
+.. |Estados de Documentos| image:: resources/estados-de-documentos.jpg
 .. |Reversado| image:: resources/reversado.png
 
 Estados del Documento

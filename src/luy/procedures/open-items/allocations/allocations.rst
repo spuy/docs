@@ -7,8 +7,8 @@
 .. |Asignacion Nota de Credito 1| image:: resource/asignacion-nota-credito-1.png
 .. |Asignacion Nota de Credito 2| image:: resource/asignacion-nota-credito-2.png
 .. |Asignacion Nota de Credito 3| image:: resource/asignacion-nota-credito-3.png
-.. |Asignacion por Anulacion| image:: resource/asignacion-por-anulacion.png
-.. |Asignacion por Documento Diferido| image:: resource/asignacion-por-documento-diferido.png
+.. |Asignacion por Anulacion| image:: resource/asignacion-por-anulacion.gif
+.. |Asignacion por Documento Diferido| image:: resource/asignacion-por-documento-diferido.gif
 
 Es un documento que vincula dos o más elementos, de forma que se pueda
 tener una trazabilidad perfecta a causa de esta vinculación.

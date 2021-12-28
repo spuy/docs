@@ -1,4 +1,4 @@
-.. |DxC Criterio Facturación Fase| image:: resource/criterio facturacion-fase-dxc.png
+.. |DxC Criterio Facturación Fase| image:: resource/criterio-facturacion-fase-dxc.png
 .. |SDN Criterio Facturación| image:: resource/criterio-de-facturacion-sdn.png
 .. |Descripción| image:: resource/descripcion.png
 .. |Documento por Cobrar Criterio Facturación Linea| image:: resource/docxcobrar.png
