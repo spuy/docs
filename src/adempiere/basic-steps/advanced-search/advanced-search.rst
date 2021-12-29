@@ -1,9 +1,9 @@
-.. |Filtro Avanzado| image:: resources/avanzado.png
+.. |Filtro Avanzado| image:: resources/filtro-avanzado.png
 .. |Gif Borrar Filtro| image:: resources/gif-borrar-filtro.gif
 .. |Gif Filtro Avanzado| image:: resources/gif-filtro-avanzado.gif
 .. |Gif Guardar Búsqueda Avanzada| image:: resources/gif-guardar-busqueda-avanzada.gif
 .. |Gif Modificar Filtro| image:: resources/gif-modificar-filtro.gif
-.. |Seleccionar Búsqueda Guardada| image:: resources/seleccionar-busqueda-guardada.png
+.. |Seleccionar Búsqueda Guardada| image:: resources/seleccion-de-busqueda-guardada.png
 
 Filtro Avanzado de Búsqueda
 ===========================

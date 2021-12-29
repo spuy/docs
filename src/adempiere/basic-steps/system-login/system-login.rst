@@ -1,15 +1,15 @@
-.. |Iniciar Sesión| image:: resources/1.png
-.. |Usuario| image:: resources/2usuario.png
-.. |Campo Contraseña del Usuario| image:: resources/3campo-contraseña-usuario.png
-.. |Lenguaje| image:: resources/4lenguaje.png
-.. |Recordar mis Datos| image:: resources/5recordar-mis-datos.png
-.. |Botón OK| image:: resources/6boton-ok.png
-.. |Login| image:: resources/7login.png
-.. |Rol del Usuario| image:: resources/8rol-del-usuario.png
-.. |Compañia| image:: resources/9compañia.png
-.. |Organización| image:: resources/10organizacion.png
-.. |Almacén| image:: resources/11almacen.png
-.. |Botón Acceder| image:: resources/12boton-acceder.png
+.. |Iniciar Sesión| image:: resources/iniciar-sesion.png
+.. |Usuario| image:: resources/usuario.png
+.. |Campo Contraseña del Usuario| image:: resources/campo-contraseña-usuario.png
+.. |Lenguaje| image:: resources/lenguaje.png
+.. |Recordar mis Datos| image:: resources/recordar-mis-datos.png
+.. |Botón OK| image:: resources/boton-ok.png
+.. |Login| image:: resources/login.png
+.. |Rol del Usuario| image:: resources/rol-del-usuario.png
+.. |Compañia| image:: resources/compañia.png
+.. |Organización| image:: resources/organizacion.png
+.. |Almacén| image:: resources/almacen.png
+.. |Botón Acceder| image:: resources/boton-acceder.png
 
 **Inicio de Sesión**
 ====================
