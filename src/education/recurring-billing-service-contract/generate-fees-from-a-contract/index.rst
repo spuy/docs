@@ -9,4 +9,4 @@
 .. toctree::
     :maxdepth: 2
 
-    generate-fees-from-a-contract
+    generate-fees-from-a-service-contract

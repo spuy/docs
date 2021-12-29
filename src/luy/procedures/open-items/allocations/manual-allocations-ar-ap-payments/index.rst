@@ -9,4 +9,4 @@
 .. toctree::
     :maxdepth: 2
 
-    manual-allocations-ar-ap-payments
+    manual
