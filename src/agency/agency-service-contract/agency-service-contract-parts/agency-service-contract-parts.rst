@@ -1,5 +1,6 @@
 .. |Pestaña Partes del Contrato| image:: resource/pestaña-partes-del-contrato.png
 .. |Sello Origen Cabezal Proyecto| image:: resource/sello-origen-cabezal-proyecto.png
+.. |Tipo de Empresa| image:: resource/tipo-de-empresa.png
 
 Partes de un Contrato de Agencia
 
@@ -15,11 +16,13 @@ Proyecto en cuestión.
 
 Los Tipos de empresa definidas son:
 
--  Agencia de Medios - Proyecto de Medios
--  Agencia Creativa - Proyecto de Agencia
--  Agencia Contratista
--  Agencia RRPP - Proyecto de RRPP
--  Agencia de Medios Digitales - Proyecto de Medios Digitales
+|Tipo de Empresa|
+
+Si no se obtuvo sello de origen se lanza una excepción.
+
+IMPORTANTE: Según el campo “Tipo de empresa”, el sistema obtiene el
+primer sello que encuentre para el primer registro de la pestaña “Partes
+del contrato”.
 
 A continuación un ejemplo de como se deberá definir un registro de
 "Parte del Contrato". En este caso, para los Proyectos de categoría
