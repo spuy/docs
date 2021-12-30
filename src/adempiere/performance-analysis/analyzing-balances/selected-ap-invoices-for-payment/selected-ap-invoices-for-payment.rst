@@ -1,5 +1,5 @@
-.. |Debito Pago| image:: resources/pago-debito.png
-.. |Credito Asignacion| image:: resources/asignacion-haber.png
+.. |Debito Pago| image:: resource/pago-debito.png
+.. |Credito Asignacion| image:: resource/asignacion-haber.png
 
 Pagos Seleccionados (Pasivo)
 ----------------------------

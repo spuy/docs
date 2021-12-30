@@ -44,7 +44,7 @@ Introduzca en el campo "**Nombre**", el nombre de la nómina que se requiere pro
 
     Imagen 4. Campo Nombre
 
-3. Seleccione el tipo de documento a generar en el campo "**Tipo de Documento Destino**", la selección de este define el comportamiento del documento que se está elaborando, dicho comportamiento se encuentra explicado en el documento **Tipo de Documento** elaborado por `Solop`_.
+3. Seleccione el tipo de documento a generar en el campo "**Tipo de Documento Destino**", la selección de este define el comportamiento del documento que se está elaborando, dicho comportamiento se encuentra explicado en el documento **Tipo de Documento** elaborado por `Solop`.
 
     |Campo Tipo de Documento Destino|
 

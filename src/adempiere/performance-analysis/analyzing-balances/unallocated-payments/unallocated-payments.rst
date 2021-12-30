@@ -1,5 +1,5 @@
-.. |Credito Cobro| image:: resources/cobro-credito.png
-.. |Debito Asignacion| image:: resources/asignacion-debito.png
+.. |Credito Cobro| image:: resource/cobro-credito.png
+.. |Debito Asignacion| image:: resource/asignacion-debito.png
 
 Cheques Depósito no Asignados (Activo)  11130
 ---------------------------------------------

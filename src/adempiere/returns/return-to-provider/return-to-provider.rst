@@ -93,7 +93,7 @@ Seleccione el icono "**Registro Nuevo**" en la barra de herramientas de Solop ER
 
         Imagen 7. Campo Organización
 
-    Seleccione el tipo de documento a generar en el campo "**Tipo de Documento Destino**", la selección de este define el comportamiento del documento que se esta elaborando, dicho comportamiento se encuentra explicado en el documento **Tipo de Documento** elaborado por `Solop`_. Para este ejemplo el tipo de documento es "**Autorización Devolución Proveedor Nacional**".
+    Seleccione el tipo de documento a generar en el campo "**Tipo de Documento Destino**", la selección de este define el comportamiento del documento que se esta elaborando, dicho comportamiento se encuentra explicado en el documento **Tipo de Documento** elaborado por `Solop`. Para este ejemplo el tipo de documento es "**Autorización Devolución Proveedor Nacional**".
 
 
         |Campo Tipo de Documento 1|
@@ -204,7 +204,7 @@ Seleccione el icono "**Registro Nuevo**" en la barra de herramientas de Solop ER
 
         Imagen 21. Campo Organización
 
-    Seleccione el tipo de documento a generar en el campo "**Tipo de Documento Destino**", la selección de este define el comportamiento del documento que se esta elaborando, dicho comportamiento se encuentra explicado en el documento **Tipo de Documento** elaborado por `Solop`_. Para este ejemplo el tipo de documento es "**Devolución a Proveedor Nacional**".
+    Seleccione el tipo de documento a generar en el campo "**Tipo de Documento Destino**", la selección de este define el comportamiento del documento que se esta elaborando, dicho comportamiento se encuentra explicado en el documento **Tipo de Documento** elaborado por `Solop`. Para este ejemplo el tipo de documento es "**Devolución a Proveedor Nacional**".
 
         |Campo Tipo de Documento 2|
 

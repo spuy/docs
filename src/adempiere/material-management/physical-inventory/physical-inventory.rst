@@ -65,7 +65,7 @@ Podrá visualizar la ventana "**Inventario Físico**", donde debe seleccionar el
 
         Imagen 7. Campo Fecha de Movimiento
 
-    Seleccione el tipo de documento a generar en el campo "**Tipo de Documento**", la selección de este define el comportamiento del documento que se esta elaborando, dicho comportamiento se encuentra explicado en el documento **Tipo de Documento** elaborado por `Solop`_. 
+    Seleccione el tipo de documento a generar en el campo "**Tipo de Documento**", la selección de este define el comportamiento del documento que se esta elaborando, dicho comportamiento se encuentra explicado en el documento **Tipo de Documento** elaborado por `Solop`. 
 
         |Campo Tipo de Documento|
 

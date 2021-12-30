@@ -241,7 +241,7 @@ Una de las opciones es ubicar los pagos directamente de la ventana "**Pago/Cobro
 
     Ubique y seleccione en el menú de Solop ERP, la carpeta "**Gestión de Saldos Pendientes**", luego seleccione la ventana "**Pago/Cobro**".
 
-        |Menú de Solop ERP 2|
+        |Menú de ADempiere 2|
 
         Imagen 24. Menú de Solop ERP
 

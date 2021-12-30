@@ -33,7 +33,7 @@
 **Registro de Proveedor**
 =========================
 
-Para registrar un proveedor, es necesario que sea realizado el procedimiento regular explicado en el documento :ref:`documento/socio-negocio`, elaborado por `Solop`_.
+Para registrar un proveedor, es necesario que sea realizado el procedimiento regular explicado en el documento :ref:`documento/socio-negocio`, elaborado por `Solop`.
 
 Luego de culminar el procedimieto de registro de socio del negocio, seleccione la pestaña "**Proveedor**" que se encuentra del lado izquierdo de la ventana socio del negocio, para identificar al socio del negocio como proveedor de la empresa.
 
