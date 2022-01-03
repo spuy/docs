@@ -1,5 +1,5 @@
 .. |Ventana Consulta de Asignación| image:: resource/assignment-query-window.png
-.. |Asignación Automatica con Exclusions| image:: resource/automatic-allocation-process-with-excluding.png
+.. |Asignación Automatica con Exclusion| image:: resource/automatic-allocation-process-with-excluding.png
 .. |Check No Recurrente en Factura| image:: resource/check-of-non-recurring-in-invoice.png
 .. |Generar Factura desde Cuota de Contrato| image:: resource/generate-invoice-from-contract-fee-annuities.png
 .. |Generar Factura desde Cuota de Contrato Sb| image:: resource/generate-invoice-from-contract-fee.png
@@ -71,7 +71,7 @@ por lo que indicaremos esta opción en los filtros del proceso.
 En el caso que se desee hacerlo para un Socio de negocio en particular
 este se define también en el filtro Socio del negocio.
 
-|Asignación Automatica con Exclusions|
+|Asignación Automatica con Exclusion|
 
 Al generar la Asignación si navegamos a la factura en cuestión va a
 tener el check Pagado en "Y".
