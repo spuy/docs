@@ -1,5 +1,6 @@
 .. |Check multimoneda| image:: resource/multimoneda1.png
 .. |Gif del Proceso de Asignación| image:: resource/gif-asignacion.gif
+.. |Asignacion de Pagos| image:: resource/asignacion-de-pagos.png
 
 Asignación Manual de Pagos y Cobros
 ===================================
@@ -40,7 +41,7 @@ descripción a la Asignación a generar. Por defecto las asignaciones que
 sean generadas desde este proceso definirán el nombre del usuario que la
 generó en la descripción de la asignación.
 
-.. image:: https://lh3.googleusercontent.com/O8zOWtuZJaY7q_yA0vIlKIzYLxxGorcSe1-ZnyxKLMo1EKwBXyiiGDszLfp1uBUiFCs853naskIskdL9DA5kT4b_AYvSJ7sk6ZU0GiTjBgzjIyazSZsQt4au5qw00ZipRh3BlM9B
+|Asignacion de Pagos|
 
 **Asignación Multi-moneda:** este check deberá ser marcado en Y si se
 desea realizar una Asignación entre dos documentos de diferente moneda.
