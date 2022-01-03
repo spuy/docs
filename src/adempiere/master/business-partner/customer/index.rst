@@ -5,7 +5,7 @@
 **Cliente**
 ===========
 
-Si es usted un usuario en etapa de iniciación le recomendamos leer el capítulo anterior, Socios del Negocio de ADempiere, donde respondimos la interrogante común: **¿Qué es un Socio de Negocio?**, esto con la intención de proveer en este material una información más digerible.
+Si es usted un usuario en etapa de iniciación le recomendamos leer el capítulo anterior, Socios del Negocio de Solop ERP, donde respondimos la interrogante común: **¿Qué es un Socio de Negocio?**, esto con la intención de proveer en este material una información más digerible.
 
 Como resultado de lo anteriormente expuesto, se puede concluir que un socio de negocio que actúa como cliente, es una entidad jurídica o natural que adquiere productos o servicios provenientes de la empresa,estos pueden ser:
 
@@ -13,11 +13,11 @@ Como resultado de lo anteriormente expuesto, se puede concluir que un socio de n
 
     **Clientes Internacionales:** Realizan transacciones que generan ingresos a la empresa(Ventas) fuera del territorio, esto se conoce como exportación.
 
-Esta categorización en ADempiere es conocida como **Grupo de Socio de Negocio** y es la base contable (en su mayoría) para las operaciones emitidas a partir de este registro maestro, no obstante, el usuario tiene la opción de realizar configuraciones excepcionales para ciertos clientes.
+Esta categorización en Solop ERP es conocida como **Grupo de Socio de Negocio** y es la base contable (en su mayoría) para las operaciones emitidas a partir de este registro maestro, no obstante, el usuario tiene la opción de realizar configuraciones excepcionales para ciertos clientes.
 
 Para este caso, usted tendría por categoría diferentes cuentas contables, Cuenta por Cobrar Nacionales y Cuenta por Cobrar Internacionales respectivamente.
 
-Ahora bien, si es usted usuario de ADempiere, seguramente se ha hecho preguntas que le han complicado la operativa de algún modo. Para facilitar su día a día `ERPyA`_ quiere responder algunas preguntas frecuentes con las que nos topamos en nuestra experiencia como consultores e implementadores de ADempiere:
+Ahora bien, si es usted usuario de Solop ERP, seguramente se ha hecho preguntas que le han complicado la operativa de algún modo. Para facilitar su día a día en esta documentación se responderán algunas preguntas frecuentes con las que nos topamos en nuestra experiencia como consultores e implementadores de Solop ERP:
 
 **¿Si un socio de negocio es proveedor o empleado, y ahora funge como cliente, debo crearlo nuevamente?**
 
@@ -29,7 +29,7 @@ Ahora bien, si es usted usuario de ADempiere, seguramente se ha hecho preguntas 
 
 **¿Cómo agrupar por vendedor a mis clientes para emitir un reporte?**
 
-    Para ofrecer una eficiente administración en distribución y seguimiento de clientes y pedidos generados, ADempiere ofrece al usuario dos opciones:
+    Para ofrecer una eficiente administración en distribución y seguimiento de clientes y pedidos generados, Solop ERP ofrece al usuario dos opciones:
 
         **Por Región de Ventas:**  De esta forma se asigna la región de venta a un cliente, a su vez, ésta depende de un asesor de ventas.Esto permite una mayor facilidad en el mantenimiento por ausencia de vendedores, si su cliente posee más de una dirección podría configurar más de un asesor.
 
@@ -53,11 +53,11 @@ Ahora bien, si es usted usuario de ADempiere, seguramente se ha hecho preguntas 
 
         **Lista de Precio:** Define lista de precio y moneda con la que generalmente el cliente cancela sus deudas
 
-    Entre muchos otros campos más que son predeterminados desde el socio de negocio, pasando por la orden de venta y la factura, ellos definen comportamientos en funcionalidades versátiles dentro de ADempiere.
+    Entre muchos otros campos más que son predeterminados desde el socio de negocio, pasando por la orden de venta y la factura, ellos definen comportamientos en funcionalidades versátiles dentro de Solop ERP.
 
 **¿Cómo configuro un descuento para el cliente?**
 
-    ADempiere le permite aplicar un Esquema de Descuentos(previamente configurado) al cliente, en este sentido, el usuario podrá definir reglas específicas aplicando % de descuentos planos o basado en volumen, si desea profundizar más el tema, le invitamos a ver nuestro instructivo de **Esquema de Descuentos**.
+    Solop ERP le permite aplicar un Esquema de Descuentos(previamente configurado) al cliente, en este sentido, el usuario podrá definir reglas específicas aplicando % de descuentos planos o basado en volumen, si desea profundizar más el tema, le invitamos a ver nuestro instructivo de **Esquema de Descuentos**.
 
 **¿Cómo bloqueo el límite de crédito para el cliente?**
 
@@ -65,7 +65,7 @@ Ahora bien, si es usted usuario de ADempiere, seguramente se ha hecho preguntas 
 
 **¿Cómo configuro un cliente exento de impuesto?**
 
-Para concluir el preámbulo, le invitamos a tomar en cuenta cada una de estas acotaciones, de seguro serán de utilidad, y a futuro le garantizará un eficiente manejo de una herramienta tan potente como lo es ADempiere.
+Para concluir el preámbulo, le invitamos a tomar en cuenta cada una de estas acotaciones, de seguro serán de utilidad, y a futuro le garantizará un eficiente manejo de una herramienta tan potente como lo es Solop ERP.
 
 .. toctree::
     :maxdepth: 2
