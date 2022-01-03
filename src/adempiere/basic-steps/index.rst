@@ -1,10 +1,10 @@
-.. _src/adempiere/basic-steps:
+.. _src/adempiere/basic-steps/window-characteristics:
 
 ==================
 **Gestión Básica**
 ==================
 
-El presente material se encuentra dirigido a cada uno de los usuarios de ADempiere para cualquier organización. Se explicará de forma sencilla y eficiente las gestiones básicas, herramientas y utilerías que podrá utilizar para interactuar con el sistema.
+El presente material se encuentra dirigido a cada uno de los usuarios de Solop ERP para cualquier organización. Se explicará de forma sencilla y eficiente las gestiones básicas, herramientas y utilerías que podrá utilizar para interactuar con el sistema.
 
 .. toctree::
     :maxdepth: 2
@@ -15,7 +15,3 @@ El presente material se encuentra dirigido a cada uno de los usuarios de ADempie
     toolbar
     quick-access
     props
-    advanced-search/index
-    document-status/index
-    system-login/index
-    window-characteristics/index
