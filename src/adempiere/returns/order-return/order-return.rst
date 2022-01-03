@@ -68,7 +68,7 @@ Seleccione el icono "**Registro Nuevo**", en la barra de herramientas de Solop E
         
         Imagen 3. Campo Organización
 
-    Seleccione el tipo de documento a generar en el campo "**Tipo de Documento Destino**", la selección de este define el comportamiento del documento que se esta elaborando, dicho comportamiento se encuentra explicado en el documento **Tipo de Documento** elaborado por `Solop`_.
+    Seleccione el tipo de documento a generar en el campo "**Tipo de Documento Destino**", la selección de este define el comportamiento del documento que se esta elaborando, dicho comportamiento se encuentra explicado en el documento **Tipo de Documento** elaborado por `Solop`.
 
         |Campo Tipo de Documento Destino| 
         

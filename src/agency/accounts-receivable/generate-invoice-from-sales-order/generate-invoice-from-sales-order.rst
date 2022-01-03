@@ -242,9 +242,3 @@ Socio del Negocio.
 Si no tiene ninguno definido en el Socio del Negocio tomará el Agente
 Comercial definido en las Ordenes de Venta. Si estos son diferentes dará
 un error.
-
-
-
-
-
-

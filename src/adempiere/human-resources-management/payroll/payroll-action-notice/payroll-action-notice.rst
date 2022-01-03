@@ -20,7 +20,7 @@ Seleccione en el menú de Solop ERP, la carpeta "**Gestión de Recursos Humanos 
 
     Imagen 1. Menú de Solop ERP
 
-Seleccione en el campo "**Proceso Nómina**", el proceso de nómina actual al cual le cargará las incidencias de los empleados. Dicho proceso se encuentra explicado en el documento :ref:`documento/procedimiento-para-procesar-nómina` elaborado por `Solop`_.
+Seleccione en el campo "**Proceso Nómina**", el proceso de nómina actual al cual le cargará las incidencias de los empleados. Dicho proceso se encuentra explicado en el documento :ref:`documento/procedimiento-para-procesar-nómina` elaborado por `Solop`.
 
     |Campo Proceso de Nómina|
 

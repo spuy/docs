@@ -10,4 +10,3 @@
     :maxdepth: 2
 
     annuity-payment
-
