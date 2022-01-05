@@ -1,8 +1,8 @@
 .. _src/education/payment-and-allocation/annuity-payment:
 
-=====================
-**Pago de Anualidad**
-=====================
+==================================
+**Cobro por Anticipo (Anualidad)**
+==================================
 
 
 
