@@ -9,7 +9,7 @@
 .. |Estado del CFE Enviado a DGI| image:: resource/estado-del-cfe-1.png
 .. |Estado del CFE Rechazado| image:: resource/estado-del-cfe-2.png
 .. |Exhibir todas las Notificaciones| image:: resource/exhibir-todas-las-notificaciones.png
-.. |Generacion del Reporte Diario| image:: resource/generación-del-reporte-diario.png
+.. |Generacion del Reporte Diario| image:: resource/generacion-del-reporte-diario.png
 .. |Gestion de Empresas| image:: resource/gestion-de-empresas.png
 .. |Icono Actualizar| image:: resource/icono-actualizar.png
 .. |Icono Descargar XML| image:: resource/icono-descargar-xml.png
@@ -22,7 +22,7 @@
 .. |Icono Notificacion Leida| image:: resource/icono-notificacion-leida.png
 .. |Icono Notificaciones con Marca| image:: resource/icono-notificaciones-con-marca.png
 .. |Icono Notificaciones| image:: resource/icono-notificaciones.png
-.. |Icono Solucionar Problema que Genero Notificacion| image:: resource/icono-solucionar-problema-que-generó-notificación.png
+.. |Icono Solucionar Problema que Genero Notificacion| image:: resource/icono-solucionar-problema-que-genero-notificacion.png
 .. |Lista CFE emitidos a la Fecha| image:: resource/lista-cfe-emitidos-a-la-fecha.png
 .. |Lista de Empresas| image:: resource/lista-de-empresas.png
 .. |Lista de Reportes Diarios| image:: resource/lista-de-reportes-diarios.png
