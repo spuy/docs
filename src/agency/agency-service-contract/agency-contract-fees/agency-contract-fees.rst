@@ -1,6 +1,6 @@
-.. |Calculo Comisiones Barra Herramientas| image:: resource/cálculo-comisiones-barra-herramientas-ov.png
-.. |Calculo Comisiones 1000095| image:: resource/cálculo-de-comisiones-ventana-2.png
-.. |Calculo Comisiones 1000096| image:: resource/cálculo-de-comisiones-ventana.png
+.. |Calculo Comisiones Barra Herramientas| image:: resource/calculo-comisiones-barra-herramientas-ov.png
+.. |Calculo Comisiones 1000095| image:: resource/calculo-de-comisiones-ventana-2.png
+.. |Calculo Comisiones 1000096| image:: resource/calculo-de-comisiones-ventana.png
 .. |Honorarios Contrato de Servicio Grilla| image:: resource/contrato-de-servicios-honorarios-grilla.png
 .. |Honorarios Contrato de Servicio| image:: resource/contrato-de-servicios-honorarios.png
 .. |Proceso Gif 1| image:: resource/gif-1-process.gif

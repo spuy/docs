@@ -1,4 +1,4 @@
-.. |Boton Asignar Facturas| image:: resource/botón-asignar-facturas.png
+.. |Boton Asignar Facturas| image:: resource/boton-asignar-facturas.png
 .. |Gif Cabezal| image:: resource/cabezal.gif
 .. |Gif Generar Pago Cobro| image:: resource/generar-pago-cobro.gif
 .. |Gif Sb Asignar Facturas| image:: resource/smartbrowser-asignar-facturas-2.gif
