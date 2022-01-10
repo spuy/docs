@@ -34,7 +34,7 @@ Las Cuentas Contables de Tránsito son:
 
 Aquí podrá encontrar algunos consejos que le ayudarán a controlar y
 encontrar discrepancias en algunas Cuentas Contables transitorias
-utilizadas por ADempiere.
+utilizadas por Solop ERP.
 
 .. toctree::
     :maxdepth: 2

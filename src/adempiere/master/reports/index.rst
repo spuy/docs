@@ -4,7 +4,6 @@
 **Reportes de Maestros**
 ========================
 
-Esta documentación está destinada a definir el procedimiento correcto para generar en Solop ERP, los diferentes reportes de los maestros.
 
 .. toctree::
     :maxdepth: 2

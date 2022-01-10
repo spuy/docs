@@ -5,7 +5,6 @@
 **Propuesta**
 =============
 
-El presente material elaborado por `ERPyA`_, pretende ofrecerle una explicación eficiente a nuestros clientes del procedimiento a seguir para generar en ADempiere una propuesta.
 
 .. toctree::
     :maxdepth: 2
