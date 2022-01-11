@@ -68,4 +68,8 @@ la conversión.
 
 Se adjunta gif del proceso
 
-|Gif del Proceso de Asignación|
+.. only:: html
+
+    .. figure:: resources/gif-asignacion.gif
+
+    Video 1. Proceso de Asignación

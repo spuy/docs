@@ -3,9 +3,6 @@
 .. |Calculo Comisiones 1000096| image:: resource/calculo-de-comisiones-ventana.png
 .. |Honorarios Contrato de Servicio Grilla| image:: resource/contrato-de-servicios-honorarios-grilla.png
 .. |Honorarios Contrato de Servicio| image:: resource/contrato-de-servicios-honorarios.png
-.. |Proceso Gif 1| image:: resource/gif-1-process.gif
-.. |Proceso Gif 2| image:: resource/gif-2-process.gif
-.. |Proceso Gif 3| image:: resource/gif-3-process.gif
 .. |OV Honorarios Barra Herramientas| image:: resource/ov-honorarios-barra-herramientas.png
 .. |Orden de Venta Honorarios Ventana| image:: resource/ov-honorarios-ventana.png
 
@@ -62,8 +59,20 @@ Honorarios, es decir, según los filtros definidos en estos registros.
 **Ejemplo del proceso**
 ~~~~~~~~~~~~~~~~~~~~~~~
 
-|Proceso Gif 1|
+.. only:: html
 
-|Proceso Gif 2|
+    .. figure:: resources/gif-1-process.gif.gif
 
-|Proceso Gif 3|
+    Video 1. Gif del Proceso 1
+
+.. only:: html
+
+    .. figure:: resources/gif-2-process.gif.gif
+
+    Video 2. Gif del Proceso 2
+
+.. only:: html
+
+    .. figure:: resources/gif-3-process.gif.gif
+
+    Video 3. Gif del Proceso 3

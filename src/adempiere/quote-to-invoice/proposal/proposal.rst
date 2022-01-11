@@ -80,7 +80,7 @@ Introduzca en el campo "**Descripción**", una breve descripción referente al r
 
     Imagen 6. Campo Descripción
 
-Seleccione el tipo de documento a generar en el campo "**Tipo de Documento Destino**", la selección de este define el comportamiento del documento que se esta elaborando, dicho comportamiento se encuentra explicado en el documento **Tipo de Documento** elaborado por `ERPyA`_.
+Seleccione el tipo de documento a generar en el campo "**Tipo de Documento Destino**", la selección de este define el comportamiento del documento que se esta elaborando, dicho comportamiento se encuentra explicado en el documento **Tipo de Documento**.
 
     |campo tipo de documento de la ventana órdenes de venta|
 

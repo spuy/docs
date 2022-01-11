@@ -104,7 +104,7 @@ Al culminar el procedimiento de registro de regiones de ventas en Solop ERP, pod
 **Asignar Región de Ventas a Localización**
 -------------------------------------------
 
-Para asignar una región de ventas a la localización del socio del negocio cliente, se debe realizar el procedimiento explicado en el documento de :ref:`documento/socio-cliente`, elaborado por `ERPyA`_, específicamente en la subsección del documento :ref:`documento/pestaña-localización-del-cliente`, donde se indica que se debe seleccionar en el campo "**Región de Ventas**", la región o área de ventas en la que se encuentra localizado el socio del negocio cliente.
+Para asignar una región de ventas a la localización del socio del negocio cliente, se debe realizar el procedimiento explicado en el documento de :ref:`documento/socio-cliente`, específicamente en la subsección del documento :ref:`documento/pestaña-localización-del-cliente`, donde se indica que se debe seleccionar en el campo "**Región de Ventas**", la región o área de ventas en la que se encuentra localizado el socio del negocio cliente.
 
     |Asignar Región de Ventas a Localización|
 

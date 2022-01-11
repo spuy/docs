@@ -128,7 +128,7 @@ Seleccione el icono "**Registro Nuevo**", ubicado en la barra de herramientas de
 
         Imagen 9. Campo Descripción de la Ventana Documentos por Cobrar
 
-    Seleccione el tipo de documento a generar en el campo "**Tipo de Documento Destino**", la selección de este define el comportamiento del documento que se está elaborando, dicho comportamiento se encuentra explicado en el documento **Tipo de Documento** elaborado por `ERPyA`_.
+    Seleccione el tipo de documento a generar en el campo "**Tipo de Documento Destino**", la selección de este define el comportamiento del documento que se está elaborando, dicho comportamiento se encuentra explicado en el documento **Tipo de Documento**.
 
         |Campo Tipo de Documento Destino de la Nota de Crédito de CxC|
 

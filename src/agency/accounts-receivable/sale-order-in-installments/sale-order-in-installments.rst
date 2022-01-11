@@ -1,6 +1,3 @@
-.. |Gif 1| image:: resource/gif1.gif
-.. |Gif 2| image:: resource/gif2.gif
-
 **Orden de Venta a Facturar en Cuotas**
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -28,6 +25,14 @@ Proyecto:**
    Medio o al Cliente. Ver que como Precio Unitario se deberá visualizar
    el importe de cada una de las cuotas a ser Facturado.
 
-|Gif 1|
+.. only:: html
 
-|Gif 2|
+    .. figure:: resources/gif1.gif
+
+    Video 1. Gif 1
+
+.. only:: html
+
+    .. figure:: resources/gif2.gif
+
+    Video 2. Gif 2
