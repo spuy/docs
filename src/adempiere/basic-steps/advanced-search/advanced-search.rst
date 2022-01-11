@@ -1,8 +1,4 @@
 .. |Filtro Avanzado| image:: resources/filtro-avanzado.png
-.. |Gif Borrar Filtro| image:: resources/gif-borrar-filtro.gif
-.. |Gif Filtro Avanzado| image:: resources/gif-filtro-avanzado.gif
-.. |Gif Guardar Búsqueda Avanzada| image:: resources/gif-guardar-busqueda-avanzada.gif
-.. |Gif Modificar Filtro| image:: resources/gif-modificar-filtro.gif
 .. |Seleccionar Búsqueda Guardada| image:: resources/seleccion-de-busqueda-guardada.png
 
 Filtro Avanzado de Búsqueda
@@ -34,7 +30,11 @@ con los registros que cumplan el criterio de búsqueda.
 Seleccione el botón *Cancelar* para cancelar la búsqueda y regresar a la
 situación inicial.
 
-|Gif Filtro Avanzado|
+.. only:: html
+
+    .. figure:: resources/gif-filtro-avanzado.gif
+
+    Video 1. Filtro Avanzado
 
 Guardar un filtro para uso futuro
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -49,7 +49,11 @@ en el campo de texto y después pulsando el ícono de *Guardar*.
 -  Seleccione un nombre para esa Búsqueda
 -  Presione *Guardar*
 
-|Gif Guardar Búsqueda Avanzada|
+.. only:: html
+
+    .. figure:: resources/gif-guardar-busqueda-avanzada.gif
+
+    Video 2. Guardar Búsqueda Avanzada
 
 Utilizar un filtro guardado
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -68,7 +72,11 @@ Modificar un filtro guardado
 Se pulsa la lupa, se selecciona uno de los registros avanzados ya
 guardado, se modifican las condiciones y se guarda el filtro.
 
-|Gif Modificar Filtro|
+.. only:: html
+
+    .. figure:: resources/gif-modificar-filtro.gif
+
+    Video 3. Modificar Filtro
 
 Borrar un filtro guardado
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -76,7 +84,11 @@ Borrar un filtro guardado
 Se pulsa la lupa, se selecciona uno de los registros avanzados ya
 guardado, se borran todas las condiciones y se guarda el filtro.
 
-|Gif Borrar Filtro|
+.. only:: html
+
+    .. figure:: resources/gif-borrar-filtro.gif
+
+    Video 4. Borrar Filtro
 
 Borrar definitivamente una filtro guardado
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

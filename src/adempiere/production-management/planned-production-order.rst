@@ -58,7 +58,7 @@ Podrá visualizar la ventana "**Órdenes de Producción Planeadas**", con todos 
 
             Imagen 4. Campo Organización de la Ventana Órdenes de Producción Planeadas
 
-        Seleccione el tipo de documento a generar en el campo "**Tipo de Documento Destino**", la selección de este define el comportamiento del documento que se esta elaborando, dicho comportamiento se encuentra explicado en el documento **Tipo de Documento** elaborado por `ERPyA`_. 
+        Seleccione el tipo de documento a generar en el campo "**Tipo de Documento Destino**", la selección de este define el comportamiento del documento que se esta elaborando, dicho comportamiento se encuentra explicado en el documento **Tipo de Documento**.
 
             |Campo Tipo de Documento de la Ventana Órdenes de Producción Planeadas|
             

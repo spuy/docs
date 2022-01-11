@@ -1,6 +1,5 @@
 .. |Proceso Barra Herramientas| image:: resource/cabezal.png
 .. |Generar Cuotas desde Contrato de Servicio| image:: resource/generar-cuotas-desde-contrato-de-servicio.png
-.. |Gif Proceso| image:: resource/gif-proceso.gif
 .. |Proceso Masivo| image:: resource/proceso-masivo.png
 
 **Generación de Cuotas desde el Contrato de Servicio**
@@ -48,7 +47,11 @@ mismas desde la pestaña “Cuotas del Contrato”.
 
 Ejemplo del proceso:
 
-|Gif Proceso|
+.. only:: html
+
+    .. figure:: resources/gif-proceso.gif
+
+    Video 1. Gif del Proceso
 
 **Proceso para varios Contratos a la vez**
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^

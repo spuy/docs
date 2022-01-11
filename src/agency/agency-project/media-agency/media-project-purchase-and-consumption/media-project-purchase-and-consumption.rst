@@ -1,13 +1,6 @@
 .. |Boton Generar Orden de Venta| image:: resource/boton-generar-ov.png
-.. |Gif Completar Orden de Compra| image:: resource/completar-oc.gif
 .. |Crear checking| image:: resource/crear-checking-barra-herramientas.png
 .. |Generar OV| image:: resource/generar-ov.png
-.. |Gif Cabezal| image:: resource/gif-cabezal.gif
-.. |Gif Crear Checking| image:: resource/gif-crear-checking.gif
-.. |Gif Fase| image:: resource/gif-fase.gif
-.. |Gif Generar OV| image:: resource/gif-generar-ov.gif
-.. |Gif 1 Lineas Fase Proyecto| image:: resource/lineas-fase-del-proyecto-gif-1.gif
-.. |Gif 2 Lineas Fase Proyecto| image:: resource/lineas-fase-del-proyecto-gif-2.gif
 .. |Lineas Fase Proyecto Grilla| image:: resource/lineas-fase-del-proyecto-grilla.png
 .. |Lineas Fase Proyecto| image:: resource/lineas-fase-del-proyecto.png
 .. |Representacion Impresa| image:: resource/representacion-impresa-oc.png
@@ -32,13 +25,21 @@ detallan los pasos a seguir para su operativa:
 
 **Se comienza generando un Proyecto con nivel de línea “Fase”**
 
-|Gif Cabezal|
+.. only:: html
+
+    .. figure:: resources/gif-cabezal.gif
+
+    Video 1. Cabezal
 
 **Una vez con el Proyecto creado se deberá crear una Fase definiendo el
 Proveedor a quien se realizará la compra. Se deberá generar una Fase por
 proveedor.**
 
-|Gif Fase|
+.. only:: html
+
+    .. figure:: resources/gif-fase.gif
+
+    Video 2. Fase
 
 Luego de definir el Proveedor en la Fase, se deberá ir a la pestaña
 “Línea de la Fase” donde se deberán definir los Productos a ser
@@ -86,9 +87,17 @@ utilizar se recomienda definir el Proveedor del mismo que debería ser el
 mismo a quién se está generando la Orden de Compra. A su vez, también se
 podrá apoyar en el campo “Medio” y “Soporte” de los productos.
 
-|Gif 1 Lineas Fase Proyecto|
+.. only:: html
 
-|Gif 2 Lineas Fase Proyecto|
+    .. figure:: resources/lineas-fase-del-proyecto-gif-1.gif
+
+    Video 3. Líneas Fase del Proyecto 1
+
+.. only:: html
+
+    .. figure:: resources/lineas-fase-del-proyecto-gif-2.gif
+
+    Video 4. Líneas Fase del Proyecto 2
 
 Una vez definido el Proveedor y los Productos en las líneas, se deberá
 proceder a realizar una Orden de Venta del tipo “Orden de Venta (Compra
@@ -114,7 +123,11 @@ tendrá definido a su vez, en el campo “Socio del Negocio Entrega
 Directa” el Proveedor del Medio al cual se le generará una Orden de
 Compra Espejo por los Medios correspondientes.
 
-|Gif Generar OV|
+.. only:: html
+
+    .. figure:: resources/gif-generar-ov.gif
+
+    Video 5. Generar Orden de Venta
 
 La Orden de Venta se deberá Completar, de manera que se genere
 automáticamente la Orden de Compra al Proveedor del Medio.
@@ -123,7 +136,11 @@ La Orden de Compra será del Tipo “Orden de Publicidad (Compra y
 Consumo)” se generará en estado Borrador por lo que se deberá navegar a
 la misma y Completarla para terminar con el proceso.
 
-|Gif Completar Orden de Compra|
+.. only:: html
+
+    .. figure:: resources/completar-oc.gif
+
+    Video 6. Completar Orden de Compra
 
 **Representación impresa:**
 
@@ -148,4 +165,8 @@ Al realizar la búsqueda desde el SmarBrowser de Checkin, deberá
 seleccionar las líneas que han sido emitidas, confirmando a su vez la
 cantidad en cuestión de dicha emisión.
 
-|Gif Crear checking|
+.. only:: html
+
+    .. figure:: resources/gif-crear-checking.gif
+
+    Video 7. Crear Checking

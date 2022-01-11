@@ -71,7 +71,7 @@ Seleccione el icono "**Registro Nuevo**", ubicado en la barra de herramientas de
 
             Si no es ingresado ningún valor en este campo, Solop ERP tomará el número de documento correspondiente a la secuencia que tiene el tipo de documento establecido.
 
-    Seleccione el tipo de documento a generar en el campo "**Tipo de Documento Destino**", la selección de este define el comportamiento del documento que se esta elaborando, dicho comportamiento se encuentra explicado en el documento **Tipo de Documento** elaborado por `ERPyA`_. 
+    Seleccione el tipo de documento a generar en el campo "**Tipo de Documento Destino**", la selección de este define el comportamiento del documento que se esta elaborando, dicho comportamiento se encuentra explicado en el documento **Tipo de Documento**.
 
         |Campo Tipo de Documento de la Pestaña Encabezado de Producción de la Ventana Producción|
 

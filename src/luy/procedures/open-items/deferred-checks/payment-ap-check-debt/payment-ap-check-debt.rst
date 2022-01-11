@@ -1,6 +1,5 @@
 .. |Deposito de Cheque Propio| image:: resource/deposito-de-cheque-propio.png
 .. |Documento Generado| image:: resource/documento-generado.png
-.. |Gif Debito de Cheques| image:: resource/gif-debito-de-cheques.gif
 .. |Proceso Debito de Cheques| image:: resource/proceso-debito-de-cheques.png
 .. |Seleccionar Lineas| image:: resource/seleccionar-lineas.png
 
@@ -33,7 +32,11 @@ ventana “Depósito de Cheque Propio”.
 
 A continuación se presenta un ejemplo del procedimiento:
 
-|Gif Debito de Cheques|
+.. only:: html
+
+    .. figure:: resources/gif-debito-de-cheques.gif
+
+    Video 1. Débito de Cheques
 
 Luego veremos el documento generado en la siguiente ventana:
 

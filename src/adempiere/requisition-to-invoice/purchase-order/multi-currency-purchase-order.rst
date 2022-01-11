@@ -84,7 +84,7 @@ Seleccione el icono "**Registro Nuevo**" en la barra de herramientas de Solop ER
 
         Imagen 5. Campo Descripción
 
-    Seleccione el tipo de documento a generar, en el campo "**Tipo de Documento Destino**", la selección de éste define el comportamiento del documento que se está elaborando, dicho comportamiento se encuentra definido en el documento **Tipo de Documento** elaborado por `ERPyA`_.
+    Seleccione el tipo de documento a generar, en el campo "**Tipo de Documento Destino**", la selección de éste define el comportamiento del documento que se está elaborando, dicho comportamiento se encuentra definido en el documento **Tipo de Documento**.
 
         Para realizar una orden de compra multimoneda, puede ser utilizado cualquier tipo de documento de orden de compra.
 

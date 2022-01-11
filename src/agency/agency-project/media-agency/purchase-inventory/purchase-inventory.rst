@@ -1,17 +1,5 @@
-.. |Completar OV Inversion| image:: resource/completar-ov-a-facturar.gif
-.. |Generar OV Inversion| image:: resource/generar-ov-a-facturar.gif
 .. |Generar OV Inventario| image:: resource/generar-ov-inventario.png
-.. |Gif Cabezal| image:: resource/gif-cabezal.gif
-.. |Gif Completar OC| image:: resource/gif-completar-oc.gif
-.. |Gif Crear Checking| image:: resource/gif-crear-checking.gif
-.. |Gif Fase| image:: resource/gif-fase.gif
-.. |Gif Generar OV Inventario| image:: resource/gif-generar-ov-inventario.gif
-.. |Gif Linea de Tarea| image:: resource/gif-linea-de-tarea.gif
-.. |Gif Tarea| image:: resource/gif-tarea.gif
 .. |Proceso Crear Checking| image:: resource/proceso-crear-checking.png
-.. |Gif 1 Consumo de Inventario| image:: resource/consumo-de-inventario-gif-1.gif
-.. |Gif 2 Consumo de Inventario| image:: resource/consumo-de-inventario-gif-2.gif
-.. |Gif 3 Consumo de Inventario| image:: resource/consumo-de-inventario-gif-3.gif
 
 Creación de un “Proyecto de Medios” donde realizará la Inversión del
 cliente. La idea es que dentro de un mismo Proyecto se controle lo
@@ -44,7 +32,12 @@ líneas de la Tarea la *“Recepción”*.
 -  Término de pago
 -  Almacén del cliente
 
-|Gif Cabezal|
+.. only:: html
+
+    .. figure:: resources/gif-cabezal.gif
+
+    Video 1. Cabezal
+
 
 **Definición del Proveedor de la Inversión:**
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -60,7 +53,12 @@ negocio Entrega Directa** es importante que el mismo:
 -  En la ventana Socio de negocio, en su cabezal debe tener marcado el
    check de "activo" y en la pestaña Proveedor el check de "Proveedor".
 
-|Gif Fase|
+.. only:: html
+
+    .. figure:: resources/gif-fase.gif
+
+    Video 2. Fase
+
 
 **Orden de Inventario:**
 ~~~~~~~~~~~~~~~~~~~~~~~~
@@ -75,9 +73,19 @@ negocio Entrega Directa** es importante que el mismo:
   Una vez se tengan todos los Productos definidos en Líneas de Tarea, se
   podrá ver el TOTAL en el campo “Total Planeado” de la Tarea.
 
-|Gif Tarea|
+.. only:: html
 
-|Gif Linea de Tarea|
+    .. figure:: resources/gif-tarea.gif
+
+    Video 3. Tarea
+
+
+.. only:: html
+
+    .. figure:: resources/gif-linea-de-tarea.gif
+
+    Video 4. Línea de Tarea
+
 
 Una vez confirmado el importe se deberá generar la “Orden de Inventario”
 desde el Proceso “Generar Orden”. IMPORTANTE la Orden de Inventario es
@@ -85,7 +93,12 @@ una orden de Sub tipo de OV “Propuesta”.
 
 |Generar OV Inventario|
 
-|Gif Generar OV Inventario|
+.. only:: html
+
+    .. figure:: resources/gif-generar-ov-inventario.gif
+
+    Video 5. Generar Orden de Venta Inventario
+
 
 La Orden de Venta se definirá en el Campo Orden de Venta de la Tarea. Se
 debe navegar hacia la Orden de Venta para poder Completarla.
@@ -94,7 +107,12 @@ Al Completar la Orden de Venta se generará la Orden de Compra al
 Proveedor definido. Se podrá navegar a la Orden de Venta desde el campo
 “Orden enlazada” desde la Orden de Venta.
 
-|Gif Completar OC|
+.. only:: html
+
+    .. figure:: resources/gif-completar-oc.gif
+
+    Video 6. Completar Orden de Compra
+
 
 Al completar la Orden de Compra de tipo de documento “Orden de Compra
 Inventario”, los Productos definidos en ella se habrán recepcionado
@@ -131,9 +149,17 @@ en diferentes “Cuotas” se deberá:
    Medio o al Cliente. Ver que como Precio Unitario se deberá visualizar
    el importe de cada una de las cuotas a ser Facturado.
 
-|Generar OV Inversion|
+.. only:: html
 
-|Completar OV Inversion|
+    .. figure:: resources/generar-ov-a-facturar.gif
+
+    Video 7. Generar Orden de Venta a Facturar
+
+.. only:: html
+
+    .. figure:: resources/completar-ov-a-facturar.gif
+
+    Video 8. Completar Orden de Venta a Facturar
 
 **Consumo de Inventario**
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -152,18 +178,37 @@ bajándolo de stock.
    se facturó mediante la Orden de Venta Inversión que se compró el
    Inventario.
 
-|Gif 1 Consumo de Inventario|
+.. only:: html
 
-|Gif 2 Consumo de Inventario|
+    .. figure:: resources/consumo-de-inventario-gif-1.gif
 
-|Gif 3 Consumo de Inventario|
+    Video 9. Consumo de Inventario 1
+
+
+.. only:: html
+
+    .. figure:: resources/consumo-de-inventario-gif-2.gif
+
+    Video 10. Consumo de Inventario 2
+
+
+.. only:: html
+
+    .. figure:: resources/consumo-de-inventario-gif-3.gif
+
+    Video 11. Consumo de Inventario 3
+
 
 **Checking**
 ~~~~~~~~~~~~
 
 |Proceso Crear Checking|
 
-|Gif Crear Checking|
+.. only:: html
+
+    .. figure:: resources/gif-crear-checking.gif
+
+    Video 12. Crear Checking
 
 Conversión de Productos en Inventario
 

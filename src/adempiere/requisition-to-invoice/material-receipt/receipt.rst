@@ -39,7 +39,7 @@ Seleccione la opción "**Registro Nuevo**" en la barra de herramientas de Solop 
 
       Imagen 3. Campo Organización
 
-   Seleccione el tipo de documento a generar en el campo "**Tipo de Documento Destino**", la selección de este define el comportamiento del documento que se esta elaborando, dicho comportamiento se encuentra explicado en el documento **Tipo de Documento** elaborado por `ERPyA`_. 
+   Seleccione el tipo de documento a generar en el campo "**Tipo de Documento Destino**", la selección de este define el comportamiento del documento que se esta elaborando, dicho comportamiento se encuentra explicado en el documento **Tipo de Documento**.
 
       |Campo Tipo de Documento|
 

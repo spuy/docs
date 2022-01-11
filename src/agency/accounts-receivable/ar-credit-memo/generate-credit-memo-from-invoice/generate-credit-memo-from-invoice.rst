@@ -10,7 +10,11 @@
 Para generar una Nota de Crédito Cliente mediante la opción **“Crear
 desde”** se utilizará la ventana Documentos por Cobrar.
 
-|Gif 1|
+.. only:: html
+
+    .. figure:: resources/gif1.gif
+
+    Video 1. Gif 1
 
 Se deberá ingresar:
 
@@ -37,7 +41,11 @@ desea.
 
 Luego correremos el proceso seleccionando el botón de OK.
 
-|Gif 2|
+.. only:: html
+
+    .. figure:: resources/gif2.gif
+
+    Video 2. Gif 2
 
 Inmediatamente el sistema cargará las líneas a la Nota de crédito (donde
 se podrán modificar las cantidades y los importes) y definirá en la

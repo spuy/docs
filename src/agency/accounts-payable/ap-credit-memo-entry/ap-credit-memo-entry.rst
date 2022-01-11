@@ -1,6 +1,5 @@
 .. |Completar Nota de Credito| image:: resource/complete-credit-note.png
 .. |Ventana Documentos por Pagar| image:: resource/documents-payable-window.png
-.. |Gif Crear Desde| image:: resource/gif-crear-desde.gif
 .. |Smartbrowser| image:: resource/smartbrowser.png
 .. |Boton Crear Desde| image:: resource/boton-crear-desde.png
 
@@ -36,7 +35,11 @@ desea.
 
 Luego correremos el proceso seleccionando el botón de OK.
 
-|Gif Crear Desde|
+.. only:: html
+
+    .. figure:: resources/gif-crear-desde.gif
+
+    Video 1. Crear Desde
 
 Inmediatamente el sistema cargará las líneas a la Nota de crédito (donde
 se podrán modificar las cantidades y los importes).

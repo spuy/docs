@@ -105,7 +105,7 @@ Podrá visualizar la ventana "**Genera Factura desde Líneas de la Orden**" y pr
 
         Imagen 13. Campo Acción en el Documento de la Ventana Generar Factura desde Líneas de la Orden
 
-    Seleccione el tipo de documento a generar en el campo "**Tipo de Documento Destino**", la selección de este define el comportamiento del documento que se esta elaborando, dicho comportamiento se encuentra explicado en el documento **Tipo de Documento** elaborado por `ERPyA`_.
+    Seleccione el tipo de documento a generar en el campo "**Tipo de Documento Destino**", la selección de este define el comportamiento del documento que se esta elaborando, dicho comportamiento se encuentra explicado en el documento **Tipo de Documento**.
 
         |Campo Tipo de Documento Destino de la Ventana Generar Factura desde Líneas de la Orden|
 

@@ -1,7 +1,4 @@
 .. |Boton Asignar Facturas| image:: resource/boton-asignar-facturas.png
-.. |Gif Cabezal| image:: resource/cabezal.gif
-.. |Gif Generar Pago Cobro| image:: resource/generar-pago-cobro.gif
-.. |Gif Sb Asignar Facturas| image:: resource/smartbrowser-asignar-facturas-2.gif
 .. |Moneda Sb Asignar Facturas| image:: resource/smartbrowser-asignar-facturas.png
 
 Recibo Multimoneda
@@ -31,7 +28,11 @@ En el cabezal deberán definirse los siguientes campos:
 -  Por último el campo “Tasa”, donde definiremos la correspondiente tasa
    manualmente en caso de haber elegido Tipo de conversión: "Documento".
 
-|Gif Cabezal|
+.. only:: html
+
+    .. figure:: resources/cabezal.gif
+
+    Video 1. Cabezal
 
 Luego seleccionaremos las facturas a asignar mediante el botón “Asignar
 facturas”.
@@ -56,10 +57,18 @@ Elegimos las facturas y en total de pago indicamos el importe a asignar
 al Recibo (convertido a la moneda con la que se va a pagar/cobrar).
 Luego daremos OK.
 
-|Gif Sb Asignar Facturas|
+.. only:: html
+
+    .. figure:: resources/smartbrowser-asignar-facturas-2.gif
+
+    Video 2. Smartbrowser Asignar Facturas
 
 Por último, generamos el cobro/pago mediante la opción “Generar cheque
 diferido” o “Generar pago contado” según corresponda y completaremos el
 documento.
 
-|Gif Generar Pago Cobro|
+.. only:: html
+
+    .. figure:: resources/generar-pago-cobro.gif
+
+    Video 3. Generar Pago/Cobro

@@ -1,14 +1,8 @@
 .. |Boton Generar Orden de Venta| image:: resource/generate-sales-order-button.png
-.. |Gif Linea de Tarea| image:: resource/consumo-gif-linea-de-tarea.gif
-.. |Gif Checking| image:: resource/gif-checking.gif
-.. |Gif Completar OV y OC| image:: resource/gif-completar-ov-y-oc.gif
-.. |Gif Ordenes Consumo| image:: resource/gif-consumo.gif
-.. |Gif Generar OV Inversion| image:: resource/gif-generar-orden-de-venta-inversion.gif
 .. |Numero de Orden de Venta| image:: resource/numero-ov-esquina-inferior-pantalla.png
 .. |Crear Checking Barra de Herramientas| image:: resource/proceso-crear-checkin-barra-de-herramientas.png
 .. |Proceso Generar Orden de Venta Consumo| image:: resource/proceso-generar-orden-de-venta-consumo.png
 .. |Documentos Relacionados| image:: resource/visualiza-detalle-barra-de-herramientas.png
-.. |Cabezal| image:: resource/cabezal.gif
 
 Compra paquete por importe
 
@@ -58,7 +52,11 @@ Se comienza generando un Proyecto con nivel de línea “Tarea”:
 -  Término de pago
 -  Almacén del cliente
 
-|Cabezal|
+.. only:: html
+
+    .. figure:: resources/cabezal.gif
+
+    Video 1. Cabezal
 
 La inversión se debe definir desde una FASE del Proyecto de Medios.
 
@@ -84,7 +82,11 @@ proceder a realizar una Orden de Venta del tipo “Orden de Venta
 
 |Boton Generar Orden de Venta|
 
-|Gif Generar OV Inversion|
+.. only:: html
+
+    .. figure:: resources/gif-generar-orden-de-venta-inversion.gif
+
+    Video 2. Generar Orden de Venta Inversión
 
 Al confirmar el proceso, una Orden de Venta será generada apareciendo el
 número de la misma en la esquina inferior izquierda de la ventana. Para
@@ -109,7 +111,11 @@ que el Departamento de Compras verifique la misma y la complete.
 Desde la Orden de Compra se podrá obtener la Representación Impresa de
 la misma que deberá ser enviada al Proveedor del Medio.
 
-|Gif Completar OV y OC|
+.. only:: html
+
+    .. figure:: resources/gif-completar-ov-y-oc.gif
+
+    Video 3. Completar Orden de Venta y Orden de Compra
 
 **Consumo**
 ~~~~~~~~~~~
@@ -137,7 +143,11 @@ Programa, Cantidad y Precio.
   su vez, también se podrá apoyar en el campo “Medio” y “Soporte” de los
   productos.
 
-|Gif Linea de Tarea|
+.. only:: html
+
+    .. figure:: resources/gif-consumo.gif
+
+    Video 4. Consumo
 
 Una vez definidas todas las líneas que se desea pautar, se deberá
 proceder a realizar una Orden de Venta del tipo “Orden de Venta
@@ -163,7 +173,11 @@ Ambas consumirán sus Órdenes de Pre-Compra correspondientes (Orden de
 Venta y Orden de Compra), quedando a la espera de ser confirmados
 mediante el “Checking”.
 
-|Gif Ordenes Consumo|
+.. only:: html
+
+    .. figure:: resources/consumo-gif-linea-de-tarea.gif
+
+    Video 5. Línea de Tarea
 
 **Checking**
 ~~~~~~~~~~~~
@@ -192,4 +206,8 @@ línea, definir la cantidad en 0.
 En caso de que dicha Cantidad a su vez deberá Liberar Saldo de una
 Pre-Compra además se deberá marcar el Check de “Liberar Saldo” en Y.
 
-|Gif Checking|
+.. only:: html
+
+    .. figure:: resources/gif-checking.gif
+
+    Video 6. Checking

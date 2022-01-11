@@ -7,8 +7,6 @@
 .. |Asignacion Nota de Credito 1| image:: resource/asignacion-nota-credito-1.png
 .. |Asignacion Nota de Credito 2| image:: resource/asignacion-nota-credito-2.png
 .. |Asignacion Nota de Credito 3| image:: resource/asignacion-nota-credito-3.png
-.. |Asignacion por Anulacion| image:: resource/asignacion-por-anulacion.gif
-.. |Asignacion por Documento Diferido| image:: resource/asignacion-por-documento-diferido.gif
 
 Es un documento que vincula dos o más elementos, de forma que se pueda
 tener una trazabilidad perfecta a causa de esta vinculación.
@@ -207,7 +205,11 @@ Anulación de  Documento por Cobrar/Pagar
 En cada oportunidad que un documento completo es Anulado el Sistema crea
 el Reverso de ese mismo documento y lo asigna mediante este documento.
 
-|Asignacion por Anulacion|
+.. only:: html
+
+    .. figure:: resources/asignacion-por-anulacion.gif
+
+    Video 1. Asignación por Anulación
 
 Asignación por Documento Diferido
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -292,7 +294,11 @@ documento Pago Diferido.
 El Documento por Cobrar (Factura Cliente) se sustituye por otro
 Documento a  Cobrar (Cheque Diferido a Cobrar)
 
-|Asignacion por Documento Diferido|
+.. only:: html
+
+    .. figure:: resources/asignacion-por-documento-diferido.gif
+
+    Video 2. Asignación por Documento Diferido
 
 Asignación Automática de Nota de Crédito
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
