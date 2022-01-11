@@ -57,7 +57,7 @@ Introduzca en el campo "**No. del Documento**", el número de identificación de
 
     Imagen 5. Campo No. del Documento de la Vantana Registro de Peso
 
-Seleccione el tipo de documento a generar en el campo "**Tipo de Documento**", la selección de este define el comportamiento del documento que se esta elaborando, dicho comportamiento se encuentra explicado en el documento **Tipo de Documento** elaborado por `Solop`_.
+Seleccione el tipo de documento a generar en el campo "**Tipo de Documento**", la selección de este define el comportamiento del documento que se esta elaborando, dicho comportamiento se encuentra explicado en el documento **Tipo de Documento** elaborado por “solop”.
 
     |Campo Tipo de Documento de la Vantana Registro de Peso|
 

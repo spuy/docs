@@ -53,7 +53,7 @@ de orden de venta se agregó también la pestaña de Plan de Reconocimiento
 correspondiente a la línea y debajo sus correspondientes Cálculos de
 Reconocimiento.
 
-|Calculo Reconocimiento de Ingresos|
+    |Calculo Reconocimiento de Ingresos|
 
 Órdenes de Venta con Reconocimiento
 
@@ -62,7 +62,7 @@ Las Órdenes de Venta que tengan definido en la línea un producto con
 la línea de la Orden donde se detallará el “Plan de Reconocimiento” y el
 correspondiente “Cálculo de Reconocimiento”
 
-|Plan|
+    |Plan|
 
 Debajo del Plan se podrá visualizar el Cálculo de Reconocimiento. La
 suma de todos los Cálculos de Reconocimiento será el Importe Reconocido.
@@ -70,7 +70,7 @@ Cada vez que se corra el proceso, si ya existe un cálculo de
 reconocimiento se generará una línea inversa para netear el anterior y
 volver a calcularlo según el “Avance actual”.
 
-|Calculo Reconocimiento de Ingresos 2|
+    |Calculo Reconocimiento de Ingresos 2|
 
 En esta pestaña se podrán visualizar datos importantes que servirán de
 verificación como:
@@ -85,7 +85,7 @@ verificación como:
 Proceso de Cálculo de Reconocimiento de Ingresos
 ------------------------------------------------
 
-|Proceso|
+    |Proceso|
 
 Este proceso se generará a partir del Plan de Reconocimiento generado
 automáticamente en cada Línea de Orden de Venta que tenga productos con
