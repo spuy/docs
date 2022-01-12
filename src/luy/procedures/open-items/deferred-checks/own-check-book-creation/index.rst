@@ -1,4 +1,4 @@
-.. _src/adempiere/luy/procedures/open-items/deferred-checks/own-check-book-creation:
+.. _src/luy/procedures/open-items/deferred-checks/own-check-book-creation:
 
 ===========================================
 **Creacion de Libretas de Cheques Propios**

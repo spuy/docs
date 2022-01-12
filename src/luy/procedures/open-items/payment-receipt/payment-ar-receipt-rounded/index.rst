@@ -1,4 +1,4 @@
-.. _src/adempiere/luy/procedures/open-items/payment-receipt/payment-ar-receipt-rounded:
+.. _src/luy/procedures/open-items/payment-receipt/payment-ar-receipt-rounded:
 
 ================================
 **Recibo de cobro con redondeo**

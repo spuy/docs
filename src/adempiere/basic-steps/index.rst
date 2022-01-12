@@ -1,4 +1,4 @@
-.. _src/adempiere/basic-steps/window-characteristics:
+.. _src/adempiere/basic-steps:
 
 ==================
 **Gestión Básica**
@@ -14,3 +14,7 @@
     toolbar
     quick-access
     props
+    advanced-search/index
+    document-status/index
+    system-login/index
+    window-characteristics/index

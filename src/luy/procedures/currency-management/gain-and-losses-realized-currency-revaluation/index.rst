@@ -1,4 +1,4 @@
-.. _src/adempiere/luy/procedures/currency-management/gain-and-losses-realized-currency-revaluation:
+.. _src/luy/procedures/currency-management/gain-and-losses-realized-currency-revaluation:
 
 =====================================
 **Gestionando diferencias de cambio**

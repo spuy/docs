@@ -1,4 +1,4 @@
-.. _src/adempiere/luy/procedures/open-items/checks-and-payments/processing-bank-transactions:
+.. _src/luy/procedures/open-items/checks-and-payments/processing-bank-transactions:
 
 ======================================
 **Procesando Transacciones Bancarias**

@@ -1,4 +1,4 @@
-.. _src/adempiere/luy/procedures/open-items/payment-receipt/multi-currency-receipt:
+.. _src/luy/procedures/open-items/payment-receipt/multi-currency-receipt:
 
 ======================
 **Recibo Multimoneda**

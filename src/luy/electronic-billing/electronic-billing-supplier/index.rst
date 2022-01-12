@@ -1,4 +1,4 @@
-.. _src/adempiere/luy/electronic-billing/electronic-billing-supplier:
+.. _src/luy/electronic-billing/electronic-billing-supplier:
 
 =================================
 **Factura Electrónica Proveedor**

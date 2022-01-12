@@ -1,4 +1,4 @@
-.. _src/adempiere/luy/procedures/open-items/deferred-checks/procesing-ar-deferred-checks:
+.. _src/luy/procedures/open-items/deferred-checks/procesing-ar-deferred-checks:
 
 ============================================
 **Depositando cheques diferidos por cobrar**

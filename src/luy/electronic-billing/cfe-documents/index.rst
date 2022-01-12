@@ -1,4 +1,4 @@
-.. _src/adempiere/luy/electronic-billing/cfe-documents:
+.. _src/luy/electronic-billing/cfe-documents:
 
 ==================
 **Documentos CFE**

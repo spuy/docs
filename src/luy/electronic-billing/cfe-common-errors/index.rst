@@ -1,4 +1,4 @@
-.. _src/adempiere/luy/electronic-billing/cfe-common-errors:
+.. _src/luy/electronic-billing/cfe-common-errors:
 
 ==========================
 **Errores Comunes de CFE**

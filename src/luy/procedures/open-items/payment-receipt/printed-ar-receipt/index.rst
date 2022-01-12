@@ -1,4 +1,4 @@
-.. _src/adempiere/luy/procedures/open-items/payment-receipt/printed-ar-receipt:
+.. _src/luy/procedures/open-items/payment-receipt/printed-ar-receipt:
 
 ===========================
 **Recibo de Cobro Impreso**

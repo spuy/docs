@@ -1,6 +1,5 @@
-.. |Check multimoneda| image:: resource/multimoneda1.png
-.. |Gif del Proceso de Asignación| image:: resource/gif-asignacion.gif
-.. |Asignacion de Pagos| image:: resource/asignacion-de-pagos.png
+.. |Check multimoneda| image:: resources/multimoneda1.png
+.. |Asignacion de Pagos| image:: resources/asignacion-de-pagos.png
 
 Asignación Manual de Pagos y Cobros
 ===================================

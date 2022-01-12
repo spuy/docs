@@ -1,5 +1,5 @@
-.. |Criterio de Facturación DxC| image:: resource/dxc.png
-.. |Criterio de Facturación SDN| image:: resource/sdn.png
+.. |Criterio de Facturación DxC| image:: resources/dxc.png
+.. |Criterio de Facturación SDN| image:: resources/sdn.png
 
 **Generar Líneas de CFE**
 ~~~~~~~~~~~~~~~~~~~~~~~~~

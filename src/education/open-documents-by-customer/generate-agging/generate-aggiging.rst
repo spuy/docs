@@ -1,7 +1,7 @@
-.. |Boton Crear Calculo de Morosidad| image:: resource/button-create-delinquency-calculation.png
-.. |Proceso Crear Calculo de Morosidad| image:: resource/create-delinquency-calculation.png
-.. |Ventana Calculo de Morosidad| image:: resource/calculomorosidad1.png
-.. |Pestaña Entrada| image:: resource/calculomorosidad2.png
+.. |Boton Crear Calculo de Morosidad| image:: resources/button-create-delinquency-calculation.png
+.. |Proceso Crear Calculo de Morosidad| image:: resources/create-delinquency-calculation.png
+.. |Ventana Calculo de Morosidad| image:: resources/calculomorosidad1.png
+.. |Pestaña Entrada| image:: resources/calculomorosidad2.png
 
 Una vez se cuenta con toda la facturación ya generada se puede proceder
 con la creación de los Estados de Cuenta de cada uno de los Responsables

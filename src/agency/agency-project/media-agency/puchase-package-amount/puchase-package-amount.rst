@@ -1,8 +1,8 @@
-.. |Boton Generar Orden de Venta| image:: resource/generate-sales-order-button.png
-.. |Numero de Orden de Venta| image:: resource/numero-ov-esquina-inferior-pantalla.png
-.. |Crear Checking Barra de Herramientas| image:: resource/proceso-crear-checkin-barra-de-herramientas.png
-.. |Proceso Generar Orden de Venta Consumo| image:: resource/proceso-generar-orden-de-venta-consumo.png
-.. |Documentos Relacionados| image:: resource/visualiza-detalle-barra-de-herramientas.png
+.. |Boton Generar Orden de Venta| image:: resources/generate-sales-order-button.png
+.. |Numero de Orden de Venta| image:: resources/numero-ov-esquina-inferior-pantalla.png
+.. |Crear Checking Barra de Herramientas| image:: resources/proceso-crear-checkin-barra-de-herramientas.png
+.. |Proceso Generar Orden de Venta Consumo| image:: resources/proceso-generar-orden-de-venta-consumo.png
+.. |Documentos Relacionados| image:: resources/visualiza-detalle-barra-de-herramientas.png
 
 Compra paquete por importe
 

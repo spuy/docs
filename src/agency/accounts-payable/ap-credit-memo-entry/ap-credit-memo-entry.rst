@@ -1,7 +1,7 @@
-.. |Completar Nota de Credito| image:: resource/complete-credit-note.png
-.. |Ventana Documentos por Pagar| image:: resource/documents-payable-window.png
-.. |Smartbrowser| image:: resource/smartbrowser.png
-.. |Boton Crear Desde| image:: resource/boton-crear-desde.png
+.. |Completar Nota de Credito| image:: resources/complete-credit-note.png
+.. |Ventana Documentos por Pagar| image:: resources/documents-payable-window.png
+.. |Smartbrowser| image:: resources/smartbrowser.png
+.. |Boton Crear Desde| image:: resources/boton-crear-desde.png
 
 Ingreso de Nota de Crédito Proveedor
 

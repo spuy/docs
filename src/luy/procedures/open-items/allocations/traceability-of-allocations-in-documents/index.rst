@@ -1,4 +1,4 @@
-.. _src/adempiere/luy/procedures/open-items/allocations/traceability-of-allocations-in-documents:
+.. _src/luy/procedures/open-items/allocations/traceability-of-allocations-in-documents:
 
 ==================================================
 **Trazabilidad de Asignaciones en los Documentos**

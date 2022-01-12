@@ -1,5 +1,5 @@
-.. |Boton Asignar Facturas| image:: resource/boton-asignar-facturas.png
-.. |Moneda Sb Asignar Facturas| image:: resource/smartbrowser-asignar-facturas.png
+.. |Boton Asignar Facturas| image:: resources/boton-asignar-facturas.png
+.. |Moneda Sb Asignar Facturas| image:: resources/smartbrowser-asignar-facturas.png
 
 Recibo Multimoneda
 ------------------

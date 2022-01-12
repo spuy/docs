@@ -1,4 +1,4 @@
-.. _src/adempiere/luy/procedures/open-items/deferred-checks/procesing-ap-deferred-checks:
+.. _src/luy/procedures/open-items/deferred-checks/procesing-ap-deferred-checks:
 
 ==========================================
 **Gestión de Cheques diferidos por pagar**

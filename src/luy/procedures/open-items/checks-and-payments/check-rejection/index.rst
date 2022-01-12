@@ -1,4 +1,4 @@
-.. _src/adempiere/luy/procedures/open-items/checks-and-payments/check-rejection:
+.. _src/luy/procedures/open-items/checks-and-payments/check-rejection:
 
 =====================
 **Rechazo de Cheque**

@@ -1,3 +1,5 @@
+
+
 Cancelando un Documento por Pagar con un Cheque Recibido
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
