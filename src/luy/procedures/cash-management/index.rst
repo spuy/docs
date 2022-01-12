@@ -1,4 +1,4 @@
-.. _src/adempiere/luy/procedures/cash-management:
+.. _src/luy/procedures/cash-management:
 
 ====================
 **Gestión de Cajas**

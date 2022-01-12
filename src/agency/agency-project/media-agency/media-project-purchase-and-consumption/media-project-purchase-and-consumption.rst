@@ -1,10 +1,10 @@
-.. |Boton Generar Orden de Venta| image:: resource/boton-generar-ov.png
-.. |Crear checking| image:: resource/crear-checking-barra-herramientas.png
-.. |Generar OV| image:: resource/generar-ov.png
-.. |Lineas Fase Proyecto Grilla| image:: resource/lineas-fase-del-proyecto-grilla.png
-.. |Lineas Fase Proyecto| image:: resource/lineas-fase-del-proyecto.png
-.. |Representacion Impresa| image:: resource/representacion-impresa-oc.png
-.. |Visualiza Detalle| image:: resource/visualiza-detalle.png
+.. |Boton Generar Orden de Venta| image:: resources/boton-generar-ov.png
+.. |Crear checking| image:: resources/crear-checking-barra-herramientas.png
+.. |Generar OV| image:: resources/generar-ov.png
+.. |Lineas Fase Proyecto Grilla| image:: resources/lineas-fase-del-proyecto-grilla.png
+.. |Lineas Fase Proyecto| image:: resources/lineas-fase-del-proyecto.png
+.. |Representacion Impresa| image:: resources/representacion-impresa-oc.png
+.. |Visualiza Detalle| image:: resources/visualiza-detalle.png
 
 Se entiende como “Compra y Consumo” cuando se desee realizar una compra
 a un Medio en nombre de un Cliente y a su vez, en el mismo documento se

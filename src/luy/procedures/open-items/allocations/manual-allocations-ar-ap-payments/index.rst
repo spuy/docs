@@ -1,4 +1,4 @@
-.. _src/adempiere/luy/procedures/open-items/allocations/manual-allocations-ar-ap-payments:
+.. _src/luy/procedures/open-items/allocations/manual-allocations-ar-ap-payments:
 
 =======================================
 **Asignación manual de Pagos y Cobros**

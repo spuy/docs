@@ -1,8 +1,8 @@
-.. |Crear Desde| image:: resource/crear-desde.png
-.. |Gif 1| image:: resource/gif1.gif
-.. |Gif 2| image:: resource/gif2.gif
-.. |Pestaña CFEs Referidos| image:: resource/pestaña-cfes-referidos.png
-.. |Smartbrowser| image:: resource/sb.png
+.. |Crear Desde| image:: resources/crear-desde.png
+.. |Gif 1| image:: resources/gif1.gif
+.. |Gif 2| image:: resources/gif2.gif
+.. |Pestaña CFEs Referidos| image:: resources/pestaña-cfes-referidos.png
+.. |Smartbrowser| image:: resources/sb.png
 
 **Generar Nota de Crédito Cliente desde la Factura**
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

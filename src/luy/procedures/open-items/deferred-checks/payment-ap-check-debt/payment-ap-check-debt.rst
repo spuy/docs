@@ -1,7 +1,7 @@
-.. |Deposito de Cheque Propio| image:: resource/deposito-de-cheque-propio.png
-.. |Documento Generado| image:: resource/documento-generado.png
-.. |Proceso Debito de Cheques| image:: resource/proceso-debito-de-cheques.png
-.. |Seleccionar Lineas| image:: resource/seleccionar-lineas.png
+.. |Deposito de Cheque Propio| image:: resources/deposito-de-cheque-propio.png
+.. |Documento Generado| image:: resources/documento-generado.png
+.. |Proceso Debito de Cheques| image:: resources/proceso-debito-de-cheques.png
+.. |Seleccionar Lineas| image:: resources/seleccionar-lineas.png
 
 Los Débitos de Cheques Propios se deben realizar mediante el proceso
 automatizado de “Débito de Cheques”, el cual representa la salida de

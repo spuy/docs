@@ -1,6 +1,6 @@
-.. |Proceso Barra Herramientas| image:: resource/cabezal.png
-.. |Generar Cuotas desde Contrato de Servicio| image:: resource/generar-cuotas-desde-contrato-de-servicio.png
-.. |Proceso Masivo| image:: resource/proceso-masivo.png
+.. |Proceso Barra Herramientas| image:: resources/cabezal.png
+.. |Generar Cuotas desde Contrato de Servicio| image:: resources/generar-cuotas-desde-contrato-de-servicio.png
+.. |Proceso Masivo| image:: resources/proceso-masivo.png
 
 **Generación de Cuotas desde el Contrato de Servicio**
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

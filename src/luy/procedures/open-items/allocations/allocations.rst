@@ -1,12 +1,12 @@
-.. |Asignacion Factura Pago Cobro 1| image:: resource/asignacion-factura-pago-cobro-1.png
-.. |Asignacion Factura Pago Cobro 2| image:: resource/asignacion-factura-pago-cobro-2.png
-.. |Asignacion Factura Pago Cobro 3| image:: resource/asignacion-factura-pago-cobro-3.png
-.. |Asignacion Factura Pago Cobro 4| image:: resource/asignacion-factura-pago-cobro-4.png
-.. |Asignacion Factura Pago Cobro 5| image:: resource/asignacion-factura-pago-cobro-5.png
-.. |Asignacion Factura Pago Cobro 6| image:: resource/asignacion-factura-pago-cobro-6.png
-.. |Asignacion Nota de Credito 1| image:: resource/asignacion-nota-credito-1.png
-.. |Asignacion Nota de Credito 2| image:: resource/asignacion-nota-credito-2.png
-.. |Asignacion Nota de Credito 3| image:: resource/asignacion-nota-credito-3.png
+.. |Asignacion Factura Pago Cobro 1| image:: resources/asignacion-factura-pago-cobro-1.png
+.. |Asignacion Factura Pago Cobro 2| image:: resources/asignacion-factura-pago-cobro-2.png
+.. |Asignacion Factura Pago Cobro 3| image:: resources/asignacion-factura-pago-cobro-3.png
+.. |Asignacion Factura Pago Cobro 4| image:: resources/asignacion-factura-pago-cobro-4.png
+.. |Asignacion Factura Pago Cobro 5| image:: resources/asignacion-factura-pago-cobro-5.png
+.. |Asignacion Factura Pago Cobro 6| image:: resources/asignacion-factura-pago-cobro-6.png
+.. |Asignacion Nota de Credito 1| image:: resources/asignacion-nota-credito-1.png
+.. |Asignacion Nota de Credito 2| image:: resources/asignacion-nota-credito-2.png
+.. |Asignacion Nota de Credito 3| image:: resources/asignacion-nota-credito-3.png
 
 Es un documento que vincula dos o más elementos, de forma que se pueda
 tener una trazabilidad perfecta a causa de esta vinculación.

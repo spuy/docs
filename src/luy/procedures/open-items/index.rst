@@ -1,4 +1,4 @@
-.. _src/adempiere/luy/procedures/open-items:
+.. _src/luy/procedures/open-items:
 
 ===========================
 **Facturación Electrónica**

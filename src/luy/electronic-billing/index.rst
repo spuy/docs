@@ -1,4 +1,4 @@
-.. _src/adempiere/luy/electronic-billing:
+.. _src/luy/electronic-billing:
 
 ===========================
 **Facturación Electrónica**

@@ -1,5 +1,5 @@
-.. |Generar OV Inventario| image:: resource/generar-ov-inventario.png
-.. |Proceso Crear Checking| image:: resource/proceso-crear-checking.png
+.. |Generar OV Inventario| image:: resources/generar-ov-inventario.png
+.. |Proceso Crear Checking| image:: resources/proceso-crear-checking.png
 
 Creación de un “Proyecto de Medios” donde realizará la Inversión del
 cliente. La idea es que dentro de un mismo Proyecto se controle lo

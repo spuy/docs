@@ -1,4 +1,4 @@
-.. _src/adempiere/luy/procedures/open-items/deferred-checks/payment-ap-check-debt:
+.. _src/luy/procedures/open-items/deferred-checks/payment-ap-check-debt:
 
 ===========================
 **Débito de Cheque Propio**

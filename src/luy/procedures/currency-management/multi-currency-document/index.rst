@@ -1,4 +1,4 @@
-.. _src/adempiere/luy/procedures/currency-management/multi-currency-document:
+.. _src/luy/procedures/currency-management/multi-currency-document:
 
 ==========================
 **Documento Multi Moneda**

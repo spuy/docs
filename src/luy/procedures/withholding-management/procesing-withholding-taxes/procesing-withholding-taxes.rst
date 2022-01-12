@@ -1,4 +1,4 @@
-.. |Documentos Relacionados Barra de Herramientas| image:: resource/documentos-relacionados-barra-de-herramientas.png
+.. |Documentos Relacionados Barra de Herramientas| image:: resources/documentos-relacionados-barra-de-herramientas.png
 
 Cálculo de retenciones y creación de Resguardos a Proveedores.
 --------------------------------------------------------------

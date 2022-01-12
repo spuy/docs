@@ -1,4 +1,4 @@
-.. |Asignación de Recibos| image:: resource/asignacion-de-recibos.png
+.. |Asignación de Recibos| image:: resources/asignacion-de-recibos.png
 
 Asignación Manual de Recibos
 ============================

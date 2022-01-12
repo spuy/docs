@@ -1,4 +1,4 @@
-.. _src/adempiere/luy/procedures/currency-management/analyzing-revaluation-ap-ar:
+.. _src/luy/procedures/currency-management/analyzing-revaluation-ap-ar:
 
 ================================================
 **Analizando Diferencia de Cambio No Realizada**

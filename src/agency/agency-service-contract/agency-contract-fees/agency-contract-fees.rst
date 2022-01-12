@@ -1,10 +1,10 @@
-.. |Calculo Comisiones Barra Herramientas| image:: resource/calculo-comisiones-barra-herramientas-ov.png
-.. |Calculo Comisiones 1000095| image:: resource/calculo-de-comisiones-ventana-2.png
-.. |Calculo Comisiones 1000096| image:: resource/calculo-de-comisiones-ventana.png
-.. |Honorarios Contrato de Servicio Grilla| image:: resource/contrato-de-servicios-honorarios-grilla.png
-.. |Honorarios Contrato de Servicio| image:: resource/contrato-de-servicios-honorarios.png
-.. |OV Honorarios Barra Herramientas| image:: resource/ov-honorarios-barra-herramientas.png
-.. |Orden de Venta Honorarios Ventana| image:: resource/ov-honorarios-ventana.png
+.. |Calculo Comisiones Barra Herramientas| image:: resources/calculo-comisiones-barra-herramientas-ov.png
+.. |Calculo Comisiones 1000095| image:: resources/calculo-de-comisiones-ventana-2.png
+.. |Calculo Comisiones 1000096| image:: resources/calculo-de-comisiones-ventana.png
+.. |Honorarios Contrato de Servicio Grilla| image:: resources/contrato-de-servicios-honorarios-grilla.png
+.. |Honorarios Contrato de Servicio| image:: resources/contrato-de-servicios-honorarios.png
+.. |OV Honorarios Barra Herramientas| image:: resources/ov-honorarios-barra-herramientas.png
+.. |Orden de Venta Honorarios Ventana| image:: resources/ov-honorarios-ventana.png
 
 **Honorarios de un Contrato de Agencia**
 ----------------------------------------
@@ -61,18 +61,18 @@ Honorarios, es decir, según los filtros definidos en estos registros.
 
 .. only:: html
 
-    .. figure:: resources/gif-1-process.gif.gif
+    .. figure:: resources/gif-1-process.gif
 
     Video 1. Gif del Proceso 1
 
 .. only:: html
 
-    .. figure:: resources/gif-2-process.gif.gif
+    .. figure:: resources/gif-2-process.gif
 
     Video 2. Gif del Proceso 2
 
 .. only:: html
 
-    .. figure:: resources/gif-3-process.gif.gif
+    .. figure:: resources/gif-3-process.gif
 
     Video 3. Gif del Proceso 3

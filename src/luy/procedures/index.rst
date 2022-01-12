@@ -1,4 +1,4 @@
-.. _src/adempiere/luy/procedures:
+.. _src/luy/procedures:
 
 ==================
 **Procedimientos**

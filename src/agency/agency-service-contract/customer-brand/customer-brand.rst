@@ -1,5 +1,5 @@
-.. |Campaña de Mercadeo Cabezal| image:: resource/campaña-de-mercadeo-cabezal.png
-.. |Campaña de Mercadeo Pestaña Cliente| image:: resource/campaña-de-mercadeo-pestaña-cliente.png
+.. |Campaña de Mercadeo Cabezal| image:: resources/campaña-de-mercadeo-cabezal.png
+.. |Campaña de Mercadeo Pestaña Cliente| image:: resources/campaña-de-mercadeo-pestaña-cliente.png
 
 Crear Marca del Cliente obligatoria
 -----------------------------------

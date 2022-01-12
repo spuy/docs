@@ -1,4 +1,4 @@
-.. _src/adempiere/luy/procedures/open-items/transfer:
+.. _src/luy/procedures/open-items/transfer:
 
 =================
 **Transferencia**

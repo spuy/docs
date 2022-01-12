@@ -1,4 +1,4 @@
-.. _src/adempiere/luy/procedures/simple-accounting-entry:
+.. _src/luy/procedures/simple-accounting-entry:
 
 ===========================
 **Asiento Contable Simple**

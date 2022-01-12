@@ -1,4 +1,4 @@
-.. _src/adempiere/luy/procedures/open-items/deferred-checks/creating-ar-deferred-checks:
+.. _src/luy/procedures/open-items/deferred-checks/creating-ar-deferred-checks:
 
 ===========================================
 **Gestión de cheques diferidos por cobrar**

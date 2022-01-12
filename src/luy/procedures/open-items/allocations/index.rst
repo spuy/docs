@@ -1,4 +1,4 @@
-.. _src/adempiere/luy/procedures/open-items/allocations:
+.. _src/luy/procedures/open-items/allocations:
 
 ================
 **Asignaciones**

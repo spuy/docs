@@ -1,4 +1,4 @@
-.. _src/adempiere/luy/procedures/open-items/allocations/allocations-query:
+.. _src/luy/procedures/open-items/allocations/allocations-query:
 
 ==========================
 **Consulta de Asignación**

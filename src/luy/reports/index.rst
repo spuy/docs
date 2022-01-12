@@ -1,4 +1,4 @@
-.. _src/adempiere/luy/reports:
+.. _src/luy/reports:
 
 ============
 **Reportes**

@@ -1,4 +1,4 @@
-.. _src/adempiere/luy/procedures/currency-management:
+.. _src/luy/procedures/currency-management:
 
 ========================
 **Conversión de Moneda**

@@ -1,4 +1,4 @@
-.. _src/adempiere/luy/procedures/open-items/checks-and-payments/payment-manual-ap-checks:
+.. _src/luy/procedures/open-items/checks-and-payments/payment-manual-ap-checks:
 
 ============================
 **Cheques por Pagar Manual**
