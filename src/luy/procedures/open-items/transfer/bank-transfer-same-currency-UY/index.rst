@@ -1,4 +1,4 @@
-.. _src/adempiere/luy/procedures/open-items/transfer/bank-transfer-same-currency-uy:
+.. _src/luy/procedures/open-items/transfer/bank-transfer-same-currency-uy:
 
 =======================================
 **Transferencia bancaria misma moneda**

@@ -36,7 +36,7 @@ Revalorización Tipo de Documento: GL (General Ledger) donde genera el
 asiento de revaluación
 
 Comprobación del Proceso de Diferencia de Cambio de Cuentas Monetarias
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+----------------------------------------------------------------------
 
 Compare el saldo  actual (en la moneda esquema) de las cuentas contables
 monetarias y el saldo que debería tener a la fecha de cierre del Período

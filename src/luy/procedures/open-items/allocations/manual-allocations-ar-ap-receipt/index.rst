@@ -1,4 +1,4 @@
-.. _src/adempiere/luy/procedures/open-items/allocations/manual-allocations-ar-ap-receipt:
+.. _src/luy/procedures/open-items/allocations/manual-allocations-ar-ap-receipt:
 
 ===============================================
 **Asignación manual de Recibo de Pago y Cobro**

@@ -1,4 +1,4 @@
-.. _src/adempiere/luy/procedures/withholding-management/procesing-withholding-taxes:
+.. _src/luy/procedures/withholding-management/procesing-withholding-taxes:
 
 ==========================
 **Procesando retenciones**

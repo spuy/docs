@@ -14,7 +14,7 @@ se relaicen correctamente los procesos estándar re revaluación directo
 en los documentos.
 
 **Ajuste Diferencia de Cambio Entregas y Recepciones sin Facturar**
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Para comenzar este proceso se deberán realizar los siguientes pasos
 

@@ -1,4 +1,4 @@
-.. _src/adempiere/luy/procedures/withholding-management:
+.. _src/luy/procedures/withholding-management:
 
 ==========================
 **Gestión de Retenciones**

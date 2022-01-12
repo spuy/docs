@@ -30,7 +30,7 @@ por Cobrar:
 -  Cheques Diferidos por Pagar
 
 Este proceso se realiza en la ventana *Factura Pérdida/Ganancia no Realizada*
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+-----------------------------------------------------------------------------
 
 |Factura Perdida Ganancia No Realizada|
 
@@ -56,7 +56,7 @@ Realizada detallando línea a línea los Documentos con el cálculo
 realizado.
 
 Reporte de Diferencia de Cambio Documentos por Cobrar y Documentos por Pagar no Realizada
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 |Reporte Diferencia de Cambio DxC y DxP No Realizada|
 

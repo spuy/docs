@@ -185,4 +185,3 @@ Seleccione la opción “**Selección de Pago de Préstamos**”
     Imagen 18. Selección de Pagos Generada
 
 Esta opción lo llevará automáticamente a las selecciones de pago asociadas a este préstamo.
-

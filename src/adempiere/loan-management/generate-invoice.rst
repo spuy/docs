@@ -516,5 +516,3 @@ Total
 .. raw:: html
 
    </table>
-
-

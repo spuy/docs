@@ -1,4 +1,4 @@
-.. _src/adempiere/luy/procedures/open-items/payment-receipt/ap-payment-receipt-uy:
+.. _src/luy/procedures/open-items/payment-receipt/ap-payment-receipt-uy:
 
 ==================
 **Recibo de Pago**

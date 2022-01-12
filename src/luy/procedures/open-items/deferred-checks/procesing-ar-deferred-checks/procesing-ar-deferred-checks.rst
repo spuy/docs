@@ -29,7 +29,7 @@ Cheque de Tercero se ve desde la ventana “Depósito Cheque Tercero”.
 |Ventana Deposito de Cheque Tercero|
 
 Depósito de Cheque Tercero (Documento)
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+--------------------------------------
 
 En el cabezal de la Ventana Depósito de Cheque Tercero se verán los
 siguientes campos:

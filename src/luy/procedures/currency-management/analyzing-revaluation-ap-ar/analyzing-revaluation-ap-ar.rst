@@ -9,7 +9,7 @@ Abiertos que existe en los Auxiliares se puede realizar mediante los
 siguientes pasos:
 
 Verificación del Ajuste Cuentas por Pagar y por Cobrar
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+------------------------------------------------------
 
 1. Verificar que todos dan igual según Importe Fuente (Opcional)
 
@@ -28,7 +28,7 @@ Verificación del Ajuste Cuentas por Pagar y por Cobrar
    4. Balance de Prueba Cuenta “Cuenta por Pagar Comerciales”
 
 Explicación del Ajuste realziado por el Proceso de DIferencia de Cambio No Realizada
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+------------------------------------------------------------------------------------
 
 El proceso de diferencia de cambio No Realizada puede controlarse, para
 ello deberá exportar a Excel el Reporte que brinda el proceso del
@@ -46,13 +46,13 @@ Ejemplo:
 |Ejemplo|
 
 Comprobación de Cálculo de Diferencia de Cambio no Realizada
-------------------------------------------------------------
+============================================================
 
 Como forma de comprobación del proceso realizado usted podrá emitir los
 siguientes reportes:
 
 En Documentos por Pagar y Documentos por Cobrar
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+-----------------------------------------------
 
 Emitir Reportes de Saldos Abiertos a la Fecha del proceso de:
 
@@ -63,7 +63,7 @@ Considerar sólo las operaciones en Monedas Extranjeras (no hay filtro de
 MONEDA, las deberá excluir en una planilla externa)
 
 Verificación de Diferencias de Cambio Cuentas por Pagar  y Cuentas por Cobrar
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+-----------------------------------------------------------------------------
 
 Obtener el Informe Financiero “Balancete de Cuentas Contables” a fecha
 de Cierre de Ejercicio

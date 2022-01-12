@@ -118,4 +118,3 @@ Puede preparar la nómina cuantas veces sean necesarios. Cuando esté seguro de 
     |Selección de la acción Completar y opción OK|
 
     Imagen 15. Selección de la acción Completar y la opción OK.
-
