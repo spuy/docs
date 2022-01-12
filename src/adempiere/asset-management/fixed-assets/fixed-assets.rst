@@ -170,5 +170,3 @@ Seleccione en el campo "**Perdidas por Disposición**",
     |Campo Perdidas por Disposición|
 
     Imagen 21. Campo Perdidas por Disposición
-    
-

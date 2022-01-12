@@ -72,7 +72,7 @@ A continuación se definen los distintos tipos de accesos rápidos que este pose
     +-----------------+---------------------------------------------------------------------------------------------+
     |    **F6**       |Le permitirá buscar un registro.                                                             |
     +-----------------+---------------------------------------------------------------------------------------------+
-    |    **F7**       |Le permitirá adjuntar un documento o imagen en el registro actual donde se encuentre ubicado.|
+    |    **F7**       |Le permitirá adjuntar un doc. o imagen en el registro actual donde se encuentre ubicado.     |
     +-----------------+---------------------------------------------------------------------------------------------+
     |    **F8**       |Le permitirá cambiar el tipo de vista de mono vista a multivista.                            |
     +-----------------+---------------------------------------------------------------------------------------------+

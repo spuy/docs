@@ -88,7 +88,7 @@
 .. |Pestaña Información de Contrato Detalle| image:: resources/cambios.png
 .. |Pestaña Cuenta Bancaria| image:: resources/pestcuenta.png
 .. |Campo Banco| image:: resources/identibanco.png
-.. |Opción Ok| image:: resources/selecbanco.png
+.. |Selec Banco| image:: resources/selecbanco.png
 .. |Campo Tipo de Cuenta Bancaria| image:: resources/tipocuenta.png
 .. |Campo No. De Cuenta| image:: resources/numcuenta.png
 .. |Campo No. Seguro Social Cuenta| image:: resources/cedutitular.png
@@ -805,7 +805,7 @@ En el campo "**Banco**" seleccione el banco a registrar con ayuda del ícono ide
 
 A continuación podrá apreciar la siguiente ventana con los diferentes bancos, dónde debe seleccionar el banco que posee el socio del negocio empleado y la opción "**OK**" para cargar los datos al formulario.
 
-    |Opción Ok|
+    |Selec Banco|
 
     Imagen 90. Opción OK
 

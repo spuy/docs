@@ -1,4 +1,4 @@
-.. _src/adempiere/luy/procedures/open-items/payment-receipt/swapt-receipt-uy:
+.. _src/luy/procedures/open-items/payment-receipt/swapt-receipt-uy:
 
 ===================
 **Recibo de canje**

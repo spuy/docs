@@ -1,9 +1,9 @@
-.. |Asignar DxC| image:: resource/asignar-dxc.png
-.. |Asignar DxP| image:: resource/asignar-dxp.png
-.. |Nro Recibo Canje| image:: resource/campo-recibo-canje.png
-.. |Seleccionar Medio de Pago| image:: resource/medios-de-pago.png
-.. |Sb Asignar DxC| image:: resource/sb-asignar-dxc.png
-.. |Sb Asignar DxP| image:: resource/sb-asignar-dxp.png
+.. |Asignar DxC| image:: resources/asignar-dxc.png
+.. |Asignar DxP| image:: resources/asignar-dxp.png
+.. |Nro Recibo Canje| image:: resources/campo-recibo-canje.png
+.. |Seleccionar Medio de Pago| image:: resources/medios-de-pago.png
+.. |Sb Asignar DxC| image:: resources/sb-asignar-dxc.png
+.. |Sb Asignar DxP| image:: resources/sb-asignar-dxp.png
 
 **Canje de Recibos (misma moneda)**
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

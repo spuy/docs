@@ -13,4 +13,3 @@ En Solop ERP un producto es un artículo, recurso o servicio que puede ser produ
 
     product
     non-stockable-product/index
-

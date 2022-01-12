@@ -82,5 +82,4 @@
 
 - Problema con cálculo de impuesto en la orden de ventas cuando uno de los productos es exento
 - Error en cantidades a recepcionar en base a cantidades disponibles de órdenes de compra cuando se hace un **Recibo Express**
-- Permitir dejar abierta una orden de venta en el backend en lugar de llevar todo su saldo abierto a ajuste
-
+- Permitir dejar abierta una orden de venta en el backend en lugar de llevar todo su saldo abierto a ajuste.

@@ -1,4 +1,4 @@
-.. _src/adempiere/luy/procedures/open-items/transfer/multi-currency-bank-transfer-uy:
+.. _src/luy/procedures/open-items/transfer/multi-currency-bank-transfer-uy:
 
 ======================================
 **Transferencia bancaria multimoneda**
