@@ -18,3 +18,7 @@ Esta documentación pretende ofrecerle una guía fácil para la definición bás
     :maxdepth: 2
 
     business-partner
+    bussiness-partner-migration/index
+    customer/index
+    employee/index
+    vendor/index

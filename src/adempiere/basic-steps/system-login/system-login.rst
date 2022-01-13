@@ -1,12 +1,12 @@
 .. |Iniciar Sesión| image:: resource/iniciar-sesion.png
 .. |Usuario| image:: resource/usuario.png
-.. |Campo Contraseña del Usuario| image:: resource/campo-contraseña-usuario.png
+.. |Campo Contraseña del Usuario| image:: resource/user-password-field.png
 .. |Lenguaje| image:: resource/lenguaje.png
 .. |Recordar mis Datos| image:: resource/recordar-mis-datos.png
 .. |Botón OK| image:: resource/boton-ok.png
 .. |Login| image:: resource/login.png
 .. |Rol del Usuario| image:: resource/rol-del-usuario.png
-.. |Compañía| image:: resource/compañia.png
+.. |Compañía| image:: resource/company.png
 .. |Organización| image:: resource/organizacion.png
 .. |Almacén| image:: resource/almacen.png
 .. |Botón Acceder| image:: resource/boton-acceder.png

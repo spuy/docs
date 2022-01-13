@@ -1,4 +1,4 @@
-.. |Pestaña Tarea| image:: resource/proyecto-pestaña-tarea.png
+.. |Pestaña Tarea| image:: resource/task-tab-project.png
 
 **Nivel de Línea: Proyecto (Creativo Simple) / Primer Nivel**
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^

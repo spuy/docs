@@ -13,6 +13,7 @@
     basic-steps/index
     contract-management/index
     customer-relations/index
+    deferred-revenues-and-expenses/index
     distribution-management/index
     farmer-assistance-management/index
     human-resources-management/index
