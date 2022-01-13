@@ -5,7 +5,7 @@
 **Almacén**
 ===========
 
-El presente material elaborado por `ERPyA`_, pretende ofrecerle una explicación eficiente a nuestros clientes del procedimiento a seguir para registrar en ADempiere un almacén, en su versión 3.9.2 para la localización Venezuela.
+El presente material pretende ofrecerle una explicación eficiente a nuestros clientes del procedimiento a seguir para registrar en Solop ERP un almacén.
 
 .. toctree::
     :maxdepth: 2

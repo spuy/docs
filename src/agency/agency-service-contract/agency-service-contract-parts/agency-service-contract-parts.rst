@@ -1,4 +1,4 @@
-.. |Pestaña Partes del Contrato| image:: resource/pestaña-partes-del-contrato.png
+.. |Pestaña Partes del Contrato| image:: resource/contract-parts-tab.png
 .. |Sello Origen Cabezal Proyecto| image:: resource/sello-origen-cabezal-proyecto.png
 .. |Tipo de Empresa| image:: resource/tipo-de-empresa.png
 

@@ -1,7 +1,7 @@
 .. |Calculo Reconocimiento de Ingresos| image:: resources/calculo-reconocimiento-de-ingresos.png
 .. |Calculo Reconocimiento de Ingresos 2| image:: resources/calculo-reconocimiento-de-ingresos-2.png
 .. |Plan| image:: resources/plan-reconocimiento-de-ingresos.png
-.. |Proceso| image:: resources/proceso-calculo-reconocimiento-de-ingresos-2.png
+.. |Proceso| image:: resources/proceso-calculo-reconocimiento-de-ingresos.png
 
 Proceso de Reconocimiento
 =========================

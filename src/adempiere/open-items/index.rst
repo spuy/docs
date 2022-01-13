@@ -16,14 +16,15 @@ Por ello, se presenta la siguiente guía con instrucciones claras y precisas de 
 .. toctree::
     :maxdepth: 2
 
+    automatic-conciliations/index
     bank-transfer/index
-    payment-selection/index
-    print-export/index
-    payment/index
-    collection/index
-    cash-refund/index
+    cash-closing/index
     cash-per-diems/index
+    cash-refund/index
+    collection/index
     collection-cash/index
     pay-assignment/index
-    cash-closing/index
-    automatic-conciliations/index
+    payment/index
+    payment-selection/index
+    print-export/index
+    unidentified-payment-collection/index

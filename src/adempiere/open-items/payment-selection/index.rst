@@ -19,4 +19,3 @@ La "**Selección de Pagos de Cuentas por Pagar**" es utilizada cuando se define 
     pay-order
     payment-selection-payroll
     payment-selection-cxp
-

@@ -49,265 +49,265 @@ Para el registro de un documento en Solop ERP debe tener en cuenta que existen c
 
 .. warning::
 
-	Asegúrese  de que cada campo que se encuentre identificado como carácter obligatorio, contenga la información requerida, de lo contrario no podrá completar el registro.
+    Asegúrese  de que cada campo que se encuentre identificado como carácter obligatorio, contenga la información requerida, de lo contrario no podrá completar el registro.
 
 Ubique en el menú de Solop ERP la carpeta "**Gestión de Compras**", luego seleccione la ventana "**Órdenes de Compra**", adjunto imagen para referencia.
 
-	|Menú de ADempiere|
+    |Menú de ADempiere|
 
-	Imagen 1. Menú de Solop ERP
+    Imagen 1. Menú de Solop ERP
 
 Seleccione el icono "**Registro Nuevo**" en la barra de herramientas de Solop ERP para crear un nuevo documento.
 
-	|Icono de Registro Nuevo|
+    |Icono de Registro Nuevo|
 
-	Imagen 2. Registro Nuevo
+    Imagen 2. Registro Nuevo
 
-	Seleccione en el campo "**Compañía**", el nombre de la compañía de la cual se emite el documento "**Orden de Compra**".
+    Seleccione en el campo "**Compañía**", el nombre de la compañía de la cual se emite el documento "**Orden de Compra**".
 
-		|Campo Compañía|
+        |Campo Compañía|
 
-		Imagen 3. Campo Compañía
+        Imagen 3. Campo Compañía
 
-	Seleccione en el campo "**Organización**", el nombre de la organización de la cual se está emitiendo el documento "**Orden de Compra**".
+    Seleccione en el campo "**Organización**", el nombre de la organización de la cual se está emitiendo el documento "**Orden de Compra**".
 
-		|Campo Organización|
+        |Campo Organización|
 
-		Imagen 4. Campo Organización
+        Imagen 4. Campo Organización
 
-		.. warning::
+        .. warning::
 
-			El valor en el campo organización debe ser diferente del símbolo (*) ya que éste símbolo hace referencia a todas las Organizaciones.
+            El valor en el campo organización debe ser diferente del símbolo (*) ya que éste símbolo hace referencia a todas las Organizaciones.
 
 
-	En el campo "**No. de Documento**", no es necesario ingresarlo en forma manual, al momento de realizar un registro, Solop ERP genera un número de secuencia automáticamente para el documento, al seleccionar la opción guardar del nuevo registro de orden de compra.
+    En el campo "**No. de Documento**", no es necesario ingresarlo en forma manual, al momento de realizar un registro, Solop ERP genera un número de secuencia automáticamente para el documento, al seleccionar la opción guardar del nuevo registro de orden de compra.
 
-		|Campo No. del Documento|
+        |Campo No. del Documento|
 
-		Imagen 5. Campo No. del Documento
+        Imagen 5. Campo No. del Documento
 
-	En el campo "**Descripción**", Puede introduzca una breve descripción referente a la orden de compra que se está realizando, este campo es opcional.
+    En el campo "**Descripción**", Puede introduzca una breve descripción referente a la orden de compra que se está realizando, este campo es opcional.
 
-		|Campo Descripción|
+        |Campo Descripción|
 
-		Imagen 6. Campo Descripción
+        Imagen 6. Campo Descripción
 
-	Seleccione el tipo de documento a generar, en el campo "**Tipo de Documento Destino**", la selección de éste define el comportamiento del documento que se está elaborando, dicho comportamiento se encuentra definido en el documento **Tipo de Documento** elaborado por `ERPyA`_
+    Seleccione el tipo de documento a generar, en el campo "**Tipo de Documento Destino**", la selección de éste define el comportamiento del documento que se está elaborando, dicho comportamiento se encuentra definido en el documento **Tipo de Documento** elaborado por `ERPyA`_
 
-		|Campo Tipo de Documento Destino|
+        |Campo Tipo de Documento Destino|
 
-		Imagen 7. Campo Tipo de Documento Destino
+        Imagen 7. Campo Tipo de Documento Destino
 
-	Seleccione en el campo "**Fecha de la Orden**", la fecha de elaboración del documento "**Orden de Compra**".
+    Seleccione en el campo "**Fecha de la Orden**", la fecha de elaboración del documento "**Orden de Compra**".
 
-		|Campo Fecha de la Orden|
+        |Campo Fecha de la Orden|
 
-		Imagen 8. Campo Fecha de la Orden
+        Imagen 8. Campo Fecha de la Orden
 
-	Seleccione en el campo "**Fecha Prometida**", la fecha de entrega de la orden, prometida por el proveedor.
+    Seleccione en el campo "**Fecha Prometida**", la fecha de entrega de la orden, prometida por el proveedor.
 
-		|Campo Fecha Prometida|
+        |Campo Fecha Prometida|
 
-		Imagen 9. Campo Fecha Prometida
+        Imagen 9. Campo Fecha Prometida
 
-	En el campo "**Socio del Negocio**", debe seleccionar el nombre del socio del negocio (proveedor) al que se le emite el documento "**Orden de Compra**".
+    En el campo "**Socio del Negocio**", debe seleccionar el nombre del socio del negocio (proveedor) al que se le emite el documento "**Orden de Compra**".
 
-		|Campo Socio del Negocio|
+        |Campo Socio del Negocio|
 
-		Imagen 10. Campo Socio del Negocio
+        Imagen 10. Campo Socio del Negocio
 
-	Si el Socio de negocio, tiene más de una dirección registrada, debe seleccionar la dirección del socio del negocio, caso contrario, si posee dirección única, esta información se refleja automáticamente en el campo "**Dirección del Socio del Negocio**" una vez haya seleccionado el nombre del socio de negocio.
+    Si el Socio de negocio, tiene más de una dirección registrada, debe seleccionar la dirección del socio del negocio, caso contrario, si posee dirección única, esta información se refleja automáticamente en el campo "**Dirección del Socio del Negocio**" una vez haya seleccionado el nombre del socio de negocio.
 
-		|Campo Dirección del Socio del Negocio|
+        |Campo Dirección del Socio del Negocio|
 
-		Imagen 11. Campo Dirección del Socio del Negocio
+        Imagen 11. Campo Dirección del Socio del Negocio
 
 
-	En la sección de "**Entrega**"", se encuentran los siguientes grupos de campos: almacén, entrega directa y usuario, estos hacen referencia a:
+    En la sección de "**Entrega**"", se encuentran los siguientes grupos de campos: almacén, entrega directa y usuario, estos hacen referencia a:
 
-		"**Almacén**, en el cual se requiere el producto o servicio (Es de Carácter     obligatorio)
+        "**Almacén**, en el cual se requiere el producto o servicio (Es de Carácter     obligatorio)
 
-			|Campo Almacen|
+            |Campo Almacen|
 
-			Imagen 12 . Campo Almacén
+            Imagen 12 . Campo Almacén
 
-		"**Entrega Directa**, Indica que el proveedor realizará la entrega directamente al cliente.
+        "**Entrega Directa**, Indica que el proveedor realizará la entrega directamente al cliente.
 
-			|Campo Entrega Directa|
+            |Campo Entrega Directa|
 
-			Imagen 13. Campo Entrega Directa
+            Imagen 13. Campo Entrega Directa
 
-		"**Usuario**, Indica el Nombre del usuario de sistema.
+        "**Usuario**, Indica el Nombre del usuario de sistema.
 
-			|Campo Usuario|
+            |Campo Usuario|
 
-			Imagen 14. Campo Usuario
+            Imagen 14. Campo Usuario
 
-		En el campo seleccionable "**Vía de Entrega**", debe seleccionar la opción que indique, de qué manera serán entregados los productos o servicios de la orden.
+        En el campo seleccionable "**Vía de Entrega**", debe seleccionar la opción que indique, de qué manera serán entregados los productos o servicios de la orden.
 
-			|Campo Vía de Entrega|
+            |Campo Vía de Entrega|
 
-			Imagen 15. Campo Vía de Entrega
+            Imagen 15. Campo Vía de Entrega
 
-		En el campo seleccionable "**Regla de Costo de Flete**", debe seleccionar la regla para cargar los costos del flete, por lo general se establece: Flete Incluido.
+        En el campo seleccionable "**Regla de Costo de Flete**", debe seleccionar la regla para cargar los costos del flete, por lo general se establece: Flete Incluido.
 
-			|Campo Regla de Costo de Flete|
+            |Campo Regla de Costo de Flete|
 
-			Imagen 16. Campo Regla de Costo de Flete
+            Imagen 16. Campo Regla de Costo de Flete
 
-		Seleccione la prioridad de la orden en el campo "**Prioridad**", este campo indica la urgencia de los productos o servicios que se están ordenando en el documento, sin embargo, el documento trae predeterminado la opción "**Media**".
+        Seleccione la prioridad de la orden en el campo "**Prioridad**", este campo indica la urgencia de los productos o servicios que se están ordenando en el documento, sin embargo, el documento trae predeterminado la opción "**Media**".
 
-			|Campo Prioridad|
+            |Campo Prioridad|
 
-			Imagen 17. Campo Prioridad
+            Imagen 17. Campo Prioridad
 
-	En la sección de "**Facturación**", se encuentran los siguientes grupos de campos, (Todos de carácter obligatorio, para el registro de la orden que será emitida)
+    En la sección de "**Facturación**", se encuentran los siguientes grupos de campos, (Todos de carácter obligatorio, para el registro de la orden que será emitida)
 
-		"**Lista de Precios**", siempre debe ser Compras, esta determina el precio, margen y costo de los artículos comprados.
+        "**Lista de Precios**", siempre debe ser Compras, esta determina el precio, margen y costo de los artículos comprados.
 
-			|Campo Lista de Precios|
+            |Campo Lista de Precios|
 
-			Imagen 18. Campo Lista de Precios
+            Imagen 18. Campo Lista de Precios
 
-		"**Moneda**", dependerá del Tipo de Documento seleccionado, es decir, si el tipo de documento es : "**Orden de Compra Nacional**" la moneda será (VES) moneda nacional en curso. Caso contrario, "**Orden de Compra Importación**" la moneda será, cualquier moneda extranjera que sea utilizada por la compañía para realizar este tipo de compras, ejemplo:(USD,EUR,COP, entre otros).
+        "**Moneda**", dependerá del Tipo de Documento seleccionado, es decir, si el tipo de documento es : "**Orden de Compra Nacional**" la moneda será (VES) moneda nacional en curso. Caso contrario, "**Orden de Compra Importación**" la moneda será, cualquier moneda extranjera que sea utilizada por la compañía para realizar este tipo de compras, ejemplo:(USD,EUR,COP, entre otros).
 
-			|Campo Moneda|
+            |Campo Moneda|
 
-			Imagen 19. Campo Moneda
+            Imagen 19. Campo Moneda
 
-		"**Agente de la Compañía**", será el agente de compras para el documento.
+        "**Agente de la Compañía**", será el agente de compras para el documento.
 
-			|Campo Agente Compania|
+            |Campo Agente Compania|
 
-			Imagen 20. Campo Agente Compañía
+            Imagen 20. Campo Agente Compañía
 
-		"**Término de pago**", indica las condiciones, método y tiempo de pago de la compra.
+        "**Término de pago**", indica las condiciones, método y tiempo de pago de la compra.
 
-			|Campo Término de Pago|
+            |Campo Término de Pago|
 
-			Imagen 21. Campo Término de Pago
+            Imagen 21. Campo Término de Pago
 
-	.. warning::
+    .. warning::
 
-		Recuerde guardar el registro de la ventana, seleccionando el icono "**Guardar**" ubicado en la barra de herramientas, una vez guardado el nuevo registro, podrá  avanzar a la pestaña "**Línea Orden Compra**".
+        Recuerde guardar el registro de la ventana, seleccionando el icono "**Guardar**" ubicado en la barra de herramientas, una vez guardado el nuevo registro, podrá  avanzar a la pestaña "**Línea Orden Compra**".
 
 Seleccione la pestaña "**Línea Orden Compra**" y proceda seleccionando el Producto o Servicio a ordenar. Si la orden de compra contiene varios productos, el campo "**Nro. de Línea**"", indicará el orden y despliegue de los mismos dentro del documento. Una vez que guarde el primer producto, deberá seleccionar nuevo, incrementando así el número de líneas por productos en el documento.
 
-	.. warning::
+    .. warning::
 
-		Los campos "**Compañía**", "**Organización**", "**Orden de Compra**", "**Socio del Negocio**" y "**Dirección del Socio del Negocio**", vienen precargados de la ventana principal "**Orden de Compra**".
+        Los campos "**Compañía**", "**Organización**", "**Orden de Compra**", "**Socio del Negocio**" y "**Dirección del Socio del Negocio**", vienen precargados de la ventana principal "**Orden de Compra**".
 
-	|Línea de la Orden de Compra|
+    |Línea de la Orden de Compra|
 
-	Imagen 22. Línea Orden Compra
+    Imagen 22. Línea Orden Compra
 
-	En la Sección "**Cantidades**", se encuentra el siguiente grupo de Campos: cantidad, unidad de medida, cantidad ordenada, cantidad facturada. cantidad reservada y cantidad entregada.
-
-
-		"**Cantidad**", indica la cantidad del producto  en la compra.
-
-			|Campo Cantidad|
-
-			Imagen 23. Campo Cantidad
-
-		"**Unidad de Medida**, indica la unidad de medida del producto ordenado.
-
-			|Campo Unidad de Medida|
-
-			Imagen 24. Campo Unidad de Medida
-
-		"**Cantidad Facturada**, indica la cantidad de un producto que ha sido facturado.
-
-			|Campo Cantidad Facturada|
-
-			Imagen 25. Campo Cantidad Facturada
+    En la Sección "**Cantidades**", se encuentra el siguiente grupo de Campos: cantidad, unidad de medida, cantidad ordenada, cantidad facturada. cantidad reservada y cantidad entregada.
 
 
-		"**Cantidad Reservada**, indica la cantidad del producto que ha sido reservado para otras órdenes.
+        "**Cantidad**", indica la cantidad del producto  en la compra.
 
-			|Campo Cantidad Reservada|
+            |Campo Cantidad|
 
-			Imagen 26. Campo Cantidad Reservada
+            Imagen 23. Campo Cantidad
+
+        "**Unidad de Medida**, indica la unidad de medida del producto ordenado.
+
+            |Campo Unidad de Medida|
+
+            Imagen 24. Campo Unidad de Medida
+
+        "**Cantidad Facturada**, indica la cantidad de un producto que ha sido facturado.
+
+            |Campo Cantidad Facturada|
+
+            Imagen 25. Campo Cantidad Facturada
 
 
-		"**Cantidad Entregada**, indica la cantidad de un producto que ha sido entregado.
+        "**Cantidad Reservada**, indica la cantidad del producto que ha sido reservado para otras órdenes.
 
-			|Campo Cantidad Entregada|
+            |Campo Cantidad Reservada|
 
-			Imagen 27. Campo Cantidad Entregada
+            Imagen 26. Campo Cantidad Reservada
 
-			.. warning::
 
-				En la sección Cantidades, solo deberá ingresar  la información en el primer campo, el cual es Cantidad. Los demás, presentaran movimientos sólo sí se se han realizado para la orden de compra, más de una recepción, en relación a la cantidad total de la compra.
+        "**Cantidad Entregada**, indica la cantidad de un producto que ha sido entregado.
 
-	Seleccione en el campo "**Cantidad**", la cantidad a ordenar del producto o servicio seleccionado.
+            |Campo Cantidad Entregada|
 
-		|Ingresar en Campo Cantidad|
+            Imagen 27. Campo Cantidad Entregada
 
-		Imagen 28. Campo Cantidad
+            .. warning::
 
-	Seleccione la unidad de medida del producto seleccionado en el campo "**UM**", esta puede ser unidad, gramos, kilos, toneladas, entre otras.
+                En la sección Cantidades, solo deberá ingresar  la información en el primer campo, el cual es Cantidad. Los demás, presentaran movimientos sólo sí se se han realizado para la orden de compra, más de una recepción, en relación a la cantidad total de la compra.
 
-		|Campo UM|
+    Seleccione en el campo "**Cantidad**", la cantidad a ordenar del producto o servicio seleccionado.
 
-		Imagen 29. Campo UM
+        |Ingresar en Campo Cantidad|
 
-	En la Sección "**Totales**" se encuentran los siguientes grupos de campos:
+        Imagen 28. Campo Cantidad
 
-		"**Precio**", este precio está basado en la unidad de medida.
+    Seleccione la unidad de medida del producto seleccionado en el campo "**UM**", esta puede ser unidad, gramos, kilos, toneladas, entre otras.
 
-			|Campo Precio|
+        |Campo UM|
 
-			Imagen 30. Campo Precio
+        Imagen 29. Campo UM
 
-	 	"**Precio de Costo**", indica el precio por unidad de medida, incluyendo todos los costos (Fletes, Traslados, entre otros)
+    En la Sección "**Totales**" se encuentran los siguientes grupos de campos:
 
-			|Campo Precio Costo|
+        "**Precio**", este precio está basado en la unidad de medida.
 
-			Imagen 31. Campo Precio Costo
+            |Campo Precio|
 
-		"**Precio Actual**", indica el precio para un producto en la moneda fuente.
+            Imagen 30. Campo Precio
 
-			|Campo Precio Actual|
+        "**Precio de Costo**", indica el precio por unidad de medida, incluyendo todos los costos (Fletes, Traslados, entre otros)
 
-			Imagen 32. Campo Precio Actual
+            |Campo Precio Costo|
 
-		"**Precio Lista**", indica el precio de la lista oficial en la moneda del documento.
+            Imagen 31. Campo Precio Costo
 
-			|Campo Precio Lista|
+        "**Precio Actual**", indica el precio para un producto en la moneda fuente.
 
-			Imagen 33. Campo Precio Lista
+            |Campo Precio Actual|
 
-		"**Impuesto**", indica el tipo de impuesto para esta línea del documento.
+            Imagen 32. Campo Precio Actual
 
-			|Campo Impuesto|
+        "**Precio Lista**", indica el precio de la lista oficial en la moneda del documento.
 
-			Imagen 34. Campo Impuesto
+            |Campo Precio Lista|
 
-		"**Descuento**", indica el impuesto aplicado o tomado como un porcentaje.
+            Imagen 33. Campo Precio Lista
 
-			|Campo Descuento|
+        "**Impuesto**", indica el tipo de impuesto para esta línea del documento.
 
-			Imagen 35. Campo Descuento
+            |Campo Impuesto|
 
-	Introduzca el precio unitario del producto seleccionando en el campo "**Precio**", este precio es el establecido por el socio del negocio proveedor.
+            Imagen 34. Campo Impuesto
 
-		|Ingresar en Campo Precio|
+        "**Descuento**", indica el impuesto aplicado o tomado como un porcentaje.
 
-		Imagen 36. Campo Precio
+            |Campo Descuento|
 
-	Seleccione el impuesto en el campo "**Impuesto**", este puede variar dependiendo del impuesto aplicable al producto seleccionado.
+            Imagen 35. Campo Descuento
 
-		|Ingresar en Campo Impuesto|
+    Introduzca el precio unitario del producto seleccionando en el campo "**Precio**", este precio es el establecido por el socio del negocio proveedor.
 
-		Imagen 37 Campo Impuesto
+        |Ingresar en Campo Precio|
 
-	.. warning::
+        Imagen 36. Campo Precio
 
-		Recuerde guardar el registro de la pestaña "**Línea Orden Compra**" con el icono "**Guardar**" de la barra de herramientas de Solop ERP, antes de cambiar a la ventana principal "**Orden de Compra**".
+    Seleccione el impuesto en el campo "**Impuesto**", este puede variar dependiendo del impuesto aplicable al producto seleccionado.
+
+        |Ingresar en Campo Impuesto|
+
+        Imagen 37 Campo Impuesto
+
+    .. warning::
+
+        Recuerde guardar el registro de la pestaña "**Línea Orden Compra**" con el icono "**Guardar**" de la barra de herramientas de Solop ERP, antes de cambiar a la ventana principal "**Orden de Compra**".
 
 Regrese a la ventana principal "**Orden de Compra**" y seleccione la opción "**Completar**" ubicada en la parte inferior derecha del documento.
 
-	|Opción Completar|
+    |Opción Completar|
 
-	Imagen 38. Opción Completar
+    Imagen 38. Opción Completar
