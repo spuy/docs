@@ -132,17 +132,24 @@ ocasiona cierto saldo en cada una de ellas.
 .. toctree::
     :maxdepth: 2
 
-    type-of-application
     accounting-element/index
+    accounting-reports/index
+    accounting-setup-master/index
+    analyzing-balances/index
+    chart-of-accounts/index
+    costing/index
+    currency-conversion/index
+    currency-management/index
+    financial-period/index
+    gl-distribution/index
+    gl-journal-batch/index
+    reconcile-ap-ar-accounts/index
+    transaction-accounting/index
+    year-end-closing-procedure/index
+    type-of-application
     opening-accounting-period
     unposted-documents
     accounting-dimensions
     accounting-combination
-    currency-conversion/index
-    gl-distribution/index
-    accounting-setup-master/index
-    transaction-accounting/index
     re-posting-accounting-data-from-profit-and-loss-accounts
-    costing/index
-    gl-journal-batch/index
-    accounting-reports/index
+
