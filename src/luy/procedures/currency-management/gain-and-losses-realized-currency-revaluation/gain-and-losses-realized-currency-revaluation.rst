@@ -1,3 +1,5 @@
+.. |Ajuste del Impuesto| image:: resource/ajuste-del-impuesto.png
+
 **Diferencias de Cambio sobre Documentos por Cobrar o Pagar**
 =============================================================
 
@@ -1727,7 +1729,7 @@ Para los Ajustes de Impuesto se tomará la Cuenta Contable definida en el
 Campo “Impuesto Pagado” o “Impuesto Acreditado según sea Documentos por
 Cobrar o Documentos por Pagar correspondientemente.
 
-.. image:: https://lh4.googleusercontent.com/sh_GgfbzcWtObFj8OZa2GzQ38KaeqUz6eIkr36_5RvH2Qyc3LTGgGLeaPmEbmbrLwXlF6A0mMgTpF97NVgAtKkMzHEQWvW5d-7Sg_9ucIe9s-L3x6C7uqosl0HytuEkqo5KyD78h
+|Ajuste del Impuesto|
 
 **Criterio de Definición de Cuentas Contables Resultado**
 

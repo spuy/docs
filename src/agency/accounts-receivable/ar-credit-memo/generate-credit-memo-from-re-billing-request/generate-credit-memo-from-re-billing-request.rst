@@ -1,5 +1,3 @@
-
-
 .. |Solicitud| image:: resource/solicitud.png
 
 **Solicitud de Re-facturación**

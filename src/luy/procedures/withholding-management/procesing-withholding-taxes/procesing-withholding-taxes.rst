@@ -82,4 +82,4 @@ seleccionando “Resguardo” en el campo Regla de pago, y el banco
 Este banco tiene una definición contable que va a mover la cuenta de
 "Retenciones Recibidas" (Ver definición de Cuentas Bancarias).
 
-.. image:: /api/v3/attachments/475/content
+|Documentos Relacionados Barra de Herramientas|

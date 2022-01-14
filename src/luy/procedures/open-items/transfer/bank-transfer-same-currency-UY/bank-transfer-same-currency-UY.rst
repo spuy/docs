@@ -1,4 +1,4 @@
-.. |Transferencia Bancaria Multimoneda| image:: resource/multi-currency-transfer-process.png
+.. |Transferencia Bancaria Multimoneda| image:: resources/multi-currency-transfer-process.png
 
 Transferencia Bancaria misma moneda
 -----------------------------------
