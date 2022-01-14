@@ -1,4 +1,3 @@
-.. |Gif del Proceso| image:: resource/process-gif.gif
 .. |Crear Checking| image:: resource/view-detail.png
 
 ### **Checkin de la Pauta**
@@ -11,4 +10,8 @@ El checking se puede acceder desde los Procesos definidos en el Proyecto de Medi
 
 Al realizar la búsqueda desde el SmartBrowser de Checkin, deberá seleccionar las líneas que han sido emitidas, confirmando a su vez la cantidad en cuestión de dicha emisión.
 
-|Gif del Proceso|
+.. only:: html
+
+    .. figure:: resource/process-gif.gif
+
+    Video 1. Gif del Proceso
