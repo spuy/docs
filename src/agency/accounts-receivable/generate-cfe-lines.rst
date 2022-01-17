@@ -2,7 +2,7 @@
 .. |Criterio de Facturación SDN| image:: resources/sdn.png
 
 **Generar Líneas de CFE**
-~~~~~~~~~~~~~~~~~~~~~~~~~
+=========================
 
 En vista a que las líneas del Documento por Cobrar no siempre se
 corresponden con las líneas a enviar en el CFE e imprimir en la
@@ -47,10 +47,10 @@ proyecto, en caso contrario quedará vacío**
 fase de proyecto, en caso contrario quedará vacío**
 
 **Configuración del Socio del Negocio**
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+---------------------------------------
 
 **Criterio de Líneas en Factura**
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 En cada Socio del Negocio se podrá pre configurar el criterio de
 facturación que se desee. Esto se debe definir en la pestaña Cliente de

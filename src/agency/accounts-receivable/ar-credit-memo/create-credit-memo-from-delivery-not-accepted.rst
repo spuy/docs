@@ -1,8 +1,8 @@
-.. |Generar Devoluciones| image:: resource/generar-devoluciones.png
-.. |Generar NC Desde Devolucion| image:: resource/generar-nc-desde-devolucion.png
+.. |Generar Devoluciones| image:: resources/generar-devoluciones.png
+.. |Generar NC Desde Devolucion| image:: resources/generar-nc-desde-devolucion.png
 
 **Generar Devoluciones a Cliente**
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+==================================
 
 Se deberá realizar la “Devolución de Cliente” cuando un Cliente solicita
 o el Ejecutivo de Ventas solicita en nombre del cliente, la emisión de
@@ -29,7 +29,7 @@ del lado del Proveedor estarán las “Devoluciones Proveedor” (o RMA)
 pendientes de generar Notas de Crédito Proveedor cuando estas lleguen.
 
 **Generación de Nota de Crédito**
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+=================================
 
 Este acto se complementa con la Generación posterior de la “Nota de
 Crédito Cliente” a partir de la Devolución Cliente. Esta acción se podrá
@@ -47,7 +47,7 @@ información correspondiente de “Sello, Sello Origen, Contrato de
 Servicios, DxC que Asignará, Proyecto, etc.
 
 **Control Nota de Crédito sólo si está facturado**
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+--------------------------------------------------
 
 Las devoluciones se podrán realizar siempre y cuando exista una
 Entrega/Recepción pero estas, si bien pueden aparecer no podrán ser

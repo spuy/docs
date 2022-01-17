@@ -5,7 +5,7 @@
 .. |Smartbrowser| image:: resources/sb.png
 
 **Generar Nota de Crédito Cliente desde la Factura**
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+====================================================
 
 Para generar una Nota de Crédito Cliente mediante la opción **“Crear
 desde”** se utilizará la ventana Documentos por Cobrar.

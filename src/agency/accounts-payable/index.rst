@@ -9,5 +9,5 @@
 .. toctree::
     :maxdepth: 2
 
-    ap-credit-memo-entry/index
-    purchase-invoice-entry/index
+    ap-credit-memo-entry
+    purchase-invoice-entry
