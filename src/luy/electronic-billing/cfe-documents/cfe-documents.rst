@@ -49,7 +49,7 @@ hacer desde la ventana “Socio del Negocio”:
 
 El Envío del Comprobante Fiscal Electrónico (CFE), ya sea e-Factura o
 e-Ticket se genera cuando se “Completa” el Documento en cuestión desde
-ADempiere.
+Solop ERP.
 
 Para el caso de Retail, al completar una Orden de Venta del Tipo “POS
 Order” desde el Punto de Venta se genera automáticamente el Documento
@@ -72,7 +72,7 @@ devuelto puede tener un tiempo de espera que variara dependiendo de
 diversas condiciones (ancho de banda del ISP, estado de procesamiento en
 DGI, etc.)
 
-**Datos del CFE en ADempiere:**
+**Datos del CFE en Solop ERP:**
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Todos la información referente a la Facturación Electrónica del CFE se
@@ -96,7 +96,7 @@ documento a InvoiCy y DGI.
 
 **Estado del CFE:** Para visualizar el Estado actualizado del Envío del
 CFE a DGI se deberá ingresar a la Plataforma de Facturación Electrónica.
-Por ADempiere sólo se podrá contar con la respuesta inicial, si es
+Por Solop ERP sólo se podrá contar con la respuesta inicial, si es
 Firmado OK o si es Rechazado por algún error.
 
 Los mensajes de Error si no se logra Firmar el CFE se podrán visualizar
@@ -106,7 +106,7 @@ en el campo “Información Extra del CFE”.
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 La opción de Nota de Crédito para la ventana del POS aun no esta
-implementada, para generarla, se ingresa en ADempiere mediante la
+implementada, para generarla, se ingresa en Solop ERP mediante la
 ventana “Factura Cliente Simple” y se ingresa la información obligatoria
 como se muestra:
 

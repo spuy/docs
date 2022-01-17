@@ -1,5 +1,5 @@
 **Orden de Venta a Facturar en Cuotas**
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+=======================================
 
 Una Orden de venta podrá definirse que se pueda facturar en N Cuotas.
 

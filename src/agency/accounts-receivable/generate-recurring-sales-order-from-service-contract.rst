@@ -2,7 +2,7 @@
 .. |Generar OV desde Cuota de Contrato| image:: resource/generate-sales-order-from-contract-fee.png
 
 **Generar Órdenes de Venta recurrente desde Contrato de Servicios**
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+===================================================================
 
 A partir de la definición de las líneas de un contrato se puede generar
 Órdenes de Venta según los Servicios Recurrentes que deban ser

@@ -1,5 +1,5 @@
 **Servicio Facturado pero No Entregado**
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+========================================
 
 Para este caso, debido a que el importe que se deberá generar una Nota
 de Crédito aún no fue Entregado, es decir no se realizó Checking, para
@@ -10,7 +10,7 @@ las “Cantidad Ordenada” de sus líneas son llevadas a la “Cantidad
 Entregada”.
 
 **Control de Facturación correcta en Órdenes de Venta**
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+-------------------------------------------------------
 
 El sistema, luego de Cerrar una Orden, realizará un control de verificar
 si la Orden de Venta está Correctamente Facturada. Este Control implica

@@ -1,9 +1,7 @@
-
-
 Procesando transacciones de Caja/Bancos
 =======================================
 
-En ADempiere puede agregar rápidamente transacciones que registran los
+En Solop ERP puede agregar rápidamente transacciones que registran los
 cobros de los clientes, los pagos a los proveedores, los reembolsos
 recibidos de proveedores, cargos y comisiones bancarias, retiros de
 Caja/Banco y diversos ajustes. Además, puede controlar las cuentas de

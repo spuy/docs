@@ -1,5 +1,3 @@
-
-
 Opciones Para Emitir Cheques
 ============================
 

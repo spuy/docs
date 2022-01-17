@@ -1,7 +1,7 @@
-.. |Solicitud| image:: resource/solicitud.png
+.. |Solicitud| image:: resources/solicitud.png
 
 **Solicitud de Re-facturación**
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+===============================
 
 En caso que se solicite realizar una Nota de Crédito a un Cliente pero
 sin modificar la Entrega correspondiente ya que está correcta, se deberá

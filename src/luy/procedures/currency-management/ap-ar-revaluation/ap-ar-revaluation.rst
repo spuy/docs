@@ -10,7 +10,7 @@ Debido a que la tasa de cambio cambia con el tiempo, es posible que deba
 determinar el valor actual de estos documentos en la fecha especificada
 de revaluación (generalmente al final del período financiero).
 
-ADempiere puede calcular las ganancias o pérdidas no realizadas
+Solop ERP puede calcular las ganancias o pérdidas no realizadas
 realizando la revalorización de los documentos abiertos de Cuentas por
 Pagar y Cuentas por Cobrar creados en moneda extranjera de forma
 simultánea. Cuando el sistema realiza la revaluación, vuelve a calcular

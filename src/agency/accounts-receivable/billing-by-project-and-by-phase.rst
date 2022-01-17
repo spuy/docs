@@ -1,13 +1,13 @@
-.. |DxC Criterio Facturación Fase| image:: resource/criterio-facturacion-fase-dxc.png
-.. |SDN Criterio Facturación| image:: resource/criterio-de-facturacion-sdn.png
-.. |Descripción| image:: resource/descripcion.png
-.. |Documento por Cobrar Criterio Facturación Linea| image:: resource/docxcobrar.png
-.. |Generar Factura desde Linea de Orden| image:: resource/generar-factura-linea-de-orden.png
-.. |Generar Lineas Factura CFE| image:: resource/generar-lineas-factura-cfe.png
-.. |SDN Criterio Facturación Fase| image:: resource/sdn-criterio-de-facturacion-fase.png
+.. |DxC Criterio Facturación Fase| image:: resources/criterio-facturacion-fase-dxc.png
+.. |SDN Criterio Facturación| image:: resources/criterio-de-facturacion-sdn.png
+.. |Descripción| image:: resources/descripcion.png
+.. |Documento por Cobrar Criterio Facturación Linea| image:: resources/docxcobrar.png
+.. |Generar Factura desde Linea de Orden| image:: resources/generar-factura-linea-de-orden.png
+.. |Generar Lineas Factura CFE| image:: resources/generar-lineas-factura-cfe.png
+.. |SDN Criterio Facturación Fase| image:: resources/sdn-criterio-de-facturacion-fase.png
 
 **Facturación por Proyecto**
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+============================
 
 Al facturar por Proyecto el sistema generará una línea por todas las
 líneas que posea el Proyecto con la descripción del mismo, la cual
@@ -70,7 +70,7 @@ en Factura” en el cabezal del Proyecto.
 van en otra línea a parte.**
 
 **Facturación por Fase**
-^^^^^^^^^^^^^^^^^^^^^^^^
+========================
 
 Al facturar por Fase el sistema generará una línea agrupándolas por Fase
 del Proyecto con la descripción de las mismas, las cuales obtiene del

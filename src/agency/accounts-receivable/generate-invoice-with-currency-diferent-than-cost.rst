@@ -3,6 +3,7 @@
 .. |Actualizar Tasa Barra de Herramientas| image:: resource/update-conversion-rate-process.png
 
 Facturar al Cliente en moneda diferente al Costo
+================================================
 
 En caso que al Cliente se le deba Facturar en otra moneda, la Orden de
 Venta deberá ser en la misma moneda que se comprará al Proveedor, pero

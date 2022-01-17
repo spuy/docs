@@ -8,14 +8,14 @@
 .. |Ordenes de Venta Grilla| image:: resources/ov-grilla.png
 
 Generar Factura desde Orden de Venta
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+====================================
 
 Las órdenes de venta generadas en el sistema pueden ser facturadas de
 manera ágil y masiva utilizando el proceso **"Generar Factura desde
 Línea de Orden".**
 
 **Precondiciones**
-^^^^^^^^^^^^^^^^^^
+------------------
 
 Para poder facturar una Orden de Venta, esta tiene que estar
 
@@ -93,7 +93,7 @@ Factura, estas puede ser por:
    diferentes clientes.
 
 **¿Por qué motivo puede no referenciarse un Proyecto en una factura?**
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+----------------------------------------------------------------------
 
 El Proyecto se referenciará en la factura siempre que el criterio de
 agrupación que se haya elegido para agrupar las lineas de Orden al
@@ -128,7 +128,7 @@ Nota: En el caso que se defina la opción para Completar el documento se
 ejecutará automáticamente el proceso Generar líneas de CFE.
 
 **Criterio de Facturación (definición de Líneas de Factura)**
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+-------------------------------------------------------------
 
 El **Criterio de Facturación** permite generar líneas más resumidas de
 la información que se está Facturando, adaptando así según la necesidad
@@ -146,7 +146,7 @@ será criterio que se va a utilizar para generar las líneas que se
 detallarán en el CFE (e-Factura o e-Ticket).
 
 Facturación de Honorarios en Línea independiente
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+------------------------------------------------
 
 El Criterio de Facturación aplicará siempre para las líneas de
 "Inversión" del cliente, agrupando según el criterio seleccionado. Esto
@@ -156,10 +156,7 @@ o Fase de Proyecto, estos siempre irán en una línea aparte detallando
 que son Honorarios.
 
 **Proceso automático**
-^^^^^^^^^^^^^^^^^^^^^^
-
-**Proceso automático**
-^^^^^^^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~~~~~~~
 
 El Criterio que se definirá en cada factura será el que cada cliente
 tenga definido en su ficha, pudiendo ser por Línea (normal), por
@@ -185,7 +182,7 @@ cada Fase del Proyecto en cuestión.
 Este proceso se puede realizar de forma automática o manual.
 
 **Proceso Manual**
-^^^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~~~
 
 Si para alguna factura en especial se desea utilizar un Criterio de
 Facturación diferente al que tiene definido el Cliente por defecto, se
@@ -205,7 +202,7 @@ CFE", seleccionando la opción desde los Procesos asociados a la Factura.
 |Proceso Generar Lineas de Factura para CFE|
 
 **Posibles Errores Controlados**
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+--------------------------------
 
 **Varios Términos de Pago en las Órdenes de Venta seleccionadas**
 

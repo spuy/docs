@@ -1,14 +1,14 @@
-.. |Boton Crear Desde| image:: resource/boton-crear-desde-.png
-.. |Completar Documento| image:: resource/complete-document-.png
-.. |Ventana Documentos por Pagar| image:: resource/documents-payable-window-.png
-.. |Seleccionar Lineas| image:: resource/seleccionar-lineas-.png
-.. |Smartbrowser| image:: resource/smartbrowser.png
+.. |Boton Crear Desde| image:: resources/boton-crear-desde-.png
+.. |Completar Documento| image:: resources/complete-document-.png
+.. |Ventana Documentos por Pagar| image:: resources/documents-payable-window-.png
+.. |Seleccionar Lineas| image:: resources/seleccionar-lineas-.png
+.. |Smartbrowser| image:: resources/sb.png
 
 Ingreso de Factura de Compra
-----------------------------
+============================
 
 **Precondiciones con Orden de Compra**
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+--------------------------------------
 
 Para poder ingresar una factura de una Orden de Compra, esta tiene que
 estar
@@ -17,7 +17,7 @@ estar
 -  Cantidad Facturada < Cantidad Recibida en la Línea de la Orden.
 
 **Documentos por pagar**
-~~~~~~~~~~~~~~~~~~~~~~~~
+------------------------
 
 Utilizaremos esta ventana para ingresar una Factura de proveedor.
 

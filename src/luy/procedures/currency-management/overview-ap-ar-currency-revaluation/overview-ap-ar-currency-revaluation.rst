@@ -12,7 +12,7 @@ Estas diferencias de cambio pueden ser:
 -  Diferencias de Cambio realizadas
 -  Diferencias de Cambio no realizadas
 
-ADempiere gestiona tanto las diferencias de cambio realizadas como las
+Solop ERP gestiona tanto las diferencias de cambio realizadas como las
 no realizadas.
 
 Diferencia de Cambio Realizada
@@ -59,5 +59,5 @@ de existir diferencia aplicará en ese momento el ajuste correspondiente
 a la Diferencia de Cambio Realizada correspondiente.
 
 En el caso que esa diferencia de cambio realizada esté gravada por
-impuestos de venta o compra, ADempiere realizará el cargo
+impuestos de venta o compra, Solop ERP realizará el cargo
 correspondiente a los impuestos por Pagar o Impuestos por Cobrar.
