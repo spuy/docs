@@ -2,7 +2,7 @@
 .. |Campaña de Mercadeo Pestaña Cliente| image:: resources/client-tab-marketing-campaign.png
 
 Crear Marca del Cliente obligatoria
------------------------------------
+===================================
 
 Una Marca Cliente se creará desde la ventana "Campaña de Mercadeo".
 

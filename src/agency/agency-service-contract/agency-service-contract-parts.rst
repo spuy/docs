@@ -1,8 +1,9 @@
-.. |Pestaña Partes del Contrato| image:: resource/contract-parts-tab.png
-.. |Sello Origen Cabezal Proyecto| image:: resource/sello-origen-cabezal-proyecto.png
-.. |Tipo de Empresa| image:: resource/tipo-de-empresa.png
+.. |Pestaña Partes del Contrato| image:: resources/contract-parts-tab.png
+.. |Sello Origen Cabezal Proyecto| image:: resources/sello-origen-cabezal-proyecto.png
+.. |Tipo de Empresa| image:: resources/tipo-de-empresa.png
 
-Partes de un Contrato de Agencia
+**Partes del Contrato de Servicio**
+===================================
 
 Esta pestaña define las diferentes partes que intervienen en un Contrato
 de Servicios.

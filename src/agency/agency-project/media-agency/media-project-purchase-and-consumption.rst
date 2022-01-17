@@ -6,8 +6,8 @@
 .. |Representacion Impresa| image:: resources/representacion-impresa-oc.png
 .. |Visualiza Detalle| image:: resources/visualiza-detalle.png
 
-Proyecto de Medios Compra y Consumo
-===================================
+**Proyecto de Medios Compra y Consumo**
+=======================================
 
 Se entiende como “Compra y Consumo” cuando se desee realizar una compra
 a un Medio en nombre de un Cliente y a su vez, en el mismo documento se

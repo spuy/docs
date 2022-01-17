@@ -7,10 +7,10 @@
 .. |Orden de Venta Honorarios Ventana| image:: resources/ov-honorarios-ventana.png
 
 **Honorarios de un Contrato de Agencia**
-----------------------------------------
+========================================
 
 **Cálculo de Honorarios**
-~~~~~~~~~~~~~~~~~~~~~~~~~
+-------------------------
 
 El cálculo automático de honorarios (Cálculo de comisiones) se calculará
 al momento de completar las Órdenes de venta y lo harán sobre éstas, no
@@ -46,7 +46,7 @@ Inversión del Cliente.
 |Orden de Venta Honorarios Ventana|
 
 **Definición de Honorarios**
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+----------------------------
 
 Según el Contrato de servicio se obtendrán sus correspondientes
 Honorarios variables, según la definición que exista en la pestaña
@@ -57,7 +57,7 @@ Honorarios, es decir, según los filtros definidos en estos registros.
 |Honorarios Contrato de Servicio|
 
 **Ejemplo del proceso**
-~~~~~~~~~~~~~~~~~~~~~~~
+-----------------------
 
 .. only:: html
 

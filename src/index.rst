@@ -50,7 +50,7 @@ Le invitamos a descubrir cómo hacer su día a día más sencillo con el uso de 
     agency/accounts-receivable/index
     agency/agency-project/index
     agency/agency-service-contract/index
-    agency/fees-commission-calculation-update/index
+    agency/fees-calculation-update/index
     agency/returns/index
 
 .. toctree::

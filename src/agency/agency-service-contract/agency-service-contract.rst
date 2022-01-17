@@ -1,10 +1,10 @@
-.. |Fechas Cabezal| image:: resource/fechas-cabezal.png
-.. |Facturacion Cabezal| image:: resource/facturacion-cabezal.png
-.. |Marca y Organizacion Cabezal| image:: resource/marca-y-organizacion-cabezal.png
-.. |Socio del Negocio Cabezal| image:: resource/socio-del-negocio-cabezal.png
+.. |Fechas Cabezal| image:: resources/fechas-cabezal.png
+.. |Facturacion Cabezal| image:: resources/facturacion-cabezal.png
+.. |Marca y Organizacion Cabezal| image:: resources/marca-y-organizacion-cabezal.png
+.. |Socio del Negocio Cabezal| image:: resources/socio-del-negocio-cabezal.png
 
 **Contrato de Servicios de Agencia**
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+====================================
 
 El Contrato con un Socio de Negocio resume en un documento la
 representación de determinado acuerdo realizado con un Tercero. Este
@@ -12,7 +12,7 @@ Acuerdo puede ser tanto con un Cliente como con un Proveedor y regulará
 condiciones para las transacciones a realizar entre ambos.
 
 Cabezal de la ventana Contrato de Servicio
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+------------------------------------------
 
 Aquí deberán definirse los siguientes datos:
 

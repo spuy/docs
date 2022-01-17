@@ -4,10 +4,11 @@
 .. |Pestaña Linea de tarea| image:: resources/task-line.png
 .. |Pestaña Tarea| image:: resources/task-tab.png
 
-### **Cotizaciones**
+**Cotizaciones**
+================
 
 **Cotización para Clientes**
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+----------------------------
 
 El Ejecutivo de Cuentas creará un Proyecto en el cual definirá lo
 solicitado por el cliente.
@@ -60,10 +61,10 @@ que se desea Cotizar.
 |Pestaña Tarea|
 
 **Generando Cotizaciones (Producción)**
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+---------------------------------------
 
 **Ventana: Tarea de Proyecto**
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Dentro de la ventana Tarea de Proyecto, Producción podrá visualizar
 todas las Tareas que se deberán realizar en cada uno de los Proyectos.

@@ -1,6 +1,3 @@
-**Actualización de Cálculo de comisiones para Honorarios**
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
 Se deberán seguir los siguientes pasos:
 
 -  Desde el Contrato de servicio, pestaña Honorarios modificaremos el
