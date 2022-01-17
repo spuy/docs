@@ -4,8 +4,8 @@
 .. |Proceso Generar Orden de Venta Consumo| image:: resources/proceso-generar-orden-de-venta-consumo.png
 .. |Documentos Relacionados| image:: resources/visualiza-detalle-barra-de-herramientas.png
 
-Compra paquete por importe
-==========================
+**Compra paquete por importe**
+==============================
 
 Se considera una Pre-Compra o Compra con Inversión cuando se realiza una
 compra a un Medio en nombre de un Cliente para que la misma pueda ser

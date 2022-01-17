@@ -1,5 +1,5 @@
-Orden de Compra Cliente Obligatoria para Facturar
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+**Orden de Compra Cliente Obligatoria para Facturar**
+=====================================================
 
 Según el Contrato con el cliente se puede definir si es obligatorio o no
 que el Nro. de la Orden de Compra del Cliente esté definido en las

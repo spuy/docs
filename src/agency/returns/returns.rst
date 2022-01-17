@@ -1,8 +1,8 @@
-.. |Crear Desde Sb| image:: resource/proceso-crear-desde.png
-.. |Generar Devoluciones Sb| image:: resource/proceso-generar-devoluciones.png
+.. |Crear Desde Sb| image:: resources/proceso-crear-desde.png
+.. |Generar Devoluciones Sb| image:: resources/proceso-generar-devoluciones.png
 
-**Generar Devoluciones a Cliente**
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+**Devoluciones a Cliente**
+==========================
 
 Se deberá realizar la “Devolución de Cliente” cuando un Cliente solicita
 o el Ejecutivo de Ventas solicita en nombre del cliente, la emisión de
@@ -31,7 +31,7 @@ del lado del Proveedor estarán las “Devoluciones Proveedor” (o RMA)
 pendientes de generar Notas de Crédito Proveedor cuando estas lleguen.
 
 **Devolución al Proveedor**
-^^^^^^^^^^^^^^^^^^^^^^^^^^^
+===========================
 
 El proceso de “Generar Devoluciones” generará también una “Devolución
 Proveedor” por la Cantidad que se definió en el proceso, el precio será
