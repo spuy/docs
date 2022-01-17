@@ -1,6 +1,7 @@
-.. |SDN Pestaña Miembros por Defecto| image:: resource/business-partner-window-members-by-default-tab.png
+.. |SDN Pestaña Miembros por Defecto| image:: resources/business-partner-window-members-by-default-tab.png
 
 Miembros del Proyecto
+=====================
 
 En cada Proyecto se podrá agregar Miembros. Los Miembros del Proyecto
 serán todos aquellos usuarios, internos como externos que estén

@@ -5,6 +5,7 @@
 .. |Documentos Relacionados| image:: resources/visualiza-detalle-barra-de-herramientas.png
 
 Compra paquete por importe
+==========================
 
 Se considera una Pre-Compra o Compra con Inversión cuando se realiza una
 compra a un Medio en nombre de un Cliente para que la misma pueda ser
@@ -30,7 +31,7 @@ deberán definir en las Líneas de Tarea, definiendo Producto, Fecha
 Emisión, Descripción del Programa, Cantidad y Precio.
 
 **Pre-Compra**
-~~~~~~~~~~~~~~
+--------------
 
 Se comienza generando un Proyecto con nivel de línea “Tarea”:
 
@@ -118,7 +119,7 @@ la misma que deberá ser enviada al Proveedor del Medio.
     Video 3. Completar Orden de Venta y Orden de Compra
 
 **Consumo**
-~~~~~~~~~~~
+-----------
 
 Desde la tarea se deberá crear una Orden de Venta del Tipo “Orden de
 Venta (Consumo)” tomando los datos definidos en la misma y en sus
@@ -180,7 +181,7 @@ mediante el “Checking”.
     Video 5. Línea de Tarea
 
 **Checking**
-~~~~~~~~~~~~
+------------
 
 Luego de contar con una “Orden de Publicidad (Consumo)” o una “Orden de
 Publicidad (Compra y Consumo)” en Estado “Completo”, la misma se deberá

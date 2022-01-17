@@ -8,11 +8,11 @@
 .. toctree::
     :maxdepth: 2
 
-    creative-agency-project/index
-    customer-quotation/index
-    direct-purchase-on-behalf-client/index
-    project-line-level/index
-    project-members/index
-    project-requests/index
-    project-type/index
-    sales-order-from-project/index
+    creative-agency-project
+    customer-quotation
+    direct-purchase-on-behalf-client
+    project-line-level
+    project-members
+    project-requests
+    project-type
+    sales-order-from-project

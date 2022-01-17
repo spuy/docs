@@ -1,8 +1,8 @@
-.. |No encontrado Fecha Limite| image:: resource/deadline-error-message.png
-.. |Pestaña Fase| image:: resource/phase-tab.png
-.. |Ventana Tarea de Proyecto| image:: resource/project-task-window.png
-.. |Pestaña Linea de tarea| image:: resource/task-line.png
-.. |Pestaña Tarea| image:: resource/task-tab.png
+.. |No encontrado Fecha Limite| image:: resources/deadline-error-message.png
+.. |Pestaña Fase| image:: resources/phase-tab.png
+.. |Ventana Tarea de Proyecto| image:: resources/project-task-window.png
+.. |Pestaña Linea de tarea| image:: resources/task-line.png
+.. |Pestaña Tarea| image:: resources/task-tab.png
 
 ### **Cotizaciones**
 

@@ -9,10 +9,10 @@ manejar mediante la FASE la “\ *Inversión”*, y mediante la Tarea y
 líneas de la Tarea la *“Recepción”*.
 
 **Compra Inventario**
-~~~~~~~~~~~~~~~~~~~~~
+=====================
 
 **Se comienza generando un Proyecto con nivel de línea “Tarea”**
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+----------------------------------------------------------------
 
 -  En la ventana de Proyecto de Medios se deberá crear un proyecto
    definiendo:
@@ -40,7 +40,7 @@ líneas de la Tarea la *“Recepción”*.
 
 
 **Definición del Proveedor de la Inversión:**
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+---------------------------------------------
 
 **En la Fase del Proyecto se deberá definir el Proveedor donde se realizará la inversión**
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -61,7 +61,7 @@ negocio Entrega Directa** es importante que el mismo:
 
 
 **Orden de Inventario:**
-~~~~~~~~~~~~~~~~~~~~~~~~
+------------------------
 
 | Desde la Tarea se crea la **Orden de Inventario** donde se definirán
   los Productos a comprar. El proceso de generar una Compra de
@@ -121,14 +121,14 @@ debería ser el Almacén definido para el Cliente por el cual se compró
 los productos.
 
 **Reporte “Detalle de Almacenamiento Simple”**
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+----------------------------------------------
 
 Se podrá confirmar el ingreso de los productos al almacén mediante el
 reporte de “Detalle de Almacenamiento Simple” seleccionando el Almacén
 en cuestión.
 
 **Orden de Venta y Orden de Compra a Facturar**
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+-----------------------------------------------
 
 Desde la **FASE**  se deberá crear una “Orden de Venta Inversión”, ésta
 será realizada según el Producto genérico definido en la FASE (Ej:
@@ -162,7 +162,7 @@ en diferentes “Cuotas” se deberá:
     Video 8. Completar Orden de Venta a Facturar
 
 **Consumo de Inventario**
-~~~~~~~~~~~~~~~~~~~~~~~~~
+-------------------------
 
 Cuando un cliente cuente con inventario previamente comprado y se quiera
 consumir parte del mismo, se deberá crear directamente una Orden de
@@ -200,7 +200,7 @@ bajándolo de stock.
 
 
 **Checking**
-~~~~~~~~~~~~
+------------
 
 |Proceso Crear Checking|
 

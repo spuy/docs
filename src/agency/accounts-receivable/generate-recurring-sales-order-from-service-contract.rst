@@ -1,5 +1,5 @@
-.. |Generar Cuotas a Facturar desde Contrato de Servicio| image:: resource/generate-fees-to-bill-from-the-service-contract-process.png
-.. |Generar OV desde Cuota de Contrato| image:: resource/generate-sales-order-from-contract-fee.png
+.. |Generar Cuotas a Facturar desde Contrato de Servicio| image:: resources/generate-fees-to-bill-from-the-service-contract-process.png
+.. |Generar OV desde Cuota de Contrato| image:: resources/generate-sales-order-from-contract-fee.png
 
 **Generar Órdenes de Venta recurrente desde Contrato de Servicios**
 ===================================================================

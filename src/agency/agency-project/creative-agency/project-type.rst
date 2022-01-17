@@ -1,5 +1,5 @@
 **Tipo de Proyecto**
-~~~~~~~~~~~~~~~~~~~~
+====================
 
 El sistema brinda diferentes “Plantillas” donde se puede definir una
 estructura Tipo en la cual basarse para crear un Proyecto. Esta puede

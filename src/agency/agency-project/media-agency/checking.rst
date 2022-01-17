@@ -1,6 +1,7 @@
-.. |Crear Checking| image:: resource/view-detail.png
+.. |Crear Checking| image:: resources/view-detail.png
 
 ### **Checkin de la Pauta**
+===========================
 
 Luego de contar con una **“Orden de Publicidad (Compra y Consumo)”** en Estado “Completo”, la misma se deberá confirmar mediante el Checking.
 

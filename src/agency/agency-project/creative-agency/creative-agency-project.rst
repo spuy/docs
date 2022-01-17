@@ -1,5 +1,5 @@
 Proyecto de Agencia Creativa
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+============================
 
 El Proyecto de Agencia Creativa será donde se deba ingresar todo pedido
 realizado por el cliente. Desde el Proyecto se vinculará todos los

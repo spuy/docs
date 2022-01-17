@@ -1,8 +1,8 @@
 **Gestión de Medios**
----------------------
+=====================
 
 **Proyecto de Medios**
-~~~~~~~~~~~~~~~~~~~~~~
+----------------------
 
 El Proyecto de Medios centraliza el pedido realizado por el cliente,
 asociando todo tipo de documentos que hayan sido generados a lo largo de
@@ -79,10 +79,10 @@ su Facturación.
 estado de los proyectos.
 
 **Campos del Proyecto**
-^^^^^^^^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~~~~~~~~
 
 Campos Manuales
-'''''''''''''''
+^^^^^^^^^^^^^^^
 
 Se deberán definir manualmente de forma obligatoria los siguientes
 campos:
@@ -133,7 +133,7 @@ se podrá definir en la Orden de Venta una moneda diferente a ser
 Facturado junto con su Tasa de Cambio acordada. \_
 
 **Campos Automáticos:**
-'''''''''''''''''''''''
+^^^^^^^^^^^^^^^^^^^^^^^
 
 Los siguientes campos, entre otros, se definirán de manera automática
 (igualmente se podrán modificar si se desea).
@@ -316,7 +316,7 @@ Agencia de Medios Digitales
    pestaña Cliente ventana Socio del Negocio.
 
 **Tamaño del Proyecto (Campo “Nivel de Línea”)**
-''''''''''''''''''''''''''''''''''''''''''''''''
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Un Proyecto podrá tener diferentes niveles según su complejidad o
 tamaño. Dentro del Nivel seleccionado, se contará con una pestaña de
