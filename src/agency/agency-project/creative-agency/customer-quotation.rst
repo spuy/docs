@@ -1,10 +1,10 @@
-.. |Boton Crear Orden de Venta| image:: resource/create-sales-order-button.png
-.. |Grilla de la Pestaña Tarea| image:: resource/task-tab-grid.png
-.. |Pestaña Fase| image:: resource/phase-tab.png
-.. |Pestaña Tarea| image:: resource/task-tab.png
+.. |Boton Crear Orden de Venta| image:: resources/create-sales-order-button.png
+.. |Grilla de la Pestaña Tarea| image:: resources/task-tab-grid.png
+.. |Pestaña Fase| image:: resources/fase-tab.png
+.. |Pestaña Tarea| image:: resources/tarea-tab.png
 
 Cotización para Clientes
-~~~~~~~~~~~~~~~~~~~~~~~~
+========================
 
 El Ejecutivo de Cuentas creará un Proyecto en el cual definirá lo
 solicitado por el cliente. En caso de que el mismo incluya realizar una
@@ -54,7 +54,7 @@ considere en caso de ser necesario para realizar la cotización.
 |Grilla de la Pestaña Tarea|
 
 **Generar Orden de Venta desde Solicitud de Cotización**
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+--------------------------------------------------------
 
 Una vez generada la Solicitud de Cotización (RFQ-Request for Quotation),
 evaluadas las respuestas, y aceptado una Respuesta de Cotización por el
@@ -82,7 +82,7 @@ automáticamente se generará la Orden de Compra Enlazada según Entrega
 Directa.
 
 Orden de Venta con Margen
-'''''''''''''''''''''''''
+-------------------------
 
 En caso de contar con “% de Margen” (Mark-Up), el precio real enviado
 por la Cotización se definirá en la línea de la Orden de Compra. En caso

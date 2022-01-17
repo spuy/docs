@@ -1,8 +1,8 @@
 **Errores frecuentes**
-~~~~~~~~~~~~~~~~~~~~~~
+======================
 
 **Error 1: No me aparece el Cliente para elegir en el proyecto:**
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+-----------------------------------------------------------------
 
 **Solución:**
 
@@ -15,6 +15,7 @@ Tipo de Proyecto que se esté generando (Medios, Creativo, Digital,
 RRPP).
 
 **Error 2: No se encuentra Sello Origen**
+-----------------------------------------
 
 **Solución:**
 

@@ -1,7 +1,10 @@
-.. |Pestaña Tarea| image:: resource/task-tab-project.png
+.. |Pestaña Tarea| image:: resources/task-tab-project.png
+
+Nivel de Línea
+==============
 
 **Nivel de Línea: Proyecto (Creativo Simple) / Primer Nivel**
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+-------------------------------------------------------------
 
 El Nivel Proyecto se deberá utilizar cuando la Campaña o Trabajo (Job) a
 realizar es simple. Esto quiere decir que el Proyecto tendrá
@@ -15,7 +18,7 @@ agrupación intermedia.
    -  “To-Do” (Solicitud)
 
 **Nivel de Línea: Fase (Campaña Multimedia) / Segundo Nivel**
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+-------------------------------------------------------------
 
 La Fase es el segundo nivel del Proyecto. Se deberá utilizar en los
 siguientes casos:
@@ -37,7 +40,7 @@ la Campaña (Proyecto).
       -  Solicitud (“To-Do”)
 
 **Nivel de Línea: Tarea (Producción o Campaña Multimedia) / Tercer Nivel**
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+--------------------------------------------------------------------------
 
 El Nivel de Proyecto hasta TAREA agrega un nivel adicional (3er Nivel)
 al Proyecto antes de llegar a la definición de Solicitudes (To-Do).

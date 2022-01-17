@@ -1,9 +1,9 @@
-.. |Pestaña Fase| image:: resource/phase-tab.png
-.. |Pestaña Orden de Venta| image:: resource/sales-order-tab.png
-.. |Pestaña Proveedor| image:: resource/supplier-tab.png
+.. |Pestaña Fase| image:: resources/phase-tab.png
+.. |Pestaña Orden de Venta| image:: resources/sales-order-tab.png
+.. |Pestaña Proveedor| image:: resources/supplier-tab.png
 
 **Compra Directa a un Proveedor en nombre de Cliente**
-------------------------------------------------------
+======================================================
 
 Cuando el Proyecto incluya realizar una compra específica a un proveedor
 pero que no es necesario pasar por el proceso de generar una Solicitud
@@ -47,7 +47,7 @@ Proveedor vacío.
 |Pestaña Proveedor|
 
 **Checking**
-~~~~~~~~~~~~
+------------
 
 Luego de contar con una “Orden de Compra” en Estado “Completo”, la misma
 se deberá confirmar mediante su delivery mediante el Checkin.
@@ -61,10 +61,6 @@ El checking se puede acceder de dos maneras:
 2. Menú. Desde el proceso Checkin ubicado en el menú, en este caso se
    podrá filtrar según desee pudiendo ver más de un proyecto a la vez
    para confirmar.
-
-Barra de Herramientas/ Procesos:
-
-.. image:: https://lh5.googleusercontent.com/0S0ogDdsbUZzeqJ8zX17SWPIZOFp_v6BbiuSd19i8_QVjX2i9Fi1BMqKfN4PWNGPSiBhB2fBJPyTMYwhNTDB2ufy2e_k6ZP99PMmru3b7TDJN3xEBIStD8xEfHlzT6Et4yTdJps5
 
 Documentos sobre los que se debe realizar checking:
 

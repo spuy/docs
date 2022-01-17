@@ -6,6 +6,9 @@
 .. |Representacion Impresa| image:: resources/representacion-impresa-oc.png
 .. |Visualiza Detalle| image:: resources/visualiza-detalle.png
 
+Proyecto de Medios Compra y Consumo
+===================================
+
 Se entiende como “Compra y Consumo” cuando se desee realizar una compra
 a un Medio en nombre de un Cliente y a su vez, en el mismo documento se
 solicita también su emisión.
@@ -27,7 +30,7 @@ detallan los pasos a seguir para su operativa:
 
 .. only:: html
 
-    .. figure:: resources/gif-cabezal.gif
+    .. figure:: resources/cabezal-gif.gif
 
     Video 1. Cabezal
 
@@ -37,7 +40,7 @@ proveedor.**
 
 .. only:: html
 
-    .. figure:: resources/gif-fase.gif
+    .. figure:: resources/fase-gif.gif
 
     Video 2. Fase
 
@@ -167,6 +170,6 @@ cantidad en cuestión de dicha emisión.
 
 .. only:: html
 
-    .. figure:: resources/gif-crear-checking.gif
+    .. figure:: resources/crear-checking-gif.gif
 
     Video 7. Crear Checking

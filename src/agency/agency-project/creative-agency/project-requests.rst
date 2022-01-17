@@ -1,11 +1,11 @@
-.. |Ventana Todas las Solicitudes| image:: resource/all-requests-window.png
-.. |Solicitud Menu| image:: resource/menu.png
-.. |Proyecto Pestaña Solicitudes de Fase| image:: resource/phase-requests-tab.png
-.. |Solicitud Pestaña Aviso de Actualizacion| image:: resource/request-window-notifications-notice-tab.png
-.. |Ventana Solicitud| image:: resource/request-window.png
+.. |Ventana Todas las Solicitudes| image:: resources/all-requests-window.png
+.. |Solicitud Menu| image:: resources/menu.png
+.. |Proyecto Pestaña Solicitudes de Fase| image:: resources/phase-requests-tab.png
+.. |Solicitud Pestaña Aviso de Actualizacion| image:: resources/request-window-notifications-notice-tab.png
+.. |Ventana Solicitud| image:: resources/request-window.png
 
 **Solicitudes del Proyecto**
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+============================
 
 Dentro de cada Proyecto se podrá crear diferentes Solicitudes asociadas
 al mismo. La ventaja de generar las Solicitudes desde un Proyecto, Fase
@@ -19,7 +19,7 @@ desde la Barra de herramientas (Ver todas las solicitudes).
 |Proyecto Pestaña Solicitudes de Fase|
 
 **Solicitud (To-Do)**
-^^^^^^^^^^^^^^^^^^^^^
+---------------------
 
 Una Solicitud refiere a una Tarea específica (To-Do) que tiene
 determinado *Asunto*, *Descripción* y está *Asignado A* un Usuario con
@@ -48,7 +48,7 @@ del Sistema”.*
 |Ventana Todas las Solicitudes|
 
 **Solicitudes Asignadas a uno**
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+-------------------------------
 
 Esta ventana será la que el usuario siempre ingresará para ver todo lo
 que tiene pendiente de realizar, viendo claramente todo lo que tiene
@@ -61,7 +61,7 @@ pertenece.
 |Ventana Solicitud|
 
 Acceso directo a la ventana
-'''''''''''''''''''''''''''
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Esta ventana será de muy fácil acceso, existiendo un acceso directo
 desde la Bandeja de Entrada del usuario con el Botón “Solicitudes”. Al
@@ -71,7 +71,7 @@ Solicitudes que tiene “Vencidas”
 |Solicitud Menu|
 
 Todas las Solicitudes
-^^^^^^^^^^^^^^^^^^^^^
+---------------------
 
 En esta Ventana de “Todas las Solicitudes” se podrá visualizar todas las
 Solicitudes que estén creadas en el sistema. Cada usuario podrá ver las
@@ -79,7 +79,7 @@ que le permita su Rol y en la misma se podrá aplicar los filtros
 deseados para buscar las que necesite ver.
 
 Solicitudes de Cuentas
-^^^^^^^^^^^^^^^^^^^^^^
+----------------------
 
 La Ventana de “Solicitudes de Cuentas” está creada para que los
 Ejecutivos de cuenta específicamente (que serán “Gerentes de Proyecto”
@@ -90,7 +90,7 @@ de los sus Proyectos.
 Estas podrán estar asignadas a ellos o a cualquier otro usuario.
 
 Historial de Actualizaciones de Solicitud (Feed)
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+------------------------------------------------
 
 Dentro de cada Solicitud se podrá visualizar el historial de
 actualizaciones que tuvo la misma a lo largo del tiempo. En cada
@@ -100,7 +100,7 @@ visualizar en modo “Registro único” sin tener que ver el adjunto en la
 Barra de Herramientas.
 
 Notificaciones de Actualización
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+-------------------------------
 
 Cada Solicitud envía notificaciones de sus actualizaciones a los
 usuarios definidos como:
