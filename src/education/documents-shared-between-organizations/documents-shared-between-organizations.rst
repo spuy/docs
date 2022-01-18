@@ -1,5 +1,5 @@
 **Documentos compartidos entre Organizaciones**
------------------------------------------------
+===============================================
 
 Cuando un Documento deba ser compartido entre diferentes Organizaciones
 se deberán crear con Organización “ \* ”

@@ -18,7 +18,7 @@ Ordenes de Venta Honorarios que se generen.
 
 
 .. toctree::
-    :maxdepth: 2
+    :maxdepth: 1
 
     ar-credit-memo/index
     billing-by-project-and-by-phase

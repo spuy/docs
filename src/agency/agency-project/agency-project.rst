@@ -7,7 +7,6 @@ Los Proyectos de Agencia podrán ser de dos tipos:
 -  Proyectos de Agencia Creativa
 
 **Campos Automáticos a tener en cuenta:**
------------------------------------------
 
 -  **Sello Origen:**
 

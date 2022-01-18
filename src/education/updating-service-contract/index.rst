@@ -9,5 +9,5 @@
 .. toctree::
     :maxdepth: 2
 
-    updating-contract-line-discount/index
-    updating-prices/index
+    updating-contract-line-discount
+    updating-prices

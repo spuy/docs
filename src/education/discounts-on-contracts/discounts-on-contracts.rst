@@ -2,6 +2,9 @@
 .. |Crear Descuentos de Contrato| image:: resource/crear-descuentos-de-contrato.png
 .. |Actualizar Descuentos de Lineas de Contrato| image:: resource/actualizar-descuentos-de-lineas-de-contrato.png
 
+Descuentos en Contratos
+=======================
+
 Un Contrato de Servicios podrá contar con más de un Descuento
 establecido.
 
