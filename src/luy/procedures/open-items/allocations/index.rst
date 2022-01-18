@@ -9,8 +9,8 @@
 .. toctree::
     :maxdepth: 2
 
-    manual-allocations-ar-ap-payments/index
-    manual-allocations-ar-ap-receipt-uy/index
-    allocations-query/index
-    traceability-of-allocations-in-documents/index
+    manual-allocations-ar-ap-payments
+    manual-allocations-ar-ap-receipt-uy
+    allocations-query
+    traceability-of-allocations-in-documents
     allocations

@@ -9,12 +9,12 @@
 .. toctree::
     :maxdepth: 2
 
-    cancel-document-payable-with-ar-check/index
-    creating-ar-deferred-checks/index
-    own-check-book-creation/index
-    payment-ap-check-debt/index
-    procesing-ap-deferred-checks/index
-    procesing-ap-rejected-deferred-checks/index
-    procesing-ar-deferred-check-rejected/index
-    procesing-ar-deferred-checks/index
-    processing-deferred-checks-to-pay/index
+    cancel-document-payable-with-ar-check
+    creating-ar-deferred-checks
+    own-check-book-creation
+    payment-ap-check-debt
+    procesing-ap-deferred-checks
+    procesing-ap-rejected-deferred-checks
+    procesing-ar-deferred-check-rejected
+    procesing-ar-deferred-checks
+    processing-deferred-checks-to-pay

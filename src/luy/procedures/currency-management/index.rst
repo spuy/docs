@@ -9,10 +9,10 @@
 .. toctree::
     :maxdepth: 2
 
-    analyzing-revaluation-ap-ar/index
-    ap-ar-revaluation/index
-    currency-on-reception-delivery-not-invoiced/index
-    currency-revaluation-deferred-checks/index
-    gain-and-losses-realized-currency-revaluation/index
-    overview-ap-ar-currency-revaluation/index
-    revaluation-bank-accounts/index
+    analyzing-revaluation-ap-ar
+    ap-ar-revaluation
+    currency-on-reception-delivery-not-invoiced
+    currency-revaluation-deferred-checks
+    gain-and-losses-realized-currency-revaluation
+    overview-ap-ar-currency-revaluation
+    revaluation-bank-accounts

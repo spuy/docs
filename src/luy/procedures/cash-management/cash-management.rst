@@ -1,11 +1,11 @@
-.. |Pestaña Cobro Contado Recibo de Cobro| image:: resource/billing-receipt.png
-.. |Pestaña Cuenta de Caja Definicion de Cajas| image:: resource/definition-of-boxes.png
-.. |Cabezal Cierre de Caja| image:: resource/cierre-de-caja.png
-.. |Crear Estado de Cuenta| image:: resource/create-bank-statement-from.png
-.. |Lineas Crear Estado de Cuenta| image:: resource/lines-create-bank-statement-from.png
+.. |Pestaña Cobro Contado Recibo de Cobro| image:: resources/billing-receipt.png
+.. |Pestaña Cuenta de Caja Definicion de Cajas| image:: resources/definition-of-boxes.png
+.. |Cabezal Cierre de Caja| image:: resources/cierre-de-caja.png
+.. |Crear Estado de Cuenta| image:: resources/create-bank-statement-from.png
+.. |Lineas Crear Estado de Cuenta| image:: resources/lines-create-bank-statement-from.png
 
-Gestión de Cajas
-----------------
+**Gestión de Cajas**
+====================
 
 Las Cajas se definen en la ventana “Definición de Cajas” y tienen
 similar comportamiento que Bancos.
@@ -60,10 +60,7 @@ un Cajas/Cuenta Cajas.
 
 Ejemplo:
 
-Cobranzas a Depositar
-
-Cobranzas a Depositar
-~~~~~~~~~~~~~~~~~~~~~
+**Cobranzas a Depositar**
 
 |Pestaña Cuenta de Caja Definicion de Cajas|
 

@@ -8,11 +8,14 @@
 .. |Asignacion Nota de Credito 2| image:: resources/asignacion-nota-credito-2.png
 .. |Asignacion Nota de Credito 3| image:: resources/asignacion-nota-credito-3.png
 
+**Asignación**
+==============
+
 Es un documento que vincula dos o más elementos, de forma que se pueda
 tener una trazabilidad perfecta a causa de esta vinculación.
 
 Tipos de Documentos de Asignación
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+---------------------------------
 
 -  Asignación Factura - Pago/Cobro
 -  Asignación Factura - Nota de Crédito
@@ -20,7 +23,7 @@ Tipos de Documentos de Asignación
 -  Asignación por Documento Diferido
 
 Asignación Factura Pago/Cobro
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. raw:: html
 
@@ -103,7 +106,7 @@ Pagar/Cobrar.
 |Asignacion Factura Pago Cobro 6|
 
 Asignación por Nota de Crédito
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. raw:: html
 
@@ -156,7 +159,7 @@ Nota de Crédito de Documento por Cobrar/Pagar
 |Asignacion Nota de Credito 3|
 
 Asignación por Anulación
-^^^^^^^^^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. raw:: html
 
@@ -212,7 +215,7 @@ el Reverso de ese mismo documento y lo asigna mediante este documento.
     Video 1. Asignación por Anulación
 
 Asignación por Documento Diferido
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. raw:: html
 
@@ -301,7 +304,7 @@ Documento a  Cobrar (Cheque Diferido a Cobrar)
     Video 2. Asignación por Documento Diferido
 
 Asignación Automática de Nota de Crédito
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Se utilizan los campos en pestaña "CFE Referidos" de "Total Abierto" y
 "Total Asignado". Estos campos, cuando las líneas en esta pestaña son
@@ -942,7 +945,7 @@ CUENTA PUENTE DIFERIDOS
    </table>
 
 **Asignación por Depósito**
-^^^^^^^^^^^^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. raw:: html
 
@@ -989,7 +992,7 @@ Depósito Cheque/ Débito Cheque
    </table>
 
 **Asignación Cliente Proveedor**
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. raw:: html
 
@@ -1053,8 +1056,8 @@ Cargo
 
    </table>
 
-   **Asignación Pago Cobro**
-^^^^^^^^^^^^^^^^^^^^^^^^^
+**Asignación Pago Cobro**
+~~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. raw:: html
 
