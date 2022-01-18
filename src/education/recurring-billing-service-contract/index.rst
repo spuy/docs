@@ -9,7 +9,7 @@
 .. toctree::
     :maxdepth: 2
 
-    ar-credit-memo/index
-    generate-fees-from-a-contract/index
-    generate-non-recurrent-concept-billing/index
-    service-contract-billing/index
+    ar-credit-memo
+    generate-fees-from-a-contract
+    generate-non-recurrent-concept-billing
+    service-contract-billing

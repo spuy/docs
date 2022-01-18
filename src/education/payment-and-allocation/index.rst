@@ -9,5 +9,6 @@
 .. toctree::
     :maxdepth: 2
 
-    annuity-payment/index
-    masive-allocation-with-exclusion/index
+    annuity-payment
+    masive-allocation-with-exclusion
+    automatic-payments-allocation

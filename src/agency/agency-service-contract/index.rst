@@ -7,7 +7,7 @@
 
 
 .. toctree::
-    :maxdepth: 2
+    :maxdepth: 1
 
     agency-contract-fees
     agency-service-contract-parts

@@ -9,7 +9,7 @@
 .. toctree::
     :maxdepth: 2
 
-    generate-agging/index
-    open-documents-massive-sender/index
-    open-items-report/index
-    emails-binnacle/index
+    generate-agging
+    open-documents-massive-sender
+    open-items-report
+    emails-binnacle
