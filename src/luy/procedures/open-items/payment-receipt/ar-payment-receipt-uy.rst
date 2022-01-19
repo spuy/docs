@@ -1,11 +1,11 @@
-.. |Acciones| image:: resource/acciones.png
-.. |Cabezal| image:: resource/cabezal.png
-.. |Generar Cobro Contado| image:: resource/generar-cobro-contado.png
-.. |Generar Documento Diferido| image:: resource/generar-documento-diferido.png
-.. |Sb Asignar Factura| image:: resource/smartbrowser-asignar-factura.png
+.. |Acciones| image:: resources/acciones.png
+.. |Cabezal| image:: resources/cabezal.png
+.. |Generar Cobro Contado| image:: resources/generar-cobro-contado.png
+.. |Generar Documento Diferido| image:: resources/generar-documento-diferido.png
+.. |Sb Asignar Factura| image:: resources/smartbrowser-asignar-factura.png
 
 Recibo de Cobro
----------------
+===============
 
 Es un documento que la empresa emite indicando que cobró a un tercero
 uno o varios Documentos por Cobrar, indicando qué Documentos está
@@ -23,7 +23,7 @@ que pueden afectarse total o parcialmente,  la suma de esta relación
 puede ser igual o menor que el Recibo de Cobro pero nunca superior.
 
 Ingreso del Recibo de Cobro una moneda
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+--------------------------------------
 
 Para realizar un Recibo de Cobro se deberá ingresar a la ventana llamada
 Recibo de Cobro.
@@ -57,7 +57,7 @@ de "Redondeo"
 Esto permitirá que el sistema realice la asignación automática.
 
 Acciones
-~~~~~~~~
+--------
 
 Las acciones que se pueden realizar serán:
 
@@ -143,7 +143,7 @@ Importe del Cargo: Diferencia existente entre los Medios de Pago
 seleccionados y los Documentos Asignados.
 
 Recibo de Canje
-~~~~~~~~~~~~~~~
+---------------
 
 Si dentro del recibo se han ingresado Documentos por Cobrar, pero
 también Documentos por Pagar, estos serán sumarizados con signo

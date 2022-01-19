@@ -1,10 +1,10 @@
 .. |Documentos Relacionados Barra de Herramientas| image:: resources/documentos-relacionados-barra-de-herramientas.png
 
-Cálculo de retenciones y creación de Resguardos a Proveedores.
---------------------------------------------------------------
+**Cálculo de retenciones y creación de Resguardos a Proveedores**
+=================================================================
 
-Cálculo de Retenciones automático
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+**Cálculo de Retenciones automático**
+-------------------------------------
 
 Cada vez que se completa un Documento por pagar (Factura Proveedor o
 Nota de Crédito Proveedor), automáticamente el sistema verifica si el
@@ -23,8 +23,8 @@ herramientas.
 Esta retención se completa de forma automática al completar el Documento
 por pagar.
 
-Generar Resguardos Masivos
-~~~~~~~~~~~~~~~~~~~~~~~~~~
+**Generar Resguardos Masivos**
+------------------------------
 
 Una vez con las retenciones generadas automáticamente a medida que se
 vayan generando los Documentos por Pagar, para generar los resguardos se
@@ -54,23 +54,22 @@ Tener en cuenta que los Resguardos son CFE y se generarán siempre en la
 moneda pesos uruguayos convertidos según Tasa de Cambio de la fecha del
 Documento por Pagar.
 
-El formato de impresión de Resguardo podrémos visualizarlo desde el proceso del Documento “Impresión de resguardo”.
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+**El formato de impresión de Resguardo podrémos visualizarlo desde el proceso del Documento “Impresión de resguardo”**
 
-Cómo se Asigna un Resguardo?
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+**¿Cómo se Asigna un Resguardo?**
+---------------------------------
 
 Un Resguardo se agrega en un Recibo de Pago como una Nota de Crédito
 Proveedor, descontando el Importe a Pagar o en una Selección de pagos.
 
-Contra Resguardos
-~~~~~~~~~~~~~~~~~
+**Contra Resguardos**
+---------------------
 
 Cuando se anula un resguardo se genera un reverso (contra-resguardo) que
 tendrá la siguiente secuencia y será el negativo del original.
 
-Creación de Resguardo Recibido
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+**Creación de Resguardo Recibido**
+----------------------------------
 
 Los resguardos que nos realiza un cliente y nos lo descuenta en un
 Recibo de Cobro los ingresaremos desde la ventana Recibo de Cobro.

@@ -1,7 +1,7 @@
-.. |Transferencia Bancaria Multimoneda| image:: resources/multi-currency-transfer-process.png
+.. |Transferencia Bancaria Multimoneda| image:: resources/multi-currency-transfer-process1.png
 
-Transferencia Bancaria misma moneda
------------------------------------
+**Transferencia Bancaria misma moneda**
+=======================================
 
 El Proceso de Transferencia Bancaria se utiliza para debitar y acreditar
 simultáneamente cuentas bancarias.
@@ -16,8 +16,8 @@ moneda de Destino. Aquí se verá la transferencia de una misma moneda, ya
 sea de la moneda esquema de la empresa como de cualquier otra. La
 Transferencia de distinta moneda se puede ver en Moneda Extranjera.
 
-Transferencias en la misma moneda
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+**Transferencias en la misma moneda**
+-------------------------------------
 
 |Transferencia Bancaria Multimoneda|
 

@@ -9,9 +9,9 @@
 .. toctree::
     :maxdepth: 2
 
-    ap-payment-receipt-uy/index
-    ar-payment-receipt-uy/index
-    multi-currency-receipt/index
-    payment-ar-receipt-rounded/index
-    printed-ar-receipt/index
-    swapt-receipt-uy/index
+    ap-payment-receipt-uy
+    ar-payment-receipt-uy
+    multi-currency-receipt
+    payment-ar-receipt-rounded
+    printed-ar-receipt
+    swapt-receipt-uy

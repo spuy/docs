@@ -6,7 +6,7 @@
 .. |Sb Asignar DxP| image:: resources/sb-asignar-dxp.png
 
 **Canje de Recibos (misma moneda)**
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+===================================
 
 | Directamente desde el Recibo se puede generar un Canje de Recibos, ya
   sea desde un Recibo de Cobro como desde un Recibo de Pago. 

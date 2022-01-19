@@ -1,9 +1,9 @@
-.. |Informacion Contable| image:: resource/accounting-seat-.png
-.. |Accion en el Documento| image:: resource/action-on-the-document-.png
-.. |Linea Asiento Diario Simple| image:: resource/simple-journal-lines-.png
+.. |Informacion Contable| image:: resources/accounting-seat-.png
+.. |Accion en el Documento| image:: resources/action-on-the-document-.png
+.. |Linea Asiento Diario Simple| image:: resources/simple-journal-lines-.png
 
-Asiento Diario Simple
-=====================
+**Asiento Diario Simple**
+=========================
 
 Cuando desea ingresar un Asiento Diario sin Lote, puede utilizar la
 Ventana *Asiento Diario Simple*.
@@ -56,8 +56,8 @@ Al completar en la pestaña *Asiento Diario*, podrá hacer clic en
 
 |Informacion Contable|
 
-Modificando un Asiento de Diario Simple
----------------------------------------
+**Modificando un Asiento de Diario Simple**
+-------------------------------------------
 
 Si desea modificar un Asiento ya completo, deberá presionar el botón de
 Acciones de Documento, y seleccionar *Reactivar*.

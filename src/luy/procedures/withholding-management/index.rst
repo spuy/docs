@@ -9,4 +9,4 @@
 .. toctree::
     :maxdepth: 2
 
-    procesing-withholding-taxes/index
+    procesing-withholding-taxes

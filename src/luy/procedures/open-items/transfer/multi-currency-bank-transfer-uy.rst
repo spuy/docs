@@ -2,8 +2,8 @@
 .. |Proceso Transferencia Bancaria Multimoneda| image:: resources/multi-currency-transfer-process.png
 .. |Ventana Pago Cobro| image:: resources/payment-collection.png
 
-Transferencia Bancaria Multimoneda
-==================================
+**Transferencia Bancaria Multimoneda**
+======================================
 
 Desde el proceso "Transferencia Bancaria Multimoneda", se podrá realizar
 una transferencia cuando las monedas de la Cuenta Bancaria origen y
@@ -30,8 +30,8 @@ contables de compra y venta utilizando la cuenta puente "Diferencia
 Compra ME". La diferencia de cambio correspondiente a esta operación
 quedará como saldo en dicha cuenta.
 
-Operación de Cambio de Moneda
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+**Operación de Cambio de Moneda**
+---------------------------------
 
 Para ello se utilizará la ventana Operación de Cambio
 
@@ -71,8 +71,8 @@ Contable del día.
 
 |Ventana Pago Cobro|
 
-Operación de Cambio de Moneda con Selección de Pagos
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+**Operación de Cambio de Moneda con Selección de Pagos**
+--------------------------------------------------------
 
 Opcionalmente también se puede generar una Operación de Cambio pero que
 en vez de generar directamente un Pago y un Cobro según los datos
