@@ -1,8 +1,8 @@
 .. |Boton Asignar Facturas| image:: resources/boton-asignar-facturas.png
 .. |Moneda Sb Asignar Facturas| image:: resources/smartbrowser-asignar-facturas.png
 
-Recibo Multimoneda
-------------------
+**Recibo Multimoneda**
+======================
 
 Los pasos a seguir para generar un Recibo Multimoneda son los
 siguientes:

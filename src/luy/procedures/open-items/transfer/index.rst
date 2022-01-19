@@ -9,5 +9,5 @@
 .. toctree::
     :maxdepth: 2
 
-    bank-transfer-same-currency-uy/index
-    multi-currency-bank-transfer-uy/index
+    bank-transfer-same-currency-uy
+    multi-currency-bank-transfer-uy

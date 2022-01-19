@@ -22,7 +22,7 @@
 .. |Icono Notificacion Leida| image:: resources/icono-notificacion-leida.png
 .. |Icono Notificaciones con Marca| image:: resources/icono-notificaciones-con-marca.png
 .. |Icono Notificaciones| image:: resources/icono-notificaciones.png
-.. |Icono Solucionar Problema que Genero Notificacion| image:: resource/icono-solucionar-problema-que-genero-notificacion.png
+.. |Icono Solucionar Problema que Genero Notificacion| image:: resources/icono-solucionar-problema-que-genero-notificacion.png
 .. |Lista CFE emitidos a la Fecha| image:: resources/lista-cfe-emitidos-a-la-fecha.png
 .. |Lista de Empresas| image:: resources/lista-de-empresas.png
 .. |Lista de Reportes Diarios| image:: resources/lista-de-reportes-diarios.png

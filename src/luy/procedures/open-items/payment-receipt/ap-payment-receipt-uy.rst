@@ -1,10 +1,10 @@
-.. |Cabezal| image:: resource/cabezal.png
-.. |Cargo| image:: resource/cargo.png
-.. |Sb Asignar Factura| image:: resource/smartbrowser-asignar-factura.png
-.. |Ajuste| image:: resource/ajuste.png
+.. |Cabezal| image:: resources/cabezal1.png
+.. |Cargo| image:: resources/cargo.png
+.. |Sb Asignar Factura| image:: resources/smartbrowser-asignar-factura1.png
+.. |Ajuste| image:: resources/ajuste.png
 
-Recibo de Pago
-==============
+**Recibo de Pago**
+==================
 
 El recibo de pago opera de manera similar al de Recibo de Cobro.
 
@@ -28,7 +28,7 @@ corresponde por ejemplo.
 Acciones
 
 Asignar Facturas (Documentos por Pagar)
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+---------------------------------------
 
 Haciendo click en este botón podrá seleccionar directamente qué facturas
 se estarán cobrando.
@@ -75,14 +75,14 @@ cerrarán por lo que no se generará la Asignación automática.
 |Sb Asignar Factura|
 
 Seleccionar Cheque Diferido
-~~~~~~~~~~~~~~~~~~~~~~~~~~~
+---------------------------
 
 En caso de realizar un Pago con un Cheque Diferido se deberá generar el
 mismo previamente para luego desde el Recibo de Pago simplemente
 seleccionar el mismo.
 
 Generar Pago Contado
-~~~~~~~~~~~~~~~~~~~~
+--------------------
 
 Definir con qué medio de pago se estará pagando (Contado, Cheque al día
 o Transferencia). Así como también el importe del mismo.
@@ -98,7 +98,7 @@ saldar la diferencia.
 |Cargo|
 
 Ajuste
-~~~~~~
+------
 
 En caso de que exista una diferencia entre los Medios de Pago y los
 Documentos a Asignar (redondeo, gastos bancarios por transferencias,
@@ -117,7 +117,7 @@ seleccionados y los Documentos Asignados.
 |Ajuste|
 
 **Recibo de Canje**
-~~~~~~~~~~~~~~~~~~~
+-------------------
 
 Acción igual a la explicada para Recibos de Cobro.
 

@@ -1,11 +1,11 @@
-.. |Asignacion Total Facturas Superior al Cobro| image:: resource/asignacion-total-facturas-superior-al-cobro.png
-.. |Cabezal Recibo de Cobro| image:: resource/cabezal-recibo-de-cobro.png
-.. |Check Redondeo NO| image:: resource/check-redondeo-no.png
-.. |Check Redondeo SI| image:: resource/check-redondeo-si.png
-.. |Sb Asignar Facturas| image:: resource/sb-asignar-facturas.png
+.. |Asignacion Total Facturas Superior al Cobro| image:: resources/asignacion-total-facturas-superior-al-cobro.png
+.. |Cabezal Recibo de Cobro| image:: resources/cabezal-recibo-de-cobro.png
+.. |Check Redondeo NO| image:: resources/check-redondeo-no.png
+.. |Check Redondeo SI| image:: resources/check-redondeo-si.png
+.. |Sb Asignar Facturas| image:: resources/sb-asignar-facturas.png
 
 Recibo de Cobro con Redondeo
-----------------------------
+============================
 
 Para generar un  recibo de cobro se comenzará completando los siguientes
 campos:
@@ -27,7 +27,7 @@ el importe asignado de Pago deben ser iguales.
 **Pueden existir dos situaciones:**
 
 **COBRO SUPERIOR A FACTURAS (Signo Negativo)**
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+----------------------------------------------
 
 -  Puede ser que la Asignación por importe de Facturas sea menor al
    Cobro y se desee dejar un saldo abierto del Cobro.
@@ -44,7 +44,7 @@ Aquí **SI** deberemos marcar el check de Redondeo.
 |Check Redondeo SI|
 
 **FACTURAS SUPERIOR AL COBRO (Signo POSITIVO)**
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+-----------------------------------------------
 
 -  **Asignación Parcial:** Para poder hacer una asignación Parcial de
    las Facturas se deberá seleccionar las mismas desde el Smartbrowser
