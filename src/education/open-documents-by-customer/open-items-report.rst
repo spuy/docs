@@ -1,5 +1,5 @@
-.. |Estado de Cuenta Corriente| image:: resource/ecc.png
-.. |Confirmacion del Proceso| image:: resource/proceso.png
+.. |Estado de Cuenta Corriente| image:: resources/ecc.png
+.. |Confirmacion del Proceso| image:: resources/proceso.png
 
 Reporte de Estado de Cuenta
 ===========================

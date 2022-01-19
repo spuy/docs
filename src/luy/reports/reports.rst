@@ -1,13 +1,13 @@
-.. |Saldos Pendientes 1| image:: resource/saldos-pendientes-1.png
-.. |Saldos Pendientes 2| image:: resource/saldos-pendientes-2.png
-.. |Estado de Cuenta Corriente 1| image:: resource/estado-de-cuenta-corriente-1.png
-.. |Estado de Cuenta Corriente 2| image:: resource/estado-de-cuenta-corriente-2.png
-.. |Reporte Asignacion de Pago| image:: resource/reporte-asignacion-de-pago.png
-.. |Asignacion de Pagos por Asignacion| image:: resource/asignacion-de-pagos-por-asignacion.png
-.. |Asignacion por Facturas| image:: resource/asignacion-por-factura.png
+.. |Saldos Pendientes 1| image:: resources/saldos-pendientes-1.png
+.. |Saldos Pendientes 2| image:: resources/saldos-pendientes-2.png
+.. |Estado de Cuenta Corriente 1| image:: resources/estado-de-cuenta-corriente-1.png
+.. |Estado de Cuenta Corriente 2| image:: resources/estado-de-cuenta-corriente-2.png
+.. |Reporte Asignacion de Pago| image:: resources/reporte-asignacion-de-pago.png
+.. |Asignacion de Pagos por Asignacion| image:: resources/asignacion-de-pagos-por-asignacion.png
+.. |Asignacion por Facturas| image:: resources/asignacion-por-factura.png
 
-Saldos Pendientes
-~~~~~~~~~~~~~~~~~
+**Saldos Pendientes**
+=====================
 
 El Reporte de Saldos Pendientes se puede obtener los Documentos que
 tienen saldo abierto a una Fecha puntual. El mismo Reporte puede mostrar
@@ -24,8 +24,8 @@ agrupados por moneda.
 
 |Saldos Pendientes 2|
 
-Estado de Cuenta Corriente
-~~~~~~~~~~~~~~~~~~~~~~~~~~
+**Estado de Cuenta Corriente**
+==============================
 
 Mediante el Reporte de Estado de Cuenta Corriente podrá visualizar todos
 los Documentos generados a un Socio del Negocio dentro de determinado
@@ -35,8 +35,8 @@ período de Tiempo y en una Moneda.
 
 |Estado de Cuenta Corriente 2|
 
-Reporte de Asignación de Pago
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+**Reporte de Asignación de Pago**
+=================================
 
 El Reporte de Asignación de Pago podrá visualizar como es el detalle de
 todas las asignaciones generadas a un Socio del Negocio. En dicho
@@ -44,8 +44,8 @@ reporte también podrá obtener diferentes vistas sobre la información.
 
 |Reporte Asignacion de Pago|
 
-Asignación por Factura
-~~~~~~~~~~~~~~~~~~~~~~
+**Asignación por Factura**
+==========================
 
 Si desea ver Factura por Factura la asignación correspondiente puede
 seleccionar la vista “Detalle de Asignación por Factura”
@@ -54,8 +54,8 @@ seleccionar la vista “Detalle de Asignación por Factura”
 
 .. _section-1:
 
-Asignación de pagos por Asignación
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+**Asignación de pagos por Asignación**
+======================================
 
 Si desea ver por Recibo o por Asignación puede seleccionar la vista
 “Detalle de Asignación por Asignación”
