@@ -3,15 +3,15 @@
 .. |Ventana Calculo de Morosidad| image:: resources/calculomorosidad1.png
 .. |Pestaña Entrada| image:: resources/calculomorosidad2.png
 
-Generar Estados de Cuenta
-=========================
+**Generar Estados de Cuenta**
+=============================
 
 Una vez se cuenta con toda la facturación ya generada se puede proceder
 con la creación de los Estados de Cuenta de cada uno de los Responsables
 de Pago.
 
-Cálculo de Morosidad
---------------------
+**Cálculo de Morosidad**
+------------------------
 
 Para generar los Estados de Cuenta se deberá correr el proceso de
 “Cálculo de Morosidad” desde la ventana “Cálculo de Morosidad”

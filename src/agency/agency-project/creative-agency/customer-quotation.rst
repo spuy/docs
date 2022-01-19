@@ -3,8 +3,8 @@
 .. |Pestaña Fase| image:: resources/fase-tab.png
 .. |Pestaña Tarea| image:: resources/tarea-tab.png
 
-Cotización para Clientes
-========================
+**Cotización para Clientes**
+============================
 
 El Ejecutivo de Cuentas creará un Proyecto en el cual definirá lo
 solicitado por el cliente. En caso de que el mismo incluya realizar una

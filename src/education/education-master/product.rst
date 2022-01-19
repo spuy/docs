@@ -4,8 +4,8 @@
 .. |Pestaña Precio| image:: resources/price-tab.png
 .. |Ventana Producto| image:: resources/product-window.png
 
-Productos
-=========
+**Productos**
+=============
 
 Todos los productos que se utilizarán deberán estar definidos en la
 ventana “Producto”.  Los Productos pueden ser Servicios o Artículos.
@@ -29,8 +29,8 @@ ventana “Producto”.  Los Productos pueden ser Servicios o Artículos.
 
 |Ventana Pruducto Grilla|
 
-Pestaña Precio
---------------
+**Pestaña Precio**
+------------------
 
 En esta pestaña se definirá la Versión de lista de precios que el
 producto tenga definida en la ventana Lista de Precios.

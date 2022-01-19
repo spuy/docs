@@ -1,8 +1,8 @@
 .. |Sb Generar Factura desde Cuota de Contrato| image:: resources/sb-generar-factura-desde-cuota-de-contrato-.png
 .. |Seleccionar Lineas| image:: resources/seleccionar-lineas-.png
 
-Facturación de Cuotas del Contrato de Servicios
-===============================================
+**Facturación de Cuotas del Contrato de Servicios**
+===================================================
 
 Para generar facturas de manera masiva se deberá utilizar el proceso de
 “Generar Factura desde Cuota de Contrato”.

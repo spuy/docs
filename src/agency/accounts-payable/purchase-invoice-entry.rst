@@ -4,8 +4,8 @@
 .. |Seleccionar Lineas| image:: resources/seleccionar-lineas-.png
 .. |Smartbrowser| image:: resources/sb.png
 
-Ingreso de Factura de Compra
-============================
+**Ingreso de Factura de Compra**
+================================
 
 **Precondiciones con Orden de Compra**
 --------------------------------------

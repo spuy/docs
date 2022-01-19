@@ -1,10 +1,10 @@
 .. |Proceso desde Barra de Herramientas| image:: resources/update-contract-discounts-.png
 
-Actualización de Descuentos en Linea de Contrato
-================================================
+**Actualización de Descuentos en Linea de Contrato**
+====================================================
 
-Actualización de Descuentos
----------------------------
+**Actualización de Descuentos**
+-------------------------------
 
 Este proceso se utilizará en caso que se decida definir los descuentos
 desde la línea del contrato.

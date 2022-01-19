@@ -1,8 +1,8 @@
 .. |Lote| image:: resources/bitacora-emails-1.png
 .. |Email| image:: resources/bitacora-emails-2.png
 
-Bitácora de Emails
-==================
+**Bitácora de Emails**
+======================
 
 Por cada Proceso que se genere desde el “Enviar Estado de Cuenta por
 Correo” se generará un Lote en la ventana “Bitácora de Emails”. Dentro

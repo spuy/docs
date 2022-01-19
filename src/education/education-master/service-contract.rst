@@ -3,8 +3,8 @@
 .. |Pestaña Cuotas| image:: resources/fee-tab.png
 .. |Cabezal Contrato de Servicio| image:: resources/service-contract-window-header.png
 
-Contrato de Servicio Educación
-==============================
+**Contrato de Servicio Educación**
+==================================
 
 El Contrato de Servicios resume en un documento la representación de
 determinado acuerdo realizado entre una Institución Educativa y un

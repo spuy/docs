@@ -1,6 +1,6 @@
-.. |Familia| image:: resource/familia.png
-.. |Crear Descuentos de Contrato| image:: resource/crear-descuentos-de-contrato.png
-.. |Actualizar Descuentos de Lineas de Contrato| image:: resource/actualizar-descuentos-de-lineas-de-contrato.png
+.. |Familia| image:: resources/familia.png
+.. |Crear Descuentos de Contrato| image:: resources/crear-descuentos-de-contrato.png
+.. |Actualizar Descuentos de Lineas de Contrato| image:: resources/actualizar-descuentos-de-lineas-de-contrato.png
 
 Descuentos en Contratos
 =======================

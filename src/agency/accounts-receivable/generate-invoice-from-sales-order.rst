@@ -7,8 +7,8 @@
 .. |Error Varios Terminos de Pago| image:: resources/error-varios-terminos-de-pago.png
 .. |Ordenes de Venta Grilla| image:: resources/ov-grilla.png
 
-Generar Factura desde Orden de Venta
-====================================
+**Generar Factura desde Orden de Venta**
+========================================
 
 Las órdenes de venta generadas en el sistema pueden ser facturadas de
 manera ágil y masiva utilizando el proceso **"Generar Factura desde

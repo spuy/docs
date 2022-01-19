@@ -4,8 +4,8 @@
 .. |Ventana Esquema de Descuentos| image:: resources/discount-scheme-window.png
 .. |Pestaña Descuentos| image:: resources/descuentos-tab.png
 
-Definición de Descuentos
-========================
+**Definición de Descuentos**
+============================
 
 Los descuentos pueden ser simples o tener cortes que le hacen variar el
 porcentaje de descuento según una variable.

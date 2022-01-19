@@ -2,8 +2,8 @@
 .. |Sb Generar Servicio a Facturar| image:: resources/sb-generar-servicio-a-facturar.png
 .. |Seleccionar Lineas| image:: resources/seleccionar-lineas.png
 
-Generar Concepto a Facturar no Recurrente
-=========================================
+**Generar Concepto a Facturar no Recurrente**
+=============================================
 
 Para la generación de Servicios a Facturar que no son recurrentes, es
 decir como por ejemplo Natación, Talleres, etc, se podrá utilizar el
