@@ -1,8 +1,8 @@
 .. |Boton Crear Desde| image:: resources/boton-crear-desde-.png
 .. |Sb Crear Desde| image:: resources/smartbrowser-.png
 
-Nota de Crédito Cliente
-=======================
+**Nota de Crédito Cliente**
+===========================
 
 La Nota de Crédito se generará desde la ventana Documentos por Cobrar a
 través de la opción “Crear desde”.

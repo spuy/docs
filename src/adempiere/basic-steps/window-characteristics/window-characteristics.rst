@@ -1,5 +1,5 @@
-.. |Encontrar Registro| image:: resource/encontrar-registro.png
-.. |Avanzado| image:: resource/avanzado.png
+.. |Encontrar Registro| image:: resources/encontrar-registro.png
+.. |Avanzado| image:: resources/avanzado.png
 
 Características de ventanas en todo el sistema
 ==============================================

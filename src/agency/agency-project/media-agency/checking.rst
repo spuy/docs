@@ -13,6 +13,6 @@ Al realizar la búsqueda desde el SmartBrowser de Checkin, deberá seleccionar l
 
 .. only:: html
 
-    .. figure:: resource/process-gif.gif
+    .. figure:: resources/process-gif.gif
 
     Video 1. Gif del Proceso

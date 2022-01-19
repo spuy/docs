@@ -2,8 +2,8 @@
 .. |Localización Dirección| image:: resources/location-address.png
 .. |Pestaña Localización| image:: resources/location-tab.png
 
-Estudiantes
-===========
+**Estudiantes**
+===============
 
 **Socio del Negocio**
 ---------------------

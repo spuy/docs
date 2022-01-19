@@ -5,14 +5,14 @@
 .. |Generar Factura desde Cuota de Contrato Sb| image:: resources/generate-invoice-from-contract-fee.png
 .. |Generar Servicio a Facturar| image:: resources/generate-service-to-be-billed.png
 
-Asignación Masiva Automática con Exclusión
-==========================================
+**Asignación Masiva Automática con Exclusión**
+==============================================
 
 Para realizar una Asignación Masiva Automática con Exclusión se deberán
 seguir los siguientes pasos:
 
-1. Generar Servicio a Facturar de SDN con ANUALIDAD
----------------------------------------------------
+**1. Generar Servicio a Facturar de SDN con ANUALIDAD**
+-------------------------------------------------------
 
 **NOTA:** Para visualizar los Socios del Negocio con anualidad podemos
 ir al proceso Generar factura desde cuota de contrato. En los filtros
@@ -30,15 +30,15 @@ correspondientes a los Socios del Negocio que filtramos anteriormente.
 
 |Generar Servicio a Facturar|
 
-2. Generar Servicio a Facturar de SDN sin ANUALIDAD
----------------------------------------------------
+**2. Generar Servicio a Facturar de SDN sin ANUALIDAD**
+-------------------------------------------------------
 
 De igual forma generaremos los servicios a Facturar No Recurrentes
 filtrando por las Familias correspondiente a los Socios del Negocio que
 pagan de forma mensual.
 
-3. Proceso Generar factura desde Cuota de contrato (Anualidades)
-----------------------------------------------------------------
+**3. Proceso Generar factura desde Cuota de contrato (Anualidades)**
+--------------------------------------------------------------------
 
 En el caso de las ANUALIDADES es IMPORTANTE que se facture primero un
 servicio recurrente y luego el NO recurrente, o viceversa, es decir,
@@ -48,8 +48,8 @@ En el filtro Grupo SDN deberemos indicar "Familiar Anualidad".
 
 |Generar Factura desde Cuota de Contrato|
 
-4. Verificar check de "No Recurrente" en DxC
---------------------------------------------
+**4. Verificar check de "No Recurrente" en DxC**
+------------------------------------------------
 
 Luego de generar las facturas es importante corroborar el check de "No
 Recurrente" en los Documentos por cobrar ya que éstas no deberán ser
@@ -58,8 +58,8 @@ tomadas en cuenta posteriormente en el proceso de Asignación Automático
 
 |Check No Recurrente en Factura|
 
-5. Correr proceso de "Asignación Automático (Con exclusión)"
-------------------------------------------------------------
+**5. Correr proceso de "Asignación Automático (Con exclusión)"**
+----------------------------------------------------------------
 
 Por último procederemos a correr el proceso Asignación (Asignación
 Automática con Exclusión).

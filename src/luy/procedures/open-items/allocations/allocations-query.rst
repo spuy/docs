@@ -1,6 +1,6 @@
-.. |Asignacion| image:: resource/asignacion.png
-.. |Asignaciones| image:: resource/asignaciones.png
-.. |Asiento Contable| image:: resource/asiento-contable.png
+.. |Asignacion| image:: resources/asignacion.png
+.. |Asignaciones| image:: resources/asignaciones.png
+.. |Asiento Contable| image:: resources/asiento-contable.png
 
 **Consulta de Asignación**
 ==========================

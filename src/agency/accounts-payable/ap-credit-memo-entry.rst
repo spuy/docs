@@ -3,8 +3,8 @@
 .. |Smartbrowser| image:: resources/smartbrowser.png
 .. |Boton Crear Desde| image:: resources/boton-crear-desde.png
 
-Ingreso de Nota de Crédito Proveedor
-====================================
+**Ingreso de Nota de Crédito Proveedor**
+========================================
 
 Para Ingresar una Nota de Crédito Proveedor, utilizaremos la ventana
 Documentos por pagar.

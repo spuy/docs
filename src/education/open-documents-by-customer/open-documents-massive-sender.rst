@@ -1,8 +1,8 @@
 .. |Sb Envio de Estado de Cuenta por Mail| image:: resources/sb-sending-statement-of-account-by-mail.png
 .. |Parametros Envio de Estado de Cuenta por Mail| image:: resources/sending-statement-of-account-by-mail.png
 
-Envío masivo de Estado de Cuenta
-================================
+**Envío masivo de Estado de Cuenta**
+====================================
 
 Una vez se generaron todas las entradas en el cálculo de morosidad
 “Estado de Cuenta” se podrá ir al Proceso de Envío de Estado de Cuenta

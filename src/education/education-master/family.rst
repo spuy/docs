@@ -1,8 +1,8 @@
 .. |Ventana Contrato de Servicio| image:: resources/service-contract-window.png
 .. |Pestaña Miembro Ventana Familia| image:: resources/window-family-member-tab.png
 
-Familia
-=======
+**Familia**
+===========
 
 La Familia se crea como una agrupación donde dentro de la misma se
 podrán encontrar sus correspondientes miembros junto con el vínculo que

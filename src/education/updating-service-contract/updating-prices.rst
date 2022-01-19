@@ -3,11 +3,11 @@
 .. |Proceso desde Barra de Herramientas| image:: resources/proceso-actualizacion-de-precios-del-contrato-barra-de-herramientas-.png
 .. |Pestaña Version Ventana Lista de Precios| image:: resources/version-de-lista-de-precios-.png
 
-Actualización de Precios
-========================
+**Actualización de Precios**
+============================
 
-Listas de Precio
-~~~~~~~~~~~~~~~~
+**Listas de Precio**
+~~~~~~~~~~~~~~~~~~~~
 
 Existen Listas de Precios de Venta y de Compra, y a cada Socio del
 Negocio se le debe definir una. A los Alumnos, como son considerados
@@ -16,8 +16,8 @@ la Lista de Precios “Venta Pesos”
 
 |Campo Lista de Precios Ventana SDN|
 
-Versiones de Listas de Precios
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+**Versiones de Listas de Precios**
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 A su vez existen versiones de una Lista de Precios, por ejemplo:
 
@@ -25,8 +25,8 @@ Lista de Precios Venta Pesos
 
 |Pestaña Version Ventana Lista de Precios|
 
-Actualización de Precios del Contrato
--------------------------------------
+**Actualización de Precios del Contrato**
+-----------------------------------------
 
 Mediante este proceso se puede actualizar los precios de un contrato
 específico o de todos los contratos, definiendo el Precio del Producto

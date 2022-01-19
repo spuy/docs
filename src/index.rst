@@ -35,6 +35,23 @@ Le invitamos a descubrir cómo hacer su día a día más sencillo con el uso de 
     adempiere/returns/index
 
 .. toctree::
+    :caption: LOCALIZACIÓN VENEZUELA
+    :maxdepth: 2
+
+    lve/document-utility/index
+    lve/fiscal-printer/index
+    lve/procedures/index
+    lve/report/index
+    lve/standard-coding/index
+
+.. toctree::
+    :caption: OTROS SERVICIOS
+    :maxdepth: 2
+
+    ecommerce/index
+    bot/index
+
+.. toctree::
     :caption: LOCALIZACIÓN URUGUAY
     :maxdepth: 2
 
@@ -58,24 +75,9 @@ Le invitamos a descubrir cómo hacer su día a día más sencillo con el uso de 
     :maxdepth: 2
 
     education/education-master/index
-    education/open-documents-by-customer/index
-    education/payment-and-allocation/index
-    education/recurring-billing-service-contract/index
+    education/discounts-on-contracts
     education/updating-service-contract/index
-
-.. toctree::
-    :caption: LOCALIZACIÓN VENEZUELA
-    :maxdepth: 2
-
-    lve/document-utility/index
-    lve/fiscal-printer/index
-    lve/procedures/index
-    lve/report/index
-    lve/standard-coding/index
-
-.. toctree::
-    :caption: OTROS SERVICIOS
-    :maxdepth: 2
-
-    ecommerce/index
-    bot/index
+    education/recurring-billing-service-contract/index
+    education/payment-and-allocation/index
+    education/open-documents-by-customer/index
+    education/documents-shared-between-organization

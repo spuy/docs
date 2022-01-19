@@ -2,8 +2,8 @@
 .. |Seccion de Totales| image:: resources/totals-section.png
 .. |Ventana Pago Cobro| image:: resources/ventana-pago-cobro.png
 
-Cobro por anticipo (Anualidad)
-==============================
+**Cobro por anticipo (Anualidad)**
+==================================
 
 Cuando un Responsable de Pago genera un pago por anticipado de la
 anualidad completa de un Contrato de Servicio, se debe generar un Cobro
