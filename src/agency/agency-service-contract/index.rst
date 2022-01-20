@@ -9,9 +9,12 @@
 .. toctree::
     :maxdepth: 1
 
-    agency-contract-fees
-    agency-service-contract-parts
-    customer-brand
-    purchase-order-required-to-invoice
     agency-service-contract
+    agency-service-contract-parts
     agency-service-contract-lines
+    purchase-order-required-to-invoice
+    agency-contract-fees
+    customer-brand
+
+
+

@@ -9,7 +9,7 @@
 .. toctree::
     :maxdepth: 2
 
-    creative-agency/index
-    media-agency/index
-    production-agency/index
     agency-project
+    media-agency/index
+    creative-agency/index
+    production-agency/index
