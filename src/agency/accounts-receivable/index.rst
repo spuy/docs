@@ -20,10 +20,13 @@ Ordenes de Venta Honorarios que se generen.
 .. toctree::
     :maxdepth: 1
 
-    ar-credit-memo/index
-    billing-by-project-and-by-phase
-    generate-cfe-lines
-    generate-invoice-from-sales-order
-    generate-invoice-with-currency-diferent-than-cost
     generate-recurring-sales-order-from-service-contract
     sale-order-in-installments
+    generate-invoice-from-sales-order
+    generate-cfe-lines
+    generate-invoice-with-currency-diferent-than-cost
+    billing-by-project-and-by-phase
+    ar-credit-memo/index
+
+
+
