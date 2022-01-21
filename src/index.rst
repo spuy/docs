@@ -67,17 +67,17 @@ Le invitamos a descubrir cómo hacer su día a día más sencillo con el uso de 
     agency/accounts-receivable/index
     agency/agency-project/index
     agency/agency-service-contract/index
-    agency/fees-calculation-update
-    agency/returns
+    agency/fees-calculation-update.rst
+    agency/returns.rst
 
 .. toctree::
     :caption: GESTIÓN DE EDUCACIÓN
     :maxdepth: 2
 
     education/education-master/index
-    education/discounts-on-contracts
+    education/discounts-on-contracts.rst
     education/updating-service-contract/index
     education/recurring-billing-service-contract/index
     education/payment-and-allocation/index
     education/open-documents-by-customer/index
-    education/documents-shared-between-organization
+    education/documents-shared-between-organization.rst
