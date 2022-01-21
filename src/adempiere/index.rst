@@ -11,7 +11,6 @@
 
     adempiere/asset-management/index
     adempiere/basic-steps/index
-    adempiere/contract-management/index
     adempiere/customer-relations/index
     adempiere/deferred-revenues-and-expenses/index
     adempiere/distribution-management/index
@@ -24,7 +23,6 @@
     adempiere/performance-analysis/index
     adempiere/pos-management/index
     adempiere/production-management/index
-    adempiere/project-management/index
     adempiere/quote-to-invoice/index
     adempiere/requisition-to-invoice/index
     adempiere/returns/index
