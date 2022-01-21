@@ -1,14 +1,8 @@
 {% extends "layout.html" %}
-{% set title = _('Documentación de E.R.P. Consultores y Asociados, C.A.') %}
+{% set title = _('') %}
 {% block body %}
-  <h1>ADempiere<sup>&reg;</sup> {{ release|e }} Documentación</h1>
-<p>
-    {% block description %}{{ _('La mayor parte de las empresas adquieren distintos software para cubrir las diferentes necesidades de sus organizaciones,pero tarde se dan cuenta de lo complicado que es compartir y unificar la información que cada modulo y organización obtienen.') }}<br />
-     <br />
-    {{ _('ADempiere por su condición de ERP ofrece todo lo que una compañía necesita en un único software, <a href="http://erpya.com/">ERPyA</a> quiere ofrecer a sus lectores una amplia gama de documentos estructurados para usuarios de alta y baja experiencia en el manejo de Software ERP, en los cuales se explicarán de forma eficiente y detallada cada proceso de este potente sistema, definiendo paso a paso la gestión de cada uno, sus implicaciones contables, administrativas y fiscales y finalmente la emisión de resultados que le permitirá un optimo control de sus operaciones.') }}{% endblock %}.
-</p>
-{% block tables %}
-<h2>Toda la Documentación de la plataforma Solop y las aplicaciones Solop para la empresa</h2>
+  <h1>Toda la Documentación de la plataforma Solop y las aplicaciones Solop para la empresa</h1>
+<img src="https://www.softwaredoit.es/logotipos/adempiere.jpg?t=2020-11-27_11_59_37">
 <table class="contentstable" align="center">
     <tr>
         <td width="100%">
@@ -43,17 +37,6 @@
         </td>
     </tr>
 
-    <tr>
-        <td width="100%">
-            <p class="biglink">
-                <a class="biglink" href="{{ pathto("luy/index") }}">
-                Localización Uruguay
-                </a>
-                <br />
-                <span class="linkdescr">(Breve descripción de Loc. Uruguay)</span>
-            </p>
-        </td>
-    </tr>
 </table>
 
 
@@ -93,25 +76,25 @@
     </tr>
 </table>
 
-<h2>Procesos de ADempiere</h2>
+<h2>Localización Uruguay</h2>
 <table class="contentstable" align="center">
     <tr>
         <td width="50%">
             <p class="biglink">
-                <a class="biglink" href="{{ pathto("adempiere/master/index") }}">
-                    Maestros de ADempiere
+                <a class="biglink" href="{{ pathto("luy/electronic-billing/index") }}">
+                Facturación Electrónica
                 </a>
                 <br />
-                <span class="linkdescr">Los datos maestros comprenden registros que dan origen a las transacciones, por los tanto no son modificables de forma regular,en tal sentido <a href="http://erpya.com/">ERPyA</a> te explica como crear tus maestros de forma ideal evitando así duplicidad e inconsistencia en los datos.</span>
+                <span class="linkdescr"></span>
             </p>
         </td>
         <td width="50%">
             <p class="biglink">
-                <a class="biglink" href="{{ pathto("adempiere/requisition-to-invoice/index") }}">
-                    Gestión de Compras
+                <a class="biglink" href="{{ pathto("luy/procedures/index") }}">
+                Procedimientos
                 </a>
                 <br />
-                <span class="linkdescr">En <a href="http://erpya.com/">ERPyA</a>, queremos garantizar el flujo productivo y administrativo de la empresa, es por esto que se hace fundamental una eficiente gestión de compras, que no es otra cosa que la adquisición de bienes o servicios, aquí te mostraremos como gestionar tus compras nacionales e internacionales en ADempiere ERP.</span>
+                <span class="linkdescr"></span>
             </p>
         </td>
     </tr>
@@ -119,20 +102,56 @@
     <tr>
         <td width="50%">
             <p class="biglink">
-                <a class="biglink" href="{{ pathto("adempiere/open-items/index") }}">
-                    Gestión de Saldos Pendientes </br>
+                <a class="biglink" href="{{ pathto("luy/reports/index") }}">
+                Reportes
                 </a>
                 <br />
-                <span class="linkdescr">La gestión de saldos pendientes en ADempiere   te brinda la posibilidad de manejar las ordenes de pagos, selección de pagos, pagos, cobros, conciliaciones automaticas, cartera de morosidad y deudas pendientes de la empresa,<a href="http://erpya.com/">ERPyA</a> quiere enseñarte como gestionar tus saldos pendientes en ADempiere.</span>
+                <span class="linkdescr"></span>
+            </p>
+        </td>
+    </tr>
+</table>
+
+<h2>Versiones</h2>
+<table class="contentstable" align="center">
+    <tr>
+        <td width="50%">
+            <p class="biglink">
+                <a class="biglink" href="{{ pathto("ADempiere-Base") }}">
+                    ADempiere Base
+                </a>
+                <br />
+                <span class="linkdescr"></span>
             </p>
         </td>
         <td width="50%">
             <p class="biglink">
-                <a class="biglink" href="{{ pathto(" adempiere/quote-to-invoice/index") }}">
-                    Gestión de Ventas
+                <a class="biglink" href="{{ pathto("admpiere-legacy") }}">
+                ADempiere Legacy
                 </a>
                 <br />
-                <span class="linkdescr">El proceso de ventas es la secuencia de fases para convertir una oportunidad en una venta, desde que se genera una cotización o propuesta hasta que se concluye la venta, si quieres saber como ADempiere contempla este proceso tan importante <a href="http://erpya.com/">ERPyA</a> te lo explica.</span>
+                <span class="linkdescr"></span>
+            </p>
+        </td>
+    </tr>
+
+    <tr>
+        <td width="50%">
+            <p class="biglink">
+                <a class="biglink" href="{{ pathto("mini-erp") }}">
+                    Mini ERP </br>
+                </a>
+                <br />
+                <span class="linkdescr"></span>
+            </p>
+        </td>
+        <td width="50%">
+            <p class="biglink">
+                <a class="biglink" href="{{ pathto("adempiere-ui") }}">
+                ADempiere-UI
+                </a>
+                <br />
+                <span class="linkdescr"></span>
             </p>
         </td>
     </tr>
