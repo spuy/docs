@@ -9,10 +9,10 @@
 .. toctree::
     :maxdepth: 2
 
-    education/education-master/index
-    education/discounts-on-contracts
-    education/updating-service-contract/index
-    education/recurring-billing-service-contract/index
-    education/payment-and-allocation/index
-    education/open-documents-by-customer/index
-    education/documents-shared-between-organization
+    education-master/index
+    discounts-on-contracts
+    updating-service-contract/index
+    recurring-billing-service-contract/index
+    payment-and-allocation/index
+    open-documents-by-customer/index
+    documents-shared-between-organization
