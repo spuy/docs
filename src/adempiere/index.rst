@@ -14,7 +14,6 @@
     adempiere/customer-relations/index
     adempiere/deferred-revenues-and-expenses/index
     adempiere/distribution-management/index
-    adempiere/farmer-assistance-management/index
     adempiere/human-resources-management/index
     adempiere/loan-management/index
     adempiere/master/index
