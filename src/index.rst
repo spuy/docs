@@ -16,11 +16,9 @@ Le invitamos a descubrir cómo hacer su día a día más sencillo con el uso de 
 
     adempiere/asset-management/index
     adempiere/basic-steps/index
-    adempiere/contract-management/index
     adempiere/customer-relations/index
     adempiere/deferred-revenues-and-expenses/index
     adempiere/distribution-management/index
-    adempiere/farmer-assistance-management/index
     adempiere/human-resources-management/index
     adempiere/loan-management/index
     adempiere/master/index
@@ -29,7 +27,6 @@ Le invitamos a descubrir cómo hacer su día a día más sencillo con el uso de 
     adempiere/performance-analysis/index
     adempiere/pos-management/index
     adempiere/production-management/index
-    adempiere/project-management/index
     adempiere/quote-to-invoice/index
     adempiere/requisition-to-invoice/index
     adempiere/returns/index
@@ -43,13 +40,6 @@ Le invitamos a descubrir cómo hacer su día a día más sencillo con el uso de 
     lve/procedures/index
     lve/report/index
     lve/standard-coding/index
-
-.. toctree::
-    :caption: OTROS SERVICIOS
-    :maxdepth: 2
-
-    ecommerce/index
-    bot/index
 
 .. toctree::
     :caption: LOCALIZACIÓN URUGUAY
@@ -81,3 +71,13 @@ Le invitamos a descubrir cómo hacer su día a día más sencillo con el uso de 
     education/payment-and-allocation/index
     education/open-documents-by-customer/index
     education/documents-shared-between-organizations
+
+.. toctree::
+    :caption: GESTIÓN DE ASISTENCIA AL AGRICULTOR
+    :maxdepth: 2
+
+    farmer-assistance-management/farm/index
+    farmer-assistance-management/financing-management/index
+    farmer-assistance-management/headings/index
+    farmer-assistance-management/producer/index
+    farmer-assistance-management/technical-assistance-management/index
