@@ -76,8 +76,8 @@ Le invitamos a descubrir cómo hacer su día a día más sencillo con el uso de 
     :caption: GESTIÓN DE ASISTENCIA AL AGRICULTOR
     :maxdepth: 2
 
-    farmer-assistance-management/farm/index
-    farmer-assistance-management/financing-management/index
-    farmer-assistance-management/headings/index
-    farmer-assistance-management/producer/index
-    farmer-assistance-management/technical-assistance-management/index
+    agribusiness/farmer-assistance-management/farm/index
+    agribusiness/farmer-assistance-management/financing-management/index
+    agribusiness/farmer-assistance-management/headings/index
+    agribusiness/farmer-assistance-management/producer/index
+    agribusiness/farmer-assistance-management/technical-assistance-management/index
