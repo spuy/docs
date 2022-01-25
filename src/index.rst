@@ -61,7 +61,7 @@ Le invitamos a descubrir cómo hacer su día a día más sencillo con el uso de 
     agency/returns
 
 .. toctree::
-    :caption: GESTIÓN DE EDUCACIÓN
+    :caption: EDUCACIÓN
     :maxdepth: 2
 
     education/education-master/index
@@ -73,7 +73,7 @@ Le invitamos a descubrir cómo hacer su día a día más sencillo con el uso de 
     education/documents-shared-between-organizations
 
 .. toctree::
-    :caption: GESTIÓN DE ASISTENCIA AL AGRICULTOR
+    :caption: AGRONEGOCIOS
     :maxdepth: 2
 
     agribusiness/farmer-assistance-management/farm/index
