@@ -22,8 +22,8 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'ERPYA'
-copyright = '2020, ADempiere ERP'
+project = 'SOLOP Documentation'
+copyright = '2022, Solop ERP'
 author = 'E.R.P. Consultores y Asociados, C.A.'
 # The short X.Y version
 version = '1.0'
