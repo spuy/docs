@@ -7,9 +7,9 @@
 .. toctree::
     :maxdepth: 2
 
-    agency/accounts-payable/index
-    agency/accounts-receivable/index
-    agency/agency-project/index
-    agency/agency-service-contract/index
-    agency/fees-calculation-update
-    agency/returns
+    accounts-payable/index
+    accounts-receivable/index
+    agency-project/index
+    agency-service-contract/index
+    fees-calculation-update
+    returns
