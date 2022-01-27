@@ -30,67 +30,11 @@ Tipos de Documentos de Asignación
 Asignación Factura Pago/Cobro
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-.. raw:: html
-
-   <table>
-
-.. raw:: html
-
-   <tbody>
-
-.. raw:: html
-
-   <tr>
-
-.. raw:: html
-
-   <td>
-
-Documentos por Cobrar/Pagar
-
-.. raw:: html
-
-   </td>
-
-.. raw:: html
-
-   <td>
-
-.. raw:: html
-
-   <p>
-
-Pago/Cobro
-
-.. raw:: html
-
-   </p>
-
-.. raw:: html
-
-   <p>
-
-Cargo Contable
-
-.. raw:: html
-
-   </p>
-
-.. raw:: html
-
-   </td>
-
-.. raw:: html
-
-   </tr>
-
-.. raw:: html
-
-   </tbody>
-
-.. raw:: html
-
-   </table>
++---------------------------+---------------+
+|                           |Pago/Cobro     |
+|Documento por Cobrar/Pagar |               |
+|                           |Cargo Contable |
++---------------------------+---------------+
 
 Asignación entre Facturas a Pagar y Pagos o entre Facturas a Cobrar y
 Cobros.
@@ -112,50 +56,9 @@ Pagar/Cobrar.
 
 Asignación por Nota de Crédito
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-.. raw:: html
-
-   <table>
-
-.. raw:: html
-
-   <tbody>
-
-.. raw:: html
-
-   <tr>
-
-.. raw:: html
-
-   <td>
-
-Documentos por Cobrar/Pagar
-
-.. raw:: html
-
-   </td>
-
-.. raw:: html
-
-   <td>
-
-Nota de Crédito de Documento por Cobrar/Pagar
-
-.. raw:: html
-
-   </td>
-
-.. raw:: html
-
-   </tr>
-
-.. raw:: html
-
-   </tbody>
-
-.. raw:: html
-
-   </table>
++----------------------------+-----------------------------------------------+
+|Documentos por Cobrar/Pagar |Nota de CRédito de Documentos por Cobrar/Pagar |
++----------------------------+-----------------------------------------------+
 
 |Asignacion Nota de Credito 1|
 
@@ -166,49 +69,9 @@ Nota de Crédito de Documento por Cobrar/Pagar
 Asignación por Anulación
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
-.. raw:: html
-
-   <table>
-
-.. raw:: html
-
-   <tbody>
-
-.. raw:: html
-
-   <tr>
-
-.. raw:: html
-
-   <td>
-
-Documentos por Cobrar/Pagar
-
-.. raw:: html
-
-   </td>
-
-.. raw:: html
-
-   <td>
-
-Anulación de  Documento por Cobrar/Pagar
-
-.. raw:: html
-
-   </td>
-
-.. raw:: html
-
-   </tr>
-
-.. raw:: html
-
-   </tbody>
-
-.. raw:: html
-
-   </table>
++----------------------------+-----------------------------------------+
+|Documentos por Cobrar/Pagar |Anulación de Documentos por Cobrar/Pagar |
++----------------------------+-----------------------------------------+
 
 En cada oportunidad que un documento completo es Anulado el Sistema crea
 el Reverso de ese mismo documento y lo asigna mediante este documento.
@@ -222,67 +85,11 @@ el Reverso de ese mismo documento y lo asigna mediante este documento.
 Asignación por Documento Diferido
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-.. raw:: html
-
-   <table>
-
-.. raw:: html
-
-   <tbody>
-
-.. raw:: html
-
-   <tr>
-
-.. raw:: html
-
-   <td>
-
-Documentos por Cobrar/Pagar
-
-.. raw:: html
-
-   </td>
-
-.. raw:: html
-
-   <td>
-
-.. raw:: html
-
-   <p>
-
-Cobro Diferido/Pago Diferido 
-
-.. raw:: html
-
-   </p>
-
-.. raw:: html
-
-   <p>
-
-Contra documento que genera el Pago/Cobro con Cheque diferido
-
-.. raw:: html
-
-   </p>
-
-.. raw:: html
-
-   </td>
-
-.. raw:: html
-
-   </tr>
-
-.. raw:: html
-
-   </tbody>
-
-.. raw:: html
-
-   </table>
++---------------------------+---------------------------------------------------------------+
+|                           |Cobro Diferido/Pago Diferido                                   |
+|Documento por Cobrar/Pagar |                                                               |
+|                           |Contra Documento quye genera el Pago/Cobro con Cheque DIferido |              |
++---------------------------+---------------------------------------------------------------+
 
 Es la que se realiza cuando el Documento a  Pagar / Cobrar se sustituye
 por un Documento por Pagar/Cobrar de otro Tipo Diferido (por ejemplo una
@@ -358,12 +165,26 @@ tienen factura seleccionada.
 **Documentos por Pagar**
 ------------------------
 
-|DxP|
++----------------------------------+--------------+--------------+
+|Cuenta Contable                   |DEBE          |HABER         |
++==================================+==============+==============+
+|74100 - Tax e xpense              |700,00        | 0.00         |
++----------------------------------+--------------+--------------+
+|51400 - Inventory Clearing        |4000,00       |0.00          |
++----------------------------------+--------------+--------------+
+|51400 - Inventory Clearing        |3000,00       |0.00          |
++----------------------------------+--------------+--------------+
+|21100 - Accounts Payable Trade    |0.00          |7.700,00      |
++----------------------------------+--------------+--------------+
 
 **Pago (contado)**
 ------------------
 
-|Pago Contado|
++=============================+============+==========+
+|21300 - Payment Selection    |4.700,00    |0.00      |
++-----------------------------+------------+----------+
+|11110 - Checking In-Transfer |143.459,81  |4.700,00  |
++-----------------------------+------------+----------+
 
 **Cheque Diferido**
 -------------------
@@ -371,31 +192,53 @@ tienen factura seleccionada.
 **Emisión de Cheque**
 
 
-|Emision Cheque|
++=============================+===========+==========+
+|Cuenta Puente Diferidos      |3.000,00   |0.00      |
++-----------------------------+-----------+----------+
+|Documentos a Pagar Diferidos |0.00       |3.000,00  |
++-----------------------------+-----------+----------+
 
 
 **Nota de Crédito Automática.**
 
-|Nota de Credito Automatica|
++===============================+===================+
+|21100 - Accounts Payable Trade |3.000,00 |0.00     |
++-------------------------------+---------+---------+
+|Cuenta Puente Diferidos        |0.00     |3.000,00 |
++-------------------------------+---------+---------+
 
 
 **Asignación de Pagos**
 -----------------------
 
-|Asignacion de Pagos|
++===============================+======+=====+
+|21100 - Accounts Payable Trade |500   |0.00 |
++-------------------------------+------+-----+
+|21300 - Payment Selection      |0.00  |500  |
++-------------------------------+------+-----+
 
 **Asignación por Depósito**
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-|Asignacion por Deposito|
++---------------------------------+--------------------------------+
+|Cheque diferido por cobrar/pagar |Depósito Cheque / Débito Cheque |
++---------------------------------+--------------------------------+
 
 
 **Asignación Cliente Proveedor**
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-|Asignacion Cliente Proveedor|
++--------------------+---------------------+
+|                    |Documento por cobrar |
+|Documento por pagar |                     |                     |
+|                    |Cargo                |
++--------------------+---------------------+
 
 **Asignación Pago Cobro**
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 
-|Asignacion Pago Cobro|
++------+------+
+|      |Cobro |
+|Pago  |      |
+|      |Cargo |
++------+------+
