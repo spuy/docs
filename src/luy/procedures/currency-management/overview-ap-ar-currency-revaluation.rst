@@ -1,5 +1,5 @@
-Perdidas y Ganancias por Diferencias de Cambio Realizada
-========================================================
+**Perdidas y Ganancias por Diferencias de Cambio Realizada**
+============================================================
 
 Una Pérdida o Ganancia se genera cuando usted tiene transacciones de
 Cuenta por Pagar o Cuenta por Cobrar en una moneda diferente a la de su

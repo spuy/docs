@@ -1,8 +1,8 @@
 .. |Diferencia de Cambio Cuentas Integrales| image:: resources/diferencia-cambio-integrales.png
 .. |Proceso Revaluacion Cuentas Integrales| image:: resources/proceso-revaluacion-de-cuentas-integrales.png
 
-Proceso de Revaluación de Cuentas Integrales - Cuentas Monetarias
-=================================================================
+**Proceso de Revaluación de Cuentas Integrales - Cuentas Monetarias**
+=====================================================================
 
 Este Proceso tomará todas las Cuentas Contables Integrales definidas
 como Moneda Extranjera considerando la moneda que tenga definida dicha

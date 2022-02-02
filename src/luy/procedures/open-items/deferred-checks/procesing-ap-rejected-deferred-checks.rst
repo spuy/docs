@@ -1,7 +1,7 @@
 .. |Ventana Deposito de Cheque Propio| image:: resources/own-check-deposit-window.png
 
-Débito de Cheque Propio (Documento)
-===================================
+**Débito de Cheque Propio (Documento)**
+=======================================
 
 Esta ventana es igual a la ventana “Depósito Cheque Tercero”, con la
 diferencia que la cuenta seleccionada en el campo “Cuenta Bancaria” debe
@@ -9,14 +9,14 @@ ser la cuenta del/los cheque/s a depositar.
 
 |Ventana Deposito de Cheque Propio|
 
-Casos Especiales
-----------------
+**Casos Especiales**
+--------------------
 
-Cheque Común Devuelto
-~~~~~~~~~~~~~~~~~~~~~
+**Cheque Común Devuelto**
+~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Cheque Común a Pagar Devuelto por el Banco
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+**Cheque Común a Pagar Devuelto por el Banco**
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Cheque a Pagar
 
@@ -27,8 +27,8 @@ Cheque a Pagar
 
 El asiento se neutraliza.
 
-Cheque Común a Cobrar Devuelto por el Banco
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+**Cheque Común a Cobrar Devuelto por el Banco**
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Cheque a Cobrar
 
@@ -39,11 +39,11 @@ Cheque a Cobrar
 
 El asiento se neutraliza.
 
-Cheque de Pago Diferido Devuelto
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+**Cheque de Pago Diferido Devuelto**
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Cheque Diferido a Pagar Devuelto por el Banco
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+**Cheque Diferido a Pagar Devuelto por el Banco**
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Cheque a Diferido a Pagar
 
@@ -54,8 +54,8 @@ Cheque a Diferido a Pagar
 
 El asiento se neutraliza.
 
-Cheque Diferido a Cobrar Devuelto por el Banco
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+**Cheque Diferido a Cobrar Devuelto por el Banco**
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Cheque Diferido a Cobrar
 
@@ -66,8 +66,8 @@ Cheque Diferido a Cobrar
 
 El asiento se neutraliza.
 
-Sustitución de Cheque Devuelto
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+**Sustitución de Cheque Devuelto**
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Si se sustituye con cheque día, realizar el pago o cobro nuevamente.
 

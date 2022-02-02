@@ -3,8 +3,8 @@
 .. |Factura Perdida Ganancia No Realizada| image:: resources/perdida-ganancia-no-realizada-.png
 .. |Reporte Diferencia de Cambio DxC y DxP No Realizada| image:: resources/reporte-de-diferencia-de-cambio-dxc-y-dxp-no-realizada-.png
 
-Revaluaciones de Cuentas por Cobrar y Cuentas por Pagar
-=======================================================
+**Revaluaciones de Cuentas por Cobrar y Cuentas por Pagar**
+===========================================================
 
 Debido a que la tasa de cambio cambia con el tiempo, es posible que deba
 determinar el valor actual de estos documentos en la fecha especificada

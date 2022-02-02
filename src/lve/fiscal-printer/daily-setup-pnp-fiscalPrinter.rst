@@ -1,7 +1,7 @@
 .. _documento/revision-rutinaria-impresora-pnp:
 
-Revisión de Rutina para Impresora Fiscal PNP
-============================================
+**Revisión de Rutina para Impresora Fiscal PNP**
+================================================
 
 
 Verificación por impresora al inicio del día:

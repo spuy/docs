@@ -4,8 +4,8 @@
 **Reconocimiento de Ingresos y Gastos**
 =======================================
 
-Generalidades
--------------
+**Generalidades**
+-----------------
 
 De acuerdo con los principios básicos de contabilidad, los ingresos no
 deben reconocerse hasta que se hayan logrado, y los gastos no deben
@@ -29,8 +29,8 @@ Estarán vinculadas en esta funcionalidad las cuentas contables de:
 -  Ganancias y Pérdidas que reflejarán lo realmente suministrado o
    recibido
 
-Etapas de la Funcionalidad del Reconocimiento
----------------------------------------------
+**Etapas de la Funcionalidad del Reconocimiento**
+-------------------------------------------------
 
 **Método de Reconocimiento:** Determinación del Método de Reconocimiento
 en cada línea de la Orden (determinación de la manera que se deberá

@@ -1,8 +1,8 @@
 .. |Proceso Deposito de Cheques| image:: resources/check-deposit-process.png
 .. |Ventana Deposito de Cheque Tercero| image:: resources/customer-check-deposit-window.png
 
-Depósito Cheque Diferido de Clientes (Proceso)
-==============================================
+**Depósito Cheque Diferido de Clientes (Proceso)**
+==================================================
 
 Los Depósitos de Cheques de Clientes se deben realizar mediante el
 proceso automatizado de “Depósito de Cheques”
@@ -28,8 +28,8 @@ Cheque de Tercero se ve desde la ventana “Depósito Cheque Tercero”.
 
 |Ventana Deposito de Cheque Tercero|
 
-Depósito de Cheque Tercero (Documento)
---------------------------------------
+**Depósito de Cheque Tercero (Documento)**
+------------------------------------------
 
 En el cabezal de la Ventana Depósito de Cheque Tercero se verán los
 siguientes campos:

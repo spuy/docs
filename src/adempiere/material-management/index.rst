@@ -4,8 +4,8 @@
 **Gestión de Materiales**
 =========================
 
-Generalidades de los Procesos de Inventario
-===========================================
+**Generalidades de los Procesos de Inventario**
+===============================================
 
 La funcionalidad de inventario proporciona acceso en tiempo real a los
 datos de disponibilidad de artículos en stock configurados de acuerdo

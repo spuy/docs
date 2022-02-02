@@ -15,8 +15,8 @@ Asimismo, ofrece opciones con las cuales la empresa puede acceder a datos estad�
 
 El propósito de Solop es apoyar a nuestros clientes, dar respuestas rápidas y eficientes a sus problemas con el manejo de información para permitir la toma de decisiones y minimizar los costes.
 
-Generalidades
--------------
+**Generalidades**
+-----------------
 
 A continuación se explicará la filosofía de la contabilidad en Solop. Se
 responde a la pregunta: ¿Qué es la Contabilidad en Solop?
@@ -55,8 +55,8 @@ cuentas de ganancias de capital o semejantes o que el auditor sugiera
 ejecutar ciertos movimientos contables. En los demás casos, Solop maneja
 la Contabilidad automáticamente.
 
-Contabilidad en Solop
----------------------
+**Contabilidad en Solop**
+-------------------------
 
 La Contabilidad es el centro de cualquier sistema ERP donde se recopila
 toda la información financiera para posteriormente analizarla de forma
@@ -99,8 +99,8 @@ las cuentas (en realidad combinaciones contables, pero por simplicidad,
 llamémosles cuentas) de las cuales se alimentan los datos maestros
 arriba mencionados.
 
-Detalle de los asientos contables
----------------------------------
+**Detalle de los asientos contables**
+-------------------------------------
 
 Los asientos contables en Solop no son comprimidos, sino que son tan
 detallados como uno desee, es decir, cuantan con información muy atómica
