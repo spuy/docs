@@ -1,12 +1,12 @@
 {% extends "layout.html" %}
-{% set title = _('Toda la DocumentaciÃ³n de la plataforma Solop y las aplicaciones Solop para la empresa') %}
+{% set title = _('Toda la Documentación de la plataforma Solop y las aplicaciones Solop para la empresa') %}
 {% block body %}
-<h1>Toda la DocumentaciÃ³n de la plataforma Solop y las aplicaciones Solop para la empresa</h1>
+<h1>Toda la Documentación de la plataforma Solop y las aplicaciones Solop para la empresa</h1>
 <img src="https://cdn.discordapp.com/attachments/882719683005022280/934158135155916800/portada_solop_institucional_297x21_Documenta_tu_negocio.png">
 
 
 <hr>
-<p>separador</p>
+<p>SOLOP</p>
 <hr>
 
 <table class="contentstable" align="center">
@@ -15,20 +15,13 @@
 
     <tr>
 
-        <td style="width: 291.6px;"><a class="biglink" href="%7B%7B%20pathto%28">Solop
+        <td style="width: 100%;"><a class="biglink" href="{{ pathto("adempiere/index") }}">Solop
             ERP </a> <br>
 
             <span class="linkdescr">(Breve descripción de lo que es Solop ERP)</span>
 
         </td>
 
-        <td style="width: 291.6px;"><a class="biglink" href="%7B%7B%20pathto%28">Localización
-            Uruguay </a> <br>
-
-            <span class="linkdescr">(Breve descripción de Localización
-
-              Uruguay)</span> </td>
-
     </tr>
 
     </tbody>
@@ -36,7 +29,7 @@
 </table>
 
 <hr>
-<p>separador</p>
+<p>VERTICALES</p>
 <hr>
 
 <table class="contentstable" align="center">
@@ -45,123 +38,24 @@
 
     <tr>
 
-        <td style="width: 291.6px;"><a class="biglink" href="%7B%7B%20pathto%28">Solop
-            ERP </a> <br>
+        <td style="width: 50%;"><a class="biglink" href="{{ pathto("education/index") }}">Educación
+            </a> <br>
 
-            <span class="linkdescr">(Breve descripción de lo que es Solop ERP)</span>
-
-        </td>
-
-        <td style="width: 291.6px;"><a class="biglink" href="%7B%7B%20pathto%28">Localización
-            Uruguay </a> <br>
-
-            <span class="linkdescr">(Breve descripción de Localización
-
-              Uruguay)</span> </td>
-
-    </tr>
-
-    </tbody>
-
-</table>
-
-<hr>
-<p>separador</p>
-<hr>
-
-<table class="contentstable" align="center">
-
-    <tbody>
-
-    <tr>
-
-        <td width="100%">
-
-            <p class="biglink"> <a class="biglink" href="%7B%7B%20pathto%28" adempiere=""
-
-
-                                   index")="" }}"=""> Solop ERP </a> <br>
-
-                <span class="linkdescr">(Breve descripción de lo que es Solop
-
-                ERP)</span> </p>
+            <span class="linkdescr">(Breve descripción de Educación)</span>
 
         </td>
 
-    </tr>
+        <td style="width: 50%;"><a class="biglink" href="{{ pathto("agency/index") }}">Agencia
+            </a> <br>
 
-    <tr>
-
-        <td width="50%">
-
-            <p class="biglink"> <a class="biglink" href="%7B%7B%20pathto%28" lve=""
-
-
-                                   index")="" }}"=""> Localización Venezuela </a> <br>
-
-                <span class="linkdescr">(Breve descripción de Localización
-
-                Venezuela)</span> </p>
+            <span class="linkdescr">(Breve descripción de Agencia)</span>
 
         </td>
 
-        <td width="75%">
+        <td style="width: 50%;"><a class="biglink" href="{{ pathto("agribusiness/farmer-assistance-management/index") }}">Agronegocios
+            </a> <br>
 
-            <p class="biglink"> <a class="biglink" href="%7B%7B%20pathto%28" luy=""
-
-
-                                   index")="" }}"=""> Localización Uruguay </a> <br>
-
-                <span class="linkdescr">(Breve descripción de Localización
-
-                Uruguay)</span> </p>
-
-        </td>
-
-    </tr>
-
-    <tr>
-
-        <td width="50%">
-
-            <p class="biglink"> <a class="biglink" href="%7B%7B%20pathto%28" education=""
-
-
-                                   index")="" }}"=""> Educación </a> <br>
-
-                <span class="linkdescr">(Breve descripción de Educación)</span>
-
-            </p>
-
-        </td>
-
-        <td width="30%">
-
-            <p class="biglink"> <a class="biglink" href="%7B%7B%20pathto%28" agency=""
-
-
-                                   index")="" }}"=""> Agencia </a> <br>
-
-                <span class="linkdescr">(Breve descripción de Agencia)</span> </p>
-
-        </td>
-
-    </tr>
-
-    <tr>
-
-        <td width="50%">
-
-            <p class="biglink"> <a class="biglink" href="%7B%7B%20pathto%28" agribusiness=""
-
-
-                                   farmer-assistance-management="" index")="" }}"=""> Agronegocios
-
-                </a> <br>
-
-                <span class="linkdescr">(Breve descripción de Agronegocios)</span>
-
-            </p>
+            <span class="linkdescr">(Breve descripción de Agronegocios)</span>
 
         </td>
 
@@ -172,28 +66,24 @@
 </table>
 
 <hr>
-<p>separador</p>
+<p>LOCALIZACIONES</p>
 <hr>
 
 <table class="contentstable" align="center">
     <tbody>
     <tr>
         <td style="width: 50%;">
-            <a class="biglink" href="#">Solop ERP </a>
+            <a class="biglink" href="{{ pathto("lve/index") }}">Localización Venezuela </a>
             <br>
-            <span class="linkdescr">(Breve descripción de lo que es Solop ERP)</span>
+            <span class="linkdescr">(Breve descripción de Localización Venezuela)</span>
         </td>
         <td style="width: 50%;">
-            <a class="biglink" href="#">Localización Uruguay </a>
+            <a class="biglink" href="{{ pathto("luy/index") }}">Localización Uruguay </a>
             <br>
             <span class="linkdescr">(Breve descripción de Localización Uruguay)</span> </td>
     </tr>
     </tbody>
 </table>
-
-<hr>
-<p>separador</p>
-<hr>
 
 
 {% endblock %}
