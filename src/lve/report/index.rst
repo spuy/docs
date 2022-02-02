@@ -1,9 +1,9 @@
 .. _ERPyA: http://erpya.com
 .. _src/lve/report:
 
-=========================
-**Reportes de ADempiere**
-=========================
+============
+**Reportes**
+============
 
 Un reporte es un informe detallado o preciso sobre algún tema en específico, se genera con la finalidad de transmitir la información almacenada en la base de datos, según lo requerido por el usuario en los filtros de búsqueda que contempla ADempiere.
 

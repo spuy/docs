@@ -32,24 +32,6 @@ Le invitamos a descubrir cómo hacer su día a día más sencillo con el uso de 
     adempiere/returns/index
 
 .. toctree::
-    :caption: LOCALIZACIÓN VENEZUELA
-    :maxdepth: 2
-
-    lve/document-utility/index
-    lve/fiscal-printer/index
-    lve/procedures/index
-    lve/report/index
-    lve/standard-coding/index
-
-.. toctree::
-    :caption: LOCALIZACIÓN URUGUAY
-    :maxdepth: 2
-
-    luy/electronic-billing/index
-    luy/procedures/index
-    luy/reports/index
-
-.. toctree::
     :caption: AGENCIA
     :maxdepth: 2
 
@@ -81,3 +63,28 @@ Le invitamos a descubrir cómo hacer su día a día más sencillo con el uso de 
     agribusiness/farmer-assistance-management/headings/index
     agribusiness/farmer-assistance-management/producer/index
     agribusiness/farmer-assistance-management/technical-assistance-management/index
+
+.. toctree::
+    :caption: LOCALIZACIÓN VENEZUELA
+    :maxdepth: 2
+
+    lve/document-utility/index
+    lve/fiscal-printer/index
+    lve/procedures/index
+    lve/report/index
+    lve/standard-coding/index
+
+.. toctree::
+    :caption: LOCALIZACIÓN URUGUAY
+    :maxdepth: 2
+
+    luy/electronic-billing/index
+    luy/procedures/index
+    luy/reports/index
+
+.. toctree::
+    :caption: LOCALIZACIÓN EL SALVADOR
+    :maxdepth: 2
+
+    lsa/procedures/index
+    lsa/reports/index
