@@ -19,16 +19,16 @@
 Es un documento que vincula dos o más elementos, de forma que se pueda
 tener una trazabilidad perfecta a causa de esta vinculación.
 
-Tipos de Documentos de Asignación
----------------------------------
+**Tipos de Documentos de Asignación**
+-------------------------------------
 
 -  Asignación Factura - Pago/Cobro
 -  Asignación Factura - Nota de Crédito
 -  Asignación por Anulación
 -  Asignación por Documento Diferido
 
-Asignación Factura Pago/Cobro
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+**Asignación Factura Pago/Cobro**
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 +---------------------------+---------------+
 |                           |Pago/Cobro     |
@@ -54,8 +54,8 @@ Pagar/Cobrar.
 
 |Asignacion Factura Pago Cobro 6|
 
-Asignación por Nota de Crédito
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+**Asignación por Nota de Crédito**
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 +----------------------------+-----------------------------------------------+
 |Documentos por Cobrar/Pagar |Nota de CRédito de Documentos por Cobrar/Pagar |
 +----------------------------+-----------------------------------------------+

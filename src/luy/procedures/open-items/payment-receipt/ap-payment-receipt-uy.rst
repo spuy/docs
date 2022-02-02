@@ -27,8 +27,8 @@ corresponde por ejemplo.
 
 Acciones
 
-Asignar Facturas (Documentos por Pagar)
----------------------------------------
+**Asignar Facturas (Documentos por Pagar)**
+-------------------------------------------
 
 Haciendo click en este botón podrá seleccionar directamente qué facturas
 se estarán cobrando.
@@ -74,15 +74,15 @@ cerrarán por lo que no se generará la Asignación automática.
 
 |Sb Asignar Factura|
 
-Seleccionar Cheque Diferido
----------------------------
+**Seleccionar Cheque Diferido**
+-------------------------------
 
 En caso de realizar un Pago con un Cheque Diferido se deberá generar el
 mismo previamente para luego desde el Recibo de Pago simplemente
 seleccionar el mismo.
 
-Generar Pago Contado
---------------------
+**Generar Pago Contado**
+------------------------
 
 Definir con qué medio de pago se estará pagando (Contado, Cheque al día
 o Transferencia). Así como también el importe del mismo.
@@ -97,8 +97,8 @@ saldar la diferencia.
 
 |Cargo|
 
-Ajuste
-------
+**Ajuste**
+----------
 
 En caso de que exista una diferencia entre los Medios de Pago y los
 Documentos a Asignar (redondeo, gastos bancarios por transferencias,

@@ -4,8 +4,8 @@
 .. |Check Redondeo SI| image:: resources/check-redondeo-si.png
 .. |Sb Asignar Facturas| image:: resources/sb-asignar-facturas.png
 
-Recibo de Cobro con Redondeo
-============================
+**Recibo de Cobro con Redondeo**
+================================
 
 Para generar un  recibo de cobro se comenzará completando los siguientes
 campos:

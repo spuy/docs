@@ -1,10 +1,10 @@
 .. |Proceso Cheque Diferido por Pagar| image:: resources/payment-deferred-check-process.png
 
-Gestión Avanzada de Cheques Diferidos
-=====================================
+**Gestión Avanzada de Cheques Diferidos**
+=========================================
 
-Cheque Diferido por Pagar
--------------------------
+**Cheque Diferido por Pagar**
+-----------------------------
 
 Tanto la Factura como el Cheque Diferido a Pagar son Documentos por
 Pagar, que se diferenciar por el grado de certeza del Pago o por
@@ -49,8 +49,8 @@ cuando se asigne el Pago Diferido con el Documento por Pagar. Esta
 asignación puede ser automática desde el recibo o bien realizarse luego
 desde el proceso de Asignación de Recibos.
 
-Asignación de Cheque Diferido por Pagar y Pago Diferido
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+**Asignación de Cheque Diferido por Pagar y Pago Diferido**
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 El Cheque Diferido por Pagar será asignado cuando el mismo sea
 Cancelado, esto será cuando se realice el Débito del mismo en el Banco o
@@ -112,8 +112,8 @@ Cuenta Puente Diferidos   H  3.000
 
 21100 - Cuentas por Pagar  H 3.000
 
-Pagos no Comerciales con Cheques Diferidos
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+**Pagos no Comerciales con Cheques Diferidos**
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Si se requiere emitir y pagar una transacción no comercial, es decir que
 no corresponde al pago de Documentos por Pagar de proveedores, se deberá

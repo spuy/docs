@@ -5,11 +5,11 @@
 **Gestión de Cheques Manuales por pagar**
 =========================================
 
-Libretas de Cheques Propios
----------------------------
+**Libretas de Cheques Propios**
+-------------------------------
 
-Libreta de Cheques
-~~~~~~~~~~~~~~~~~~
+**Libreta de Cheques**
+~~~~~~~~~~~~~~~~~~~~~~
 
 Para emitir cheques manuales en libretas, se deberán:
 
@@ -49,8 +49,8 @@ De regreso en la ventana de libreta/resma de cheques, se debe ingresar
 el nombre, nombre a ser impreso, cuenta bancaria y la secuencia del
 documento (definida anteriormente).
 
-Visualizar estado de los Cheques emitidos
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+**Visualizar estado de los Cheques emitidos**
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 En la pestaña “Cheques” se visualiza el estado de los mismos.
 

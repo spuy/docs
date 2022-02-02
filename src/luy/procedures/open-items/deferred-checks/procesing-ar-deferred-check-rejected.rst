@@ -19,8 +19,8 @@ procedimiento:**
 **Asignar el Depósito a la Entrega/Salida del dinero desde la Cuenta Bancaria en la Conciliación Bancaria**
 ===========================================================================================================
 
-**Luego de realizar el Match entre el Depósito y el Movimiento Bancario de la Conciliación Reversar el Depósito para que se genere un nuevo Depósito con signo contrario.**
-===========================================================================================================================================================================
+**Luego de realizar el Match entre el Depósito y el Movimiento Bancario de la Conciliación Reversar el Depósito para que se genere un nuevo Depósito con signo contrario**
+==========================================================================================================================================================================
 
-**Realizar el Match en la conciliación entre el Reverso del Depósito con la Línea de la conciliación Bancaria del Rechazo.**
-============================================================================================================================
+**Realizar el Match en la conciliación entre el Reverso del Depósito con la Línea de la conciliación Bancaria del Rechazo**
+===========================================================================================================================

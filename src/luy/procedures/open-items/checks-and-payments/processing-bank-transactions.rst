@@ -1,5 +1,5 @@
-Procesando transacciones de Caja/Bancos
-=======================================
+**Procesando transacciones de Caja/Bancos**
+===========================================
 
 En Solop ERP puede agregar rápidamente transacciones que registran los
 cobros de los clientes, los pagos a los proveedores, los reembolsos
@@ -10,8 +10,8 @@ Caja/Banco y administrar efectivamente estas transacciones.
 Aquí, leerá cómo registrar rápidamente las transacciones en dinero de
 cualquier tipo y cómo el sistema las procesa.
 
-Comprender los tipos de transacciones de Caja/Banco
----------------------------------------------------
+**Comprender los tipos de transacciones de Caja/Banco**
+-------------------------------------------------------
 
 Dependiendo del propósito de la transacción, puede registrar y procesar
 transacciones de Caja/Banco de los siguientes tipos:
@@ -101,8 +101,8 @@ contables.
 anular un depósito. Las transacciones de este tipo afectan a las cuentas
 contables que participaron en el depósito relacionado.
 
-Ingresando Transacciones de Pago/Cobro
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+**Ingresando Transacciones de Pago/Cobro**
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Dependiendo el Tipo de Transacción que desee ingresar debe tener claro
 que siempre deberá ingresar:
@@ -113,8 +113,8 @@ que siempre deberá ingresar:
 -  Fecha
 -  Socio de Negocio
 
-Procesando Pagos de  Documentos por Pagar
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+**Procesando Pagos de  Documentos por Pagar**
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Al momento de ingresar un Pago, si éste está vinculado a un Documento
 por Pagar,  puede asignarlo en ese momento.
@@ -124,8 +124,8 @@ Pagos.
 
 En ambos casos se realizará el asiento contable de asignación.
 
-Procesando Cobro de  Documentos por Cobrar
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+**Procesando Cobro de  Documentos por Cobrar**
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Al momento de ingresar un Cobro, si éste está vinculado a un Documento
 por Cobrar,  puede asignarlo en ese momento.
@@ -135,11 +135,11 @@ Pagos.
 
 En ambos casos se realizará el asiento contable de asignación.
 
-Procesamiento de una entrada de Caja/Banco
-------------------------------------------
+**Procesamiento de una entrada de Caja/Banco**
+----------------------------------------------
 
-Registro de un Pago/Cobro
-~~~~~~~~~~~~~~~~~~~~~~~~~
+**Registro de un Pago/Cobro**
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Usted crea una entrada de Caja/Banco utilizando la ventana de
 Pago/Cobro. Selecciona una cuenta Bancaria y un tipo de entrada, moneda,
@@ -151,28 +151,28 @@ corresponde.
 
 -———————————————————————————————————–
 
-Ingreso rápido de un Cobro
-^^^^^^^^^^^^^^^^^^^^^^^^^^
+**Ingreso rápido de un Cobro**
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Aprobar una entrada de efectivo
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+**Aprobar una entrada de efectivo**
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Visualización de una entrada de efectivo
+**Visualización de una entrada de efectivo**
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+**Monitoreo de una Transacción de Caja**
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Monitoreo de una Transacción de Caja
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-Cuenta Caja/Banco detallada
-^^^^^^^^^^^^^^^^^^^^^^^^^^^
+**Cuenta Caja/Banco detallada**
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Puede ver información resumida o la lista completa de transacciones
 relacionadas con efectivo realizadas en la cuenta durante este período.
 La información se recopila de los módulos Administración de efectivo,
 Libro mayor, Cuentas por pagar y Cuentas por cobrar.
 
-Seleccionando la vista
-^^^^^^^^^^^^^^^^^^^^^^
+**Seleccionando la vista**
+^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Entrada rápida de transacciones
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+**Entrada rápida de transacciones**
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^

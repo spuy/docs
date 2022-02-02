@@ -4,8 +4,8 @@
 .. |Generar Documento Diferido| image:: resources/generar-documento-diferido.png
 .. |Sb Asignar Factura| image:: resources/smartbrowser-asignar-factura.png
 
-Recibo de Cobro
-===============
+**Recibo de Cobro**
+===================
 
 Es un documento que la empresa emite indicando que cobró a un tercero
 uno o varios Documentos por Cobrar, indicando qué Documentos está
@@ -22,8 +22,8 @@ El recibo de cobro tiene documentos afectados o "Documentos Por Cobrar",
 que pueden afectarse total o parcialmente,  la suma de esta relación
 puede ser igual o menor que el Recibo de Cobro pero nunca superior.
 
-Ingreso del Recibo de Cobro una moneda
---------------------------------------
+**Ingreso del Recibo de Cobro una moneda**
+------------------------------------------
 
 Para realizar un Recibo de Cobro se deberá ingresar a la ventana llamada
 Recibo de Cobro.
@@ -56,8 +56,8 @@ de "Redondeo"
 
 Esto permitirá que el sistema realice la asignación automática.
 
-Acciones
---------
+**Acciones**
+------------
 
 Las acciones que se pueden realizar serán:
 
@@ -69,8 +69,8 @@ y se deberán realizar con los botones que está en la imagen de abajo.
 
 |Acciones|
 
-1- Asignar Facturas
-~~~~~~~~~~~~~~~~~~~
+**1- Asignar Facturas**
+~~~~~~~~~~~~~~~~~~~~~~~
 
 Con el botón Asignar Facturas podrá seleccionar directamente qué
 Documentos por Cobrar está cobrando.
@@ -81,8 +81,8 @@ automática.
 
 |Sb Asignar Factura|
 
-2- Generar Documento de Cobro Diferido
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+**2- Generar Documento de Cobro Diferido**
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Definir el Cheque Diferido que se está recibiendo. Se deberá definir la
 siguiente información: Nro de Cheque, Banco del Cheque, Importe, Fecha
@@ -90,8 +90,8 @@ de Emisión y Fecha. Vencimiento.
 
 |Generar Documento Diferido|
 
-3- Generar Cobro Contado
-~~~~~~~~~~~~~~~~~~~~~~~~
+**3- Generar Cobro Contado**
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Seleccionar con qué medio de pago se estará cobrando. Contado, Cheque al
 día, cheque diferido, conforme, canje o Transferencia.
@@ -142,8 +142,8 @@ la diferencia.
 Importe del Cargo: Diferencia existente entre los Medios de Pago
 seleccionados y los Documentos Asignados.
 
-Recibo de Canje
----------------
+**Recibo de Canje**
+-------------------
 
 Si dentro del recibo se han ingresado Documentos por Cobrar, pero
 también Documentos por Pagar, estos serán sumarizados con signo
@@ -157,8 +157,8 @@ la Cuenta Corriente de Cuentas por Pagar con este Socio del Negocio. De
 esta manera quedará correctamente representado en ambos estados de
 cuenta corriente quedando claro el "Canje" que realizó.
 
-Acciones al Completar un Recibo
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+**Acciones al Completar un Recibo**
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Al Completar un Recibo de Cobro, se completarán así como los Cobros
 definidos en el mismo como también se generará una Asignación entre

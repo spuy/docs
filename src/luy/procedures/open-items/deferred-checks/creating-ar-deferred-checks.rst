@@ -2,11 +2,11 @@
 .. |Generar Cheque Diferido| image:: resources/generate-deferred-check.png
 .. |Proceso Generar Documento Diferido| image:: resources/process-generate-deferred-document.png
 
-Gestión de Cheques Diferidos por Cobrar
----------------------------------------
+**Gestión de Cheques Diferidos por Cobrar**
+-------------------------------------------
 
-Creación de Cheques Diferidos por Cobrar
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+**Creación de Cheques Diferidos por Cobrar**
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Podrá emitir un cheque diferido por Cobrar desde la ventana de Recibo de
 Cobro presionando el botón "Generar Cheque Diferido"
@@ -39,13 +39,13 @@ de Cheque Diferido por Cobrar.
 Los Cheques Diferidos por Cobrar son ingresados al momento de ingresar
 el Recibos de Cobro, creándolo en ese mismo momento desde esa ventana.
 
-Reporte de Cheques Diferidos por Cobrar
----------------------------------------
+**Reporte de Cheques Diferidos por Cobrar**
+-------------------------------------------
 
 |Reporte Cheques Diferidos por Cobrar|
 
-Ventana de Cheques Diferidos por Cobrar
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+**Ventana de Cheques Diferidos por Cobrar**
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Los cheques diferidos por cobrar se visualizan en la ventana “Cheque
 Diferido Por Cobrar”.

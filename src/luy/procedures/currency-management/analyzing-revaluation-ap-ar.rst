@@ -1,8 +1,8 @@
 .. |Ejemplo| image:: resources/example.png
 .. |Saldos Abiertos a la Fecha| image:: resources/open-items.png
 
-Analizando la Diferencia de Cambio no Realizada
-===============================================
+**Analizando la Diferencia de Cambio no Realizada**
+===================================================
 
 El proceso para realizar la verificación Contable con los Saldos
 Abiertos que existe en los Auxiliares se puede realizar mediante los

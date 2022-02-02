@@ -3,25 +3,25 @@
 .. |Pestaña Vencimiento Cheque Diferido por Pagar| image:: resources/payment-deferred-check-window-expiration-tab.png
 .. |Ventana Cheque Diferido por Pagar| image:: resources/payment-deferred-check-window.png
 
-Gestión de Cheques Diferidos por Pagar
-======================================
+**Gestión de Cheques Diferidos por Pagar**
+==========================================
 
-Emisión de Cheque Diferido por Pagar
-------------------------------------
+**Emisión de Cheque Diferido por Pagar**
+----------------------------------------
 
 Puede emitir un cheque diferido por pagar de dos formas diferentes:
 
 1. Con Proceso desde Recibo de Pago
 2. Desde ventana de Cheque Diferido por Pagar
 
-Creación de Cheque Diferido a Pagar desde Recibo de Pago
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+**Creación de Cheque Diferido a Pagar desde Recibo de Pago**
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Podrá generar los cheques recibidos con el botón de la ventana Recibo de
 pago.
 
-Creación del/os Cheques desde la Ventana de Cheque Diferido por Pagar
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+**Creación del/os Cheques desde la Ventana de Cheque Diferido por Pagar**
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 La emisión de cheques diferidos propios a Pagar se puede realizar
 mediante la ventana “Cheque Diferido Por Pagar”.
@@ -59,15 +59,15 @@ el Reporte de “Cheques Diferidos”.
 
 |Pestaña Vencimiento Cheque Diferido por Pagar|
 
-Proceso automático de Debitar los Cheques Diferidos por Pagar
--------------------------------------------------------------
+**Proceso automático de Debitar los Cheques Diferidos por Pagar**
+-----------------------------------------------------------------
 
 De forma automática el sistema diariamente convierte los documentos de
 Cheque Diferido por Pagar en un documento día, realizando la aplicación
 contable correspondiente.
 
-Débito de Cheques Diferidos Propios a pagar (proceso manual)
-------------------------------------------------------------
+**Débito de Cheques Diferidos Propios a pagar (proceso manual)**
+----------------------------------------------------------------
 
 También es posible cambiar el estado de un Cheque Diferido por Pagar de
 forma manual mediante el proceso de Débito de Cheques.
@@ -81,8 +81,8 @@ El vencimiento de la fecha “diferida” representa la posibilidad salida
 de fondos de la empresa a causa del vencimiento de la fecha del cheque
 diferido.
 
-Anulación de Cheques Diferidos a Pagar
---------------------------------------
+**Anulación de Cheques Diferidos a Pagar**
+------------------------------------------
 
 -  **Anular un Cheque Diferido por Pagar:** Por ejemplo cuando el mismo
    se rompió o consumió el Folio mal escrito, etc. Este proceso debe
