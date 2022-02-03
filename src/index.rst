@@ -11,7 +11,7 @@ La misma será actualizada periódicamente en función de las nuevas versiones p
 Le invitamos a descubrir cómo hacer su día a día más sencillo con el uso de esta herramienta.
 
 .. toctree::
-    :caption: SOLOP ERP
+    :caption: adempiere/index
     :maxdepth: 2
 
     adempiere/asset-management/index
