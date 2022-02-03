@@ -1,8 +1,8 @@
 .. _src/agency:
 
-======================
-**Gestión de Agencia**
-======================
+=========================
+**Agencia de Publicidad**
+=========================
 
 .. toctree::
     :maxdepth: 2
