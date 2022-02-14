@@ -11,7 +11,7 @@ La misma será actualizada periódicamente en función de las nuevas versiones p
 Le invitamos a descubrir cómo hacer su día a día más sencillo con el uso de esta herramienta.
 
 .. toctree::
-    :caption: :ref:`Solop ERP <erp/index>`
+    :caption: SOLOP ERP
     :maxdepth: 2
 
     erp/asset-management/index
@@ -30,9 +30,10 @@ Le invitamos a descubrir cómo hacer su día a día más sencillo con el uso de 
     erp/quote-to-invoice/index
     erp/requisition-to-invoice/index
     erp/returns/index
+    erp/accounts-configuration/index
 
 .. toctree::
-    :caption: :ref:`AGENCIA DE PUBLICIDAD <agency/index>`
+    :caption: AGENCIA DE PUBLICIDAD
     :maxdepth: 2
 
     agency/accounts-payable/index
@@ -43,7 +44,7 @@ Le invitamos a descubrir cómo hacer su día a día más sencillo con el uso de 
     agency/returns
 
 .. toctree::
-    :caption: :ref:`EDUCACIÓN <education/index>`
+    :caption: EDUCACIÓN
     :maxdepth: 2
 
     education/education-master/index
@@ -55,7 +56,7 @@ Le invitamos a descubrir cómo hacer su día a día más sencillo con el uso de 
     education/documents-shared-between-organizations
 
 .. toctree::
-    :caption: :ref:`AGRONEGOCIOS <agribusiness/index>`
+    :caption: AGRONEGOCIOS
     :maxdepth: 2
 
     agribusiness/farmer-assistance-management/farm/index
@@ -65,7 +66,7 @@ Le invitamos a descubrir cómo hacer su día a día más sencillo con el uso de 
     agribusiness/farmer-assistance-management/technical-assistance-management/index
 
 .. toctree::
-    :caption: :ref:`LOCALIZACIÓN VENEZUELA <lve/index>`
+    :caption: LOCALIZACIÓN VENEZUELA
     :maxdepth: 2
 
     lve/document-utility/index
@@ -75,7 +76,7 @@ Le invitamos a descubrir cómo hacer su día a día más sencillo con el uso de 
     lve/standard-coding/index
 
 .. toctree::
-    :caption: :ref:`LOCALIZACIÓN URUGUAY <luy/index>`
+    :caption: LOCALIZACIÓN URUGUAY
     :maxdepth: 2
 
     luy/electronic-billing/index
@@ -83,7 +84,7 @@ Le invitamos a descubrir cómo hacer su día a día más sencillo con el uso de 
     luy/reports/index
 
 .. toctree::
-    :caption: :ref:`LOCALIZACIÓN EL SALVADOR <lsa/index>`
+    :caption: LOCALIZACIÓN EL SALVADOR
     :maxdepth: 2
 
     lsa/procedures/index

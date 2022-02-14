@@ -25,3 +25,4 @@
     quote-to-invoice/index
     requisition-to-invoice/index
     returns/index
+    accounts-configuration/index
