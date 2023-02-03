@@ -1,4 +1,3 @@
-.. |Sb Generar Factura desde Cuota de Contrato| image:: resources/sb-generar-factura-desde-cuota-de-contrato-.png
 .. |Seleccionar Lineas| image:: resources/seleccionar-lineas-.png
 
 **Facturación de Cuotas del Contrato de Servicios**
