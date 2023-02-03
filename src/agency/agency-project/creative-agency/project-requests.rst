@@ -1,8 +1,4 @@
-.. |Ventana Todas las Solicitudes| image:: resources/all-requests-window.png
 .. |Solicitud Menu| image:: resources/menu.png
-.. |Proyecto Pestaña Solicitudes de Fase| image:: resources/phase-requests-tab.png
-.. |Solicitud Pestaña Aviso de Actualizacion| image:: resources/request-window-notifications-notice-tab.png
-.. |Ventana Solicitud| image:: resources/request-window.png
 
 **Solicitudes del Proyecto**
 ============================

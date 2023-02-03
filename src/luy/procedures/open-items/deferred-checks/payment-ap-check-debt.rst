@@ -1,7 +1,6 @@
 .. |Deposito de Cheque Propio| image:: resources/deposito-de-cheque-propio.png
 .. |Documento Generado| image:: resources/documento-generado.png
 .. |Proceso Debito de Cheques| image:: resources/proceso-debito-de-cheques.png
-.. |Seleccionar Lineas| image:: resources/seleccionar-lineas.png
 
 **Débito de Cheques Propios**
 =============================

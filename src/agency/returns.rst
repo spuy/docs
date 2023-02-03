@@ -1,5 +1,4 @@
 .. |Crear Desde Sb| image:: resources/proceso-crear-desde.png
-.. |Generar Devoluciones Sb| image:: resources/proceso-generar-devoluciones.png
 
 **Devoluciones a Cliente**
 ==========================

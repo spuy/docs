@@ -1,5 +1,3 @@
-.. |Generar Devoluciones| image:: resources/generar-devoluciones.png
-.. |Generar NC Desde Devolucion| image:: resources/generar-nc-desde-devolucion.png
 
 **Generar Devoluciones a Cliente**
 ==================================

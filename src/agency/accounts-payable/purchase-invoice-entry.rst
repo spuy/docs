@@ -1,7 +1,6 @@
 .. |Boton Crear Desde| image:: resources/boton-crear-desde-.png
 .. |Completar Documento| image:: resources/complete-document-.png
 .. |Ventana Documentos por Pagar| image:: resources/documents-payable-window-.png
-.. |Seleccionar Lineas| image:: resources/seleccionar-lineas-.png
 .. |Smartbrowser| image:: resources/sb.png
 
 **Ingreso de Factura de Compra**
