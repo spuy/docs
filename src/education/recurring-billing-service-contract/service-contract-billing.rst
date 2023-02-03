@@ -1,4 +1,3 @@
-.. |Seleccionar Lineas| image:: resources/seleccionar-lineas-.png
 
 **Facturación de Cuotas del Contrato de Servicios**
 ===================================================

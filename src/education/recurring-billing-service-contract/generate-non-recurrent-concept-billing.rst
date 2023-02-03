@@ -1,6 +1,5 @@
 .. |Parametros del Proceso| image:: resources/parametros-proceso.png
 .. |Sb Generar Servicio a Facturar| image:: resources/sb-generar-servicio-a-facturar.png
-.. |Seleccionar Lineas| image:: resources/seleccionar-lineas.png
 
 **Generar Concepto a Facturar no Recurrente**
 =============================================
