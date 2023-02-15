@@ -18,3 +18,4 @@
     document-status/index
     system-login/index
     window-characteristics/index
+    masive-uploads

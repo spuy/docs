@@ -16,5 +16,4 @@
     invoice-customer/index
     generate-invoice-from-departure-order
     shipment/index
-    credit-note-cxc
-    debit-note-cxc
+    
