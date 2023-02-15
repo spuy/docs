@@ -18,6 +18,7 @@ Por ello, se presenta la siguiente guía con instrucciones claras y precisas de 
 
     automatic-conciliations/index
     bank-transfer/index
+    cash-management/index
     cash-closing/index
     cash-per-diems/index
     cash-refund/index

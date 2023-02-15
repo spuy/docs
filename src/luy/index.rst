@@ -9,6 +9,6 @@
 .. toctree::
     :maxdepth: 2
 
-    electronic-billing/index
+    
     procedures/index
     reports/index
