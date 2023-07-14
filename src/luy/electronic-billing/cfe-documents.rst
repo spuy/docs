@@ -16,6 +16,7 @@
 Si se requiere generar una e-Factura, es requisito que el Cliente
 disponga de un RUT definido en la definición del Socio del Negocio.
 
+
 Ventana Socio del Negocio:
 
 -  **Grupo de Impuestos:** Debe seleccionarse “RUT”
